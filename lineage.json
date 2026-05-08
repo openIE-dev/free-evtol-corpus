@@ -1,0 +1,1480 @@
+{
+  "nodes": [
+    {
+      "id": "verne-albatross",
+      "name": "Albatross (Robur the Conqueror)",
+      "year": "1886",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "bladerunner-spinner",
+        "de-bothezat-quadrotor",
+        "doraemon-takecopter",
+        "ehang-eh216",
+        "jetson-one",
+        "jetsons-aerocar",
+        "nasa-gl-10",
+        "nasa-x-57-maxwell",
+        "pescara-helicopter",
+        "pivotal-blackfly",
+        "volocopter-vc1"
+      ]
+    },
+    {
+      "id": "pescara-helicopter",
+      "name": "Pescara helicopter",
+      "year": "1922",
+      "corpus": "academic",
+      "ancestors": [
+        "verne-albatross"
+      ],
+      "descendants": [
+        "cierva-autogyro",
+        "d-dalus",
+        "doraemon-takecopter",
+        "focke-wulf-triebflugel",
+        "kaman-hh-43-huskie",
+        "kamov-ka-22-vintokryl",
+        "kamov-ka-26",
+        "sikorsky-boeing-defiant",
+        "sikorsky-s-97-raider",
+        "tsagi-1-ea"
+      ]
+    },
+    {
+      "id": "de-bothezat-quadrotor",
+      "name": "de Bothezat helicopter",
+      "year": "1922",
+      "corpus": "academic",
+      "ancestors": [
+        "verne-albatross"
+      ],
+      "descendants": [
+        "avrocar-vz-9",
+        "convair-xfy-pogo",
+        "curtiss-wright-vz-7",
+        "doak-vz-4",
+        "ehang-eh216",
+        "mil-v-12",
+        "piasecki-vz-8-airgeep",
+        "tsagi-1-ea",
+        "volocopter-vc1"
+      ]
+    },
+    {
+      "id": "cierva-autogyro",
+      "name": "Cierva C.4 autogyro",
+      "year": "1923",
+      "corpus": "academic",
+      "ancestors": [
+        "pescara-helicopter"
+      ],
+      "descendants": [
+        "cagliostro-autogyro",
+        "fairey-rotodyne",
+        "pal-v-liberty"
+      ]
+    },
+    {
+      "id": "tsagi-1-ea",
+      "name": "TsAGI 1-EA",
+      "year": "1932",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor",
+        "pescara-helicopter"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "doblhoff-wnf-342",
+      "name": "Doblhoff WNF 342",
+      "year": "1943",
+      "corpus": "academic",
+      "ancestors": [
+        "focke-wulf-triebflugel"
+      ],
+      "descendants": [
+        "fairey-rotodyne",
+        "mil-v-7-tarakan"
+      ]
+    },
+    {
+      "id": "focke-wulf-triebflugel",
+      "name": "Focke-Wulf Triebflügel",
+      "year": "1944",
+      "corpus": "academic",
+      "ancestors": [
+        "pescara-helicopter"
+      ],
+      "descendants": [
+        "convair-xfy-pogo",
+        "doblhoff-wnf-342",
+        "lockheed-xfv-salmon",
+        "ryan-x-13-vertijet",
+        "short-sc-1"
+      ]
+    },
+    {
+      "id": "kaman-hh-43-huskie",
+      "name": "Kaman HH-43 Huskie",
+      "year": "1953",
+      "corpus": "academic",
+      "ancestors": [
+        "pescara-helicopter"
+      ],
+      "descendants": [
+        "kaman-k-max"
+      ]
+    },
+    {
+      "id": "lockheed-xfv-salmon",
+      "name": "Lockheed XFV-1 Salmon",
+      "year": "1954",
+      "corpus": "academic",
+      "ancestors": [
+        "focke-wulf-triebflugel"
+      ],
+      "descendants": [
+        "convair-xfy-pogo"
+      ]
+    },
+    {
+      "id": "convair-xfy-pogo",
+      "name": "Convair XFY-1 Pogo",
+      "year": "1954",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor",
+        "focke-wulf-triebflugel",
+        "lockheed-xfv-salmon"
+      ],
+      "descendants": [
+        "aerovironment-skytote",
+        "pivotal-blackfly",
+        "ryan-x-13-vertijet",
+        "snecma-coleoptere"
+      ]
+    },
+    {
+      "id": "ryan-x-13-vertijet",
+      "name": "Ryan X-13 Vertijet",
+      "year": "1955",
+      "corpus": "academic",
+      "ancestors": [
+        "convair-xfy-pogo",
+        "focke-wulf-triebflugel"
+      ],
+      "descendants": [
+        "hawker-p-1127"
+      ]
+    },
+    {
+      "id": "short-sc-1",
+      "name": "Short SC.1",
+      "year": "1957",
+      "corpus": "academic",
+      "ancestors": [
+        "focke-wulf-triebflugel"
+      ],
+      "descendants": [
+        "dornier-do-31",
+        "f-35b-lightning",
+        "lockheed-xv-4-hummingbird",
+        "vfw-fokker-vak-191b"
+      ]
+    },
+    {
+      "id": "eternauta-cascarudo",
+      "name": "Cascarudo invasion craft (El Eternauta)",
+      "year": "1957",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
+      "id": "fairey-rotodyne",
+      "name": "Fairey Rotodyne",
+      "year": "1957",
+      "corpus": "academic",
+      "ancestors": [
+        "cierva-autogyro",
+        "doblhoff-wnf-342"
+      ],
+      "descendants": [
+        "sikorsky-s-72-rsra"
+      ]
+    },
+    {
+      "id": "mil-v-7-tarakan",
+      "name": "Mil V-7 Tarakan",
+      "year": "1957",
+      "corpus": "academic",
+      "ancestors": [
+        "doblhoff-wnf-342"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "curtiss-wright-vz-7",
+      "name": "Curtiss-Wright VZ-7",
+      "year": "1958",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor"
+      ],
+      "descendants": [
+        "hoversurf-s3",
+        "jetson-one"
+      ]
+    },
+    {
+      "id": "doak-vz-4",
+      "name": "Doak VZ-4",
+      "year": "1958",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor"
+      ],
+      "descendants": [
+        "bell-nexus-4ex",
+        "bell-x-22",
+        "bell-xv-15",
+        "lilium-jet",
+        "ltv-xc-142",
+        "urban-aero-cityhawk"
+      ]
+    },
+    {
+      "id": "piasecki-vz-8-airgeep",
+      "name": "Piasecki VZ-8 Airgeep",
+      "year": "1958",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor"
+      ],
+      "descendants": [
+        "aerofex-aero-x",
+        "hoversurf-s3"
+      ]
+    },
+    {
+      "id": "avrocar-vz-9",
+      "name": "Avrocar VZ-9",
+      "year": "1958",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "snecma-coleoptere",
+      "name": "SNECMA C.450 Coléoptère",
+      "year": "1959",
+      "corpus": "academic",
+      "ancestors": [
+        "convair-xfy-pogo"
+      ],
+      "descendants": [
+        "hawker-p-1127"
+      ]
+    },
+    {
+      "id": "kamov-ka-22-vintokryl",
+      "name": "Kamov Ka-22 Vintokryl",
+      "year": "1959",
+      "corpus": "academic",
+      "ancestors": [
+        "pescara-helicopter"
+      ],
+      "descendants": [
+        "bell-xv-15",
+        "mil-mi-30"
+      ]
+    },
+    {
+      "id": "hawker-p-1127",
+      "name": "Hawker P.1127",
+      "year": "1960",
+      "corpus": "academic",
+      "ancestors": [
+        "ryan-x-13-vertijet",
+        "snecma-coleoptere"
+      ],
+      "descendants": [
+        "av-8b-harrier-ii",
+        "dornier-do-31",
+        "f-35b-lightning",
+        "hawker-siddeley-harrier",
+        "vertical-vx4",
+        "yak-141",
+        "yak-36-freehand"
+      ]
+    },
+    {
+      "id": "bell-rocket-belt",
+      "name": "Bell Rocket Belt",
+      "year": "1961",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "aerofex-aero-x",
+        "gravity-industries-jet-suit",
+        "iron-man-suit",
+        "martin-aircraft-jetpack"
+      ]
+    },
+    {
+      "id": "lockheed-xv-4-hummingbird",
+      "name": "Lockheed XV-4 Hummingbird",
+      "year": "1962",
+      "corpus": "academic",
+      "ancestors": [
+        "short-sc-1"
+      ],
+      "descendants": [
+        "boeing-phantom-swift"
+      ]
+    },
+    {
+      "id": "jetsons-aerocar",
+      "name": "Jetsons family aerocar",
+      "year": "1962",
+      "corpus": "fictional",
+      "ancestors": [
+        "verne-albatross"
+      ],
+      "descendants": [
+        "aska-a5",
+        "bladerunner-spinner",
+        "macross-vf-1-veritech",
+        "moller-skycar-m400",
+        "nausicaa-tolmekian-gunship",
+        "thunderbird-2",
+        "xpeng-aeroht-modular"
+      ]
+    },
+    {
+      "id": "iron-man-suit",
+      "name": "Iron Man Mark suits",
+      "year": "1963",
+      "corpus": "fictional",
+      "ancestors": [
+        "bell-rocket-belt"
+      ],
+      "descendants": [
+        "gravity-industries-jet-suit",
+        "krrish-flight-suit"
+      ]
+    },
+    {
+      "id": "yak-36-freehand",
+      "name": "Yakovlev Yak-36",
+      "year": "1964",
+      "corpus": "academic",
+      "ancestors": [
+        "hawker-p-1127"
+      ],
+      "descendants": [
+        "yak-141"
+      ]
+    },
+    {
+      "id": "ltv-xc-142",
+      "name": "LTV XC-142A",
+      "year": "1964",
+      "corpus": "academic",
+      "ancestors": [
+        "doak-vz-4"
+      ],
+      "descendants": [
+        "airbus-vahana",
+        "aurora-lightningstrike-xv-24a",
+        "canadair-cl-84",
+        "nasa-gl-10"
+      ]
+    },
+    {
+      "id": "canadair-cl-84",
+      "name": "Canadair CL-84 Dynavert",
+      "year": "1965",
+      "corpus": "academic",
+      "ancestors": [
+        "ltv-xc-142"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "dune-ornithopter",
+      "name": "Ornithopter (Dune)",
+      "year": "1965",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "festo-smartbird"
+      ]
+    },
+    {
+      "id": "kamov-ka-26",
+      "name": "Kamov Ka-26 Hoodlum",
+      "year": "1965",
+      "corpus": "academic",
+      "ancestors": [
+        "pescara-helicopter"
+      ],
+      "descendants": [
+        "beta-alia-250",
+        "ehang-eh216",
+        "sikorsky-boeing-defiant",
+        "sikorsky-s-97-raider"
+      ]
+    },
+    {
+      "id": "thunderbird-2",
+      "name": "Thunderbird 2 (International Rescue)",
+      "year": "1965",
+      "corpus": "fictional",
+      "ancestors": [
+        "jetsons-aerocar"
+      ],
+      "descendants": [
+        "elroy-air-chaparral",
+        "gundam-gaw"
+      ]
+    },
+    {
+      "id": "bell-x-22",
+      "name": "Bell X-22A",
+      "year": "1966",
+      "corpus": "academic",
+      "ancestors": [
+        "doak-vz-4"
+      ],
+      "descendants": [
+        "aurora-lightningstrike-xv-24a",
+        "bell-nexus-4ex",
+        "boeing-phantom-swift",
+        "lilium-jet",
+        "urban-aero-cityhawk"
+      ]
+    },
+    {
+      "id": "dornier-do-31",
+      "name": "Dornier Do 31",
+      "year": "1967",
+      "corpus": "academic",
+      "ancestors": [
+        "hawker-p-1127",
+        "short-sc-1"
+      ],
+      "descendants": [
+        "f-35b-lightning",
+        "pegasus-universal-aerospace",
+        "vfw-fokker-vak-191b"
+      ]
+    },
+    {
+      "id": "hawker-siddeley-harrier",
+      "name": "Hawker Siddeley Harrier GR.1",
+      "year": "1967",
+      "corpus": "private",
+      "ancestors": [
+        "hawker-p-1127"
+      ],
+      "descendants": [
+        "av-8b-harrier-ii",
+        "f-35b-lightning"
+      ]
+    },
+    {
+      "id": "mil-v-12",
+      "name": "Mil V-12 (Mi-12)",
+      "year": "1968",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "doraemon-takecopter",
+      "name": "Take-copter (Doraemon)",
+      "year": "1969",
+      "corpus": "fictional",
+      "ancestors": [
+        "pescara-helicopter",
+        "verne-albatross"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "vfw-fokker-vak-191b",
+      "name": "VFW-Fokker VAK 191B",
+      "year": "1971",
+      "corpus": "academic",
+      "ancestors": [
+        "dornier-do-31",
+        "short-sc-1"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sikorsky-s-72-rsra",
+      "name": "Sikorsky S-72 RSRA",
+      "year": "1976",
+      "corpus": "academic",
+      "ancestors": [
+        "fairey-rotodyne"
+      ],
+      "descendants": [
+        "sikorsky-boeing-defiant",
+        "sikorsky-s-97-raider"
+      ]
+    },
+    {
+      "id": "bell-xv-15",
+      "name": "Bell XV-15",
+      "year": "1977",
+      "corpus": "academic",
+      "ancestors": [
+        "doak-vz-4",
+        "kamov-ka-22-vintokryl"
+      ],
+      "descendants": [
+        "archer-midnight",
+        "aska-a5",
+        "avatar-samson-scorpion",
+        "bell-eagle-eye",
+        "bell-v-280-valor",
+        "geely-aerofugia-ae200",
+        "ghost-in-the-shell-tiltrotor",
+        "hyundai-supernal-sa2",
+        "joby-s4",
+        "karem-ar40",
+        "leonardo-aw609",
+        "manta-aircraft-ann2",
+        "mil-mi-30",
+        "tcab-tech-e20",
+        "v-22-osprey",
+        "vertical-vx4",
+        "wingcopter-198"
+      ]
+    },
+    {
+      "id": "av-8b-harrier-ii",
+      "name": "McDonnell Douglas / BAe AV-8B Harrier II",
+      "year": "1978",
+      "corpus": "private",
+      "ancestors": [
+        "hawker-p-1127",
+        "hawker-siddeley-harrier"
+      ],
+      "descendants": [
+        "f-35b-lightning"
+      ]
+    },
+    {
+      "id": "gundam-gaw",
+      "name": "Gaw attack carrier (Mobile Suit Gundam)",
+      "year": "1979",
+      "corpus": "fictional",
+      "ancestors": [
+        "thunderbird-2"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "cagliostro-autogyro",
+      "name": "Cagliostro autogyro (Lupin III)",
+      "year": "1979",
+      "corpus": "fictional",
+      "ancestors": [
+        "cierva-autogyro"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "bladerunner-spinner",
+      "name": "Spinner (Blade Runner)",
+      "year": "1982",
+      "corpus": "fictional",
+      "ancestors": [
+        "jetsons-aerocar",
+        "verne-albatross"
+      ],
+      "descendants": [
+        "aeromobil-4-0",
+        "aska-a5",
+        "klein-vision-aircar"
+      ]
+    },
+    {
+      "id": "macross-vf-1-veritech",
+      "name": "VF-1 Valkyrie / Veritech (Super Dimension Fortress Macross)",
+      "year": "1982",
+      "corpus": "fictional",
+      "ancestors": [
+        "jetsons-aerocar"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "nausicaa-tolmekian-gunship",
+      "name": "Tolmekian Gunship (Nausicaä of the Valley of the Wind)",
+      "year": "1984",
+      "corpus": "fictional",
+      "ancestors": [
+        "jetsons-aerocar"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "mil-mi-30",
+      "name": "Mil Mi-30",
+      "year": "1985",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-xv-15",
+        "kamov-ka-22-vintokryl"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "laputa-flapter",
+      "name": "Flapter (Castle in the Sky / Laputa)",
+      "year": "1986",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "festo-smartbird"
+      ]
+    },
+    {
+      "id": "yak-141",
+      "name": "Yakovlev Yak-141",
+      "year": "1987",
+      "corpus": "academic",
+      "ancestors": [
+        "hawker-p-1127",
+        "yak-36-freehand"
+      ],
+      "descendants": [
+        "f-35b-lightning"
+      ]
+    },
+    {
+      "id": "v-22-osprey",
+      "name": "V-22 Osprey",
+      "year": "1989",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15"
+      ],
+      "descendants": [
+        "avatar-samson-scorpion",
+        "bell-eagle-eye",
+        "bell-v-280-valor",
+        "ghost-in-the-shell-tiltrotor",
+        "joby-s4",
+        "leonardo-aw609"
+      ]
+    },
+    {
+      "id": "moller-skycar-m400",
+      "name": "Moller Skycar M400",
+      "year": "1989",
+      "corpus": "private",
+      "ancestors": [
+        "jetsons-aerocar"
+      ],
+      "descendants": [
+        "lilium-jet"
+      ]
+    },
+    {
+      "id": "ghost-in-the-shell-tiltrotor",
+      "name": "Section 9 Tilt-Rotor (Ghost in the Shell)",
+      "year": "1989",
+      "corpus": "fictional",
+      "ancestors": [
+        "bell-xv-15",
+        "v-22-osprey"
+      ],
+      "descendants": [
+        "avatar-samson-scorpion"
+      ]
+    },
+    {
+      "id": "kaman-k-max",
+      "name": "Kaman K-MAX",
+      "year": "1991",
+      "corpus": "private",
+      "ancestors": [
+        "kaman-hh-43-huskie"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "bell-eagle-eye",
+      "name": "Bell Eagle Eye TR918",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "v-22-osprey"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "leonardo-aw609",
+      "name": "Leonardo AW609",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "v-22-osprey"
+      ],
+      "descendants": [
+        "archer-midnight",
+        "joby-s4"
+      ]
+    },
+    {
+      "id": "aerovironment-skytote",
+      "name": "AeroVironment SkyTote",
+      "year": "2003",
+      "corpus": "academic",
+      "ancestors": [
+        "convair-xfy-pogo"
+      ],
+      "descendants": [
+        "pivotal-blackfly"
+      ]
+    },
+    {
+      "id": "krrish-flight-suit",
+      "name": "Krrish flight suit (Krrish, 2006)",
+      "year": "2006",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-suit"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "karem-ar40",
+      "name": "Karem AR40 / Optimum Speed Tilt-Rotor",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "f-35b-lightning",
+      "name": "Lockheed Martin F-35B Lightning II",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [
+        "av-8b-harrier-ii",
+        "dornier-do-31",
+        "hawker-p-1127",
+        "hawker-siddeley-harrier",
+        "short-sc-1",
+        "yak-141"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "martin-aircraft-jetpack",
+      "name": "Martin Aircraft Jetpack",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [
+        "bell-rocket-belt"
+      ],
+      "descendants": [
+        "gravity-industries-jet-suit"
+      ]
+    },
+    {
+      "id": "aerofex-aero-x",
+      "name": "Aerofex Aero-X",
+      "year": "2008",
+      "corpus": "private",
+      "ancestors": [
+        "bell-rocket-belt",
+        "piasecki-vz-8-airgeep"
+      ],
+      "descendants": [
+        "hoversurf-s3"
+      ]
+    },
+    {
+      "id": "avatar-samson-scorpion",
+      "name": "Samson and Scorpion (Avatar)",
+      "year": "2009",
+      "corpus": "fictional",
+      "ancestors": [
+        "bell-xv-15",
+        "ghost-in-the-shell-tiltrotor",
+        "v-22-osprey"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "urban-aero-cityhawk",
+      "name": "Urban Aeronautics CityHawk",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [
+        "bell-x-22",
+        "doak-vz-4"
+      ],
+      "descendants": [
+        "pegasus-universal-aerospace"
+      ]
+    },
+    {
+      "id": "festo-smartbird",
+      "name": "Festo SmartBird",
+      "year": "2011",
+      "corpus": "academic",
+      "ancestors": [
+        "dune-ornithopter",
+        "laputa-flapter"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "d-dalus",
+      "name": "D-Dalus (IAT-21)",
+      "year": "2011",
+      "corpus": "academic",
+      "ancestors": [
+        "pescara-helicopter"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "volocopter-vc1",
+      "name": "e-volo VC1 (Volocopter precursor)",
+      "year": "2011",
+      "corpus": "private",
+      "ancestors": [
+        "de-bothezat-quadrotor",
+        "verne-albatross"
+      ],
+      "descendants": [
+        "aeroht-xpeng-x2",
+        "dji-flycart-30",
+        "ehang-eh216",
+        "skydrive-sd-05",
+        "volocopter-volocity"
+      ]
+    },
+    {
+      "id": "pal-v-liberty",
+      "name": "PAL-V Liberty",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "cierva-autogyro"
+      ],
+      "descendants": [
+        "aska-a5"
+      ]
+    },
+    {
+      "id": "boeing-phantom-swift",
+      "name": "Boeing Phantom Swift",
+      "year": "2013",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-x-22",
+        "lockheed-xv-4-hummingbird"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "nasa-gl-10",
+      "name": "NASA GL-10 Greased Lightning",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [
+        "ltv-xc-142",
+        "verne-albatross"
+      ],
+      "descendants": [
+        "airbus-vahana",
+        "archer-midnight",
+        "autoflight-prosperity-i",
+        "beta-alia-250",
+        "elroy-air-chaparral",
+        "embraerx-evtol-concept",
+        "eve-air-mobility",
+        "joby-s4",
+        "nasa-x-57-maxwell",
+        "pyka-pelican",
+        "wisk-cora"
+      ]
+    },
+    {
+      "id": "px4-vtol",
+      "name": "PX4 VTOL flight stack",
+      "year": "2014",
+      "corpus": "open",
+      "ancestors": [
+        "ardupilot-quadplane"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "ardupilot-quadplane",
+      "name": "ArduPilot QuadPlane VTOL",
+      "year": "2015",
+      "corpus": "open",
+      "ancestors": [],
+      "descendants": [
+        "px4-vtol"
+      ]
+    },
+    {
+      "id": "sikorsky-s-97-raider",
+      "name": "Sikorsky S-97 Raider",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [
+        "kamov-ka-26",
+        "pescara-helicopter",
+        "sikorsky-s-72-rsra"
+      ],
+      "descendants": [
+        "sikorsky-boeing-defiant"
+      ]
+    },
+    {
+      "id": "aurora-lightningstrike-xv-24a",
+      "name": "Aurora Flight Sciences LightningStrike XV-24A",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-x-22",
+        "ltv-xc-142"
+      ],
+      "descendants": [
+        "lilium-jet"
+      ]
+    },
+    {
+      "id": "nasa-x-57-maxwell",
+      "name": "NASA X-57 Maxwell",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [
+        "nasa-gl-10",
+        "verne-albatross"
+      ],
+      "descendants": [
+        "archer-midnight",
+        "beta-alia-250",
+        "joby-s4",
+        "wisk-cora"
+      ]
+    },
+    {
+      "id": "zuri-evtol",
+      "name": "Zuri eVTOL",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "elroy-air-chaparral"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "aeromobil-4-0",
+      "name": "AeroMobil 4.0",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "bladerunner-spinner"
+      ],
+      "descendants": [
+        "aska-a5",
+        "klein-vision-aircar"
+      ]
+    },
+    {
+      "id": "gravity-industries-jet-suit",
+      "name": "Gravity Industries Jet Suit",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "bell-rocket-belt",
+        "iron-man-suit",
+        "martin-aircraft-jetpack"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "wingcopter-198",
+      "name": "Wingcopter 198",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "hoversurf-s3",
+      "name": "Hoversurf Scorpion-3",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "aerofex-aero-x",
+        "curtiss-wright-vz-7",
+        "piasecki-vz-8-airgeep"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "bell-v-280-valor",
+      "name": "Bell V-280 Valor",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "v-22-osprey"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "aska-a5",
+      "name": "ASKA A5",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "aeromobil-4-0",
+        "bell-xv-15",
+        "bladerunner-spinner",
+        "jetsons-aerocar",
+        "klein-vision-aircar",
+        "pal-v-liberty"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "airbus-vahana",
+      "name": "Airbus A^3 Vahana",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "ltv-xc-142",
+        "nasa-gl-10"
+      ],
+      "descendants": [
+        "airbus-cityairbus-nextgen"
+      ]
+    },
+    {
+      "id": "ehang-eh216",
+      "name": "EHang EH216-S",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "de-bothezat-quadrotor",
+        "kamov-ka-26",
+        "verne-albatross",
+        "volocopter-vc1"
+      ],
+      "descendants": [
+        "aeroht-xpeng-x2",
+        "dji-flycart-30",
+        "skydrive-sd-05"
+      ]
+    },
+    {
+      "id": "wisk-cora",
+      "name": "Wisk Aero Cora / Gen 6",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "nasa-gl-10",
+        "nasa-x-57-maxwell"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "embraerx-evtol-concept",
+      "name": "EmbraerX eVTOL concept (2018)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "nasa-gl-10"
+      ],
+      "descendants": [
+        "eve-air-mobility"
+      ]
+    },
+    {
+      "id": "pivotal-blackfly",
+      "name": "Pivotal Helix (formerly Opener BlackFly)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "aerovironment-skytote",
+        "convair-xfy-pogo",
+        "verne-albatross"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "pyka-pelican",
+      "name": "Pyka Pelican Cargo",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "nasa-gl-10"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "jetson-one",
+      "name": "Jetson ONE",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "curtiss-wright-vz-7",
+        "verne-albatross"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "pegasus-universal-aerospace",
+      "name": "Pegasus Vertical Business Jet",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "dornier-do-31",
+        "urban-aero-cityhawk"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "skydrive-sd-05",
+      "name": "SkyDrive SD-05",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "ehang-eh216",
+        "volocopter-vc1"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "joby-s4",
+      "name": "Joby Aviation S4",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "leonardo-aw609",
+        "nasa-gl-10",
+        "nasa-x-57-maxwell",
+        "v-22-osprey"
+      ],
+      "descendants": [
+        "geely-aerofugia-ae200",
+        "hyundai-supernal-sa2",
+        "tcab-tech-e20"
+      ]
+    },
+    {
+      "id": "bell-nexus-4ex",
+      "name": "Bell Nexus 4EX",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "bell-x-22",
+        "doak-vz-4"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "elroy-air-chaparral",
+      "name": "Elroy Air Chaparral C1",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "nasa-gl-10",
+        "thunderbird-2"
+      ],
+      "descendants": [
+        "honda-evtol",
+        "manta-aircraft-ann2",
+        "zuri-evtol"
+      ]
+    },
+    {
+      "id": "sikorsky-boeing-defiant",
+      "name": "Sikorsky-Boeing SB>1 Defiant",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "kamov-ka-26",
+        "pescara-helicopter",
+        "sikorsky-s-72-rsra",
+        "sikorsky-s-97-raider"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "lilium-jet",
+      "name": "Lilium Jet (7-seat)",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "aurora-lightningstrike-xv-24a",
+        "bell-x-22",
+        "doak-vz-4",
+        "moller-skycar-m400"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "volocopter-volocity",
+      "name": "Volocopter VoloCity",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "volocopter-vc1"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "beta-alia-250",
+      "name": "Beta Technologies Alia-250",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [
+        "kamov-ka-26",
+        "nasa-gl-10",
+        "nasa-x-57-maxwell"
+      ],
+      "descendants": [
+        "air-one",
+        "airbus-cityairbus-nextgen",
+        "amsl-vertiia",
+        "autoflight-prosperity-i",
+        "elroy-air-chaparral",
+        "eplane-company-e200",
+        "eve-air-mobility",
+        "honda-evtol",
+        "pyka-pelican",
+        "wisk-cora",
+        "zuri-evtol"
+      ]
+    },
+    {
+      "id": "manta-aircraft-ann2",
+      "name": "Manta Aircraft ANN2",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "elroy-air-chaparral"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "klein-vision-aircar",
+      "name": "Klein Vision AirCar",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [
+        "aeromobil-4-0",
+        "bladerunner-spinner"
+      ],
+      "descendants": [
+        "aska-a5"
+      ]
+    },
+    {
+      "id": "eve-air-mobility",
+      "name": "Eve Air Mobility eVTOL",
+      "year": "2020",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "embraerx-evtol-concept",
+        "nasa-gl-10"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "amsl-vertiia",
+      "name": "AMSL Aero Vertiia",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "archer-midnight",
+      "name": "Archer Aviation Midnight",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "leonardo-aw609",
+        "nasa-gl-10",
+        "nasa-x-57-maxwell"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "aeroht-xpeng-x2",
+      "name": "XPENG AeroHT X2",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "ehang-eh216",
+        "volocopter-vc1"
+      ],
+      "descendants": [
+        "xpeng-aeroht-modular"
+      ]
+    },
+    {
+      "id": "geely-aerofugia-ae200",
+      "name": "Geely Aerofugia AE200",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "joby-s4"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "airbus-cityairbus-nextgen",
+      "name": "Airbus CityAirbus NextGen",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "airbus-vahana",
+        "beta-alia-250"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "vertical-vx4",
+      "name": "Vertical Aerospace VX4",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "hawker-p-1127"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "honda-evtol",
+      "name": "Honda eVTOL",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "elroy-air-chaparral"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "air-one",
+      "name": "AIR ONE (eVTOL)",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "autoflight-prosperity-i",
+      "name": "AutoFlight Prosperity I",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "nasa-gl-10"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "eplane-company-e200",
+      "name": "ePlane Company e200",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "tcab-tech-e20",
+      "name": "TCab Tech E20",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "joby-s4"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "dji-flycart-30",
+      "name": "DJI FlyCart 30",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "ehang-eh216",
+        "volocopter-vc1"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "hyundai-supernal-sa2",
+      "name": "Hyundai Supernal S-A2",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "joby-s4"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "xpeng-aeroht-modular",
+      "name": "XPENG AeroHT Land Aircraft Carrier",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "aeroht-xpeng-x2",
+        "jetsons-aerocar"
+      ],
+      "descendants": []
+    }
+  ],
+  "warnings": [],
+  "cycles": []
+}

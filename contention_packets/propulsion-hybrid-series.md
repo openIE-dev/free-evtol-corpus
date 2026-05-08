@@ -1,0 +1,220 @@
+---
+title: "propulsion-hybrid-series"
+parent: "Invalidity Contentions"
+nav_order: 29
+layout: default
+---
+
+# Invalidity Contention Packet — `propulsion-hybrid-series`
+
+**Generated:** 2026-05-08  
+**Cross-cut tag:** `propulsion-hybrid-series`  
+**Entries:** 8 (8 commons-grade, 0 draft)  
+**Earliest disclosure:** 2016-03-03  
+**Most recent disclosure:** 2021-09-30
+
+---
+
+## How to use this packet
+
+This document is an invalidity-contention packet — a chronologically-ordered
+list of every disclosed prior art reference in the Free eVTOL Corpus that
+bears on the subsystem `propulsion-hybrid-series`.
+
+To use it:
+
+1. Identify the patent claim element being challenged.
+2. Match the element against the entries below in chronological order (earliest
+   first). The earliest entry that discloses the element is the strongest 102
+   anticipation candidate.
+3. For 103 obviousness contentions, identify the closest two-or-more entries
+   that together disclose all claim elements.
+4. Each entry's **prior_art_notes** field is element-by-element 102/103
+   anticipation analysis — citable as-is.
+5. Verify the timestamp authority via the procedures in the corpus repo's
+   release artifacts (FreeTSA RFC 3161, DigiCert RFC 3161, OpenTimestamps
+   Bitcoin-anchored).
+
+The Free eVTOL Corpus is licensed CC0 1.0; no permission is required to
+cite, copy, or redistribute these contentions.
+
+---
+
+## Entries (chronological)
+
+### 2016-03-03 — Aurora Flight Sciences LightningStrike XV-24A
+
+- **id:** `aurora-lightningstrike-xv-24a`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Aurora Flight Sciences (Boeing subsidiary) / DARPA
+- **disclosure citation:** Aurora Flight Sciences LightningStrike XV-24A awarded DARPA VTOL X-Plane Phase 3 contract 2016-03-03; sub-scale demonstrator first hover 2017-04. Program subsequently de-scoped without full-scale first flight, but Aurora's design and test data were extensively published in DARPA reports and AIAA papers.
+- **disclosed subsystems:** `cert-military`, `control-rotor-failure-reconfiguration`, `lift-distributed-electric-propulsion`, `lift-ducted-fan-array`, `lift-tilt-wing`, `power-hybrid-genset`, `propulsion-hybrid-series`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> Aurora LightningStrike XV-24A is the most architecturally similar prior art to Lilium Jet's 36-fan ducted-fan-array eVTOL — also a tilt-wing distributed-electric-propulsion configuration with embedded ducted lift fans. The XV-24A's 24 ducted fans (2016) anticipate Lilium's 36 (2019) configuration by 3 years and DARPA-funded design publication is fully in the public domain. Establishes US prior-art lineage for: (1) high-multiplicity tilt-wing ducted-fan-array, (2) turbine-electric hybrid powerplant for VTOL, (3) the very-high-rotor-count distributed-electric-propulsion architecture. Filed against any post-2016 patent claim on similar ducted-fan-array tilt-wing configurations, this is anticipating prior art.
+
+**Sources:**
+
+1. Aurora Flight Sciences DARPA VTOL X-Plane technical white papers, 2014–2018.
+2. DARPA VTOL X-Plane program reports, available DTIC.
+3. AIAA SciTech / Aviation Forum papers from Aurora team 2014–2018.
+
+---
+
+### 2017-03 — Zuri eVTOL
+
+- **id:** `zuri-evtol`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Zuri s.r.o (Prague, Czech Republic)
+- **disclosure citation:** Zuri founded 2017-03 by Michal Illich, Stanislav Saling, and Daniel Hadacek; first sub-scale prototype publicly demonstrated 2018-09; full-scale Zuri 2.0 prototype unveiled 2021-10-12 in Pisek and reached first hover 2023-09-22. EASA Special Condition VTOL certification dialogue 2022 onward.
+- **disclosed subsystems:** `airframe-composite-monocoque`, `autonomy-utm-integration`, `cert-easa-special-condition-vtol`, `lift-distributed-electric-propulsion`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `propulsion-hybrid-series`, `safety-ballistic-parachute`, `safety-redundant-bus`, `transition-mode-shutdown`
+
+**Prior art notes:**
+
+> Zuri eVTOL is the lead Czech (and Central European) commercial eVTOL — hybrid-electric lift+cruise distinct from pure-battery competitors in its 700 km range targeting. Establishes Czech prior-art lineage for hybrid-electric eVTOL and adds to the global hybrid-eVTOL prior-art base alongside Honda eVTOL, AMSL Aero Vertiia, and Elroy Air Chaparral.
+
+**Sources:**
+
+1. Zuri press releases and technical materials 2017–2024.
+2. Czech Civil Aviation Authority engagement records.
+3. Aviation Week and Vertical magazine coverage 2018–2023.
+
+---
+
+### 2018 — ASKA A5
+
+- **id:** `aska-a5`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** ASKA / NFT Inc (Mountain View, California / Nagoya, Japan)
+- **disclosure citation:** ASKA / NFT Inc founded 2018 by Guy Kaplinsky and Maki Kaplinsky; A5 production-design unveiled at CES 2023 (2023-01-04); FAA Special Airworthiness Certificate (Experimental) granted 2023-06-29 for flight testing. NHTSA-approved street-legal road operation pending.
+- **disclosed subsystems:** `airframe-composite-monocoque`, `cert-part-23`, `lift-distributed-electric-propulsion`, `lift-tilt-rotor`, `power-hybrid-genset`, `propulsion-hybrid-series`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> ASKA A5 is the leading drive+fly transformer eVTOL with documented FAA experimental-category certification. Establishes prior art for: (1) folding-wing tilt-rotor transformer architecture, (2) hybrid-electric powerplant for transformer range extension, (3) dual-certification basis (FAA + NHTSA road-legal). Anticipates: PAL-V Liberty, AeroMobil 4.0, Klein Vision AirCar, and any modern drive+fly patent claim.
+
+**Sources:**
+
+1. ASKA / NFT Inc press releases 2018–2024.
+2. FAA Special Airworthiness Certificate dossier (ASKA A5).
+3. ASKA technical white papers and patent filings.
+
+---
+
+### 2018-11-08 — Pegasus Vertical Business Jet
+
+- **id:** `pegasus-universal-aerospace`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Pegasus Universal Aerospace (Johannesburg, South Africa)
+- **disclosure citation:** Pegasus Vertical Business Jet design publicly unveiled 2018-11-08 at Aero South Africa; subsequent design refinements 2020–2024. Pegasus Universal Aerospace founded 2017 by Reza Mia. South African Civil Aviation Authority engagement on certification framework 2021 onward.
+- **disclosed subsystems:** `airframe-composite-monocoque`, `cert-part-23`, `lift-ducted-fan-array`, `lift-vectored-thrust`, `propulsion-hybrid-series`, `transition-mode-shutdown`
+
+**Prior art notes:**
+
+> Pegasus Vertical Business Jet is South Africa's lead commercial VTOL design — distinct architectural commitment to executive-jet operations (2,200 km range, 400 kt cruise) with VTOL hover capability. Establishes African continental prior-art lineage for commercial VTOL business aviation distinct from urban air taxi. Architecturally similar to Lockheed Martin / Aurora LightningStrike (XV-24A, US military 2016) in fuselage-internal lift fan + cruise jet topology.
+
+**Sources:**
+
+1. Pegasus Universal Aerospace press releases 2018–2024.
+2. South African Civil Aviation Authority engagement records.
+3. Aero South Africa exhibition materials 2018-11-08.
+
+---
+
+### 2019-01-07 — Bell Nexus 4EX
+
+- **id:** `bell-nexus-4ex`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bell (Textron Inc)
+- **disclosure citation:** Bell Nexus design publicly unveiled 2019-01-07 at CES Las Vegas; Nexus 4EX revised four-rotor variant unveiled 2020-01-07. Program wound down circa 2022; design materials and filings remain in the public record.
+- **disclosed subsystems:** `airframe-composite-monocoque`, `cert-part-23`, `lift-distributed-electric-propulsion`, `lift-tilt-duct`, `power-hybrid-genset`, `propulsion-hybrid-series`, `safety-redundant-bus`, `sensing-radar-altimeter`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> Bell Nexus is one of the Uber-Elevate-era US passenger eVTOL concepts (2019). Although the program wound down, the public design disclosures remain prior art for: (1) hybrid-electric tilting-ducted-fan eVTOL architecture, (2) Bell's specific tilt-duct geometry distinct from Joby's open-rotor tilt-rotor approach. Establishes additional US prior-art lineage for tilt-duct passenger eVTOL (with bell-x-22 from 1966).
+
+**Sources:**
+
+1. Bell / Textron press releases 2019–2022.
+2. CES 2019 and CES 2020 Bell Nexus unveilings.
+3. Bell Nexus patent filings, USPTO records.
+
+---
+
+### 2019-01-30 — Elroy Air Chaparral C1
+
+- **id:** `elroy-air-chaparral`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Elroy Air Inc (San Francisco)
+- **disclosure citation:** Elroy Air founded 2016 by David Merrill and Kofi Asante; sub-scale Chaparral demonstrator publicly unveiled 2019-01-30; full-scale C1 first hover flight 2023-11-12 at Camarillo, CA. Air Force AFWERX / USAF Agility Prime contracts 2021-09 onward.
+- **disclosed subsystems:** `airframe-composite-monocoque`, `autonomy-bvlos-detect-and-avoid`, `autonomy-pilot-removed`, `autonomy-utm-integration`, `cert-part-23`, `lift-distributed-electric-propulsion`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `propulsion-hybrid-series`, `safety-redundant-bus`, `sensing-lidar-terrain`, `transition-mode-shutdown`
+
+**Prior art notes:**
+
+> Elroy Air Chaparral establishes prior art for: (1) hybrid-electric (turbine-genset + battery) cargo eVTOL, distinct from pure-battery designs by extending range to 500+ km, (2) modular swappable cargo-pod architecture decoupled from aircraft turnaround. Hybrid powerplant anticipates similar claims on series-hybrid eVTOL propulsion topology.
+
+**Sources:**
+
+1. Elroy Air press releases and technical white papers 2019–2024.
+2. USAF Agility Prime program disclosures.
+3. FAA filings related to autonomous cargo operations.
+
+---
+
+### 2020-04 — Manta Aircraft ANN2
+
+- **id:** `manta-aircraft-ann2`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Manta Aircraft S.A. (Lugano, Switzerland / Varese, Italy)
+- **disclosure citation:** Manta Aircraft ANN2 design publicly unveiled April 2020 at AERO Friedrichshafen; sub-scale prototype hover testing 2021. Manta Aircraft founded 2018 by Lucas Marchesini (Italian-Swiss aerospace engineer).
+- **disclosed subsystems:** `airframe-composite-monocoque`, `autonomy-utm-integration`, `cert-easa-special-condition-vtol`, `lift-distributed-electric-propulsion`, `lift-tilt-rotor`, `power-hybrid-genset`, `propulsion-hybrid-series`, `safety-ballistic-parachute`, `safety-redundant-bus`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> Manta Aircraft ANN2 is the lead Italian-Swiss commercial eVTOL — hybrid-electric tilt-rotor with twin-fuselage geometry. Adds Italian prior-art lineage for hybrid-electric eVTOL alongside Leonardo AW609 (production tilt-rotor) and complements the Slovak (Klein Vision, AeroMobil) and Dutch (PAL-V) drive+fly Central European base.
+
+**Sources:**
+
+1. Manta Aircraft press releases 2018–2024.
+2. AERO Friedrichshafen 2020 unveiling materials.
+3. EASA SC-VTOL engagement records.
+
+---
+
+### 2021-09-30 — Honda eVTOL
+
+- **id:** `honda-evtol`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Honda Motor Company / Honda Aircraft Company
+- **disclosure citation:** Honda Motor Company eVTOL program publicly disclosed 2021-09-30 at 'Honda Dream Loop' announcement; design materials and target specifications subsequently disclosed in Honda investor briefings 2022–2024. Targeted commercial operation 2030.
+- **disclosed subsystems:** `airframe-composite-monocoque`, `autonomy-utm-integration`, `cert-part-23`, `lift-distributed-electric-propulsion`, `power-hybrid-genset`, `power-solid-state`, `propulsion-bldc-direct-drive`, `propulsion-hybrid-series`, `safety-ballistic-parachute`, `safety-redundant-bus`, `sensing-radar-altimeter`, `transition-mode-shutdown`
+
+**Prior art notes:**
+
+> Honda eVTOL establishes prior art for hybrid-turbine-electric passenger eVTOL — Honda's specific architecture decision is to use a gas-turbine genset (leveraging HondaJet experience) for range extension. Anticipates other turbine-hybrid eVTOL claims (Elroy Air Chaparral, AMSL Aero Vertiia variants).
+
+**Sources:**
+
+1. Honda 'Dream Loop' announcement, 2021-09-30.
+2. Honda Motor Company investor disclosures 2021–2024.
+3. Honda Aircraft Company technical materials.
+
+---
+
+## License
+
+CC0 1.0 Universal (public domain dedication). No copyright restrictions on
+use, citation, copying, or redistribution.
+
+---
+
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*

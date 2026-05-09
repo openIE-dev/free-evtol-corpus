@@ -16,6 +16,7 @@ A public-domain prior art commons covering eVTOL aircraft and eVTOL-adjacent fly
 [Cross-cuts](cross_cuts/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub](https://github.com/openIE-dev/free-evtol-corpus){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20092536.svg)](https://doi.org/10.5281/zenodo.20092536)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](https://github.com/openIE-dev/free-evtol-corpus/blob/main/LICENSE)
 
 ---

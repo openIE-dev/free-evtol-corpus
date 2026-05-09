@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `cert-part-23`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `cert-part-23`  
-**Entries:** 18 (18 commons-grade, 0 draft)  
+**Entries:** 20 (20 commons-grade, 0 draft)  
 **Earliest disclosure:** 2017-04-20  
 **Most recent disclosure:** 2024-01-09
 
@@ -60,6 +60,27 @@ cite, copy, or redistribute these contentions.
 1. AeroMobil press releases and Top Marques Monaco 2017 unveiling.
 2. AeroMobil patent estate, EUIPO and SUIPO records.
 3. Reuters and Aviation Week coverage 2014–2018.
+
+---
+
+### 2017-10-09 — Workhorse SureFly
+
+- **id:** `workhorse-surefly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Workhorse Group / Moog Aircraft Group
+- **disclosure citation:** Workhorse SureFly publicly unveiled 2017-10-09 at AOPA Norman OK; first tethered hover 2018-05-09 at Wilmington OH. Workhorse spun off SureFly to Moog Aircraft Group 2019-10. Program effectively shelved 2020. Documented in Workhorse SEC filings (NASDAQ: WKHS) 2017-2020.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `control-differential-thrust-attitude`, `safety-ballistic-parachute`, `airframe-composite-monocoque`, `cert-part-23`
+
+**Prior art notes:**
+
+> Workhorse SureFly establishes US prior art for hybrid-electric octocopter with ballistic recovery parachute as integrated standard equipment (2017). Although the program effectively shelved by 2020, the public disclosures (2017-10-09 unveiling, 2018-05-09 hover, Workhorse SEC filings) establish the prior-art date. SureFly's coaxial-pair-on-cruciform geometry anticipates Honda eVTOL and other hybrid-electric multirotor configurations filed post-2017.
+
+**Sources:**
+
+1. Workhorse Group Form 10-K SEC filings 2017-2020.
+2. Workhorse press releases 2017-2019.
+3. AOPA SureFly unveiling materials 2017-10-09.
 
 ---
 
@@ -229,6 +250,26 @@ cite, copy, or redistribute these contentions.
 1. Elroy Air press releases and technical white papers 2019–2024.
 2. USAF Agility Prime program disclosures.
 3. FAA filings related to autonomous cargo operations.
+
+---
+
+### 2019-04 — Sabrewing Rhaegal-A
+
+- **id:** `sabrewing-rhaegal-a`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sabrewing Aircraft Company
+- **disclosure citation:** Sabrewing Aircraft Rhaegal-A unveiled April 2019; sub-scale prototype hover trials 2020. Designed for 4,500 lb (2,040 kg) cargo capacity in unmanned configuration. Documented in Sabrewing technical materials and FAA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-ducted-fan-array`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `autonomy-pilot-removed`, `cert-part-23`
+
+**Prior art notes:**
+
+> Sabrewing Rhaegal-A establishes US prior art for heavy-cargo (2-ton class) hybrid-electric eVTOL with ducted-fan architecture. Distinct from Elroy Air Chaparral by larger payload and ducted-fan rather than open-rotor lift. Anticipates other heavy-cargo eVTOL claims filed post-2019.
+
+**Sources:**
+
+1. Sabrewing Aircraft technical materials 2019-2024.
+2. FAA Part 23 / Special Conditions filings.
 
 ---
 
@@ -428,4 +469,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

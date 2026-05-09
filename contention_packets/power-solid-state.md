@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `power-solid-state`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `power-solid-state`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2021-09-14  
@@ -91,4 +91,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

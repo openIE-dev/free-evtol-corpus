@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `cert-experimental`
 
-**23 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1922
+Earliest disclosure: 1907-11-13
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Cornu helicopter (1907-11-13)
+
+- **id**: `cornu-helicopter`
+- **corpus**: academic
+- **creator**: Paul Cornu
+- **disclosure**: Cornu helicopter first untethered free flight 1907-11-13 at Coquainvilliers, Normandy, by Paul Cornu — 20 cm altitude for 20 seconds. The first manned heavier-than-air rotorcraft to leave the ground in free flight. Documented in Cornu's contemporary technical papers and FAI archives.
+- **ip status**: public-domain
+- **prior art notes**: Paul Cornu's 1907 helicopter is the first free-flying piloted heavier-than-air rotorcraft in human history — predating the de Bothezat quadrotor by 15 years. Establishes prior art for: (1) twin-rotor manned rotorcraft architecture with cross-belt single-engine drive, (2) the foundational concept of practical vertical lift via airfoil-type rotors. Cornu's design materials are in the French public domain (creator died 1944, copyright in design specifications long expired). Combined with verne-albatross (1886) and pescara-helicopter (1922), comprehensively places multi-rotor manned VTOL in pre-1925 prior art.
 
 ## Pescara helicopter (1922)
 
@@ -42,6 +51,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Cierva's C.4 is the foundational disclosure of articulated rotor blades with flapping hinges — the fundamental enabling invention without which modern rotorcraft (and any eVTOL with articulated blade roots) would not function. Establishes prior art for: (1) flapping-hinge articulated rotor blade design (the patent that made all subsequent rotorcraft possible), (2) compound rotorcraft architecture (forward thrust separate from rotor lift, anticipating modern compound rotorcraft like Fairey Rotodyne, Jaunt Journey, and Sikorsky Raider/Defiant). Cierva patents are long expired; the architectural disclosure is in the public domain.
 
+## Oehmichen No.2 helicopter (1924-05-04)
+
+- **id**: `oehmichen-helicopter`
+- **corpus**: academic
+- **creator**: Étienne Oehmichen
+- **disclosure**: Oehmichen No.2 set FAI absolute closed-circuit helicopter distance record 1924-05-04: 1,100 m at Valentigney, France, piloted by Oehmichen. The first rotorcraft to fly a kilometer closed-circuit course. Documented in FAI record archives and Oehmichen's contemporary publications.
+- **ip status**: public-domain
+- **prior art notes**: Étienne Oehmichen's No.2 helicopter is contemporaneous with the de Bothezat quadrotor (1922) but with explicit attitude control through dedicated small rotors. Establishes additional French prior art (with Cornu 1907) for: (1) compound multi-rotor lift + dedicated-attitude-rotor architecture, (2) the first practical demonstration of sustained closed-circuit rotorcraft flight. Oehmichen's published descriptions document his thinking explicitly: lift via primary rotors, attitude via auxiliary rotors. The architectural pattern anticipates modern eVTOL with separate lift and yaw effectors.
+
 ## TsAGI 1-EA (1932-08-14)
 
 - **id**: `tsagi-1-ea`
@@ -50,6 +68,60 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: TsAGI 1-EA helicopter set unofficial world altitude record 1932-08-14: 605 m piloted by Alexei Cheremukhin (the existing FAI record was 18 m). Documented in TsAGI archives, RGAE archives, and Mikheyev's Russian-language history of Soviet rotorcraft.
 - **ip status**: public-domain
 - **prior art notes**: TsAGI 1-EA is the foundational Soviet rotorcraft disclosure (1930-1934 test program). Establishes Russian/Soviet prior art for: (1) multi-rotor anti-torque architecture (one main lift rotor + four small anti-torque rotors at outriggers — an unusual lift-and-attitude split that anticipates modern eVTOL designs with separate lift and yaw rotors). Soviet government work, fully in the public domain post-1991. Often overlooked in Western rotorcraft histories despite predating practical Western helicopters by years.
+
+## Focke-Wulf Fa 61 (1936-06-26)
+
+- **id**: `focke-wulf-fa-61`
+- **corpus**: academic
+- **creator**: Henrich Focke / Focke-Wulf Flugzeugbau
+- **disclosure**: Focke-Wulf Fa 61 first flight 1936-06-26 at Bremen by test pilot Ewald Rohlfs. Set multiple FAI helicopter world records 1937-1938 including duration, altitude, and distance. Famously demonstrated indoors by Hanna Reitsch at the Deutschlandhalle Berlin 1938-02. Documented in Focke-Wulf company archives, Allied technical intelligence, and Smithsonian collections.
+- **ip status**: public-domain
+- **prior art notes**: The Focke-Wulf Fa 61 is generally regarded as the first fully-practical helicopter — sustained controlled flight with all stability and control axes properly engineered. Establishes prior art for: (1) lateral side-by-side twin-rotor architecture (architectural ancestor of Mil V-12 and any modern eVTOL using lateral rotor pairs), (2) production-grade cyclic + collective + differential control across two rotors, (3) the first rotorcraft to set FAI records in every major category. Captured by Allied forces 1945; design materials in CIOS technical intelligence reports. Henrich Focke's subsequent Focke-Achgelis Fa 223 Drache was the first production helicopter to enter service.
+
+## Sikorsky VS-300 (1939-09-14)
+
+- **id**: `sikorsky-vs-300`
+- **corpus**: academic
+- **creator**: Igor Sikorsky / Vought-Sikorsky Aircraft
+- **disclosure**: Sikorsky VS-300 first tethered hover 1939-09-14 at Stratford CT, by Igor Sikorsky himself; first untethered free flight 1940-05-13. Direct ancestor of the Sikorsky R-4 (first production single-rotor helicopter) and the entire Sikorsky helicopter dynasty. Documented in Sikorsky archives and Smithsonian collections (the VS-300 itself is at the Henry Ford Museum).
+- **ip status**: patented
+- **prior art notes**: Sikorsky VS-300 is the foundational disclosure of the single-main-rotor + tail-rotor helicopter architecture that subsequently dominated heavier-than-air rotorcraft for 80+ years. Establishes prior art for: (1) the simple single-rotor + small-anti-torque-rotor architecture, (2) the iterative design methodology of progressive simplification from compound multi-rotor to canonical single-rotor configuration. Igor Sikorsky's foundational patents are long expired. Although not strictly an eVTOL, VS-300 is foundational vertical-lift prior art that anticipates any helicopter-derived eVTOL.
+
+## Bell Model 30 (1942-12)
+
+- **id**: `bell-model-30`
+- **corpus**: academic
+- **creator**: Arthur Young / Bell Aircraft Corporation
+- **disclosure**: Bell Model 30 Ship 1A first hover December 1942 at Gardenville NY; first untethered free flight 1943-06-26. Direct ancestor of Bell 47 (1945, first civil-certified helicopter). Arthur Young's stabilizer-bar-equipped two-bladed teetering rotor became the foundational architecture for the Bell helicopter dynasty. Documented in Bell company archives and the Smithsonian National Air and Space Museum (Ship 1A is preserved).
+- **ip status**: patented
+- **prior art notes**: Bell Model 30 (Arthur Young's design) is the foundational disclosure of the two-bladed teetering rotor with gyroscopically-coupled stabilizer bar — the architecture that made small helicopters practical and produced the Bell 47 (1946 first civil-certified helicopter, immortalized in M*A*S*H). Establishes prior art for: (1) two-bladed teetering rotor head architecture, (2) gyroscopic stabilizer-bar control augmentation. Arthur Young's foundational patents (US 2,415,148 et seq.) have been expired for over 50 years. Although not eVTOL, Bell Model 30 lineage is foundational vertical-lift prior art.
+
+## Bell XV-3 (1955-08-11)
+
+- **id**: `bell-xv-3`
+- **corpus**: academic
+- **creator**: Bell Helicopter / U.S. Air Force / U.S. Army
+- **disclosure**: Bell XV-3 first flight 1955-08-11 at Hurst TX; first complete transition from helicopter to airplane mode 1958-12-18 — the first tilt-rotor in history to achieve full conversion. NACA / NASA / Army joint research program. Documented exhaustively in NASA SP-2000-4517 (which is primarily the XV-15 history but includes detailed XV-3 lineage discussion).
+- **ip status**: public-domain
+- **prior art notes**: Bell XV-3 is the foundational disclosure of the tilt-rotor architecture — *the* original tilt-rotor predating Bell XV-15 by 22 years. Critically: the XV-3 is the first aircraft in history to achieve complete tilt-rotor transition from helicopter mode to airplane mode (1958-12-18, by Bill Quinlan). Establishes prior art for: (1) the entire tilt-rotor architectural concept (cross-shafted single-engine wingtip prop-rotors with nacelle tilt), (2) the conversion-corridor envelope methodology, (3) the lineage that produces XV-15 → V-22 → AW609 → Joby S4 → Archer Midnight → Vertical VX4 → Hyundai Supernal → Geely Aerofugia → Bell V-280 Valor. NACA/NASA/U.S. Army joint research program; comprehensively in the public domain. **Filed against any tilt-rotor patent claim asserting novelty over the basic wingtip-tilting prop-rotor architecture, this 1955-1958 disclosure is the deepest US public-domain anchor available.**
+
+## Bell X-14 (1957-02-19)
+
+- **id**: `bell-x-14`
+- **corpus**: academic
+- **creator**: Bell Aircraft / U.S. Air Force / NASA Ames
+- **disclosure**: Bell X-14 first hover 1957-02-19; first transition 1958-05-24. Operated by USAF and NASA Ames as a research testbed continuously 1957-1981. Documented in NASA TN, USAF Flight Test Center reports, and Smithsonian collections.
+- **ip status**: public-domain
+- **prior art notes**: Bell X-14 is the foundational US vectored-thrust VTOL testbed (1957) — predates Hawker P.1127 by 3 years. Establishes US prior-art lineage for deflected-jet vectored-thrust VTOL with reaction-control hover attitude. Distinct from Short SC.1 (1957) by using vane deflection rather than swivel nozzles. NASA Ames operated X-14 as a research testbed until 1981 — 24 years of accumulated public-domain flight data. Combined with hawker-p-1127, yak-36-freehand, dornier-do-31, vfw-fokker-vak-191b, and short-sc-1, comprehensively places vectored-thrust VTOL architecture in 1957-1971 prior art across US, UK, Soviet, and German lineages.
+
+## Boeing-Vertol VZ-2 (1957-08-13)
+
+- **id**: `boeing-vertol-vz-2`
+- **corpus**: academic
+- **creator**: Vertol (later Boeing-Vertol) / U.S. Army Transportation Research Command
+- **disclosure**: Vertol 76 / VZ-2 first hover 1957-08-13; first complete transition from hover to wing-borne flight 1958-07-15. The first aircraft in history to achieve complete tilt-wing transition. Documented in U.S. Army TRC reports and NASA Langley archives (the VZ-2 was extensively flight-tested at Langley 1959-1965).
+- **ip status**: public-domain
+- **prior art notes**: Boeing-Vertol VZ-2 is the foundational disclosure of the tilt-wing architecture — *the* first tilt-wing aircraft in history to fly and to achieve complete transition. Predates LTV XC-142 (1964) by seven years and Canadair CL-84 (1965) by eight years. Establishes prior art for: (1) the entire tilt-wing architectural concept (whole wing rotates with engines), (2) cross-shafted single-engine drive of dual propellers with engine-out lift continuation, (3) the tilt-wing conversion corridor methodology. U.S. Army public-domain disclosure. **Anticipates every modern tilt-wing claim including NASA GL-10 (2014), Aurora LightningStrike (2016), and Airbus Vahana (2018).**
 
 ## Fairey Rotodyne (1957-11-06)
 
@@ -77,6 +149,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ka-22 Vintokryl first hover 1959-06-15; first transition flight 1961-08-12. Set FAI world records 1961-11-07 (speed 356.3 km/h, payload-to-altitude 16,485 kg). Documented in Mikheyev's history of Kamov design bureau and in FAI record archives.
 - **ip status**: public-domain
 - **prior art notes**: The Ka-22 Vintokryl is the Soviet contemporaneous answer to U.S. tilt-rotor demonstrators. Establishes Soviet-bloc prior art (1959–1961) for: (1) wingtip-mounted lift-rotor + cruise-propeller architecture (parallel to but predating Bell XV-3 and XV-15 in some configurations), (2) record-setting heavy-payload VTOL operation. Soviet design documentation, declassified in the post-1991 era, is in the public domain by virtue of being USSR state work. Provides invalidity anchor for tilt-rotor-with-cruise-propeller hybrid claims that try to assert novelty over the basic split-propulsion approach.
+
+## Hiller X-18 (1959-11-24)
+
+- **id**: `hiller-x-18`
+- **corpus**: academic
+- **creator**: Hiller Aircraft / U.S. Air Force
+- **disclosure**: Hiller X-18 first conventional flight 1959-11-24; first hover 1960-12-12. Program cancelled 1961 after 20 flights without achieving full transition due to engine and stability problems. USAF / Hiller Aircraft program. Documented in USAF Flight Test Center reports and NASA archives.
+- **ip status**: public-domain
+- **prior art notes**: Hiller X-18 is the second tilt-wing aircraft to fly (after VZ-2, 1957) and the largest tilt-wing demonstrator before XC-142 (1964). Although the program ended without achieving full transition, the design disclosure is complete in USAF program documentation. Establishes prior art for: (1) twin-engine tilt-wing architecture at scale, (2) contra-rotating coaxial propellers in tilt-wing application. Combined with boeing-vertol-vz-2, ltv-xc-142, canadair-cl-84, and airbus-vahana, comprehensively places tilt-wing architecture in continuous prior-art coverage from 1957 forward.
 
 ## Bell Rocket Belt (1961-04-20)
 
@@ -167,6 +248,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: e-volo / Stephan Wolf, Thomas Senkel, Alexander Zosel: first manned multicopter flight, 2011-10-21 at Karlsruhe-Forchheim airfield; documented in DLR aviation news and academic press.
 - **ip status**: patented
 - **prior art notes**: The e-volo VC1 is the first manned electric multicopter to achieve flight, predating EHang, Joby S2/S4, and Volocopter VoloCity. Establishes prior art for: (1) electric manned multicopter passenger air-mobility architecture, (2) sixteen-rotor circular lift configuration with differential-thrust attitude control, (3) the underlying Volocopter patent family (DE102010032217 and continuations). Anticipates virtually all current commercial electric multirotor air-taxi claims (EHang EH216, Volocopter VoloCity, Hyundai Supernal multirotor configurations).
+
+## Bitcraze Crazyflie (2013-01-31)
+
+- **id**: `bitcraze-crazyflie`
+- **corpus**: open
+- **creator**: Bitcraze AB
+- **disclosure**: Bitcraze Crazyflie 1.0 publicly released 2013-01-31 as open hardware (BSD/CERN-OHL licensed); subsequent Crazyflie 2.X (2016) widely adopted in academic robotics research. Hardware design files openly published at github.com/bitcraze. Founded by Arnaud Taffanel, Tobias Antonsson, and Marcus Eliasson.
+- **ip status**: open-permissive
+- **prior art notes**: Bitcraze Crazyflie is the canonical open-hardware micro-quadrotor reference platform — used in 1000+ academic papers and hundreds of university research labs worldwide as the standard small-quadrotor experimental platform. Establishes Swedish prior art for open-hardware quadrotor design and substantially places small-quadrotor architecture in the open-hardware public domain via CERN-OHL/BSD/GPL licensing. Combined with ardupilot-quadplane and px4-vtol, comprehensively places open-source / open-hardware multirotor design in prior art.
 
 ## NASA GL-10 Greased Lightning (2014-08)
 

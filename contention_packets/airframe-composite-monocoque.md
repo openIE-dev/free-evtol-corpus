@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `airframe-composite-monocoque`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `airframe-composite-monocoque`  
-**Entries:** 41 (41 commons-grade, 0 draft)  
+**Entries:** 43 (43 commons-grade, 0 draft)  
 **Earliest disclosure:** 1978-11-09  
 **Most recent disclosure:** 2024-04-04
 
@@ -208,6 +208,27 @@ cite, copy, or redistribute these contentions.
 1. Wingcopter GmbH press releases 2017–2024.
 2. Wingcopter Tilt-Rotor Mechanism patents EP3260370 / US10913529.
 3. UNICEF Pacific islands medical delivery program reports 2018.
+
+---
+
+### 2017-10-09 — Workhorse SureFly
+
+- **id:** `workhorse-surefly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Workhorse Group / Moog Aircraft Group
+- **disclosure citation:** Workhorse SureFly publicly unveiled 2017-10-09 at AOPA Norman OK; first tethered hover 2018-05-09 at Wilmington OH. Workhorse spun off SureFly to Moog Aircraft Group 2019-10. Program effectively shelved 2020. Documented in Workhorse SEC filings (NASDAQ: WKHS) 2017-2020.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `control-differential-thrust-attitude`, `safety-ballistic-parachute`, `airframe-composite-monocoque`, `cert-part-23`
+
+**Prior art notes:**
+
+> Workhorse SureFly establishes US prior art for hybrid-electric octocopter with ballistic recovery parachute as integrated standard equipment (2017). Although the program effectively shelved by 2020, the public disclosures (2017-10-09 unveiling, 2018-05-09 hover, Workhorse SEC filings) establish the prior-art date. SureFly's coaxial-pair-on-cruciform geometry anticipates Honda eVTOL and other hybrid-electric multirotor configurations filed post-2017.
+
+**Sources:**
+
+1. Workhorse Group Form 10-K SEC filings 2017-2020.
+2. Workhorse press releases 2017-2019.
+3. AOPA SureFly unveiling materials 2017-10-09.
 
 ---
 
@@ -821,6 +842,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-09-08 — Crisalion Mobility Integrity
+
+- **id:** `crisalion-integrity`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Crisalion Mobility S.L. (Tecnalia Research and Innovation spinoff)
+- **disclosure citation:** Crisalion Mobility Integrity design publicly unveiled 2022-09-08 at Madrid; sub-scale demonstrator hover 2023. Crisalion Mobility spun off from Tecnalia Research and Innovation (Basque Country research center). Documented in Crisalion press materials and Tecnalia research disclosures.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Crisalion Mobility Integrity is Spain's lead commercial eVTOL — Tecnalia Research and Innovation (Basque Country) spin-off establishes Spanish industrial prior-art lineage for tilt-rotor distributed-electric passenger eVTOL. Adds Spain to the European eVTOL OEM map alongside Germany (Volocopter, Lilium, Wingcopter, Airbus CityAirbus), Italy (Leonardo, Manta), Netherlands (PAL-V), Slovakia (Klein Vision, AeroMobil), Czech Republic (Zuri), Sweden (Jetson).
+
+**Sources:**
+
+1. Crisalion Mobility press releases 2022-2024.
+2. Tecnalia Research and Innovation public technical disclosures.
+
+---
+
 ### 2022-12-07 — TCab Tech E20
 
 - **id:** `tcab-tech-e20`
@@ -912,4 +953,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

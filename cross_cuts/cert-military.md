@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `cert-military`
 
-**34 corpus entries disclose this subsystem.**
+**37 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1943-05
+Earliest disclosure: 1941-10-30
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Flettner Fl 282 Kolibri (1941-10-30)
+
+- **id**: `flettner-fl-282-kolibri`
+- **corpus**: academic
+- **creator**: Anton Flettner / Flettner Flugzeugbau
+- **disclosure**: Flettner Fl 282 Kolibri first flight 1941-10-30 (some sources say 1941-08); production order from Kriegsmarine 1942 for 1,000 aircraft; only ~24 completed before Allied strategic bombing of Flettner factory 1944. The first production-ordered intermeshing-rotor helicopter in history. Documented in Allied CIOS reports and Smithsonian collections.
+- **ip status**: public-domain
+- **prior art notes**: Flettner Fl 282 Kolibri establishes the foundational intermeshing-rotor (synchropter) architecture. Anton Flettner's design directly inspired Charles H. Kaman's post-war intermeshing-rotor work; Kaman acknowledged Flettner as a primary technical influence. Establishes prior art for: (1) intermeshing-rotor architecture in production form, (2) torque-cancellation without anti-torque tail rotor via two-rotor synchronization. Combined with kaman-hh-43-huskie (1953) and kaman-k-max (1991), provides 50+ years of intermeshing-rotor prior art continuously in the public domain.
 
 ## Doblhoff WNF 342 (1943-05)
 
@@ -257,6 +266,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AeroVironment SkyTote first untethered hover April 2003 at Edwards AFB; demonstrated transition flight 2004. AFRL Materiel Command Phase 2 SBIR contract. Documented in AFRL technical reports and AeroVironment publications.
 - **ip status**: patented
 - **prior art notes**: AeroVironment SkyTote is the foundational small-scale unmanned tail-sitter VTOL — establishes prior art for the tail-sitter architecture in modern UAV scale (2003) with autonomous flight control. Combined with convair-xfy-pogo (1954) and pivotal-blackfly (2018), comprehensively places tail-sitter VTOL in continuous prior-art coverage from 1954 through 2024.
+
+## Schiebel Camcopter S-100 (2005-04)
+
+- **id**: `schiebel-camcopter-s-100`
+- **corpus**: private
+- **creator**: Schiebel Aircraft GmbH
+- **disclosure**: Schiebel Camcopter S-100 publicly disclosed April 2005; entered service with Royal Australian Navy 2010 and Italian Navy 2011; deployed by 30+ naval forces worldwide. One of the most-deployed naval VTOL UAVs in history. Documented in Schiebel technical materials and naval procurement records.
+- **ip status**: patented
+- **prior art notes**: Schiebel Camcopter S-100 is the most-deployed naval VTOL UAV in the world (30+ navies, 30,000+ hours of operational flight). Establishes Austrian industrial prior-art lineage for autonomous shipborne VTOL UAS. Although conventional single-rotor architecture (not eVTOL specifically), the operational disclosure of autonomous shipboard VTOL operations is comprehensive and applicable to eVTOL claims around naval deployment.
+
+## Saab Skeldar V-200 (2007)
+
+- **id**: `saab-skeldar-v-200`
+- **corpus**: private
+- **creator**: UMS Skeldar (Saab AB / UMS Aero joint venture)
+- **disclosure**: Saab Skeldar (originally Saab IsoMatic / Saab AERTEC) first flight 2007; in service with Spanish Armada 2018 and German Bundeswehr 2020. UMS Skeldar joint venture established 2015. Documented in Saab and UMS technical materials and naval procurement disclosures.
+- **ip status**: patented
+- **prior art notes**: Saab Skeldar V-200 is Sweden's lead naval VTOL UAV — competitor to Schiebel Camcopter S-100 with similar architectural pattern but Swedish industrial provenance. Adds Saab as Swedish defense industrial prior-art anchor alongside jetson-one (Sweden consumer eVTOL).
 
 ## Karem AR40 / Optimum Speed Tilt-Rotor (2008)
 

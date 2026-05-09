@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `cert-easa-special-condition-vtol`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `cert-easa-special-condition-vtol`  
-**Entries:** 15 (15 commons-grade, 0 draft)  
-**Earliest disclosure:** 2017-03  
+**Entries:** 18 (18 commons-grade, 0 draft)  
+**Earliest disclosure:** 2014-07  
 **Most recent disclosure:** 2024-04-04
 
 ---
@@ -41,6 +41,26 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2014-07 — H3 Dynamics HyFly hydrogen-electric eVTOL
+
+- **id:** `h3-dynamics-hyfly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** H3 Dynamics (Singapore) / H3 Dynamics SAS (France)
+- **disclosure citation:** H3 Dynamics founded 2014-07 in Singapore by Taras Wankewycz; hydrogen fuel-cell UAS commercialized starting 2019; H3 Dynamics demonstrated long-endurance hydrogen UAS at Singapore Airshow 2022 and 2024.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `propulsion-hydrogen-fuel-cell`, `propulsion-bldc-direct-drive`, `control-differential-thrust-attitude`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> H3 Dynamics establishes Singapore prior art for hydrogen-fuel-cell VTOL UAS. The Singapore/France dual-headquarters structure is increasingly common for aerospace startups operating across multiple regulatory regimes. Adds Singapore to the eVTOL OEM map and establishes hydrogen-electric VTOL architecture prior art alongside AMSL Vertiia (AU passenger-class hydrogen).
+
+**Sources:**
+
+1. H3 Dynamics press releases 2014-2024.
+2. Singapore Airshow 2022 and 2024 exhibitor materials.
+
+---
 
 ### 2017-03 — Zuri eVTOL
 
@@ -189,6 +209,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-09 — Manna Air Delivery drone
+
+- **id:** `manna-air-delivery`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Manna Drone Delivery Ltd
+- **disclosure citation:** Manna Drone Delivery Ltd founded 2018 in Dublin by Bobby Healy; operational food delivery service launched September 2020 in Oranmore, Galway; expanded to multiple Irish towns and UK 2021-2024. Documented in Irish Aviation Authority (IAA) operational approvals and Manna press materials.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `autonomy-utm-integration`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> Manna Air Delivery establishes Ireland's lead commercial drone-delivery OEM with operational deployment 2020-2024 across Irish towns. Distinctive: tethered cargo drop without landing (architectural variant of cargo delivery distinct from DJI FlyCart's set-down approach). Adds Ireland to the Western European eVTOL ecosystem.
+
+**Sources:**
+
+1. Manna Drone Delivery press releases 2020-2024.
+2. Irish Aviation Authority operational approvals public record.
+3. Reuters and Irish Times coverage 2020-2024.
+
+---
+
 ### 2021-07-16 — XPENG AeroHT X2
 
 - **id:** `aeroht-xpeng-x2`
@@ -294,6 +335,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-09-08 — Crisalion Mobility Integrity
+
+- **id:** `crisalion-integrity`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Crisalion Mobility S.L. (Tecnalia Research and Innovation spinoff)
+- **disclosure citation:** Crisalion Mobility Integrity design publicly unveiled 2022-09-08 at Madrid; sub-scale demonstrator hover 2023. Crisalion Mobility spun off from Tecnalia Research and Innovation (Basque Country research center). Documented in Crisalion press materials and Tecnalia research disclosures.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Crisalion Mobility Integrity is Spain's lead commercial eVTOL — Tecnalia Research and Innovation (Basque Country) spin-off establishes Spanish industrial prior-art lineage for tilt-rotor distributed-electric passenger eVTOL. Adds Spain to the European eVTOL OEM map alongside Germany (Volocopter, Lilium, Wingcopter, Airbus CityAirbus), Italy (Leonardo, Manta), Netherlands (PAL-V), Slovakia (Klein Vision, AeroMobil), Czech Republic (Zuri), Sweden (Jetson).
+
+**Sources:**
+
+1. Crisalion Mobility press releases 2022-2024.
+2. Tecnalia Research and Innovation public technical disclosures.
+
+---
+
 ### 2022-12-07 — TCab Tech E20
 
 - **id:** `tcab-tech-e20`
@@ -364,4 +425,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

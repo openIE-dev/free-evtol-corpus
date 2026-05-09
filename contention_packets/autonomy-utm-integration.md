@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `autonomy-utm-integration`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `autonomy-utm-integration`  
-**Entries:** 25 (25 commons-grade, 0 draft)  
+**Entries:** 26 (26 commons-grade, 0 draft)  
 **Earliest disclosure:** 2017-03  
 **Most recent disclosure:** 2024-01-09
 
@@ -295,6 +295,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-09 — Manna Air Delivery drone
+
+- **id:** `manna-air-delivery`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Manna Drone Delivery Ltd
+- **disclosure citation:** Manna Drone Delivery Ltd founded 2018 in Dublin by Bobby Healy; operational food delivery service launched September 2020 in Oranmore, Galway; expanded to multiple Irish towns and UK 2021-2024. Documented in Irish Aviation Authority (IAA) operational approvals and Manna press materials.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `autonomy-utm-integration`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> Manna Air Delivery establishes Ireland's lead commercial drone-delivery OEM with operational deployment 2020-2024 across Irish towns. Distinctive: tethered cargo drop without landing (architectural variant of cargo delivery distinct from DJI FlyCart's set-down approach). Adds Ireland to the Western European eVTOL ecosystem.
+
+**Sources:**
+
+1. Manna Drone Delivery press releases 2020-2024.
+2. Irish Aviation Authority operational approvals public record.
+3. Reuters and Irish Times coverage 2020-2024.
+
+---
+
 ### 2020-10-08 — Eve Air Mobility eVTOL
 
 - **id:** `eve-air-mobility`
@@ -575,4 +596,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

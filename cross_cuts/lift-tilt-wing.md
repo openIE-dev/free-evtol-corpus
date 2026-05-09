@@ -6,14 +6,32 @@ layout: default
 
 # Cross-cut: `lift-tilt-wing`
 
-**5 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1964-09-29
+Earliest disclosure: 1957-08-13
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Boeing-Vertol VZ-2 (1957-08-13)
+
+- **id**: `boeing-vertol-vz-2`
+- **corpus**: academic
+- **creator**: Vertol (later Boeing-Vertol) / U.S. Army Transportation Research Command
+- **disclosure**: Vertol 76 / VZ-2 first hover 1957-08-13; first complete transition from hover to wing-borne flight 1958-07-15. The first aircraft in history to achieve complete tilt-wing transition. Documented in U.S. Army TRC reports and NASA Langley archives (the VZ-2 was extensively flight-tested at Langley 1959-1965).
+- **ip status**: public-domain
+- **prior art notes**: Boeing-Vertol VZ-2 is the foundational disclosure of the tilt-wing architecture — *the* first tilt-wing aircraft in history to fly and to achieve complete transition. Predates LTV XC-142 (1964) by seven years and Canadair CL-84 (1965) by eight years. Establishes prior art for: (1) the entire tilt-wing architectural concept (whole wing rotates with engines), (2) cross-shafted single-engine drive of dual propellers with engine-out lift continuation, (3) the tilt-wing conversion corridor methodology. U.S. Army public-domain disclosure. **Anticipates every modern tilt-wing claim including NASA GL-10 (2014), Aurora LightningStrike (2016), and Airbus Vahana (2018).**
+
+## Hiller X-18 (1959-11-24)
+
+- **id**: `hiller-x-18`
+- **corpus**: academic
+- **creator**: Hiller Aircraft / U.S. Air Force
+- **disclosure**: Hiller X-18 first conventional flight 1959-11-24; first hover 1960-12-12. Program cancelled 1961 after 20 flights without achieving full transition due to engine and stability problems. USAF / Hiller Aircraft program. Documented in USAF Flight Test Center reports and NASA archives.
+- **ip status**: public-domain
+- **prior art notes**: Hiller X-18 is the second tilt-wing aircraft to fly (after VZ-2, 1957) and the largest tilt-wing demonstrator before XC-142 (1964). Although the program ended without achieving full transition, the design disclosure is complete in USAF program documentation. Establishes prior art for: (1) twin-engine tilt-wing architecture at scale, (2) contra-rotating coaxial propellers in tilt-wing application. Combined with boeing-vertol-vz-2, ltv-xc-142, canadair-cl-84, and airbus-vahana, comprehensively places tilt-wing architecture in continuous prior-art coverage from 1957 forward.
 
 ## LTV XC-142A (1964-09-29)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `autonomy-pilot-removed`
 
-**10 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1991-12-23
 
@@ -42,6 +42,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AeroVironment SkyTote is the foundational small-scale unmanned tail-sitter VTOL — establishes prior art for the tail-sitter architecture in modern UAV scale (2003) with autonomous flight control. Combined with convair-xfy-pogo (1954) and pivotal-blackfly (2018), comprehensively places tail-sitter VTOL in continuous prior-art coverage from 1954 through 2024.
 
+## Schiebel Camcopter S-100 (2005-04)
+
+- **id**: `schiebel-camcopter-s-100`
+- **corpus**: private
+- **creator**: Schiebel Aircraft GmbH
+- **disclosure**: Schiebel Camcopter S-100 publicly disclosed April 2005; entered service with Royal Australian Navy 2010 and Italian Navy 2011; deployed by 30+ naval forces worldwide. One of the most-deployed naval VTOL UAVs in history. Documented in Schiebel technical materials and naval procurement records.
+- **ip status**: patented
+- **prior art notes**: Schiebel Camcopter S-100 is the most-deployed naval VTOL UAV in the world (30+ navies, 30,000+ hours of operational flight). Establishes Austrian industrial prior-art lineage for autonomous shipborne VTOL UAS. Although conventional single-rotor architecture (not eVTOL specifically), the operational disclosure of autonomous shipboard VTOL operations is comprehensive and applicable to eVTOL claims around naval deployment.
+
+## Saab Skeldar V-200 (2007)
+
+- **id**: `saab-skeldar-v-200`
+- **corpus**: private
+- **creator**: UMS Skeldar (Saab AB / UMS Aero joint venture)
+- **disclosure**: Saab Skeldar (originally Saab IsoMatic / Saab AERTEC) first flight 2007; in service with Spanish Armada 2018 and German Bundeswehr 2020. UMS Skeldar joint venture established 2015. Documented in Saab and UMS technical materials and naval procurement disclosures.
+- **ip status**: patented
+- **prior art notes**: Saab Skeldar V-200 is Sweden's lead naval VTOL UAV — competitor to Schiebel Camcopter S-100 with similar architectural pattern but Swedish industrial provenance. Adds Saab as Swedish defense industrial prior-art anchor alongside jetson-one (Sweden consumer eVTOL).
+
 ## Airbus A^3 Vahana (2018-01-31)
 
 - **id**: `airbus-vahana`
@@ -69,6 +87,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Wisk Cora / Gen 6 is the leading US autonomous (no on-board pilot) passenger eVTOL — distinct architectural commitment to autonomy from Joby, Archer, Beta. Lift+cruise architecture with 12+1 propulsor count. Establishes US prior-art lineage for autonomous-passenger commercial lift+cruise eVTOL targeting FAA Part 23 / Special Conditions.
 
+## Volansi VBAT (2018-04)
+
+- **id**: `volansi-vbat`
+- **corpus**: private
+- **creator**: Volansi Inc / Martin UAV (acquired by Shield AI 2021)
+- **disclosure**: Volansi VBAT autonomous tail-sitter cargo VTOL publicly disclosed April 2018; Volansi delivered medical and military supplies operationally 2019-2022. Acquired by Shield AI 2021-08. Volans-i original company ceased independent operation 2022 after acquisition by Shield AI.
+- **ip status**: patented
+- **prior art notes**: Volansi VBAT is the leading autonomous tail-sitter cargo VTOL deployed operationally for medical/military supply runs 2019-2022. Establishes prior art for: (1) ducted-fan tail-sitter cargo VTOL architecture, (2) operational FAA BVLOS waiver framework for autonomous tail-sitter UAS. Together with aerovironment-skytote and pivotal-blackfly, comprehensively places tail-sitter VTOL architecture in modern operational coverage.
+
 ## Pyka Pelican Cargo (2018-08)
 
 - **id**: `pyka-pelican`
@@ -86,6 +113,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Elroy Air founded 2016 by David Merrill and Kofi Asante; sub-scale Chaparral demonstrator publicly unveiled 2019-01-30; full-scale C1 first hover flight 2023-11-12 at Camarillo, CA. Air Force AFWERX / USAF Agility Prime contracts 2021-09 onward.
 - **ip status**: patented
 - **prior art notes**: Elroy Air Chaparral establishes prior art for: (1) hybrid-electric (turbine-genset + battery) cargo eVTOL, distinct from pure-battery designs by extending range to 500+ km, (2) modular swappable cargo-pod architecture decoupled from aircraft turnaround. Hybrid powerplant anticipates similar claims on series-hybrid eVTOL propulsion topology.
+
+## Sabrewing Rhaegal-A (2019-04)
+
+- **id**: `sabrewing-rhaegal-a`
+- **corpus**: private
+- **creator**: Sabrewing Aircraft Company
+- **disclosure**: Sabrewing Aircraft Rhaegal-A unveiled April 2019; sub-scale prototype hover trials 2020. Designed for 4,500 lb (2,040 kg) cargo capacity in unmanned configuration. Documented in Sabrewing technical materials and FAA filings.
+- **ip status**: patented
+- **prior art notes**: Sabrewing Rhaegal-A establishes US prior art for heavy-cargo (2-ton class) hybrid-electric eVTOL with ducted-fan architecture. Distinct from Elroy Air Chaparral by larger payload and ducted-fan rather than open-rotor lift. Anticipates other heavy-cargo eVTOL claims filed post-2019.
+
+## Manna Air Delivery drone (2020-09)
+
+- **id**: `manna-air-delivery`
+- **corpus**: private
+- **creator**: Manna Drone Delivery Ltd
+- **disclosure**: Manna Drone Delivery Ltd founded 2018 in Dublin by Bobby Healy; operational food delivery service launched September 2020 in Oranmore, Galway; expanded to multiple Irish towns and UK 2021-2024. Documented in Irish Aviation Authority (IAA) operational approvals and Manna press materials.
+- **ip status**: patented
+- **prior art notes**: Manna Air Delivery establishes Ireland's lead commercial drone-delivery OEM with operational deployment 2020-2024 across Irish towns. Distinctive: tethered cargo drop without landing (architectural variant of cargo delivery distinct from DJI FlyCart's set-down approach). Adds Ireland to the Western European eVTOL ecosystem.
 
 ## XPENG AeroHT X2 (2021-07-16)
 

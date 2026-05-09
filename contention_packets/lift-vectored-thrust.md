@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `lift-vectored-thrust`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `lift-vectored-thrust`  
-**Entries:** 24 (24 commons-grade, 0 draft)  
+**Entries:** 27 (27 commons-grade, 0 draft)  
 **Earliest disclosure:** 1955-12-10  
 **Most recent disclosure:** 2018-11-08
 
@@ -60,6 +60,27 @@ cite, copy, or redistribute these contentions.
 1. USAF Flight Test Center X-13 Vertijet reports.
 2. Markman and Holder. Straight Up. Schiffer, 2000.
 3. Ryan Aeronautical Company X-13 program archives.
+
+---
+
+### 1957-02-19 — Bell X-14
+
+- **id:** `bell-x-14`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bell Aircraft / U.S. Air Force / NASA Ames
+- **disclosure citation:** Bell X-14 first hover 1957-02-19; first transition 1958-05-24. Operated by USAF and NASA Ames as a research testbed continuously 1957-1981. Documented in NASA TN, USAF Flight Test Center reports, and Smithsonian collections.
+- **disclosed subsystems:** `lift-vectored-thrust`, `transition-thrust-borne-to-wing-borne`, `cert-experimental`
+
+**Prior art notes:**
+
+> Bell X-14 is the foundational US vectored-thrust VTOL testbed (1957) — predates Hawker P.1127 by 3 years. Establishes US prior-art lineage for deflected-jet vectored-thrust VTOL with reaction-control hover attitude. Distinct from Short SC.1 (1957) by using vane deflection rather than swivel nozzles. NASA Ames operated X-14 as a research testbed until 1981 — 24 years of accumulated public-domain flight data. Combined with hawker-p-1127, yak-36-freehand, dornier-do-31, vfw-fokker-vak-191b, and short-sc-1, comprehensively places vectored-thrust VTOL architecture in 1957-1971 prior art across US, UK, Soviet, and German lineages.
+
+**Sources:**
+
+1. NASA TN D-1859, 'Flight Tests of the X-14 Aircraft,' 1963.
+2. Markman and Holder. Straight Up. Schiffer, 2000.
+3. Bell Aircraft / Bell Aerosystems X-14 program archives.
 
 ---
 
@@ -230,6 +251,27 @@ cite, copy, or redistribute these contentions.
 1. Thunderbirds, Gerry Anderson / AP Films / ITC, 1965 series.
 2. Hearn, Marcus. Thunderbirds: Vehicles and Equipment. ITV Studios, 2015.
 3. Bentley, Chris. The Complete Book of Thunderbirds. Carlton, 2008.
+
+---
+
+### 1967-01-05 — Federation shuttlecraft (Star Trek)
+
+- **id:** `star-trek-shuttlecraft`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Gene Roddenberry / Desilu Productions / Paramount Pictures / CBS
+- **disclosure citation:** Star Trek: The Original Series, episode 'The Galileo Seven,' first aired 1967-01-05 on NBC. The Galileo shuttlecraft is the first Federation shuttlecraft depicted on-screen. Subsequent Star Trek series and films develop dozens of shuttlecraft variants with increasing engineering detail in the Star Trek: The Next Generation Technical Manual (Pocket Books, 1991) and successor reference works.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> Star Trek shuttlecraft establish 60+ years of continuous fictional depiction of small passenger VTOL vehicles capable of atmospheric and orbital flight. The Star Trek: The Next Generation Technical Manual (Sternbach and Okuda, 1991) provides engineering-grade depictions including hover thrust ratings, atmospheric flight envelopes, and interior layout schematics. Combined with bladerunner-spinner (1982), fifth-element-flying-taxi (1997), star-wars (separate franchise), and iron-man-suit (1963), provides comprehensive multi-decade US/UK fictional prior-art base for compact-passenger VTOL transport.
+
+**Sources:**
+
+1. Star Trek: The Original Series, NBC, 1966-1969.
+2. Sternbach, Rick and Okuda, Michael. Star Trek: The Next Generation Technical Manual. Pocket Books, 1991.
+3. Robinson, Ben. Star Trek Shipyards: Starfleet Ships. Eaglemoss, multiple volumes 2017-2024.
 
 ---
 
@@ -404,6 +446,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1986-07-18 — UD-4L Cheyenne dropship (Aliens)
+
+- **id:** `aliens-cheyenne-dropship`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** James Cameron / Ron Cobb (concept design) / 20th Century Fox
+- **disclosure citation:** Aliens, directed by James Cameron, theatrical release 1986-07-18 in the U.S. The UD-4L Cheyenne dropship designed by Ron Cobb, with engineering depth in the Aliens Colonial Marines Technical Manual (Lee Brimmicombe-Wood, HarperPrism 1995) and ongoing Alien franchise design materials.
+- **disclosed subsystems:** `lift-vectored-thrust`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> The Aliens UD-4L Cheyenne dropship establishes 1986 cinematic prior art for tilt-thruster military VTOL atmospheric drop-vehicle architecture. Ron Cobb's design materials and the Aliens Colonial Marines Technical Manual (1995) provide engineering-grade depictions including thrust vectoring schematics. Combined with thunderbird-2 (UK, 1965), macross-vf-1-veritech (JP, 1982), gundam-gaw (JP, 1979), and avatar-samson-scorpion (US, 2009), provides multi-decade cinematic anticipation of military tilt-thruster VTOL transport architecture.
+
+**Sources:**
+
+1. Cameron, James (dir.). Aliens. 20th Century Fox, 1986.
+2. Cobb, Ron. Concept art for Aliens, 1985-1986; published in Aliens production design books.
+3. Brimmicombe-Wood, Lee. The Colonial Marines Technical Manual. HarperPrism, 1995.
+
+---
+
 ### 1987-03-09 — Yakovlev Yak-141
 
 - **id:** `yak-141`
@@ -561,4 +624,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

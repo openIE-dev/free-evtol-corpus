@@ -9,21 +9,28 @@ personal VTOL, tilt-rotor and tilt-wing demonstrators, military VTOL,
 ducted-fan and vectored-thrust craft, drive+fly transformers, and the science
 fiction and academic literature that anticipated all of them.
 
-Coverage is global: 114 entries spanning 1886 (Verne *Albatross* — 74 lift
-airscrews, the foundational distributed-electric-propulsion prior art) through
-2024, across 24 countries on six continents.
+Coverage is global and deep: 144 entries spanning ~2,500 years from the
+Pushpaka Vimana (Sanskrit Ramayana, ~5th c BCE) and the 1001 Nights flying
+carpet (~9th c CE) through Verne's *Albatross* (1886, 74 distributed lift
+airscrews — the foundational engineering anticipation of distributed-electric-
+propulsion) and the deep helicopter-pioneer base (Cornu 1907, Oehmichen
+1924, Focke Fa 61 1936, Sikorsky VS-300 1939, Flettner Fl 282 1941, Bell
+Model 30 1942), the Cold War VTOL demonstrators (XV-3 1955, X-13 Vertijet
+1957, X-14 1957, VZ-2 1957, X-18 1959, P.1127 1960, X-22 1966, XV-15 1977,
+V-22 1989, Yak-141 1987, F-35B 2008), and the modern commercial eVTOL
+ecosystem (Joby, Archer, Beta, Wisk, Volocopter, Lilium, Vertical, EHang,
+AutoFlight, AeroHT, Hyundai Supernal, Eve, AMSL, ePlane, Zuri, Crisalion,
+Manta, AeroMobil, Klein Vision, PAL-V, Pivotal, Jetson, AIR, ASKA, etc.)
+through 2024.
 
-Latin America is represented by Brazil (Embraer EmbraerX 2018 concept,
-Eve Air Mobility 2020 production) and Argentina (Pescara helicopter 1922
-academic, Eternauta 1957 fictional). The genuinely thin homegrown OEM
-footprint elsewhere in Latin America reflects the current state of the
-field rather than a corpus omission — the corpus tracks design disclosures,
-not airline-operator partnerships.
+**27 countries on six populated continents** — US, DE, JP, RU, CN, FR, GB,
+IT, AT, CA, IN, SE, AR, AU, BR, ES, IL, SK, CH, CZ, EG, IE, KR, NL, NZ, SG, ZA.
 
-Hand-written invalidity-contention packets target the Joby Aviation and
-Archer Aviation patent estates by mapping their architectural claim domains
-to corpus entries that anticipate each. Auto-generated subsystem packets
-cover 40 distinct architectural / certification / safety / autonomy domains.
+Hand-written invalidity-contention packets target the Joby Aviation, Archer
+Aviation, Beta Technologies, and Volocopter patent estates by mapping their
+architectural claim domains to corpus entries that anticipate each.
+Auto-generated subsystem packets cover 41 distinct architectural /
+certification / safety / autonomy domains.
 
 **The corpus IS the prior art commons.** Every entry, at the moment of
 timestamped commit and quarterly release, is a defensive publication. There

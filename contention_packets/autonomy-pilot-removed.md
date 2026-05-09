@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `autonomy-pilot-removed`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `autonomy-pilot-removed`  
-**Entries:** 10 (10 commons-grade, 0 draft)  
+**Entries:** 15 (15 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
 **Most recent disclosure:** 2023-08-16
 
@@ -104,6 +104,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2005-04 — Schiebel Camcopter S-100
+
+- **id:** `schiebel-camcopter-s-100`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Schiebel Aircraft GmbH
+- **disclosure citation:** Schiebel Camcopter S-100 publicly disclosed April 2005; entered service with Royal Australian Navy 2010 and Italian Navy 2011; deployed by 30+ naval forces worldwide. One of the most-deployed naval VTOL UAVs in history. Documented in Schiebel technical materials and naval procurement records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Schiebel Camcopter S-100 is the most-deployed naval VTOL UAV in the world (30+ navies, 30,000+ hours of operational flight). Establishes Austrian industrial prior-art lineage for autonomous shipborne VTOL UAS. Although conventional single-rotor architecture (not eVTOL specifically), the operational disclosure of autonomous shipboard VTOL operations is comprehensive and applicable to eVTOL claims around naval deployment.
+
+**Sources:**
+
+1. Schiebel Aircraft GmbH press releases 2005-2024.
+2. Royal Australian Navy / Italian Navy procurement records.
+
+---
+
+### 2007 — Saab Skeldar V-200
+
+- **id:** `saab-skeldar-v-200`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** UMS Skeldar (Saab AB / UMS Aero joint venture)
+- **disclosure citation:** Saab Skeldar (originally Saab IsoMatic / Saab AERTEC) first flight 2007; in service with Spanish Armada 2018 and German Bundeswehr 2020. UMS Skeldar joint venture established 2015. Documented in Saab and UMS technical materials and naval procurement disclosures.
+- **disclosed subsystems:** `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Saab Skeldar V-200 is Sweden's lead naval VTOL UAV — competitor to Schiebel Camcopter S-100 with similar architectural pattern but Swedish industrial provenance. Adds Saab as Swedish defense industrial prior-art anchor alongside jetson-one (Sweden consumer eVTOL).
+
+**Sources:**
+
+1. Saab AB and UMS Skeldar press releases 2007-2024.
+2. Spanish Armada and German Bundeswehr procurement records.
+
+---
+
 ### 2018-01-31 — Airbus A^3 Vahana
 
 - **id:** `airbus-vahana`
@@ -167,6 +207,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-04 — Volansi VBAT
+
+- **id:** `volansi-vbat`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volansi Inc / Martin UAV (acquired by Shield AI 2021)
+- **disclosure citation:** Volansi VBAT autonomous tail-sitter cargo VTOL publicly disclosed April 2018; Volansi delivered medical and military supplies operationally 2019-2022. Acquired by Shield AI 2021-08. Volans-i original company ceased independent operation 2022 after acquisition by Shield AI.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-ducted-fan-array`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `cert-faa-bvlos-waiver`
+
+**Prior art notes:**
+
+> Volansi VBAT is the leading autonomous tail-sitter cargo VTOL deployed operationally for medical/military supply runs 2019-2022. Establishes prior art for: (1) ducted-fan tail-sitter cargo VTOL architecture, (2) operational FAA BVLOS waiver framework for autonomous tail-sitter UAS. Together with aerovironment-skytote and pivotal-blackfly, comprehensively places tail-sitter VTOL architecture in modern operational coverage.
+
+**Sources:**
+
+1. Volans-i / Volansi press releases 2018-2022.
+2. Shield AI acquisition disclosures 2021.
+3. FAA Part 137 / UAS operational approvals public records.
+
+---
+
 ### 2018-08 — Pyka Pelican Cargo
 
 - **id:** `pyka-pelican`
@@ -206,6 +267,47 @@ cite, copy, or redistribute these contentions.
 1. Elroy Air press releases and technical white papers 2019–2024.
 2. USAF Agility Prime program disclosures.
 3. FAA filings related to autonomous cargo operations.
+
+---
+
+### 2019-04 — Sabrewing Rhaegal-A
+
+- **id:** `sabrewing-rhaegal-a`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sabrewing Aircraft Company
+- **disclosure citation:** Sabrewing Aircraft Rhaegal-A unveiled April 2019; sub-scale prototype hover trials 2020. Designed for 4,500 lb (2,040 kg) cargo capacity in unmanned configuration. Documented in Sabrewing technical materials and FAA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-ducted-fan-array`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `autonomy-pilot-removed`, `cert-part-23`
+
+**Prior art notes:**
+
+> Sabrewing Rhaegal-A establishes US prior art for heavy-cargo (2-ton class) hybrid-electric eVTOL with ducted-fan architecture. Distinct from Elroy Air Chaparral by larger payload and ducted-fan rather than open-rotor lift. Anticipates other heavy-cargo eVTOL claims filed post-2019.
+
+**Sources:**
+
+1. Sabrewing Aircraft technical materials 2019-2024.
+2. FAA Part 23 / Special Conditions filings.
+
+---
+
+### 2020-09 — Manna Air Delivery drone
+
+- **id:** `manna-air-delivery`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Manna Drone Delivery Ltd
+- **disclosure citation:** Manna Drone Delivery Ltd founded 2018 in Dublin by Bobby Healy; operational food delivery service launched September 2020 in Oranmore, Galway; expanded to multiple Irish towns and UK 2021-2024. Documented in Irish Aviation Authority (IAA) operational approvals and Manna press materials.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `autonomy-utm-integration`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> Manna Air Delivery establishes Ireland's lead commercial drone-delivery OEM with operational deployment 2020-2024 across Irish towns. Distinctive: tethered cargo drop without landing (architectural variant of cargo delivery distinct from DJI FlyCart's set-down approach). Adds Ireland to the Western European eVTOL ecosystem.
+
+**Sources:**
+
+1. Manna Drone Delivery press releases 2020-2024.
+2. Irish Aviation Authority operational approvals public record.
+3. Reuters and Irish Times coverage 2020-2024.
 
 ---
 
@@ -258,4 +360,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `lift-coaxial-rotor`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `lift-coaxial-rotor`  
-**Entries:** 16 (16 commons-grade, 0 draft)  
+**Entries:** 22 (22 commons-grade, 0 draft)  
 **Earliest disclosure:** 1922  
 **Most recent disclosure:** 2023-08-16
 
@@ -61,6 +61,48 @@ cite, copy, or redistribute these contentions.
 2. Charnov, Bruce H. From Autogiro to Gyroplane: The Amazing Survival of an Aviation Technology. Praeger, 2003, chapter on Pescara.
 3. FAI archives, world record file 1924-04-18.
 4. Pescara, Raúl. Spanish Patent ES86,124, 1920.
+
+---
+
+### 1941-10-30 — Flettner Fl 282 Kolibri
+
+- **id:** `flettner-fl-282-kolibri`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Anton Flettner / Flettner Flugzeugbau
+- **disclosure citation:** Flettner Fl 282 Kolibri first flight 1941-10-30 (some sources say 1941-08); production order from Kriegsmarine 1942 for 1,000 aircraft; only ~24 completed before Allied strategic bombing of Flettner factory 1944. The first production-ordered intermeshing-rotor helicopter in history. Documented in Allied CIOS reports and Smithsonian collections.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> Flettner Fl 282 Kolibri establishes the foundational intermeshing-rotor (synchropter) architecture. Anton Flettner's design directly inspired Charles H. Kaman's post-war intermeshing-rotor work; Kaman acknowledged Flettner as a primary technical influence. Establishes prior art for: (1) intermeshing-rotor architecture in production form, (2) torque-cancellation without anti-torque tail rotor via two-rotor synchronization. Combined with kaman-hh-43-huskie (1953) and kaman-k-max (1991), provides 50+ years of intermeshing-rotor prior art continuously in the public domain.
+
+**Sources:**
+
+1. Flettner, Anton. Mein Weg zum Hubschrauber. Verlag der Luftfahrtforschung, 1949.
+2. Allied CIOS reports on Flettner Fl 282, post-1945.
+3. Smith and Kay. German Aircraft of the Second World War. Putnam, 1972.
+
+---
+
+### 1942-12 — Bell Model 30
+
+- **id:** `bell-model-30`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Arthur Young / Bell Aircraft Corporation
+- **disclosure citation:** Bell Model 30 Ship 1A first hover December 1942 at Gardenville NY; first untethered free flight 1943-06-26. Direct ancestor of Bell 47 (1945, first civil-certified helicopter). Arthur Young's stabilizer-bar-equipped two-bladed teetering rotor became the foundational architecture for the Bell helicopter dynasty. Documented in Bell company archives and the Smithsonian National Air and Space Museum (Ship 1A is preserved).
+- **disclosed subsystems:** `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Bell Model 30 (Arthur Young's design) is the foundational disclosure of the two-bladed teetering rotor with gyroscopically-coupled stabilizer bar — the architecture that made small helicopters practical and produced the Bell 47 (1946 first civil-certified helicopter, immortalized in M*A*S*H). Establishes prior art for: (1) two-bladed teetering rotor head architecture, (2) gyroscopic stabilizer-bar control augmentation. Arthur Young's foundational patents (US 2,415,148 et seq.) have been expired for over 50 years. Although not eVTOL, Bell Model 30 lineage is foundational vertical-lift prior art.
+
+**Sources:**
+
+1. Young, Arthur M. The Bell Notes: A Journey from Metaphysics to Mechanics. Robert Briggs, 1979.
+2. Bell Helicopter / Textron archives, Fort Worth TX.
+3. Smithsonian NASM Bell Ship 1A collection.
 
 ---
 
@@ -125,6 +167,27 @@ cite, copy, or redistribute these contentions.
 2. Rogers, Mike. VTOL: Military Research Aircraft. Orion Books, 1989.
 3. Coleman, James F. Skeets. 'The XFY-1 Pogo Story.' Naval Aviation News, various.
 4. U.S. Navy BuAer test reports on XFY-1, NARA RG72.
+
+---
+
+### 1959-11-24 — Hiller X-18
+
+- **id:** `hiller-x-18`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Hiller Aircraft / U.S. Air Force
+- **disclosure citation:** Hiller X-18 first conventional flight 1959-11-24; first hover 1960-12-12. Program cancelled 1961 after 20 flights without achieving full transition due to engine and stability problems. USAF / Hiller Aircraft program. Documented in USAF Flight Test Center reports and NASA archives.
+- **disclosed subsystems:** `lift-tilt-wing`, `transition-thrust-borne-to-wing-borne`, `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Hiller X-18 is the second tilt-wing aircraft to fly (after VZ-2, 1957) and the largest tilt-wing demonstrator before XC-142 (1964). Although the program ended without achieving full transition, the design disclosure is complete in USAF program documentation. Establishes prior art for: (1) twin-engine tilt-wing architecture at scale, (2) contra-rotating coaxial propellers in tilt-wing application. Combined with boeing-vertol-vz-2, ltv-xc-142, canadair-cl-84, and airbus-vahana, comprehensively places tilt-wing architecture in continuous prior-art coverage from 1957 forward.
+
+**Sources:**
+
+1. USAF Flight Test Center X-18 program reports.
+2. Markman and Holder. Straight Up. Schiffer, 2000.
+3. Hiller Aircraft Company archives, Hiller Aviation Museum.
 
 ---
 
@@ -211,6 +274,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2005-04 — Schiebel Camcopter S-100
+
+- **id:** `schiebel-camcopter-s-100`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Schiebel Aircraft GmbH
+- **disclosure citation:** Schiebel Camcopter S-100 publicly disclosed April 2005; entered service with Royal Australian Navy 2010 and Italian Navy 2011; deployed by 30+ naval forces worldwide. One of the most-deployed naval VTOL UAVs in history. Documented in Schiebel technical materials and naval procurement records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Schiebel Camcopter S-100 is the most-deployed naval VTOL UAV in the world (30+ navies, 30,000+ hours of operational flight). Establishes Austrian industrial prior-art lineage for autonomous shipborne VTOL UAS. Although conventional single-rotor architecture (not eVTOL specifically), the operational disclosure of autonomous shipboard VTOL operations is comprehensive and applicable to eVTOL claims around naval deployment.
+
+**Sources:**
+
+1. Schiebel Aircraft GmbH press releases 2005-2024.
+2. Royal Australian Navy / Italian Navy procurement records.
+
+---
+
 ### 2015-05-22 — Sikorsky S-97 Raider
 
 - **id:** `sikorsky-s-97-raider`
@@ -228,6 +311,27 @@ cite, copy, or redistribute these contentions.
 
 1. Sikorsky Aircraft press releases and technical papers 2015–2024.
 2. AHS / VFS Forum papers from Sikorsky engineering 2008–2024.
+
+---
+
+### 2017-10-09 — Workhorse SureFly
+
+- **id:** `workhorse-surefly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Workhorse Group / Moog Aircraft Group
+- **disclosure citation:** Workhorse SureFly publicly unveiled 2017-10-09 at AOPA Norman OK; first tethered hover 2018-05-09 at Wilmington OH. Workhorse spun off SureFly to Moog Aircraft Group 2019-10. Program effectively shelved 2020. Documented in Workhorse SEC filings (NASDAQ: WKHS) 2017-2020.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `control-differential-thrust-attitude`, `safety-ballistic-parachute`, `airframe-composite-monocoque`, `cert-part-23`
+
+**Prior art notes:**
+
+> Workhorse SureFly establishes US prior art for hybrid-electric octocopter with ballistic recovery parachute as integrated standard equipment (2017). Although the program effectively shelved by 2020, the public disclosures (2017-10-09 unveiling, 2018-05-09 hover, Workhorse SEC filings) establish the prior-art date. SureFly's coaxial-pair-on-cruciform geometry anticipates Honda eVTOL and other hybrid-electric multirotor configurations filed post-2017.
+
+**Sources:**
+
+1. Workhorse Group Form 10-K SEC filings 2017-2020.
+2. Workhorse press releases 2017-2019.
+3. AOPA SureFly unveiling materials 2017-10-09.
 
 ---
 
@@ -357,6 +461,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-09-08 — Crisalion Mobility Integrity
+
+- **id:** `crisalion-integrity`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Crisalion Mobility S.L. (Tecnalia Research and Innovation spinoff)
+- **disclosure citation:** Crisalion Mobility Integrity design publicly unveiled 2022-09-08 at Madrid; sub-scale demonstrator hover 2023. Crisalion Mobility spun off from Tecnalia Research and Innovation (Basque Country research center). Documented in Crisalion press materials and Tecnalia research disclosures.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Crisalion Mobility Integrity is Spain's lead commercial eVTOL — Tecnalia Research and Innovation (Basque Country) spin-off establishes Spanish industrial prior-art lineage for tilt-rotor distributed-electric passenger eVTOL. Adds Spain to the European eVTOL OEM map alongside Germany (Volocopter, Lilium, Wingcopter, Airbus CityAirbus), Italy (Leonardo, Manta), Netherlands (PAL-V), Slovakia (Klein Vision, AeroMobil), Czech Republic (Zuri), Sweden (Jetson).
+
+**Sources:**
+
+1. Crisalion Mobility press releases 2022-2024.
+2. Tecnalia Research and Innovation public technical disclosures.
+
+---
+
 ### 2023-08-16 — DJI FlyCart 30
 
 - **id:** `dji-flycart-30`
@@ -385,4 +509,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

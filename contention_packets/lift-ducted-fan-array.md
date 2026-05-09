@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `lift-ducted-fan-array`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `lift-ducted-fan-array`  
-**Entries:** 9 (9 commons-grade, 0 draft)  
+**Entries:** 11 (11 commons-grade, 0 draft)  
 **Earliest disclosure:** 1966-03-17  
 **Most recent disclosure:** 2019-05-16
 
@@ -189,6 +189,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-04 — Volansi VBAT
+
+- **id:** `volansi-vbat`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volansi Inc / Martin UAV (acquired by Shield AI 2021)
+- **disclosure citation:** Volansi VBAT autonomous tail-sitter cargo VTOL publicly disclosed April 2018; Volansi delivered medical and military supplies operationally 2019-2022. Acquired by Shield AI 2021-08. Volans-i original company ceased independent operation 2022 after acquisition by Shield AI.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-ducted-fan-array`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `cert-faa-bvlos-waiver`
+
+**Prior art notes:**
+
+> Volansi VBAT is the leading autonomous tail-sitter cargo VTOL deployed operationally for medical/military supply runs 2019-2022. Establishes prior art for: (1) ducted-fan tail-sitter cargo VTOL architecture, (2) operational FAA BVLOS waiver framework for autonomous tail-sitter UAS. Together with aerovironment-skytote and pivotal-blackfly, comprehensively places tail-sitter VTOL architecture in modern operational coverage.
+
+**Sources:**
+
+1. Volans-i / Volansi press releases 2018-2022.
+2. Shield AI acquisition disclosures 2021.
+3. FAA Part 137 / UAS operational approvals public records.
+
+---
+
 ### 2018-11-08 — Pegasus Vertical Business Jet
 
 - **id:** `pegasus-universal-aerospace`
@@ -207,6 +228,26 @@ cite, copy, or redistribute these contentions.
 1. Pegasus Universal Aerospace press releases 2018–2024.
 2. South African Civil Aviation Authority engagement records.
 3. Aero South Africa exhibition materials 2018-11-08.
+
+---
+
+### 2019-04 — Sabrewing Rhaegal-A
+
+- **id:** `sabrewing-rhaegal-a`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sabrewing Aircraft Company
+- **disclosure citation:** Sabrewing Aircraft Rhaegal-A unveiled April 2019; sub-scale prototype hover trials 2020. Designed for 4,500 lb (2,040 kg) cargo capacity in unmanned configuration. Documented in Sabrewing technical materials and FAA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-ducted-fan-array`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `autonomy-pilot-removed`, `cert-part-23`
+
+**Prior art notes:**
+
+> Sabrewing Rhaegal-A establishes US prior art for heavy-cargo (2-ton class) hybrid-electric eVTOL with ducted-fan architecture. Distinct from Elroy Air Chaparral by larger payload and ducted-fan rather than open-rotor lift. Anticipates other heavy-cargo eVTOL claims filed post-2019.
+
+**Sources:**
+
+1. Sabrewing Aircraft technical materials 2019-2024.
+2. FAA Part 23 / Special Conditions filings.
 
 ---
 
@@ -238,4 +279,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

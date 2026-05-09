@@ -1,16 +1,16 @@
 ---
 title: "transition-conversion-corridor"
 parent: "Invalidity Contentions"
-nav_order: 36
+nav_order: 37
 layout: default
 ---
 
 # Invalidity Contention Packet — `transition-conversion-corridor`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `transition-conversion-corridor`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
-**Earliest disclosure:** 1977-05-03  
+**Entries:** 6 (6 commons-grade, 0 draft)  
+**Earliest disclosure:** 1955-08-11  
 **Most recent disclosure:** 2018-12-20
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1955-08-11 — Bell XV-3
+
+- **id:** `bell-xv-3`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bell Helicopter / U.S. Air Force / U.S. Army
+- **disclosure citation:** Bell XV-3 first flight 1955-08-11 at Hurst TX; first complete transition from helicopter to airplane mode 1958-12-18 — the first tilt-rotor in history to achieve full conversion. NACA / NASA / Army joint research program. Documented exhaustively in NASA SP-2000-4517 (which is primarily the XV-15 history but includes detailed XV-3 lineage discussion).
+- **disclosed subsystems:** `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `transition-conversion-corridor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Bell XV-3 is the foundational disclosure of the tilt-rotor architecture — *the* original tilt-rotor predating Bell XV-15 by 22 years. Critically: the XV-3 is the first aircraft in history to achieve complete tilt-rotor transition from helicopter mode to airplane mode (1958-12-18, by Bill Quinlan). Establishes prior art for: (1) the entire tilt-rotor architectural concept (cross-shafted single-engine wingtip prop-rotors with nacelle tilt), (2) the conversion-corridor envelope methodology, (3) the lineage that produces XV-15 → V-22 → AW609 → Joby S4 → Archer Midnight → Vertical VX4 → Hyundai Supernal → Geely Aerofugia → Bell V-280 Valor. NACA/NASA/U.S. Army joint research program; comprehensively in the public domain. **Filed against any tilt-rotor patent claim asserting novelty over the basic wingtip-tilting prop-rotor architecture, this 1955-1958 disclosure is the deepest US public-domain anchor available.**
+
+**Sources:**
+
+1. Maisel, M.D., Giulianetti, D.J., Dugan, D.C. The History of the XV-15 Tilt Rotor Research Aircraft. NASA SP-2000-4517, 2000 (detailed XV-3 lineage chapter).
+2. NASA TN D-2538, 'Performance Tests of the Bell XV-3 Tilt-Rotor Aircraft,' 1965.
+3. Bell Helicopter XV-3 program archives.
+
+---
 
 ### 1977-05-03 — Bell XV-15
 
@@ -155,4 +176,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

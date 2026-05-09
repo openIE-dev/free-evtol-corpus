@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `autonomy-bvlos-detect-and-avoid`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `autonomy-bvlos-detect-and-avoid`  
-**Entries:** 7 (7 commons-grade, 0 draft)  
+**Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 2017-04-26  
 **Most recent disclosure:** 2023-08-16
 
@@ -105,6 +105,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-04 — Volansi VBAT
+
+- **id:** `volansi-vbat`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volansi Inc / Martin UAV (acquired by Shield AI 2021)
+- **disclosure citation:** Volansi VBAT autonomous tail-sitter cargo VTOL publicly disclosed April 2018; Volansi delivered medical and military supplies operationally 2019-2022. Acquired by Shield AI 2021-08. Volans-i original company ceased independent operation 2022 after acquisition by Shield AI.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-ducted-fan-array`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `cert-faa-bvlos-waiver`
+
+**Prior art notes:**
+
+> Volansi VBAT is the leading autonomous tail-sitter cargo VTOL deployed operationally for medical/military supply runs 2019-2022. Establishes prior art for: (1) ducted-fan tail-sitter cargo VTOL architecture, (2) operational FAA BVLOS waiver framework for autonomous tail-sitter UAS. Together with aerovironment-skytote and pivotal-blackfly, comprehensively places tail-sitter VTOL architecture in modern operational coverage.
+
+**Sources:**
+
+1. Volans-i / Volansi press releases 2018-2022.
+2. Shield AI acquisition disclosures 2021.
+3. FAA Part 137 / UAS operational approvals public records.
+
+---
+
 ### 2018-08 — Pyka Pelican Cargo
 
 - **id:** `pyka-pelican`
@@ -144,6 +165,27 @@ cite, copy, or redistribute these contentions.
 1. Elroy Air press releases and technical white papers 2019–2024.
 2. USAF Agility Prime program disclosures.
 3. FAA filings related to autonomous cargo operations.
+
+---
+
+### 2020-09 — Manna Air Delivery drone
+
+- **id:** `manna-air-delivery`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Manna Drone Delivery Ltd
+- **disclosure citation:** Manna Drone Delivery Ltd founded 2018 in Dublin by Bobby Healy; operational food delivery service launched September 2020 in Oranmore, Galway; expanded to multiple Irish towns and UK 2021-2024. Documented in Irish Aviation Authority (IAA) operational approvals and Manna press materials.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `autonomy-utm-integration`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> Manna Air Delivery establishes Ireland's lead commercial drone-delivery OEM with operational deployment 2020-2024 across Irish towns. Distinctive: tethered cargo drop without landing (architectural variant of cargo delivery distinct from DJI FlyCart's set-down approach). Adds Ireland to the Western European eVTOL ecosystem.
+
+**Sources:**
+
+1. Manna Drone Delivery press releases 2020-2024.
+2. Irish Aviation Authority operational approvals public record.
+3. Reuters and Irish Times coverage 2020-2024.
 
 ---
 
@@ -196,4 +238,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

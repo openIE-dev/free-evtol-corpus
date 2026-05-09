@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `lift-tilt-rotor`
 
-**19 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1959-06-15
+Earliest disclosure: 1955-08-11
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bell XV-3 (1955-08-11)
+
+- **id**: `bell-xv-3`
+- **corpus**: academic
+- **creator**: Bell Helicopter / U.S. Air Force / U.S. Army
+- **disclosure**: Bell XV-3 first flight 1955-08-11 at Hurst TX; first complete transition from helicopter to airplane mode 1958-12-18 — the first tilt-rotor in history to achieve full conversion. NACA / NASA / Army joint research program. Documented exhaustively in NASA SP-2000-4517 (which is primarily the XV-15 history but includes detailed XV-3 lineage discussion).
+- **ip status**: public-domain
+- **prior art notes**: Bell XV-3 is the foundational disclosure of the tilt-rotor architecture — *the* original tilt-rotor predating Bell XV-15 by 22 years. Critically: the XV-3 is the first aircraft in history to achieve complete tilt-rotor transition from helicopter mode to airplane mode (1958-12-18, by Bill Quinlan). Establishes prior art for: (1) the entire tilt-rotor architectural concept (cross-shafted single-engine wingtip prop-rotors with nacelle tilt), (2) the conversion-corridor envelope methodology, (3) the lineage that produces XV-15 → V-22 → AW609 → Joby S4 → Archer Midnight → Vertical VX4 → Hyundai Supernal → Geely Aerofugia → Bell V-280 Valor. NACA/NASA/U.S. Army joint research program; comprehensively in the public domain. **Filed against any tilt-rotor patent claim asserting novelty over the basic wingtip-tilting prop-rotor architecture, this 1955-1958 disclosure is the deepest US public-domain anchor available.**
 
 ## Kamov Ka-22 Vintokryl (1959-06-15)
 
@@ -50,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: V-22 Osprey first flight 1989-03-19 at Bell Flight Research Center, Arlington TX; full operational capability declared 2007. Aircraft and engineering disclosures published exhaustively in NAVAIR / Marine Corps reports and in Norton's Bell-Boeing V-22 Osprey volume.
 - **ip status**: patented
 - **prior art notes**: The V-22 Osprey is the production tilt-rotor that brought XV-15 prior art into operational service. Establishes prior art for: (1) production-grade triplex fly-by-wire tilt-rotor flight control, (2) cross-shafted prop-rotor drive with single-engine emergency operation in hover, (3) the operational conversion corridor with explicit nacelle-angle commanded transition. Bell's V-22-era tilt-rotor patents are largely now expired (most filed 1985–1995, 20-year terms). Together with XV-15, comprehensively places production tilt-rotor architecture in the public domain. Joby, Archer, and Vertical Aerospace's tilt-rotor claims are anticipated by V-22 disclosures where they overlap on architecture rather than electric-specific actuation.
+
+## Helldiver carrier (Patlabor) (1989-04-13)
+
+- **id**: `patlabor-helldiver`
+- **corpus**: fictional
+- **creator**: Headgear / Yutaka Izubuchi (mecha design) / Sunrise / Bandai Visual
+- **disclosure**: Patlabor: The Mobile Police (機動警察パトレイバー), original video animation first release 1988-04-25; theatrical film Patlabor: The Movie released 1989-04-13. The Helldiver mecha-carrier and other Patlabor flight machines documented in the Patlabor Mechanical Files (Bandai, multiple volumes) and Headgear design archives.
+- **ip status**: fictional
+- **prior art notes**: The Patlabor Helldiver establishes 1989 Japanese fictional prior art for tilt-rotor cargo carrier architecture in cinematic depiction contemporaneous with V-22 Osprey first flight (1989). Yutaka Izubuchi's mecha design notes explicitly reference V-22 lineage. Combined with macross-vf-1-veritech (1982), gundam-gaw (1979), ghost-in-the-shell-tiltrotor (1989), and laputa-flapter (1986), provides comprehensive Japanese fictional prior-art base for tilt-rotor and rotor-craft architectures.
 
 ## Section 9 Tilt-Rotor (Ghost in the Shell) (1989-05)
 
@@ -132,6 +150,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The Joby S4 is the lead commercial tilt-rotor electric eVTOL. Direct architectural descendant of bell-xv-15 (1977) and v-22-osprey (1989) — Joby's tilt geometry, conversion corridor, and gimbaled prop-rotor topology are classical tilt-rotor architecture with electric distributed propulsion substituted for cross-shafted turboshaft. Establishes prior art for: (1) six-rotor tilt-rotor with stop-in-cruise props, (2) BLDC direct-drive tilt-rotor propulsion, (3) Part 23 SVO certification basis. Joby's patent estate (US 10,994,841 et seq.) covers specific implementations but is anticipated on the architectural level by XV-15 and V-22 disclosures.
 
+## Kitty Hawk Heaviside (2019-10-03)
+
+- **id**: `kittyhawk-heaviside`
+- **corpus**: private
+- **creator**: Kitty Hawk Corporation / Larry Page
+- **disclosure**: Kitty Hawk Heaviside publicly unveiled 2019-10-03 at TED Conference / Wired25 Festival; first manned flight 2019-09. Kitty Hawk Corporation (funded by Larry Page) ceased operations 2022-09-21. Documented in Kitty Hawk press releases and the public technical paper 'Heaviside: A Single-Pilot eVTOL Aircraft' (Vertical Flight Society, 2020).
+- **ip status**: patented
+- **prior art notes**: Kitty Hawk Heaviside establishes US prior art for ultralight-class single-pilot tilt-rotor eVTOL with explicit low-noise design optimization. Although Kitty Hawk Corporation ceased operations 2022, the Heaviside disclosure is comprehensive — Larry Page-funded program with VFS Forum technical paper publication and Kitty Hawk's continued patent portfolio licensable through successor entities. Kitty Hawk also produced Cora (which became Wisk Aero after the Boeing JV, covered separately).
+
 ## Manta Aircraft ANN2 (2020-04)
 
 - **id**: `manta-aircraft-ann2`
@@ -167,6 +194,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vertical Aerospace VX4 unveiled 2021-09-29 at SPAC announcement / investor presentation; first tethered hover 2022-09-26; first untethered transition 2024-12. SPAC merger with Broadstone Acquisition (NYSE: EVTL) completed 2021-12. Lead investors include Microsoft / Avolon / American Airlines / Honeywell / Rolls-Royce.
 - **ip status**: patented
 - **prior art notes**: Vertical Aerospace VX4 is the United Kingdom's lead commercial eVTOL — the post-Hawker British vectored/tilt VTOL inheritance translated into electric propulsion. The 4+4 tilt-and-lift hybrid is architecturally between Joby S4 (6 tilt) and Archer Midnight (6+6 hybrid). Establishes UK prior-art lineage for commercial tilt-rotor eVTOL; Rolls-Royce propulsion subsystem involvement provides direct industrial-scale supplier coverage.
+
+## Crisalion Mobility Integrity (2022-09-08)
+
+- **id**: `crisalion-integrity`
+- **corpus**: private
+- **creator**: Crisalion Mobility S.L. (Tecnalia Research and Innovation spinoff)
+- **disclosure**: Crisalion Mobility Integrity design publicly unveiled 2022-09-08 at Madrid; sub-scale demonstrator hover 2023. Crisalion Mobility spun off from Tecnalia Research and Innovation (Basque Country research center). Documented in Crisalion press materials and Tecnalia research disclosures.
+- **ip status**: patented
+- **prior art notes**: Crisalion Mobility Integrity is Spain's lead commercial eVTOL — Tecnalia Research and Innovation (Basque Country) spin-off establishes Spanish industrial prior-art lineage for tilt-rotor distributed-electric passenger eVTOL. Adds Spain to the European eVTOL OEM map alongside Germany (Volocopter, Lilium, Wingcopter, Airbus CityAirbus), Italy (Leonardo, Manta), Netherlands (PAL-V), Slovakia (Klein Vision, AeroMobil), Czech Republic (Zuri), Sweden (Jetson).
 
 ## TCab Tech E20 (2022-12-07)
 

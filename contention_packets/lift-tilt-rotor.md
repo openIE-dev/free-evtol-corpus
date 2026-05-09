@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `lift-tilt-rotor`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `lift-tilt-rotor`  
-**Entries:** 19 (19 commons-grade, 0 draft)  
-**Earliest disclosure:** 1959-06-15  
+**Entries:** 23 (23 commons-grade, 0 draft)  
+**Earliest disclosure:** 1955-08-11  
 **Most recent disclosure:** 2024-01-09
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1955-08-11 — Bell XV-3
+
+- **id:** `bell-xv-3`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bell Helicopter / U.S. Air Force / U.S. Army
+- **disclosure citation:** Bell XV-3 first flight 1955-08-11 at Hurst TX; first complete transition from helicopter to airplane mode 1958-12-18 — the first tilt-rotor in history to achieve full conversion. NACA / NASA / Army joint research program. Documented exhaustively in NASA SP-2000-4517 (which is primarily the XV-15 history but includes detailed XV-3 lineage discussion).
+- **disclosed subsystems:** `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `transition-conversion-corridor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Bell XV-3 is the foundational disclosure of the tilt-rotor architecture — *the* original tilt-rotor predating Bell XV-15 by 22 years. Critically: the XV-3 is the first aircraft in history to achieve complete tilt-rotor transition from helicopter mode to airplane mode (1958-12-18, by Bill Quinlan). Establishes prior art for: (1) the entire tilt-rotor architectural concept (cross-shafted single-engine wingtip prop-rotors with nacelle tilt), (2) the conversion-corridor envelope methodology, (3) the lineage that produces XV-15 → V-22 → AW609 → Joby S4 → Archer Midnight → Vertical VX4 → Hyundai Supernal → Geely Aerofugia → Bell V-280 Valor. NACA/NASA/U.S. Army joint research program; comprehensively in the public domain. **Filed against any tilt-rotor patent claim asserting novelty over the basic wingtip-tilting prop-rotor architecture, this 1955-1958 disclosure is the deepest US public-domain anchor available.**
+
+**Sources:**
+
+1. Maisel, M.D., Giulianetti, D.J., Dugan, D.C. The History of the XV-15 Tilt Rotor Research Aircraft. NASA SP-2000-4517, 2000 (detailed XV-3 lineage chapter).
+2. NASA TN D-2538, 'Performance Tests of the Bell XV-3 Tilt-Rotor Aircraft,' 1965.
+3. Bell Helicopter XV-3 program archives.
+
+---
 
 ### 1959-06-15 — Kamov Ka-22 Vintokryl
 
@@ -123,6 +144,27 @@ cite, copy, or redistribute these contentions.
 1. Norton, Bill. Bell-Boeing V-22 Osprey. Specialty Press, 2004.
 2. NAVAIR V-22 Operational Test Reports, declassified portions.
 3. Bell Helicopter V-22 patent filings, USPTO.
+
+---
+
+### 1989-04-13 — Helldiver carrier (Patlabor)
+
+- **id:** `patlabor-helldiver`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Headgear / Yutaka Izubuchi (mecha design) / Sunrise / Bandai Visual
+- **disclosure citation:** Patlabor: The Mobile Police (機動警察パトレイバー), original video animation first release 1988-04-25; theatrical film Patlabor: The Movie released 1989-04-13. The Helldiver mecha-carrier and other Patlabor flight machines documented in the Patlabor Mechanical Files (Bandai, multiple volumes) and Headgear design archives.
+- **disclosed subsystems:** `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> The Patlabor Helldiver establishes 1989 Japanese fictional prior art for tilt-rotor cargo carrier architecture in cinematic depiction contemporaneous with V-22 Osprey first flight (1989). Yutaka Izubuchi's mecha design notes explicitly reference V-22 lineage. Combined with macross-vf-1-veritech (1982), gundam-gaw (1979), ghost-in-the-shell-tiltrotor (1989), and laputa-flapter (1986), provides comprehensive Japanese fictional prior-art base for tilt-rotor and rotor-craft architectures.
+
+**Sources:**
+
+1. Patlabor: The Movie (機動警察パトレイバー the Movie). Bandai Visual / Sunrise, 1989.
+2. Patlabor Mechanical Files. Bandai, multiple volumes 1989-2010.
+3. Headgear (Mamoru Oshii / Yutaka Izubuchi / Kazunori Itō / Akemi Takada / Masami Yūki) design archives.
 
 ---
 
@@ -315,6 +357,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-10-03 — Kitty Hawk Heaviside
+
+- **id:** `kittyhawk-heaviside`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Kitty Hawk Corporation / Larry Page
+- **disclosure citation:** Kitty Hawk Heaviside publicly unveiled 2019-10-03 at TED Conference / Wired25 Festival; first manned flight 2019-09. Kitty Hawk Corporation (funded by Larry Page) ceased operations 2022-09-21. Documented in Kitty Hawk press releases and the public technical paper 'Heaviside: A Single-Pilot eVTOL Aircraft' (Vertical Flight Society, 2020).
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-103-ultralight`
+
+**Prior art notes:**
+
+> Kitty Hawk Heaviside establishes US prior art for ultralight-class single-pilot tilt-rotor eVTOL with explicit low-noise design optimization. Although Kitty Hawk Corporation ceased operations 2022, the Heaviside disclosure is comprehensive — Larry Page-funded program with VFS Forum technical paper publication and Kitty Hawk's continued patent portfolio licensable through successor entities. Kitty Hawk also produced Cora (which became Wisk Aero after the Boeing JV, covered separately).
+
+**Sources:**
+
+1. Kitty Hawk Corporation press releases 2019-2022.
+2. Vertical Flight Society Forum 76 paper, 'Heaviside,' 2020.
+3. TED Talk archive, Page/Kitty Hawk presentations 2018-2020.
+
+---
+
 ### 2020-04 — Manta Aircraft ANN2
 
 - **id:** `manta-aircraft-ann2`
@@ -399,6 +462,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-09-08 — Crisalion Mobility Integrity
+
+- **id:** `crisalion-integrity`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Crisalion Mobility S.L. (Tecnalia Research and Innovation spinoff)
+- **disclosure citation:** Crisalion Mobility Integrity design publicly unveiled 2022-09-08 at Madrid; sub-scale demonstrator hover 2023. Crisalion Mobility spun off from Tecnalia Research and Innovation (Basque Country research center). Documented in Crisalion press materials and Tecnalia research disclosures.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Crisalion Mobility Integrity is Spain's lead commercial eVTOL — Tecnalia Research and Innovation (Basque Country) spin-off establishes Spanish industrial prior-art lineage for tilt-rotor distributed-electric passenger eVTOL. Adds Spain to the European eVTOL OEM map alongside Germany (Volocopter, Lilium, Wingcopter, Airbus CityAirbus), Italy (Leonardo, Manta), Netherlands (PAL-V), Slovakia (Klein Vision, AeroMobil), Czech Republic (Zuri), Sweden (Jetson).
+
+**Sources:**
+
+1. Crisalion Mobility press releases 2022-2024.
+2. Tecnalia Research and Innovation public technical disclosures.
+
+---
+
 ### 2022-12-07 — TCab Tech E20
 
 - **id:** `tcab-tech-e20`
@@ -448,4 +531,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

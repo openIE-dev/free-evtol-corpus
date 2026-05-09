@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-vectored-thrust`
 
-**24 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1955-12-10
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ryan X-13 first conventional flight 1955-12-10 at Edwards AFB; first complete tail-sitting VTOL transition 1957-04-11 (Peter Girard / Ryan, the first complete jet VTOL transition: vertical takeoff from trailer, transition to horizontal flight, transition back, vertical landing). Documented in USAF Flight Test Center reports.
 - **ip status**: public-domain
 - **prior art notes**: The Ryan X-13 Vertijet is the first jet aircraft to demonstrate complete tail-sitting VTOL transition. Establishes prior art for: (1) jet-powered tail-sitter VTOL (XFY-1 was turboprop, X-13 is pure jet), (2) reaction-control bleed-jet hover attitude (later essentially identical to Hawker P.1127's reaction-control system), (3) the 'hovering hook' takeoff/landing concept on a vertical trailer. Combined with convair-xfy-pogo and lockheed-xfv-salmon, places jet/turboprop tail-sitter VTOL comprehensively in the public domain by 1957.
+
+## Bell X-14 (1957-02-19)
+
+- **id**: `bell-x-14`
+- **corpus**: academic
+- **creator**: Bell Aircraft / U.S. Air Force / NASA Ames
+- **disclosure**: Bell X-14 first hover 1957-02-19; first transition 1958-05-24. Operated by USAF and NASA Ames as a research testbed continuously 1957-1981. Documented in NASA TN, USAF Flight Test Center reports, and Smithsonian collections.
+- **ip status**: public-domain
+- **prior art notes**: Bell X-14 is the foundational US vectored-thrust VTOL testbed (1957) — predates Hawker P.1127 by 3 years. Establishes US prior-art lineage for deflected-jet vectored-thrust VTOL with reaction-control hover attitude. Distinct from Short SC.1 (1957) by using vane deflection rather than swivel nozzles. NASA Ames operated X-14 as a research testbed until 1981 — 24 years of accumulated public-domain flight data. Combined with hawker-p-1127, yak-36-freehand, dornier-do-31, vfw-fokker-vak-191b, and short-sc-1, comprehensively places vectored-thrust VTOL architecture in 1957-1971 prior art across US, UK, Soviet, and German lineages.
 
 ## Short SC.1 (1957-04-02)
 
@@ -96,6 +105,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Thunderbird 2 establishes a 1965 cinematic disclosure of a heavy-lift VTOL cargo transport with modular swappable cargo pods — the fictional precursor to Elroy Air Chaparral's modular cargo-pod architecture (2019) by 54 years. Establishes British fictional prior art for: (1) heavy-lift VTOL cargo aircraft, (2) modular detachable cargo-pod system, (3) rescue/utility VTOL operational concept. Combined with bladerunner-spinner and jetsons-aerocar, provides 1962–1982 fictional VTOL anchor base.
 
+## Federation shuttlecraft (Star Trek) (1967-01-05)
+
+- **id**: `star-trek-shuttlecraft`
+- **corpus**: fictional
+- **creator**: Gene Roddenberry / Desilu Productions / Paramount Pictures / CBS
+- **disclosure**: Star Trek: The Original Series, episode 'The Galileo Seven,' first aired 1967-01-05 on NBC. The Galileo shuttlecraft is the first Federation shuttlecraft depicted on-screen. Subsequent Star Trek series and films develop dozens of shuttlecraft variants with increasing engineering detail in the Star Trek: The Next Generation Technical Manual (Pocket Books, 1991) and successor reference works.
+- **ip status**: fictional
+- **prior art notes**: Star Trek shuttlecraft establish 60+ years of continuous fictional depiction of small passenger VTOL vehicles capable of atmospheric and orbital flight. The Star Trek: The Next Generation Technical Manual (Sternbach and Okuda, 1991) provides engineering-grade depictions including hover thrust ratings, atmospheric flight envelopes, and interior layout schematics. Combined with bladerunner-spinner (1982), fifth-element-flying-taxi (1997), star-wars (separate franchise), and iron-man-suit (1963), provides comprehensive multi-decade US/UK fictional prior-art base for compact-passenger VTOL transport.
+
 ## Dornier Do 31 (1967-02-10)
 
 - **id**: `dornier-do-31`
@@ -167,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Nausicaä of the Valley of the Wind (風の谷のナウシカ Kaze no Tani no Naushika), directed by Hayao Miyazaki, theatrical release 1984-03-11 in Japan. Tolmekian gunships and other aircraft documented in The Art of Nausicaä (Tokuma Shoten, 1984) and Miyazaki's earlier serialized manga (1982-1994).
 - **ip status**: fictional
 - **prior art notes**: Miyazaki's Tolmekian gunship establishes a Japanese cinematic disclosure of heavy military VTOL with multi-fan distributed lift architecture. The Art of Nausicaä (Tokuma Shoten, 1984) and the 1982-1994 manga provide detailed engineering depictions beyond the film. Establishes additional non-anglosphere fictional prior-art base for ducted-fan-array VTOL (with bladerunner-spinner and lilium-jet).
+
+## UD-4L Cheyenne dropship (Aliens) (1986-07-18)
+
+- **id**: `aliens-cheyenne-dropship`
+- **corpus**: fictional
+- **creator**: James Cameron / Ron Cobb (concept design) / 20th Century Fox
+- **disclosure**: Aliens, directed by James Cameron, theatrical release 1986-07-18 in the U.S. The UD-4L Cheyenne dropship designed by Ron Cobb, with engineering depth in the Aliens Colonial Marines Technical Manual (Lee Brimmicombe-Wood, HarperPrism 1995) and ongoing Alien franchise design materials.
+- **ip status**: fictional
+- **prior art notes**: The Aliens UD-4L Cheyenne dropship establishes 1986 cinematic prior art for tilt-thruster military VTOL atmospheric drop-vehicle architecture. Ron Cobb's design materials and the Aliens Colonial Marines Technical Manual (1995) provide engineering-grade depictions including thrust vectoring schematics. Combined with thunderbird-2 (UK, 1965), macross-vf-1-veritech (JP, 1982), gundam-gaw (JP, 1979), and avatar-samson-scorpion (US, 2009), provides multi-decade cinematic anticipation of military tilt-thruster VTOL transport architecture.
 
 ## Yakovlev Yak-141 (1987-03-09)
 

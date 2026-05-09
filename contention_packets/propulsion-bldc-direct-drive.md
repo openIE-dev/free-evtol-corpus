@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `propulsion-bldc-direct-drive`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `propulsion-bldc-direct-drive`  
-**Entries:** 31 (31 commons-grade, 0 draft)  
+**Entries:** 36 (36 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-10-21  
 **Most recent disclosure:** 2024-04-04
 
@@ -60,6 +60,47 @@ cite, copy, or redistribute these contentions.
 1. Senkel, T., Zosel, A., Wolf, S. e-volo flight test reports, 2011.
 2. Volocopter GmbH patent family, esp. DE102010032217.
 3. DLR magazine coverage 2011–2012 of first manned multicopter flight.
+
+---
+
+### 2013-01-31 — Bitcraze Crazyflie
+
+- **id:** `bitcraze-crazyflie`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Bitcraze AB
+- **disclosure citation:** Bitcraze Crazyflie 1.0 publicly released 2013-01-31 as open hardware (BSD/CERN-OHL licensed); subsequent Crazyflie 2.X (2016) widely adopted in academic robotics research. Hardware design files openly published at github.com/bitcraze. Founded by Arnaud Taffanel, Tobias Antonsson, and Marcus Eliasson.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `propulsion-bldc-direct-drive`, `cert-experimental`
+
+**Prior art notes:**
+
+> Bitcraze Crazyflie is the canonical open-hardware micro-quadrotor reference platform — used in 1000+ academic papers and hundreds of university research labs worldwide as the standard small-quadrotor experimental platform. Establishes Swedish prior art for open-hardware quadrotor design and substantially places small-quadrotor architecture in the open-hardware public domain via CERN-OHL/BSD/GPL licensing. Combined with ardupilot-quadplane and px4-vtol, comprehensively places open-source / open-hardware multirotor design in prior art.
+
+**Sources:**
+
+1. Bitcraze AB Crazyflie repository, github.com/bitcraze.
+2. Honegger, D. et al. 'An Open Source Indoor Visual Odometry.' ICRA 2013.
+3. Multiple academic papers using Crazyflie as research platform 2013-2024.
+
+---
+
+### 2014-07 — H3 Dynamics HyFly hydrogen-electric eVTOL
+
+- **id:** `h3-dynamics-hyfly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** H3 Dynamics (Singapore) / H3 Dynamics SAS (France)
+- **disclosure citation:** H3 Dynamics founded 2014-07 in Singapore by Taras Wankewycz; hydrogen fuel-cell UAS commercialized starting 2019; H3 Dynamics demonstrated long-endurance hydrogen UAS at Singapore Airshow 2022 and 2024.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `propulsion-hydrogen-fuel-cell`, `propulsion-bldc-direct-drive`, `control-differential-thrust-attitude`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> H3 Dynamics establishes Singapore prior art for hydrogen-fuel-cell VTOL UAS. The Singapore/France dual-headquarters structure is increasingly common for aerospace startups operating across multiple regulatory regimes. Adds Singapore to the eVTOL OEM map and establishes hydrogen-electric VTOL architecture prior art alongside AMSL Vertiia (AU passenger-class hydrogen).
+
+**Sources:**
+
+1. H3 Dynamics press releases 2014-2024.
+2. Singapore Airshow 2022 and 2024 exhibitor materials.
 
 ---
 
@@ -165,6 +206,27 @@ cite, copy, or redistribute these contentions.
 1. Hoversurf press releases 2017–2024.
 2. Dubai Police adoption announcement 2017-10-13.
 3. FAA Part 103 ultralight registration records.
+
+---
+
+### 2017-10-09 — Workhorse SureFly
+
+- **id:** `workhorse-surefly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Workhorse Group / Moog Aircraft Group
+- **disclosure citation:** Workhorse SureFly publicly unveiled 2017-10-09 at AOPA Norman OK; first tethered hover 2018-05-09 at Wilmington OH. Workhorse spun off SureFly to Moog Aircraft Group 2019-10. Program effectively shelved 2020. Documented in Workhorse SEC filings (NASDAQ: WKHS) 2017-2020.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `control-differential-thrust-attitude`, `safety-ballistic-parachute`, `airframe-composite-monocoque`, `cert-part-23`
+
+**Prior art notes:**
+
+> Workhorse SureFly establishes US prior art for hybrid-electric octocopter with ballistic recovery parachute as integrated standard equipment (2017). Although the program effectively shelved by 2020, the public disclosures (2017-10-09 unveiling, 2018-05-09 hover, Workhorse SEC filings) establish the prior-art date. SureFly's coaxial-pair-on-cruciform geometry anticipates Honda eVTOL and other hybrid-electric multirotor configurations filed post-2017.
+
+**Sources:**
+
+1. Workhorse Group Form 10-K SEC filings 2017-2020.
+2. Workhorse press releases 2017-2019.
+3. AOPA SureFly unveiling materials 2017-10-09.
 
 ---
 
@@ -376,6 +438,27 @@ cite, copy, or redistribute these contentions.
 1. Volocopter press releases 2013–2024.
 2. EASA SC-VTOL filings, public docket.
 3. Vertical Flight Society Forum technical papers from Volocopter 2014–2024.
+
+---
+
+### 2019-10-03 — Kitty Hawk Heaviside
+
+- **id:** `kittyhawk-heaviside`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Kitty Hawk Corporation / Larry Page
+- **disclosure citation:** Kitty Hawk Heaviside publicly unveiled 2019-10-03 at TED Conference / Wired25 Festival; first manned flight 2019-09. Kitty Hawk Corporation (funded by Larry Page) ceased operations 2022-09-21. Documented in Kitty Hawk press releases and the public technical paper 'Heaviside: A Single-Pilot eVTOL Aircraft' (Vertical Flight Society, 2020).
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-103-ultralight`
+
+**Prior art notes:**
+
+> Kitty Hawk Heaviside establishes US prior art for ultralight-class single-pilot tilt-rotor eVTOL with explicit low-noise design optimization. Although Kitty Hawk Corporation ceased operations 2022, the Heaviside disclosure is comprehensive — Larry Page-funded program with VFS Forum technical paper publication and Kitty Hawk's continued patent portfolio licensable through successor entities. Kitty Hawk also produced Cora (which became Wisk Aero after the Boeing JV, covered separately).
+
+**Sources:**
+
+1. Kitty Hawk Corporation press releases 2019-2022.
+2. Vertical Flight Society Forum 76 paper, 'Heaviside,' 2020.
+3. TED Talk archive, Page/Kitty Hawk presentations 2018-2020.
 
 ---
 
@@ -610,6 +693,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-09-08 — Crisalion Mobility Integrity
+
+- **id:** `crisalion-integrity`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Crisalion Mobility S.L. (Tecnalia Research and Innovation spinoff)
+- **disclosure citation:** Crisalion Mobility Integrity design publicly unveiled 2022-09-08 at Madrid; sub-scale demonstrator hover 2023. Crisalion Mobility spun off from Tecnalia Research and Innovation (Basque Country research center). Documented in Crisalion press materials and Tecnalia research disclosures.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Crisalion Mobility Integrity is Spain's lead commercial eVTOL — Tecnalia Research and Innovation (Basque Country) spin-off establishes Spanish industrial prior-art lineage for tilt-rotor distributed-electric passenger eVTOL. Adds Spain to the European eVTOL OEM map alongside Germany (Volocopter, Lilium, Wingcopter, Airbus CityAirbus), Italy (Leonardo, Manta), Netherlands (PAL-V), Slovakia (Klein Vision, AeroMobil), Czech Republic (Zuri), Sweden (Jetson).
+
+**Sources:**
+
+1. Crisalion Mobility press releases 2022-2024.
+2. Tecnalia Research and Innovation public technical disclosures.
+
+---
+
 ### 2022-12-07 — TCab Tech E20
 
 - **id:** `tcab-tech-e20`
@@ -701,4 +804,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

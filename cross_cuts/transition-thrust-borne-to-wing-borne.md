@@ -6,14 +6,32 @@ layout: default
 
 # Cross-cut: `transition-thrust-borne-to-wing-borne`
 
-**46 corpus entries disclose this subsystem.**
+**55 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1957-04-02
+Earliest disclosure: 1955-08-11
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bell XV-3 (1955-08-11)
+
+- **id**: `bell-xv-3`
+- **corpus**: academic
+- **creator**: Bell Helicopter / U.S. Air Force / U.S. Army
+- **disclosure**: Bell XV-3 first flight 1955-08-11 at Hurst TX; first complete transition from helicopter to airplane mode 1958-12-18 — the first tilt-rotor in history to achieve full conversion. NACA / NASA / Army joint research program. Documented exhaustively in NASA SP-2000-4517 (which is primarily the XV-15 history but includes detailed XV-3 lineage discussion).
+- **ip status**: public-domain
+- **prior art notes**: Bell XV-3 is the foundational disclosure of the tilt-rotor architecture — *the* original tilt-rotor predating Bell XV-15 by 22 years. Critically: the XV-3 is the first aircraft in history to achieve complete tilt-rotor transition from helicopter mode to airplane mode (1958-12-18, by Bill Quinlan). Establishes prior art for: (1) the entire tilt-rotor architectural concept (cross-shafted single-engine wingtip prop-rotors with nacelle tilt), (2) the conversion-corridor envelope methodology, (3) the lineage that produces XV-15 → V-22 → AW609 → Joby S4 → Archer Midnight → Vertical VX4 → Hyundai Supernal → Geely Aerofugia → Bell V-280 Valor. NACA/NASA/U.S. Army joint research program; comprehensively in the public domain. **Filed against any tilt-rotor patent claim asserting novelty over the basic wingtip-tilting prop-rotor architecture, this 1955-1958 disclosure is the deepest US public-domain anchor available.**
+
+## Bell X-14 (1957-02-19)
+
+- **id**: `bell-x-14`
+- **corpus**: academic
+- **creator**: Bell Aircraft / U.S. Air Force / NASA Ames
+- **disclosure**: Bell X-14 first hover 1957-02-19; first transition 1958-05-24. Operated by USAF and NASA Ames as a research testbed continuously 1957-1981. Documented in NASA TN, USAF Flight Test Center reports, and Smithsonian collections.
+- **ip status**: public-domain
+- **prior art notes**: Bell X-14 is the foundational US vectored-thrust VTOL testbed (1957) — predates Hawker P.1127 by 3 years. Establishes US prior-art lineage for deflected-jet vectored-thrust VTOL with reaction-control hover attitude. Distinct from Short SC.1 (1957) by using vane deflection rather than swivel nozzles. NASA Ames operated X-14 as a research testbed until 1981 — 24 years of accumulated public-domain flight data. Combined with hawker-p-1127, yak-36-freehand, dornier-do-31, vfw-fokker-vak-191b, and short-sc-1, comprehensively places vectored-thrust VTOL architecture in 1957-1971 prior art across US, UK, Soviet, and German lineages.
 
 ## Short SC.1 (1957-04-02)
 
@@ -23,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Short SC.1 first conventional flight 1957-04-02 at Boscombe Down; first untethered hover 1958-10-25; first complete VTOL transition 1960-04-06. UK Ministry of Aviation contract; documented in RAE technical reports and Short Brothers / Bombardier archives.
 - **ip status**: public-domain
 - **prior art notes**: The Short SC.1 is the first British VTOL aircraft to fly and the first aircraft worldwide to use a triplex-redundant fly-by-wire control system. Establishes prior art for: (1) dedicated-lift-jet + separate-cruise-jet architecture (the topology Lockheed F-35B would later adopt with lift-fan + main 3BSM), (2) triplex fly-by-wire — the foundational disclosure of three-channel redundant electronic flight control. Combined with hawker-p-1127, dornier-do-31, and short-sc-1, comprehensively covers the dedicated-lift-engine architecture in 1957–1967 prior art.
+
+## Boeing-Vertol VZ-2 (1957-08-13)
+
+- **id**: `boeing-vertol-vz-2`
+- **corpus**: academic
+- **creator**: Vertol (later Boeing-Vertol) / U.S. Army Transportation Research Command
+- **disclosure**: Vertol 76 / VZ-2 first hover 1957-08-13; first complete transition from hover to wing-borne flight 1958-07-15. The first aircraft in history to achieve complete tilt-wing transition. Documented in U.S. Army TRC reports and NASA Langley archives (the VZ-2 was extensively flight-tested at Langley 1959-1965).
+- **ip status**: public-domain
+- **prior art notes**: Boeing-Vertol VZ-2 is the foundational disclosure of the tilt-wing architecture — *the* first tilt-wing aircraft in history to fly and to achieve complete transition. Predates LTV XC-142 (1964) by seven years and Canadair CL-84 (1965) by eight years. Establishes prior art for: (1) the entire tilt-wing architectural concept (whole wing rotates with engines), (2) cross-shafted single-engine drive of dual propellers with engine-out lift continuation, (3) the tilt-wing conversion corridor methodology. U.S. Army public-domain disclosure. **Anticipates every modern tilt-wing claim including NASA GL-10 (2014), Aurora LightningStrike (2016), and Airbus Vahana (2018).**
 
 ## Doak VZ-4 (1958-02-25)
 
@@ -41,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ka-22 Vintokryl first hover 1959-06-15; first transition flight 1961-08-12. Set FAI world records 1961-11-07 (speed 356.3 km/h, payload-to-altitude 16,485 kg). Documented in Mikheyev's history of Kamov design bureau and in FAI record archives.
 - **ip status**: public-domain
 - **prior art notes**: The Ka-22 Vintokryl is the Soviet contemporaneous answer to U.S. tilt-rotor demonstrators. Establishes Soviet-bloc prior art (1959–1961) for: (1) wingtip-mounted lift-rotor + cruise-propeller architecture (parallel to but predating Bell XV-3 and XV-15 in some configurations), (2) record-setting heavy-payload VTOL operation. Soviet design documentation, declassified in the post-1991 era, is in the public domain by virtue of being USSR state work. Provides invalidity anchor for tilt-rotor-with-cruise-propeller hybrid claims that try to assert novelty over the basic split-propulsion approach.
+
+## Hiller X-18 (1959-11-24)
+
+- **id**: `hiller-x-18`
+- **corpus**: academic
+- **creator**: Hiller Aircraft / U.S. Air Force
+- **disclosure**: Hiller X-18 first conventional flight 1959-11-24; first hover 1960-12-12. Program cancelled 1961 after 20 flights without achieving full transition due to engine and stability problems. USAF / Hiller Aircraft program. Documented in USAF Flight Test Center reports and NASA archives.
+- **ip status**: public-domain
+- **prior art notes**: Hiller X-18 is the second tilt-wing aircraft to fly (after VZ-2, 1957) and the largest tilt-wing demonstrator before XC-142 (1964). Although the program ended without achieving full transition, the design disclosure is complete in USAF program documentation. Establishes prior art for: (1) twin-engine tilt-wing architecture at scale, (2) contra-rotating coaxial propellers in tilt-wing application. Combined with boeing-vertol-vz-2, ltv-xc-142, canadair-cl-84, and airbus-vahana, comprehensively places tilt-wing architecture in continuous prior-art coverage from 1957 forward.
 
 ## Hawker P.1127 (1960-10-21)
 
@@ -195,6 +231,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The Mi-30 is the Soviet/Russian tilt-rotor program — designed but not built before USSR dissolution. Establishes Soviet prior-art lineage for tilt-rotor architecture in heavy military configuration (parallel to V-22 development). Combined with kamov-ka-22-vintokryl (1959) and Mi-30 (1985), Soviet/Russian tilt-rotor / convertiplane design materials cover three decades and are comprehensively in the public domain.
 
+## UD-4L Cheyenne dropship (Aliens) (1986-07-18)
+
+- **id**: `aliens-cheyenne-dropship`
+- **corpus**: fictional
+- **creator**: James Cameron / Ron Cobb (concept design) / 20th Century Fox
+- **disclosure**: Aliens, directed by James Cameron, theatrical release 1986-07-18 in the U.S. The UD-4L Cheyenne dropship designed by Ron Cobb, with engineering depth in the Aliens Colonial Marines Technical Manual (Lee Brimmicombe-Wood, HarperPrism 1995) and ongoing Alien franchise design materials.
+- **ip status**: fictional
+- **prior art notes**: The Aliens UD-4L Cheyenne dropship establishes 1986 cinematic prior art for tilt-thruster military VTOL atmospheric drop-vehicle architecture. Ron Cobb's design materials and the Aliens Colonial Marines Technical Manual (1995) provide engineering-grade depictions including thrust vectoring schematics. Combined with thunderbird-2 (UK, 1965), macross-vf-1-veritech (JP, 1982), gundam-gaw (JP, 1979), and avatar-samson-scorpion (US, 2009), provides multi-decade cinematic anticipation of military tilt-thruster VTOL transport architecture.
+
 ## V-22 Osprey (1989-03-19)
 
 - **id**: `v-22-osprey`
@@ -212,6 +257,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Moller Skycar M200X (predecessor) first tethered hover 1989-04; M400 design publicly disclosed 1990 with continuous development through 2010s; first untethered M400 flight 2003-04 (limited tethered hover to 5 m). Moller holds the largest single inventor's portfolio of VTOL flying-car patents (>40 issued patents 1965-2015).
 - **ip status**: patented
 - **prior art notes**: Moller Skycar M400 is the foundational disclosure of the four-nacelle tilting-ducted-fan flying-car architecture. Although the M400 never achieved sustained free flight, Paul Moller's continuously-published patent portfolio (40+ issued US patents 1965-2015) constitutes the deepest single-inventor prior art base for VTOL flying-car designs. Establishes prior art for: (1) four-nacelle tilting-ducted-fan architecture, (2) Wankel rotary engine for VTOL propulsion, (3) clamshell thrust-vectoring deflectors. Most Moller patents have expired or are nearing expiration. Anticipates virtually every modern ducted-fan eVTOL (Lilium, AutoFlight, etc.) on architectural primitives.
+
+## Helldiver carrier (Patlabor) (1989-04-13)
+
+- **id**: `patlabor-helldiver`
+- **corpus**: fictional
+- **creator**: Headgear / Yutaka Izubuchi (mecha design) / Sunrise / Bandai Visual
+- **disclosure**: Patlabor: The Mobile Police (機動警察パトレイバー), original video animation first release 1988-04-25; theatrical film Patlabor: The Movie released 1989-04-13. The Helldiver mecha-carrier and other Patlabor flight machines documented in the Patlabor Mechanical Files (Bandai, multiple volumes) and Headgear design archives.
+- **ip status**: fictional
+- **prior art notes**: The Patlabor Helldiver establishes 1989 Japanese fictional prior art for tilt-rotor cargo carrier architecture in cinematic depiction contemporaneous with V-22 Osprey first flight (1989). Yutaka Izubuchi's mecha design notes explicitly reference V-22 lineage. Combined with macross-vf-1-veritech (1982), gundam-gaw (1979), ghost-in-the-shell-tiltrotor (1989), and laputa-flapter (1986), provides comprehensive Japanese fictional prior-art base for tilt-rotor and rotor-craft architectures.
 
 ## Section 9 Tilt-Rotor (Ghost in the Shell) (1989-05)
 
@@ -366,6 +420,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Bell Nexus is one of the Uber-Elevate-era US passenger eVTOL concepts (2019). Although the program wound down, the public design disclosures remain prior art for: (1) hybrid-electric tilting-ducted-fan eVTOL architecture, (2) Bell's specific tilt-duct geometry distinct from Joby's open-rotor tilt-rotor approach. Establishes additional US prior-art lineage for tilt-duct passenger eVTOL (with bell-x-22 from 1966).
 
+## Cargo VTOL (Wandering Earth) (2019-02-05)
+
+- **id**: `wandering-earth-cargo-vtol`
+- **corpus**: fictional
+- **creator**: Frant Gwo / Liu Cixin (original story) / China Film Group
+- **disclosure**: The Wandering Earth (流浪地球), directed by Frant Gwo, theatrical release 2019-02-05 in China; based on Liu Cixin's 2000 novella. Production design materials documented in The Art of The Wandering Earth (Renmin University Press, 2019). Sequel The Wandering Earth 2 (2023) expanded the depiction with detailed cargo-VTOL deployment scenes.
+- **ip status**: fictional
+- **prior art notes**: The Wandering Earth establishes 2019 Chinese cinematic prior art for heavy-cargo VTOL atmospheric transport in extreme-environment operation. Combined with the existing Chinese commercial eVTOL prior-art base (EHang, AutoFlight, AeroHT XPENG, TCab, Geely Aerofugia), establishes China's substantial multi-decade cultural and industrial VTOL footprint. Adds Chinese fictional anchor distinct from the Japanese-dominated Asian fictional prior-art base.
+
 ## Lilium Jet (7-seat) (2019-05-16)
 
 - **id**: `lilium-jet`
@@ -374,6 +437,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lilium Jet 5-seat prototype unveiled and first hover flight 2019-05-16 at Manching; 7-seat production design unveiled 2021-03-30. Disclosures continued through Lilium SPAC merger Form S-4 2021-09 and subsequent NASDAQ filings until bankruptcy 2024-10.
 - **ip status**: patented
 - **prior art notes**: Lilium Jet establishes prior art for the high-multiplicity ducted-fan-array eVTOL: 36 small embedded ducted fans tilting in flap-segment groupings to provide both lift and cruise. Architecturally a hyper-distributed extension of Bell X-22 (4 tilt-ducts) and Doak VZ-4 (2 tilt-ducts). Although Lilium filed for bankruptcy in October 2024, the patent estate (now in receivership / likely auctioned) covers specific implementations of the 36-fan ducted-array geometry and EASA SC-VTOL certification basis approaches. The fundamental architecture (multiple ducted fans in a tilting flap arrangement) is anticipated by Bell X-22 (1966).
+
+## Kitty Hawk Heaviside (2019-10-03)
+
+- **id**: `kittyhawk-heaviside`
+- **corpus**: private
+- **creator**: Kitty Hawk Corporation / Larry Page
+- **disclosure**: Kitty Hawk Heaviside publicly unveiled 2019-10-03 at TED Conference / Wired25 Festival; first manned flight 2019-09. Kitty Hawk Corporation (funded by Larry Page) ceased operations 2022-09-21. Documented in Kitty Hawk press releases and the public technical paper 'Heaviside: A Single-Pilot eVTOL Aircraft' (Vertical Flight Society, 2020).
+- **ip status**: patented
+- **prior art notes**: Kitty Hawk Heaviside establishes US prior art for ultralight-class single-pilot tilt-rotor eVTOL with explicit low-noise design optimization. Although Kitty Hawk Corporation ceased operations 2022, the Heaviside disclosure is comprehensive — Larry Page-funded program with VFS Forum technical paper publication and Kitty Hawk's continued patent portfolio licensable through successor entities. Kitty Hawk also produced Cora (which became Wisk Aero after the Boeing JV, covered separately).
 
 ## Manta Aircraft ANN2 (2020-04)
 
@@ -410,6 +482,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vertical Aerospace VX4 unveiled 2021-09-29 at SPAC announcement / investor presentation; first tethered hover 2022-09-26; first untethered transition 2024-12. SPAC merger with Broadstone Acquisition (NYSE: EVTL) completed 2021-12. Lead investors include Microsoft / Avolon / American Airlines / Honeywell / Rolls-Royce.
 - **ip status**: patented
 - **prior art notes**: Vertical Aerospace VX4 is the United Kingdom's lead commercial eVTOL — the post-Hawker British vectored/tilt VTOL inheritance translated into electric propulsion. The 4+4 tilt-and-lift hybrid is architecturally between Joby S4 (6 tilt) and Archer Midnight (6+6 hybrid). Establishes UK prior-art lineage for commercial tilt-rotor eVTOL; Rolls-Royce propulsion subsystem involvement provides direct industrial-scale supplier coverage.
+
+## Crisalion Mobility Integrity (2022-09-08)
+
+- **id**: `crisalion-integrity`
+- **corpus**: private
+- **creator**: Crisalion Mobility S.L. (Tecnalia Research and Innovation spinoff)
+- **disclosure**: Crisalion Mobility Integrity design publicly unveiled 2022-09-08 at Madrid; sub-scale demonstrator hover 2023. Crisalion Mobility spun off from Tecnalia Research and Innovation (Basque Country research center). Documented in Crisalion press materials and Tecnalia research disclosures.
+- **ip status**: patented
+- **prior art notes**: Crisalion Mobility Integrity is Spain's lead commercial eVTOL — Tecnalia Research and Innovation (Basque Country) spin-off establishes Spanish industrial prior-art lineage for tilt-rotor distributed-electric passenger eVTOL. Adds Spain to the European eVTOL OEM map alongside Germany (Volocopter, Lilium, Wingcopter, Airbus CityAirbus), Italy (Leonardo, Manta), Netherlands (PAL-V), Slovakia (Klein Vision, AeroMobil), Czech Republic (Zuri), Sweden (Jetson).
 
 ## TCab Tech E20 (2022-12-07)
 

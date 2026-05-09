@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `propulsion-hydrogen-fuel-cell`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2021-03
+Earliest disclosure: 2014-07
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## H3 Dynamics HyFly hydrogen-electric eVTOL (2014-07)
+
+- **id**: `h3-dynamics-hyfly`
+- **corpus**: private
+- **creator**: H3 Dynamics (Singapore) / H3 Dynamics SAS (France)
+- **disclosure**: H3 Dynamics founded 2014-07 in Singapore by Taras Wankewycz; hydrogen fuel-cell UAS commercialized starting 2019; H3 Dynamics demonstrated long-endurance hydrogen UAS at Singapore Airshow 2022 and 2024.
+- **ip status**: patented
+- **prior art notes**: H3 Dynamics establishes Singapore prior art for hydrogen-fuel-cell VTOL UAS. The Singapore/France dual-headquarters structure is increasingly common for aerospace startups operating across multiple regulatory regimes. Adds Singapore to the eVTOL OEM map and establishes hydrogen-electric VTOL architecture prior art alongside AMSL Vertiia (AU passenger-class hydrogen).
 
 ## AMSL Aero Vertiia (2021-03)
 

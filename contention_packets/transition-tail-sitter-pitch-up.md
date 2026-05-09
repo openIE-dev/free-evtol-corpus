@@ -1,15 +1,15 @@
 ---
 title: "transition-tail-sitter-pitch-up"
 parent: "Invalidity Contentions"
-nav_order: 39
+nav_order: 40
 layout: default
 ---
 
 # Invalidity Contention Packet — `transition-tail-sitter-pitch-up`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `transition-tail-sitter-pitch-up`  
-**Entries:** 8 (8 commons-grade, 0 draft)  
+**Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 1944-09  
 **Most recent disclosure:** 2018-07-12
 
@@ -190,6 +190,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-04 — Volansi VBAT
+
+- **id:** `volansi-vbat`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volansi Inc / Martin UAV (acquired by Shield AI 2021)
+- **disclosure citation:** Volansi VBAT autonomous tail-sitter cargo VTOL publicly disclosed April 2018; Volansi delivered medical and military supplies operationally 2019-2022. Acquired by Shield AI 2021-08. Volans-i original company ceased independent operation 2022 after acquisition by Shield AI.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-ducted-fan-array`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `cert-faa-bvlos-waiver`
+
+**Prior art notes:**
+
+> Volansi VBAT is the leading autonomous tail-sitter cargo VTOL deployed operationally for medical/military supply runs 2019-2022. Establishes prior art for: (1) ducted-fan tail-sitter cargo VTOL architecture, (2) operational FAA BVLOS waiver framework for autonomous tail-sitter UAS. Together with aerovironment-skytote and pivotal-blackfly, comprehensively places tail-sitter VTOL architecture in modern operational coverage.
+
+**Sources:**
+
+1. Volans-i / Volansi press releases 2018-2022.
+2. Shield AI acquisition disclosures 2021.
+3. FAA Part 137 / UAS operational approvals public records.
+
+---
+
 ### 2018-07-12 — Pivotal Helix (formerly Opener BlackFly)
 
 - **id:** `pivotal-blackfly`
@@ -218,4 +239,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

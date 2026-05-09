@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `control-differential-thrust-attitude`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `control-differential-thrust-attitude`  
-**Entries:** 16 (16 commons-grade, 0 draft)  
+**Entries:** 22 (22 commons-grade, 0 draft)  
 **Earliest disclosure:** 1922  
 **Most recent disclosure:** 2024-04-04
 
@@ -83,6 +83,48 @@ cite, copy, or redistribute these contentions.
 2. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
 3. Leishman, J. Gordon. Principles of Helicopter Aerodynamics, 2nd ed. Cambridge University Press, 2006, chapter 1.
 4. U.S. Army Air Service / McCook Field photographic and report archives, NARA.
+
+---
+
+### 1924-05-04 — Oehmichen No.2 helicopter
+
+- **id:** `oehmichen-helicopter`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Étienne Oehmichen
+- **disclosure citation:** Oehmichen No.2 set FAI absolute closed-circuit helicopter distance record 1924-05-04: 1,100 m at Valentigney, France, piloted by Oehmichen. The first rotorcraft to fly a kilometer closed-circuit course. Documented in FAI record archives and Oehmichen's contemporary publications.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> Étienne Oehmichen's No.2 helicopter is contemporaneous with the de Bothezat quadrotor (1922) but with explicit attitude control through dedicated small rotors. Establishes additional French prior art (with Cornu 1907) for: (1) compound multi-rotor lift + dedicated-attitude-rotor architecture, (2) the first practical demonstration of sustained closed-circuit rotorcraft flight. Oehmichen's published descriptions document his thinking explicitly: lift via primary rotors, attitude via auxiliary rotors. The architectural pattern anticipates modern eVTOL with separate lift and yaw effectors.
+
+**Sources:**
+
+1. Oehmichen, Étienne. 'L'Hélicoptère: ses progrès et ses possibilités.' Société des Ingénieurs Civils de France, 1925.
+2. FAI absolute helicopter record, 1924-05-04.
+3. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
+
+---
+
+### 1936-06-26 — Focke-Wulf Fa 61
+
+- **id:** `focke-wulf-fa-61`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Henrich Focke / Focke-Wulf Flugzeugbau
+- **disclosure citation:** Focke-Wulf Fa 61 first flight 1936-06-26 at Bremen by test pilot Ewald Rohlfs. Set multiple FAI helicopter world records 1937-1938 including duration, altitude, and distance. Famously demonstrated indoors by Hanna Reitsch at the Deutschlandhalle Berlin 1938-02. Documented in Focke-Wulf company archives, Allied technical intelligence, and Smithsonian collections.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Focke-Wulf Fa 61 is generally regarded as the first fully-practical helicopter — sustained controlled flight with all stability and control axes properly engineered. Establishes prior art for: (1) lateral side-by-side twin-rotor architecture (architectural ancestor of Mil V-12 and any modern eVTOL using lateral rotor pairs), (2) production-grade cyclic + collective + differential control across two rotors, (3) the first rotorcraft to set FAI records in every major category. Captured by Allied forces 1945; design materials in CIOS technical intelligence reports. Henrich Focke's subsequent Focke-Achgelis Fa 223 Drache was the first production helicopter to enter service.
+
+**Sources:**
+
+1. Focke, Henrich. 'Die Entwicklung der Hubschrauber.' Jahrbuch 1939 der WGL.
+2. Allied CIOS reports on Focke-Wulf rotorcraft, post-1945.
+3. Smith and Kay. German Aircraft of the Second World War. Putnam, 1972.
 
 ---
 
@@ -170,6 +212,47 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2013-01-31 — Bitcraze Crazyflie
+
+- **id:** `bitcraze-crazyflie`
+- **corpus:** open
+- **ip status:** open-permissive
+- **creator:** Bitcraze AB
+- **disclosure citation:** Bitcraze Crazyflie 1.0 publicly released 2013-01-31 as open hardware (BSD/CERN-OHL licensed); subsequent Crazyflie 2.X (2016) widely adopted in academic robotics research. Hardware design files openly published at github.com/bitcraze. Founded by Arnaud Taffanel, Tobias Antonsson, and Marcus Eliasson.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `propulsion-bldc-direct-drive`, `cert-experimental`
+
+**Prior art notes:**
+
+> Bitcraze Crazyflie is the canonical open-hardware micro-quadrotor reference platform — used in 1000+ academic papers and hundreds of university research labs worldwide as the standard small-quadrotor experimental platform. Establishes Swedish prior art for open-hardware quadrotor design and substantially places small-quadrotor architecture in the open-hardware public domain via CERN-OHL/BSD/GPL licensing. Combined with ardupilot-quadplane and px4-vtol, comprehensively places open-source / open-hardware multirotor design in prior art.
+
+**Sources:**
+
+1. Bitcraze AB Crazyflie repository, github.com/bitcraze.
+2. Honegger, D. et al. 'An Open Source Indoor Visual Odometry.' ICRA 2013.
+3. Multiple academic papers using Crazyflie as research platform 2013-2024.
+
+---
+
+### 2014-07 — H3 Dynamics HyFly hydrogen-electric eVTOL
+
+- **id:** `h3-dynamics-hyfly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** H3 Dynamics (Singapore) / H3 Dynamics SAS (France)
+- **disclosure citation:** H3 Dynamics founded 2014-07 in Singapore by Taras Wankewycz; hydrogen fuel-cell UAS commercialized starting 2019; H3 Dynamics demonstrated long-endurance hydrogen UAS at Singapore Airshow 2022 and 2024.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `propulsion-hydrogen-fuel-cell`, `propulsion-bldc-direct-drive`, `control-differential-thrust-attitude`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> H3 Dynamics establishes Singapore prior art for hydrogen-fuel-cell VTOL UAS. The Singapore/France dual-headquarters structure is increasingly common for aerospace startups operating across multiple regulatory regimes. Adds Singapore to the eVTOL OEM map and establishes hydrogen-electric VTOL architecture prior art alongside AMSL Vertiia (AU passenger-class hydrogen).
+
+**Sources:**
+
+1. H3 Dynamics press releases 2014-2024.
+2. Singapore Airshow 2022 and 2024 exhibitor materials.
+
+---
+
 ### 2015-04 — ArduPilot QuadPlane VTOL
 
 - **id:** `ardupilot-quadplane`
@@ -209,6 +292,27 @@ cite, copy, or redistribute these contentions.
 1. Hoversurf press releases 2017–2024.
 2. Dubai Police adoption announcement 2017-10-13.
 3. FAA Part 103 ultralight registration records.
+
+---
+
+### 2017-10-09 — Workhorse SureFly
+
+- **id:** `workhorse-surefly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Workhorse Group / Moog Aircraft Group
+- **disclosure citation:** Workhorse SureFly publicly unveiled 2017-10-09 at AOPA Norman OK; first tethered hover 2018-05-09 at Wilmington OH. Workhorse spun off SureFly to Moog Aircraft Group 2019-10. Program effectively shelved 2020. Documented in Workhorse SEC filings (NASDAQ: WKHS) 2017-2020.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `control-differential-thrust-attitude`, `safety-ballistic-parachute`, `airframe-composite-monocoque`, `cert-part-23`
+
+**Prior art notes:**
+
+> Workhorse SureFly establishes US prior art for hybrid-electric octocopter with ballistic recovery parachute as integrated standard equipment (2017). Although the program effectively shelved by 2020, the public disclosures (2017-10-09 unveiling, 2018-05-09 hover, Workhorse SEC filings) establish the prior-art date. SureFly's coaxial-pair-on-cruciform geometry anticipates Honda eVTOL and other hybrid-electric multirotor configurations filed post-2017.
+
+**Sources:**
+
+1. Workhorse Group Form 10-K SEC filings 2017-2020.
+2. Workhorse press releases 2017-2019.
+3. AOPA SureFly unveiling materials 2017-10-09.
 
 ---
 
@@ -317,6 +421,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-09 — Manna Air Delivery drone
+
+- **id:** `manna-air-delivery`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Manna Drone Delivery Ltd
+- **disclosure citation:** Manna Drone Delivery Ltd founded 2018 in Dublin by Bobby Healy; operational food delivery service launched September 2020 in Oranmore, Galway; expanded to multiple Irish towns and UK 2021-2024. Documented in Irish Aviation Authority (IAA) operational approvals and Manna press materials.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `autonomy-utm-integration`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> Manna Air Delivery establishes Ireland's lead commercial drone-delivery OEM with operational deployment 2020-2024 across Irish towns. Distinctive: tethered cargo drop without landing (architectural variant of cargo delivery distinct from DJI FlyCart's set-down approach). Adds Ireland to the Western European eVTOL ecosystem.
+
+**Sources:**
+
+1. Manna Drone Delivery press releases 2020-2024.
+2. Irish Aviation Authority operational approvals public record.
+3. Reuters and Irish Times coverage 2020-2024.
+
+---
+
 ### 2021-07-16 — XPENG AeroHT X2
 
 - **id:** `aeroht-xpeng-x2`
@@ -387,4 +512,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

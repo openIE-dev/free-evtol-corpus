@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-part-23`
 
-**18 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2017-04-20
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AeroMobil 4.0 publicly unveiled 2017-04-20 at Top Marques Monaco; predecessor AeroMobil 3.0 first flew 2014-10-29 (with crash 2015-05-08, pilot Stefan Klein survived; Klein subsequently founded Klein Vision). AeroMobil holds patents on retractable-wing roadable aircraft.
 - **ip status**: patented
 - **prior art notes**: AeroMobil 4.0 is Slovakia's other major drive+fly transformer disclosure (Klein departed AeroMobil after the 3.0 crash and founded Klein Vision). Establishes parallel Slovak prior-art lineage with hybrid-parallel powerplant — distinct from Klein Vision's pure-combustion approach. Combined with klein-vision-aircar, places drive+fly transformer prior art comprehensively in Slovak hands. Anticipates ASKA A5 and all subsequent drive+fly transformer claims.
+
+## Workhorse SureFly (2017-10-09)
+
+- **id**: `workhorse-surefly`
+- **corpus**: private
+- **creator**: Workhorse Group / Moog Aircraft Group
+- **disclosure**: Workhorse SureFly publicly unveiled 2017-10-09 at AOPA Norman OK; first tethered hover 2018-05-09 at Wilmington OH. Workhorse spun off SureFly to Moog Aircraft Group 2019-10. Program effectively shelved 2020. Documented in Workhorse SEC filings (NASDAQ: WKHS) 2017-2020.
+- **ip status**: patented
+- **prior art notes**: Workhorse SureFly establishes US prior art for hybrid-electric octocopter with ballistic recovery parachute as integrated standard equipment (2017). Although the program effectively shelved by 2020, the public disclosures (2017-10-09 unveiling, 2018-05-09 hover, Workhorse SEC filings) establish the prior-art date. SureFly's coaxial-pair-on-cruciform geometry anticipates Honda eVTOL and other hybrid-electric multirotor configurations filed post-2017.
 
 ## ASKA A5 (2018)
 
@@ -95,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Elroy Air founded 2016 by David Merrill and Kofi Asante; sub-scale Chaparral demonstrator publicly unveiled 2019-01-30; full-scale C1 first hover flight 2023-11-12 at Camarillo, CA. Air Force AFWERX / USAF Agility Prime contracts 2021-09 onward.
 - **ip status**: patented
 - **prior art notes**: Elroy Air Chaparral establishes prior art for: (1) hybrid-electric (turbine-genset + battery) cargo eVTOL, distinct from pure-battery designs by extending range to 500+ km, (2) modular swappable cargo-pod architecture decoupled from aircraft turnaround. Hybrid powerplant anticipates similar claims on series-hybrid eVTOL propulsion topology.
+
+## Sabrewing Rhaegal-A (2019-04)
+
+- **id**: `sabrewing-rhaegal-a`
+- **corpus**: private
+- **creator**: Sabrewing Aircraft Company
+- **disclosure**: Sabrewing Aircraft Rhaegal-A unveiled April 2019; sub-scale prototype hover trials 2020. Designed for 4,500 lb (2,040 kg) cargo capacity in unmanned configuration. Documented in Sabrewing technical materials and FAA filings.
+- **ip status**: patented
+- **prior art notes**: Sabrewing Rhaegal-A establishes US prior art for heavy-cargo (2-ton class) hybrid-electric eVTOL with ducted-fan architecture. Distinct from Elroy Air Chaparral by larger payload and ducted-fan rather than open-rotor lift. Anticipates other heavy-cargo eVTOL claims filed post-2019.
 
 ## Beta Technologies Alia-250 (2020-03-10)
 

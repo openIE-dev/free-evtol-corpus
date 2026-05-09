@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `cert-military`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `cert-military`  
-**Entries:** 34 (34 commons-grade, 0 draft)  
-**Earliest disclosure:** 1943-05  
+**Entries:** 37 (37 commons-grade, 0 draft)  
+**Earliest disclosure:** 1941-10-30  
 **Most recent disclosure:** 2019-03-21
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1941-10-30 — Flettner Fl 282 Kolibri
+
+- **id:** `flettner-fl-282-kolibri`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Anton Flettner / Flettner Flugzeugbau
+- **disclosure citation:** Flettner Fl 282 Kolibri first flight 1941-10-30 (some sources say 1941-08); production order from Kriegsmarine 1942 for 1,000 aircraft; only ~24 completed before Allied strategic bombing of Flettner factory 1944. The first production-ordered intermeshing-rotor helicopter in history. Documented in Allied CIOS reports and Smithsonian collections.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> Flettner Fl 282 Kolibri establishes the foundational intermeshing-rotor (synchropter) architecture. Anton Flettner's design directly inspired Charles H. Kaman's post-war intermeshing-rotor work; Kaman acknowledged Flettner as a primary technical influence. Establishes prior art for: (1) intermeshing-rotor architecture in production form, (2) torque-cancellation without anti-torque tail rotor via two-rotor synchronization. Combined with kaman-hh-43-huskie (1953) and kaman-k-max (1991), provides 50+ years of intermeshing-rotor prior art continuously in the public domain.
+
+**Sources:**
+
+1. Flettner, Anton. Mein Weg zum Hubschrauber. Verlag der Luftfahrtforschung, 1949.
+2. Allied CIOS reports on Flettner Fl 282, post-1945.
+3. Smith and Kay. German Aircraft of the Second World War. Putnam, 1972.
+
+---
 
 ### 1943-05 — Doblhoff WNF 342
 
@@ -614,6 +635,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2005-04 — Schiebel Camcopter S-100
+
+- **id:** `schiebel-camcopter-s-100`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Schiebel Aircraft GmbH
+- **disclosure citation:** Schiebel Camcopter S-100 publicly disclosed April 2005; entered service with Royal Australian Navy 2010 and Italian Navy 2011; deployed by 30+ naval forces worldwide. One of the most-deployed naval VTOL UAVs in history. Documented in Schiebel technical materials and naval procurement records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Schiebel Camcopter S-100 is the most-deployed naval VTOL UAV in the world (30+ navies, 30,000+ hours of operational flight). Establishes Austrian industrial prior-art lineage for autonomous shipborne VTOL UAS. Although conventional single-rotor architecture (not eVTOL specifically), the operational disclosure of autonomous shipboard VTOL operations is comprehensive and applicable to eVTOL claims around naval deployment.
+
+**Sources:**
+
+1. Schiebel Aircraft GmbH press releases 2005-2024.
+2. Royal Australian Navy / Italian Navy procurement records.
+
+---
+
+### 2007 — Saab Skeldar V-200
+
+- **id:** `saab-skeldar-v-200`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** UMS Skeldar (Saab AB / UMS Aero joint venture)
+- **disclosure citation:** Saab Skeldar (originally Saab IsoMatic / Saab AERTEC) first flight 2007; in service with Spanish Armada 2018 and German Bundeswehr 2020. UMS Skeldar joint venture established 2015. Documented in Saab and UMS technical materials and naval procurement disclosures.
+- **disclosed subsystems:** `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Saab Skeldar V-200 is Sweden's lead naval VTOL UAV — competitor to Schiebel Camcopter S-100 with similar architectural pattern but Swedish industrial provenance. Adds Saab as Swedish defense industrial prior-art anchor alongside jetson-one (Sweden consumer eVTOL).
+
+**Sources:**
+
+1. Saab AB and UMS Skeldar press releases 2007-2024.
+2. Spanish Armada and German Bundeswehr procurement records.
+
+---
+
 ### 2008 — Karem AR40 / Optimum Speed Tilt-Rotor
 
 - **id:** `karem-ar40`
@@ -768,4 +829,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

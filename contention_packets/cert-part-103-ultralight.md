@@ -7,11 +7,11 @@ layout: default
 
 # Invalidity Contention Packet — `cert-part-103-ultralight`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `cert-part-103-ultralight`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 2008-10  
-**Most recent disclosure:** 2018-09
+**Most recent disclosure:** 2019-10-03
 
 ---
 
@@ -126,6 +126,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-10-03 — Kitty Hawk Heaviside
+
+- **id:** `kittyhawk-heaviside`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Kitty Hawk Corporation / Larry Page
+- **disclosure citation:** Kitty Hawk Heaviside publicly unveiled 2019-10-03 at TED Conference / Wired25 Festival; first manned flight 2019-09. Kitty Hawk Corporation (funded by Larry Page) ceased operations 2022-09-21. Documented in Kitty Hawk press releases and the public technical paper 'Heaviside: A Single-Pilot eVTOL Aircraft' (Vertical Flight Society, 2020).
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-103-ultralight`
+
+**Prior art notes:**
+
+> Kitty Hawk Heaviside establishes US prior art for ultralight-class single-pilot tilt-rotor eVTOL with explicit low-noise design optimization. Although Kitty Hawk Corporation ceased operations 2022, the Heaviside disclosure is comprehensive — Larry Page-funded program with VFS Forum technical paper publication and Kitty Hawk's continued patent portfolio licensable through successor entities. Kitty Hawk also produced Cora (which became Wisk Aero after the Boeing JV, covered separately).
+
+**Sources:**
+
+1. Kitty Hawk Corporation press releases 2019-2022.
+2. Vertical Flight Society Forum 76 paper, 'Heaviside,' 2020.
+3. TED Talk archive, Page/Kitty Hawk presentations 2018-2020.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -133,4 +154,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

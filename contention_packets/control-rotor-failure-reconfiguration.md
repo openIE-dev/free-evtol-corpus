@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-rotor-failure-reconfiguration`
 
-**Generated:** 2026-05-08  
+**Generated:** 2026-05-09  
 **Cross-cut tag:** `control-rotor-failure-reconfiguration`  
 **Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
@@ -238,4 +238,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision (unknown).*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*

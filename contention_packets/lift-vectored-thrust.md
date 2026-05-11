@@ -1,13 +1,13 @@
 ---
 title: "lift-vectored-thrust"
 parent: "Invalidity Contentions"
-nav_order: 23
+nav_order: 25
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-vectored-thrust`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `lift-vectored-thrust`  
 **Entries:** 27 (27 commons-grade, 0 draft)  
 **Earliest disclosure:** 1955-12-10  
@@ -624,4 +624,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*

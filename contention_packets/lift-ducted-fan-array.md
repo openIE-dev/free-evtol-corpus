@@ -1,13 +1,13 @@
 ---
 title: "lift-ducted-fan-array"
 parent: "Invalidity Contentions"
-nav_order: 18
+nav_order: 19
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-ducted-fan-array`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `lift-ducted-fan-array`  
 **Entries:** 11 (11 commons-grade, 0 draft)  
 **Earliest disclosure:** 1966-03-17  
@@ -279,4 +279,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*

@@ -1,15 +1,15 @@
 ---
 title: "power-hybrid-genset"
 parent: "Invalidity Contentions"
-nav_order: 24
+nav_order: 26
 layout: default
 ---
 
 # Invalidity Contention Packet — `power-hybrid-genset`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `power-hybrid-genset`  
-**Entries:** 10 (10 commons-grade, 0 draft)  
+**Entries:** 11 (11 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-08  
 **Most recent disclosure:** 2021-09-30
 
@@ -81,6 +81,29 @@ cite, copy, or redistribute these contentions.
 1. Aurora Flight Sciences DARPA VTOL X-Plane technical white papers, 2014–2018.
 2. DARPA VTOL X-Plane program reports, available DTIC.
 3. AIAA SciTech / Aviation Forum papers from Aurora team 2014–2018.
+
+---
+
+### 2017 — Orb Aerospace Nomad
+
+- **id:** `orb-aerospace-nomad`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Orb Aerospace / Skyways Inc
+- **disclosure citation:** Skyways Inc founded ~2017 in Austin, Texas. Skyways A22 autonomous VTOL cargo aircraft publicly demonstrated for USMC Naval Air Systems Command (NAVAIR) starting 2019; awarded USMC Tactical Resupply Vehicle (TRV-150) contract 2020. Orb Aerospace product line including the Orb Nomad publicly disclosed via Air Force AFWERX program records, Skyways press materials, and U.S. defense contracting disclosures. Distinct architectural commitment to industrial / defense / emergency-response cargo missions rather than urban passenger air taxi.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `cert-faa-bvlos-waiver`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Orb Aerospace / Skyways establishes US prior art for the industrial / defense / emergency-response cargo eVTOL category — distinct architectural and operational commitment from urban passenger air taxi. The USMC TRV-150 contract (2020) is among the earliest production-track autonomous VTOL cargo deployments in U.S. military service. Establishes prior art for: (1) hybrid-electric autonomous cargo eVTOL specifically designed for unprepared / austere site operations, (2) the industrial-first eVTOL deployment thesis (cargo and defense use cases preceding consumer urban air taxi). Together with elroy-air-chaparral, pyka-pelican, sabrewing-rhaegal-a, volansi-vbat, wingcopter-198, dji-flycart-30, and amsl-vertiia, comprehensively places autonomous hybrid-electric cargo eVTOL architecture in 2017-2024 commercial prior art across US, DE, AU, and CN industrial lineages.
+
+**Sources:**
+
+1. Skyways Inc press releases and product materials 2017-2024.
+2. USMC NAVAIR / TRV-150 contract award records.
+3. U.S. Air Force AFWERX program disclosures.
+4. Orb Aerospace public technical materials.
+5. https://go.skyways.com/ — corporate landing page.
 
 ---
 
@@ -258,4 +281,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*

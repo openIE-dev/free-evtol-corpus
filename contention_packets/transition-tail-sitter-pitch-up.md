@@ -1,13 +1,13 @@
 ---
 title: "transition-tail-sitter-pitch-up"
 parent: "Invalidity Contentions"
-nav_order: 40
+nav_order: 42
 layout: default
 ---
 
 # Invalidity Contention Packet — `transition-tail-sitter-pitch-up`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `transition-tail-sitter-pitch-up`  
 **Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 1944-09  
@@ -239,4 +239,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*

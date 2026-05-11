@@ -1126,6 +1126,16 @@
       ]
     },
     {
+      "id": "eth-distributed-flight-array",
+      "name": "ETH Distributed Flight Array",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "upenn-modquad"
+      ]
+    },
+    {
       "id": "festo-smartbird",
       "name": "Festo SmartBird",
       "year": "2011",
@@ -1186,7 +1196,9 @@
         "ardupilot-quadplane",
         "px4-vtol"
       ],
-      "descendants": []
+      "descendants": [
+        "upenn-modquad"
+      ]
     },
     {
       "id": "boeing-phantom-swift",
@@ -1299,6 +1311,18 @@
         "joby-s4",
         "wisk-cora"
       ]
+    },
+    {
+      "id": "orb-aerospace-nomad",
+      "name": "Orb Aerospace Nomad",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "elroy-air-chaparral",
+        "volansi-vbat"
+      ],
+      "descendants": []
     },
     {
       "id": "zuri-evtol",
@@ -1453,7 +1477,9 @@
         "aerovironment-skytote",
         "convair-xfy-pogo"
       ],
-      "descendants": []
+      "descendants": [
+        "orb-aerospace-nomad"
+      ]
     },
     {
       "id": "embraerx-evtol-concept",
@@ -1466,6 +1492,17 @@
       "descendants": [
         "eve-air-mobility"
       ]
+    },
+    {
+      "id": "upenn-modquad",
+      "name": "ModQuad (UPenn GRASP Laboratory)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "bitcraze-crazyflie",
+        "eth-distributed-flight-array"
+      ],
+      "descendants": []
     },
     {
       "id": "pivotal-blackfly",
@@ -1566,6 +1603,7 @@
       "descendants": [
         "honda-evtol",
         "manta-aircraft-ann2",
+        "orb-aerospace-nomad",
         "sabrewing-rhaegal-a",
         "zuri-evtol"
       ]
@@ -1658,6 +1696,7 @@
         "eplane-company-e200",
         "eve-air-mobility",
         "honda-evtol",
+        "orb-aerospace-nomad",
         "pyka-pelican",
         "wisk-cora",
         "zuri-evtol"

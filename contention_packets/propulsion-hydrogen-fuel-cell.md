@@ -1,13 +1,13 @@
 ---
 title: "propulsion-hydrogen-fuel-cell"
 parent: "Invalidity Contentions"
-nav_order: 30
+nav_order: 32
 layout: default
 ---
 
 # Invalidity Contention Packet — `propulsion-hydrogen-fuel-cell`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `propulsion-hydrogen-fuel-cell`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-07  
@@ -90,4 +90,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*

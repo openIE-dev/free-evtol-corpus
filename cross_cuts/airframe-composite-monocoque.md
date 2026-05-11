@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `airframe-composite-monocoque`
 
-**43 corpus entries disclose this subsystem.**
+**44 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1978-11-09
 
@@ -59,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PAL-V One prototype first flight 2012-04-01; PAL-V Liberty production design unveiled 2017-03-07 at Geneva Motor Show; received EASA Type Certificate Part 27 (CS-27) for autogyro mode 2024-04-29. PAL-V founded 2008 by John Bakker.
 - **ip status**: patented
 - **prior art notes**: PAL-V Liberty is the Netherlands' lead drive+fly transformer — architecturally distinct from Slovak peers (Klein/AeroMobil) by using autogyro lift rather than fixed-wing flight. Holds EASA Type Certificate Part 27 (autogyro mode), 2024-04-29 — the world's first type-certified flying car under autogyro classification. Direct architectural descendant of Cierva autogyro (1923) in road-legal passenger form factor.
+
+## Orb Aerospace Nomad (2017)
+
+- **id**: `orb-aerospace-nomad`
+- **corpus**: private
+- **creator**: Orb Aerospace / Skyways Inc
+- **disclosure**: Skyways Inc founded ~2017 in Austin, Texas. Skyways A22 autonomous VTOL cargo aircraft publicly demonstrated for USMC Naval Air Systems Command (NAVAIR) starting 2019; awarded USMC Tactical Resupply Vehicle (TRV-150) contract 2020. Orb Aerospace product line including the Orb Nomad publicly disclosed via Air Force AFWERX program records, Skyways press materials, and U.S. defense contracting disclosures. Distinct architectural commitment to industrial / defense / emergency-response cargo missions rather than urban passenger air taxi.
+- **ip status**: patented
+- **prior art notes**: Orb Aerospace / Skyways establishes US prior art for the industrial / defense / emergency-response cargo eVTOL category — distinct architectural and operational commitment from urban passenger air taxi. The USMC TRV-150 contract (2020) is among the earliest production-track autonomous VTOL cargo deployments in U.S. military service. Establishes prior art for: (1) hybrid-electric autonomous cargo eVTOL specifically designed for unprepared / austere site operations, (2) the industrial-first eVTOL deployment thesis (cargo and defense use cases preceding consumer urban air taxi). Together with elroy-air-chaparral, pyka-pelican, sabrewing-rhaegal-a, volansi-vbat, wingcopter-198, dji-flycart-30, and amsl-vertiia, comprehensively places autonomous hybrid-electric cargo eVTOL architecture in 2017-2024 commercial prior art across US, DE, AU, and CN industrial lineages.
 
 ## Zuri eVTOL (2017-03)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `autonomy-pilot-removed`
 
-**15 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1991-12-23
 
@@ -60,6 +60,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Saab Skeldar V-200 is Sweden's lead naval VTOL UAV — competitor to Schiebel Camcopter S-100 with similar architectural pattern but Swedish industrial provenance. Adds Saab as Swedish defense industrial prior-art anchor alongside jetson-one (Sweden consumer eVTOL).
 
+## ETH Distributed Flight Array (2010-05-03)
+
+- **id**: `eth-distributed-flight-array`
+- **corpus**: academic
+- **creator**: ETH Zurich Institute for Dynamic Systems and Control (Raffaello D'Andrea group) / Robin Oung
+- **disclosure**: Oung, Raymond and D'Andrea, Raffaello. 'The Distributed Flight Array.' IEEE International Conference on Robotics and Automation (ICRA), Anchorage AK, 2010-05-03. Subsequent papers: Oung & D'Andrea, 'Modeling and Control of a Distributed Flight Array,' International Journal of Robotics Research 31(4), 2011. ETH Zurich IDSC project documented in open technical materials and demonstration videos.
+- **ip status**: open-permissive
+- **prior art notes**: ETH Zurich's Distributed Flight Array (Oung & D'Andrea, ICRA 2010) is the foundational academic disclosure of modular mid-air-assembling multirotor architecture — predating UPenn's ModQuad by 8 years. Establishes prior art for: (1) the architectural concept of multiple small unit-modules that dock together to form a single composite multirotor airframe, (2) distributed cooperative control across physically-connected modules sharing wireless state, (3) the fundamental rotor-failure-reconfiguration property where loss of any module is tolerated by the composite. ETH publications are comprehensively in the academic public-domain prior-art base. Anticipates: ModQuad (2018, UPenn), and any future commercial eVTOL claim asserting novelty over modular mid-air docking architecture.
+
+## Orb Aerospace Nomad (2017)
+
+- **id**: `orb-aerospace-nomad`
+- **corpus**: private
+- **creator**: Orb Aerospace / Skyways Inc
+- **disclosure**: Skyways Inc founded ~2017 in Austin, Texas. Skyways A22 autonomous VTOL cargo aircraft publicly demonstrated for USMC Naval Air Systems Command (NAVAIR) starting 2019; awarded USMC Tactical Resupply Vehicle (TRV-150) contract 2020. Orb Aerospace product line including the Orb Nomad publicly disclosed via Air Force AFWERX program records, Skyways press materials, and U.S. defense contracting disclosures. Distinct architectural commitment to industrial / defense / emergency-response cargo missions rather than urban passenger air taxi.
+- **ip status**: patented
+- **prior art notes**: Orb Aerospace / Skyways establishes US prior art for the industrial / defense / emergency-response cargo eVTOL category — distinct architectural and operational commitment from urban passenger air taxi. The USMC TRV-150 contract (2020) is among the earliest production-track autonomous VTOL cargo deployments in U.S. military service. Establishes prior art for: (1) hybrid-electric autonomous cargo eVTOL specifically designed for unprepared / austere site operations, (2) the industrial-first eVTOL deployment thesis (cargo and defense use cases preceding consumer urban air taxi). Together with elroy-air-chaparral, pyka-pelican, sabrewing-rhaegal-a, volansi-vbat, wingcopter-198, dji-flycart-30, and amsl-vertiia, comprehensively places autonomous hybrid-electric cargo eVTOL architecture in 2017-2024 commercial prior art across US, DE, AU, and CN industrial lineages.
+
 ## Airbus A^3 Vahana (2018-01-31)
 
 - **id**: `airbus-vahana`
@@ -95,6 +113,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Volansi VBAT autonomous tail-sitter cargo VTOL publicly disclosed April 2018; Volansi delivered medical and military supplies operationally 2019-2022. Acquired by Shield AI 2021-08. Volans-i original company ceased independent operation 2022 after acquisition by Shield AI.
 - **ip status**: patented
 - **prior art notes**: Volansi VBAT is the leading autonomous tail-sitter cargo VTOL deployed operationally for medical/military supply runs 2019-2022. Establishes prior art for: (1) ducted-fan tail-sitter cargo VTOL architecture, (2) operational FAA BVLOS waiver framework for autonomous tail-sitter UAS. Together with aerovironment-skytote and pivotal-blackfly, comprehensively places tail-sitter VTOL architecture in modern operational coverage.
+
+## ModQuad (UPenn GRASP Laboratory) (2018-05-21)
+
+- **id**: `upenn-modquad`
+- **corpus**: academic
+- **creator**: University of Pennsylvania GRASP Laboratory / David Saldaña / Mark Yim / Vijay Kumar
+- **disclosure**: Saldaña, David; Gabrich, Bruno; Li, Guanrui; Yim, Mark; Kumar, Vijay. 'ModQuad: The Flying Modular Structure that Self-Assembles in Midair.' IEEE International Conference on Robotics and Automation (ICRA), Brisbane Australia, 2018-05-21 to 2018-05-25. Multiple successor papers including ModQuad-Vi (ICRA 2019), ModQuad-DoF (IROS 2018), ModQuad-RP (RAL 2020). UPenn GRASP Laboratory open-source hardware designs at github.com/swarmslab.
+- **ip status**: open-permissive
+- **prior art notes**: ModQuad establishes the foundational disclosure of *mid-air-docking* modular multirotor architecture — quadrotors that fly individually, align in flight, dock together, and operate as a single composite airframe. Establishes prior art for: (1) mid-air physical docking of quadrotor modules into a single rigid airframe, (2) magnetic edge-connector docking architecture for in-flight assembly, (3) distributed control allocation across N modules of a composite multirotor with N scaling up or down at runtime, (4) the cuboid-frame protective geometry enabling collision-tolerant docking maneuvers. Combined with eth-distributed-flight-array (2010 precursor), comprehensively places modular-docking eVTOL architecture in academic public-domain prior art. **Critical for any future commercial eVTOL patent claim asserting novelty over modular reconfigurable multirotor or swarm-to-single-airframe transitions** — a likely future commercial direction for scalable cargo/passenger eVTOL.
 
 ## Pyka Pelican Cargo (2018-08)
 

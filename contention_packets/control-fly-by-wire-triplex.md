@@ -1,13 +1,13 @@
 ---
 title: "control-fly-by-wire-triplex"
 parent: "Invalidity Contentions"
-nav_order: 13
+nav_order: 14
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-fly-by-wire-triplex`
 
-**Generated:** 2026-05-09  
+**Generated:** 2026-05-11  
 **Cross-cut tag:** `control-fly-by-wire-triplex`  
 **Entries:** 17 (17 commons-grade, 0 draft)  
 **Earliest disclosure:** 1957-04-02  
@@ -411,4 +411,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `b4393b4`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*

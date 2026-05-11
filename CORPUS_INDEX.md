@@ -1,6 +1,6 @@
 # Corpus Index
 
-144 entries total. Generated from corpus.jsonl.
+147 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | Elroy Air Chaparral C1 | `elroy-air-chaparral` | 2019 | private | patented |  |
 | EmbraerX eVTOL concept (2018) | `embraerx-evtol-concept` | 2018 | private | patented |  |
 | ePlane Company e200 | `eplane-company-e200` | 2022 | private | patented |  |
+| ETH Distributed Flight Array | `eth-distributed-flight-array` | 2010 | academic | open-permissive |  |
 | Eve Air Mobility eVTOL | `eve-air-mobility` | 2020 | private | patented |  |
 | Fairey Rotodyne | `fairey-rotodyne` | 1957 | academic | public-domain |  |
 | Federation shuttlecraft (Star Trek) | `star-trek-shuttlecraft` | 1967 | fictional | fictional |  |
@@ -99,10 +100,12 @@
 | Mil Mi-30 | `mil-mi-30` | 1985 | academic | public-domain |  |
 | Mil V-12 (Mi-12) | `mil-v-12` | 1968 | academic | public-domain |  |
 | Mil V-7 Tarakan | `mil-v-7-tarakan` | 1957 | academic | public-domain |  |
+| ModQuad (UPenn GRASP Laboratory) | `upenn-modquad` | 2018 | academic | open-permissive |  |
 | Moller Skycar M400 | `moller-skycar-m400` | 1989 | private | patented |  |
 | NASA GL-10 Greased Lightning | `nasa-gl-10` | 2014 | academic | public-domain |  |
 | NASA X-57 Maxwell | `nasa-x-57-maxwell` | 2016 | academic | public-domain |  |
 | Oehmichen No.2 helicopter | `oehmichen-helicopter` | 1924 | academic | public-domain |  |
+| Orb Aerospace Nomad | `orb-aerospace-nomad` | 2017 | private | patented |  |
 | Ornithopter (Dune) | `dune-ornithopter` | 1965 | fictional | fictional |  |
 | PAL-V Liberty | `pal-v-liberty` | 2012 | private | patented |  |
 | Pegasus Vertical Business Jet | `pegasus-universal-aerospace` | 2018 | private | patented |  |

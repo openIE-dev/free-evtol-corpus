@@ -1,7 +1,7 @@
 ---
 title: "power-li-po"
 parent: "Invalidity Contentions"
-nav_order: 28
+nav_order: 31
 layout: default
 ---
 
@@ -91,4 +91,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*

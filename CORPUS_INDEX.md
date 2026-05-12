@@ -1,6 +1,6 @@
 # Corpus Index
 
-147 entries total. Generated from corpus.jsonl.
+160 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 | AIR ONE (eVTOL) | `air-one` | 2021 | private | patented |  |
 | Airbus A^3 Vahana | `airbus-vahana` | 2018 | private | patented |  |
 | Airbus CityAirbus NextGen | `airbus-cityairbus-nextgen` | 2021 | private | patented |  |
+| Airbus Pop.Up / Pop.Up Next | `airbus-popup` | 2017 | private | patented |  |
 | Albatross (Robur the Conqueror) | `verne-albatross` | 1886 | fictional | public-domain |  |
 | AMSL Aero Vertiia | `amsl-vertiia` | 2021 | private | patented |  |
 | Archer Aviation Midnight | `archer-midnight` | 2021 | private | patented |  |
@@ -18,6 +19,7 @@
 | Aurora Flight Sciences LightningStrike XV-24A | `aurora-lightningstrike-xv-24a` | 2016 | academic | patented |  |
 | AutoFlight Prosperity I | `autoflight-prosperity-i` | 2021 | private | patented |  |
 | Avrocar VZ-9 | `avrocar-vz-9` | 1958 | academic | public-domain |  |
+| Bell APT (Autonomous Pod Transport) | `bell-apt` | 2018 | private | patented |  |
 | Bell Eagle Eye TR918 | `bell-eagle-eye` | 2003 | private | patented |  |
 | Bell Model 30 | `bell-model-30` | 1942 | academic | patented |  |
 | Bell Nexus 4EX | `bell-nexus-4ex` | 2019 | private | patented |  |
@@ -36,8 +38,10 @@
 | Cargo VTOL (Wandering Earth) | `wandering-earth-cargo-vtol` | 2019 | fictional | fictional |  |
 | Cascarudo invasion craft (El Eternauta) | `eternauta-cascarudo` | 1957 | fictional | fictional |  |
 | Cierva C.4 autogyro | `cierva-autogyro` | 1923 | academic | patented |  |
+| CollMot Robotics drone-show swarm | `collmot-drone-show` | 2014 | private | patented |  |
 | Comical History of the States and Empires of the Moon (Cyrano de Bergerac) | `cyrano-comical-history-moon` | 1657 | fictional | public-domain |  |
 | Convair XFY-1 Pogo | `convair-xfy-pogo` | 1954 | academic | public-domain |  |
+| Convertawings Model A Quadrotor | `convertawings-model-a` | 1956 | academic | patented |  |
 | Cornu helicopter | `cornu-helicopter` | 1907 | academic | public-domain |  |
 | Crisalion Mobility Integrity | `crisalion-integrity` | 2022 | private | patented |  |
 | Curtiss-Wright VZ-7 | `curtiss-wright-vz-7` | 1958 | academic | public-domain |  |
@@ -47,12 +51,16 @@
 | Doak VZ-4 | `doak-vz-4` | 1958 | academic | public-domain |  |
 | Doblhoff WNF 342 | `doblhoff-wnf-342` | 1943 | academic | public-domain |  |
 | Dornier Do 31 | `dornier-do-31` | 1967 | academic | public-domain |  |
+| DRAGON (University of Tokyo JSK Laboratory) | `univ-tokyo-dragon` | 2018 | academic | patented |  |
 | e-volo VC1 (Volocopter precursor) | `volocopter-vc1` | 2011 | private | patented |  |
 | EHang EH216-S | `ehang-eh216` | 2018 | private | patented |  |
 | Elroy Air Chaparral C1 | `elroy-air-chaparral` | 2019 | private | patented |  |
 | EmbraerX eVTOL concept (2018) | `embraerx-evtol-concept` | 2018 | private | patented |  |
+| EPFL GimBall | `epfl-gimball` | 2014 | academic | patented |  |
+| EPFL origami folding drone | `epfl-folding-drone` | 2017 | academic | patented |  |
 | ePlane Company e200 | `eplane-company-e200` | 2022 | private | patented |  |
 | ETH Distributed Flight Array | `eth-distributed-flight-array` | 2010 | academic | open-permissive |  |
+| ETH Flight Assembled Architecture | `eth-flight-assembled-architecture` | 2011 | academic | open-permissive |  |
 | Eve Air Mobility eVTOL | `eve-air-mobility` | 2020 | private | patented |  |
 | Fairey Rotodyne | `fairey-rotodyne` | 1957 | academic | public-domain |  |
 | Federation shuttlecraft (Star Trek) | `star-trek-shuttlecraft` | 1967 | fictional | fictional |  |
@@ -73,6 +81,7 @@
 | Honda eVTOL | `honda-evtol` | 2021 | private | patented |  |
 | Hoversurf Scorpion-3 | `hoversurf-s3` | 2017 | private | patented |  |
 | Hyundai Supernal S-A2 | `hyundai-supernal-sa2` | 2024 | private | patented |  |
+| Intel Shooting Star drone-light-show system | `intel-shooting-star` | 2016 | private | patented |  |
 | Iron Man Mark suits | `iron-man-suit` | 1963 | fictional | fictional |  |
 | Jetson ONE | `jetson-one` | 2018 | private | patented |  |
 | Jetsons family aerocar | `jetsons-aerocar` | 1962 | fictional | fictional |  |
@@ -84,6 +93,7 @@
 | Karem AR40 / Optimum Speed Tilt-Rotor | `karem-ar40` | 2008 | private | patented |  |
 | Kitty Hawk Heaviside | `kittyhawk-heaviside` | 2019 | private | patented |  |
 | Klein Vision AirCar | `klein-vision-aircar` | 2020 | private | patented |  |
+| KMel Robotics / UPenn nano-quadrotor swarm | `kmel-nano-quadrotor-swarm` | 2012 | academic | open-permissive |  |
 | Krrish flight suit (Krrish, 2006) | `krrish-flight-suit` | 2006 | fictional | fictional |  |
 | Lana de Terzi vacuum airship | `lana-terzi-vacuum-airship` | 1670 | academic | public-domain |  |
 | Leonardo AW609 | `leonardo-aw609` | 2003 | private | patented |  |
@@ -136,7 +146,10 @@
 | Tolmekian Gunship (Nausicaä of the Valley of the Wind) | `nausicaa-tolmekian-gunship` | 1984 | fictional | fictional |  |
 | TsAGI 1-EA | `tsagi-1-ea` | 1932 | academic | public-domain |  |
 | UD-4L Cheyenne dropship (Aliens) | `aliens-cheyenne-dropship` | 1986 | fictional | fictional |  |
+| University of Bologna Modular Multirotor Vehicle | `bologna-modular-multirotor` | 2011 | academic | open-permissive |  |
+| UPenn cooperative grasping and transport with multiple quadrotors | `upenn-cooperative-grasping` | 2010 | academic | open-permissive |  |
 | Urban Aeronautics CityHawk | `urban-aero-cityhawk` | 2009 | private | patented |  |
+| UZH RPG foldable drone | `uzh-foldable-drone` | 2018 | academic | patented |  |
 | V-22 Osprey | `v-22-osprey` | 1989 | private | patented |  |
 | Vertical Aerospace VX4 | `vertical-vx4` | 2021 | private | patented |  |
 | VF-1 Valkyrie / Veritech (Super Dimension Fortress Macross) | `macross-vf-1-veritech` | 1982 | fictional | fictional |  |

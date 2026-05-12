@@ -1,7 +1,7 @@
 ---
 title: "propulsion-bldc-direct-drive"
 parent: "Invalidity Contentions"
-nav_order: 30
+nav_order: 33
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `propulsion-bldc-direct-drive`  
-**Entries:** 37 (37 commons-grade, 0 draft)  
+**Entries:** 39 (39 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-10-21  
 **Most recent disclosure:** 2024-04-04
 
@@ -190,6 +190,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-03-07 — Airbus Pop.Up / Pop.Up Next
+
+- **id:** `airbus-popup`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Airbus / Italdesign / Audi
+- **disclosure citation:** Airbus Pop.Up modular ground-and-air mobility concept unveiled 2017-03-07 at the Geneva International Motor Show, by Airbus and Italdesign (Volkswagen Group / Audi subsidiary); Pop.Up Next (adding Audi as full partner) unveiled 2018-03-06 at Geneva. Documented in Airbus and Italdesign press materials and design patents. The system is a passenger capsule that docks to either a ground-vehicle skateboard module or a quadrotor air module.
+- **disclosed subsystems:** `lift-modular-docking`, `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Airbus Pop.Up / Pop.Up Next (Airbus + Italdesign + Audi, 2017-2018) is the foundational commercial disclosure of the modular-docking passenger-mobility concept: a passenger capsule that docks to either a ground-vehicle module or an air module (a large coaxial-octorotor frame), with the air module lifting the docked capsule mid-journey. Establishes prior art for: (1) modular passenger-capsule + interchangeable-propulsion-module architecture, (2) in-journey transfer of a passenger pod between ground and air carriers, (3) the multi-modal modular-mobility thesis. Together with xpeng-aeroht-modular (2024), bell-apt (2018), and the academic modular-aerial-robot lineage (eth-distributed-flight-array, upenn-modquad), comprehensively places modular-docking eVTOL architecture in commercial and academic prior art from 2010 forward.
+
+**Sources:**
+
+1. Airbus press release, 'Pop.Up: the modular ground-and-air passenger concept vehicle system,' 2017-03-07.
+2. Italdesign / Audi Pop.Up Next materials, Geneva Motor Show 2018.
+3. Airbus / Italdesign Pop.Up design patents, EUIPO records.
+
+---
+
 ### 2017-04-26 — Wingcopter 198
 
 - **id:** `wingcopter-198`
@@ -355,6 +376,27 @@ cite, copy, or redistribute these contentions.
 1. Pyka technical white papers 2020–2024.
 2. FAA Part 137 / Special Conditions filings 2023.
 3. Pyka press releases including 2022-06-21 Pelican unveil.
+
+---
+
+### 2018-08 — Bell APT (Autonomous Pod Transport)
+
+- **id:** `bell-apt`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bell Textron
+- **disclosure citation:** Bell APT (Autonomous Pod Transport) publicly disclosed August 2018; APT 70 (70 lb / ~32 kg payload variant) first flight 2019-08; demonstrated package delivery and NASA UTM integration trials 2020-2021. Documented in Bell Textron press materials, NASA UTM program reports, and FAA filings.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-modular-docking`, `lift-distributed-electric-propulsion`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `autonomy-utm-integration`, `autonomy-bvlos-detect-and-avoid`, `cert-faa-bvlos-waiver`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Bell APT (Autonomous Pod Transport) establishes US prior art for the modular-cargo-pod tail-sitter eVTOL — a reusable quad-rotor tail-sitter airframe carrying a swappable cargo pod mounted between the rotor booms. Establishes prior art for: (1) modular swappable cargo pod + reusable propulsion airframe architecture in tail-sitter form, (2) NASA UTM-integrated autonomous cargo eVTOL operations (2020-2021 trials), (3) the pod-as-deliverable design pattern. Together with airbus-popup (modular passenger capsule), elroy-air-chaparral (modular cargo pod), and the academic modular-aerial-robot lineage, places modular-pod eVTOL architecture in commercial prior art from 2017-2018 forward.
+
+**Sources:**
+
+1. Bell Textron press releases on APT, 2018-2021.
+2. NASA UAS Traffic Management (UTM) program reports including Bell APT trials.
+3. FAA Part 107 / BVLOS waiver records for Bell APT operations.
 
 ---
 
@@ -827,4 +869,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*

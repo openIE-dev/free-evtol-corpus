@@ -140,6 +140,7 @@
       "descendants": [
         "avrocar-vz-9",
         "convair-xfy-pogo",
+        "convertawings-model-a",
         "curtiss-wright-vz-7",
         "doak-vz-4",
         "ehang-eh216",
@@ -306,6 +307,7 @@
       ],
       "descendants": [
         "aerovironment-skytote",
+        "bell-apt",
         "pivotal-blackfly",
         "ryan-x-13-vertijet",
         "snecma-coleoptere",
@@ -336,6 +338,18 @@
       ],
       "descendants": [
         "hawker-p-1127"
+      ]
+    },
+    {
+      "id": "convertawings-model-a",
+      "name": "Convertawings Model A Quadrotor",
+      "year": "1956",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor"
+      ],
+      "descendants": [
+        "curtiss-wright-vz-7"
       ]
     },
     {
@@ -422,6 +436,7 @@
       "year": "1958",
       "corpus": "academic",
       "ancestors": [
+        "convertawings-model-a",
         "de-bothezat-quadrotor"
       ],
       "descendants": [
@@ -565,6 +580,7 @@
         "verne-albatross"
       ],
       "descendants": [
+        "airbus-popup",
         "aska-a5",
         "bladerunner-spinner",
         "macross-vf-1-veritech",
@@ -1013,6 +1029,7 @@
         "convair-xfy-pogo"
       ],
       "descendants": [
+        "bell-apt",
         "pivotal-blackfly",
         "volansi-vbat"
       ]
@@ -1132,6 +1149,21 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "bologna-modular-multirotor",
+        "eth-flight-assembled-architecture",
+        "univ-tokyo-dragon",
+        "upenn-modquad"
+      ]
+    },
+    {
+      "id": "upenn-cooperative-grasping",
+      "name": "UPenn cooperative grasping and transport with multiple quadrotors",
+      "year": "2010",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "kmel-nano-quadrotor-swarm",
+        "univ-tokyo-dragon",
         "upenn-modquad"
       ]
     },
@@ -1157,6 +1189,16 @@
       "descendants": []
     },
     {
+      "id": "bologna-modular-multirotor",
+      "name": "University of Bologna Modular Multirotor Vehicle",
+      "year": "2011",
+      "corpus": "academic",
+      "ancestors": [
+        "eth-distributed-flight-array"
+      ],
+      "descendants": []
+    },
+    {
       "id": "volocopter-vc1",
       "name": "e-volo VC1 (Volocopter precursor)",
       "year": "2011",
@@ -1172,6 +1214,29 @@
         "skydrive-sd-05",
         "volocopter-volocity",
         "workhorse-surefly"
+      ]
+    },
+    {
+      "id": "eth-flight-assembled-architecture",
+      "name": "ETH Flight Assembled Architecture",
+      "year": "2011",
+      "corpus": "academic",
+      "ancestors": [
+        "eth-distributed-flight-array"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "kmel-nano-quadrotor-swarm",
+      "name": "KMel Robotics / UPenn nano-quadrotor swarm",
+      "year": "2012",
+      "corpus": "academic",
+      "ancestors": [
+        "upenn-cooperative-grasping"
+      ],
+      "descendants": [
+        "collmot-drone-show",
+        "intel-shooting-star"
       ]
     },
     {
@@ -1212,6 +1277,16 @@
       "descendants": []
     },
     {
+      "id": "collmot-drone-show",
+      "name": "CollMot Robotics drone-show swarm",
+      "year": "2014",
+      "corpus": "private",
+      "ancestors": [
+        "kmel-nano-quadrotor-swarm"
+      ],
+      "descendants": []
+    },
+    {
       "id": "h3-dynamics-hyfly",
       "name": "H3 Dynamics HyFly hydrogen-electric eVTOL",
       "year": "2014",
@@ -1243,6 +1318,18 @@
         "nasa-x-57-maxwell",
         "pyka-pelican",
         "wisk-cora"
+      ]
+    },
+    {
+      "id": "epfl-gimball",
+      "name": "EPFL GimBall",
+      "year": "2014",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "epfl-folding-drone",
+        "upenn-modquad",
+        "uzh-foldable-drone"
       ]
     },
     {
@@ -1313,6 +1400,16 @@
       ]
     },
     {
+      "id": "intel-shooting-star",
+      "name": "Intel Shooting Star drone-light-show system",
+      "year": "2016",
+      "corpus": "private",
+      "ancestors": [
+        "kmel-nano-quadrotor-swarm"
+      ],
+      "descendants": []
+    },
+    {
       "id": "orb-aerospace-nomad",
       "name": "Orb Aerospace Nomad",
       "year": "2017",
@@ -1334,6 +1431,19 @@
         "elroy-air-chaparral"
       ],
       "descendants": []
+    },
+    {
+      "id": "airbus-popup",
+      "name": "Airbus Pop.Up / Pop.Up Next",
+      "year": "2017",
+      "corpus": "private",
+      "ancestors": [
+        "airbus-vahana",
+        "jetsons-aerocar"
+      ],
+      "descendants": [
+        "xpeng-aeroht-modular"
+      ]
     },
     {
       "id": "aeromobil-4-0",
@@ -1386,6 +1496,18 @@
       "descendants": []
     },
     {
+      "id": "epfl-folding-drone",
+      "name": "EPFL origami folding drone",
+      "year": "2017",
+      "corpus": "academic",
+      "ancestors": [
+        "epfl-gimball"
+      ],
+      "descendants": [
+        "uzh-foldable-drone"
+      ]
+    },
+    {
       "id": "workhorse-surefly",
       "name": "Workhorse SureFly",
       "year": "2017",
@@ -1433,7 +1555,8 @@
         "nasa-gl-10"
       ],
       "descendants": [
-        "airbus-cityairbus-nextgen"
+        "airbus-cityairbus-nextgen",
+        "airbus-popup"
       ]
     },
     {
@@ -1482,6 +1605,17 @@
       ]
     },
     {
+      "id": "univ-tokyo-dragon",
+      "name": "DRAGON (University of Tokyo JSK Laboratory)",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "eth-distributed-flight-array",
+        "upenn-cooperative-grasping"
+      ],
+      "descendants": []
+    },
+    {
       "id": "embraerx-evtol-concept",
       "name": "EmbraerX eVTOL concept (2018)",
       "year": "2018",
@@ -1500,7 +1634,9 @@
       "corpus": "academic",
       "ancestors": [
         "bitcraze-crazyflie",
-        "eth-distributed-flight-array"
+        "epfl-gimball",
+        "eth-distributed-flight-array",
+        "upenn-cooperative-grasping"
       ],
       "descendants": []
     },
@@ -1513,6 +1649,18 @@
         "aerovironment-skytote",
         "convair-xfy-pogo",
         "verne-albatross"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "bell-apt",
+      "name": "Bell APT (Autonomous Pod Transport)",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "aerovironment-skytote",
+        "convair-xfy-pogo",
+        "elroy-air-chaparral"
       ],
       "descendants": []
     },
@@ -1561,6 +1709,17 @@
       "descendants": []
     },
     {
+      "id": "uzh-foldable-drone",
+      "name": "UZH RPG foldable drone",
+      "year": "2018",
+      "corpus": "academic",
+      "ancestors": [
+        "epfl-folding-drone",
+        "epfl-gimball"
+      ],
+      "descendants": []
+    },
+    {
       "id": "joby-s4",
       "name": "Joby Aviation S4",
       "year": "2018",
@@ -1601,6 +1760,7 @@
         "thunderbird-2"
       ],
       "descendants": [
+        "bell-apt",
         "honda-evtol",
         "manta-aircraft-ann2",
         "orb-aerospace-nomad",
@@ -1916,6 +2076,7 @@
       "corpus": "private",
       "ancestors": [
         "aeroht-xpeng-x2",
+        "airbus-popup",
         "jetsons-aerocar"
       ],
       "descendants": []

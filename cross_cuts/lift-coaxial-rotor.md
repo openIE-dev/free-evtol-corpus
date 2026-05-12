@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-coaxial-rotor`
 
-**22 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1922
 
@@ -123,6 +123,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Schiebel Camcopter S-100 is the most-deployed naval VTOL UAV in the world (30+ navies, 30,000+ hours of operational flight). Establishes Austrian industrial prior-art lineage for autonomous shipborne VTOL UAS. Although conventional single-rotor architecture (not eVTOL specifically), the operational disclosure of autonomous shipboard VTOL operations is comprehensive and applicable to eVTOL claims around naval deployment.
 
+## EPFL GimBall (2014-09)
+
+- **id**: `epfl-gimball`
+- **corpus**: academic
+- **creator**: EPFL Laboratory of Intelligent Systems (Dario Floreano) / Adrien Briod (later Flyability SA)
+- **disclosure**: Briod, Adrien; Kornatowski, Przemyslaw; Zufferey, Jean-Christophe; Floreano, Dario. 'A Collision-resilient Flying Robot.' Journal of Field Robotics 31(4), 2014. EPFL Laboratory of Intelligent Systems; won the UAE Drones for Good Award 2015; commercialized as Flyability Elios via the Flyability SA spinout.
+- **ip status**: patented
+- **prior art notes**: EPFL's GimBall (Briod, Kornatowski, Zufferey, Floreano, JFR 2014) is the foundational disclosure of the gimbaled protective-cage flying-robot architecture — a freely-rotating outer cage that decouples collision impacts from the inner flight system, enabling collision-tolerant flight. Establishes prior art for: (1) rotating protective-cage airframe geometry, (2) collision-tolerant operation enabling contact-based maneuvers (including docking). The protective-cage concept is directly antecedent to ModQuad's cuboid-frame docking architecture. Commercialized as Flyability Elios for industrial confined-space inspection.
+
 ## Sikorsky S-97 Raider (2015-05-22)
 
 - **id**: `sikorsky-s-97-raider`
@@ -131,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sikorsky S-97 Raider first flight 2015-05-22 at West Palm Beach FL. Production-track development of the X2 demonstrator (2008-08-27 first flight). Documented in Sikorsky technical papers and AHS / VFS Forum publications.
 - **ip status**: patented
 - **prior art notes**: Sikorsky S-97 Raider is the production-track sibling to the SB>1 Defiant — same X2 rigid-coaxial-rotor + rear-pusher architecture, smaller scale for armed-reconnaissance role. Together with sikorsky-boeing-defiant, comprehensively documents Sikorsky's modern coaxial rigid-rotor compound rotorcraft architecture in production-track form.
+
+## Airbus Pop.Up / Pop.Up Next (2017-03-07)
+
+- **id**: `airbus-popup`
+- **corpus**: private
+- **creator**: Airbus / Italdesign / Audi
+- **disclosure**: Airbus Pop.Up modular ground-and-air mobility concept unveiled 2017-03-07 at the Geneva International Motor Show, by Airbus and Italdesign (Volkswagen Group / Audi subsidiary); Pop.Up Next (adding Audi as full partner) unveiled 2018-03-06 at Geneva. Documented in Airbus and Italdesign press materials and design patents. The system is a passenger capsule that docks to either a ground-vehicle skateboard module or a quadrotor air module.
+- **ip status**: patented
+- **prior art notes**: Airbus Pop.Up / Pop.Up Next (Airbus + Italdesign + Audi, 2017-2018) is the foundational commercial disclosure of the modular-docking passenger-mobility concept: a passenger capsule that docks to either a ground-vehicle module or an air module (a large coaxial-octorotor frame), with the air module lifting the docked capsule mid-journey. Establishes prior art for: (1) modular passenger-capsule + interchangeable-propulsion-module architecture, (2) in-journey transfer of a passenger pod between ground and air carriers, (3) the multi-modal modular-mobility thesis. Together with xpeng-aeroht-modular (2024), bell-apt (2018), and the academic modular-aerial-robot lineage (eth-distributed-flight-array, upenn-modquad), comprehensively places modular-docking eVTOL architecture in commercial and academic prior art from 2010 forward.
 
 ## Workhorse SureFly (2017-10-09)
 

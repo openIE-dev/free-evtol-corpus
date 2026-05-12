@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-faa-bvlos-waiver`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2017
 
@@ -32,3 +32,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Volansi VBAT autonomous tail-sitter cargo VTOL publicly disclosed April 2018; Volansi delivered medical and military supplies operationally 2019-2022. Acquired by Shield AI 2021-08. Volans-i original company ceased independent operation 2022 after acquisition by Shield AI.
 - **ip status**: patented
 - **prior art notes**: Volansi VBAT is the leading autonomous tail-sitter cargo VTOL deployed operationally for medical/military supply runs 2019-2022. Establishes prior art for: (1) ducted-fan tail-sitter cargo VTOL architecture, (2) operational FAA BVLOS waiver framework for autonomous tail-sitter UAS. Together with aerovironment-skytote and pivotal-blackfly, comprehensively places tail-sitter VTOL architecture in modern operational coverage.
+
+## Bell APT (Autonomous Pod Transport) (2018-08)
+
+- **id**: `bell-apt`
+- **corpus**: private
+- **creator**: Bell Textron
+- **disclosure**: Bell APT (Autonomous Pod Transport) publicly disclosed August 2018; APT 70 (70 lb / ~32 kg payload variant) first flight 2019-08; demonstrated package delivery and NASA UTM integration trials 2020-2021. Documented in Bell Textron press materials, NASA UTM program reports, and FAA filings.
+- **ip status**: patented
+- **prior art notes**: Bell APT (Autonomous Pod Transport) establishes US prior art for the modular-cargo-pod tail-sitter eVTOL — a reusable quad-rotor tail-sitter airframe carrying a swappable cargo pod mounted between the rotor booms. Establishes prior art for: (1) modular swappable cargo pod + reusable propulsion airframe architecture in tail-sitter form, (2) NASA UTM-integrated autonomous cargo eVTOL operations (2020-2021 trials), (3) the pod-as-deliverable design pattern. Together with airbus-popup (modular passenger capsule), elroy-air-chaparral (modular cargo pod), and the academic modular-aerial-robot lineage, places modular-pod eVTOL architecture in commercial prior art from 2017-2018 forward.

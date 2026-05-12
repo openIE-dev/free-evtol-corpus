@@ -23,14 +23,23 @@ AutoFlight, AeroHT, Hyundai Supernal, Eve, AMSL, ePlane, Zuri, Crisalion,
 Manta, AeroMobil, Klein Vision, PAL-V, Pivotal, Jetson, AIR, ASKA, etc.)
 through 2024.
 
-**27 countries on six populated continents** — US, DE, JP, RU, CN, FR, GB,
-IT, AT, CA, IN, SE, AR, AU, BR, ES, IL, SK, CH, CZ, EG, IE, KR, NL, NZ, SG, ZA.
+**28 countries on six populated continents** — US, JP, DE, RU, CN, FR, GB,
+CH, IT, AT, CA, IN, SE, AR, AU, BR, ES, IL, SK, CZ, EG, HU, IE, KR, NL, NZ, SG, ZA.
+
+The corpus also covers the adjacent academic lineage of modular, transforming,
+swarming, and self-assembling aerial robots — ETH Zurich Distributed Flight
+Array (2010), UPenn cooperative-grasping and ModQuad (2010, 2018), KMel/UPenn
+nano-quadrotor swarm (2012), Intel Shooting Star (2016), University of Tokyo
+DRAGON (2018), UZH/EPFL morphing drones (2017-2018), Airbus Pop.Up and Bell APT
+modular-pod concepts (2017-2018), and more — because these are the deepest prior
+art for any future commercial eVTOL claim involving modular reconfigurable
+multirotor architecture or swarm-to-single-airframe transitions.
 
 Hand-written invalidity-contention packets target the Joby Aviation, Archer
 Aviation, Beta Technologies, and Volocopter patent estates by mapping their
 architectural claim domains to corpus entries that anticipate each.
-Auto-generated subsystem packets cover 41 distinct architectural /
-certification / safety / autonomy domains.
+Auto-generated subsystem packets cover 46 distinct architectural /
+certification / safety / autonomy / modular-docking / morphing / swarm domains.
 
 **The corpus IS the prior art commons.** Every entry, at the moment of
 timestamped commit and quarterly release, is a defensive publication. There

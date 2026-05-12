@@ -1,7 +1,7 @@
 ---
 title: "cert-faa-bvlos-waiver"
 parent: "Invalidity Contentions"
-nav_order: 7
+nav_order: 9
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `cert-faa-bvlos-waiver`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2017  
-**Most recent disclosure:** 2018-04
+**Most recent disclosure:** 2018-08
 
 ---
 
@@ -86,6 +86,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-08 — Bell APT (Autonomous Pod Transport)
+
+- **id:** `bell-apt`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bell Textron
+- **disclosure citation:** Bell APT (Autonomous Pod Transport) publicly disclosed August 2018; APT 70 (70 lb / ~32 kg payload variant) first flight 2019-08; demonstrated package delivery and NASA UTM integration trials 2020-2021. Documented in Bell Textron press materials, NASA UTM program reports, and FAA filings.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-modular-docking`, `lift-distributed-electric-propulsion`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `autonomy-utm-integration`, `autonomy-bvlos-detect-and-avoid`, `cert-faa-bvlos-waiver`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Bell APT (Autonomous Pod Transport) establishes US prior art for the modular-cargo-pod tail-sitter eVTOL — a reusable quad-rotor tail-sitter airframe carrying a swappable cargo pod mounted between the rotor booms. Establishes prior art for: (1) modular swappable cargo pod + reusable propulsion airframe architecture in tail-sitter form, (2) NASA UTM-integrated autonomous cargo eVTOL operations (2020-2021 trials), (3) the pod-as-deliverable design pattern. Together with airbus-popup (modular passenger capsule), elroy-air-chaparral (modular cargo pod), and the academic modular-aerial-robot lineage, places modular-pod eVTOL architecture in commercial prior art from 2017-2018 forward.
+
+**Sources:**
+
+1. Bell Textron press releases on APT, 2018-2021.
+2. NASA UAS Traffic Management (UTM) program reports including Bell APT trials.
+3. FAA Part 107 / BVLOS waiver records for Bell APT operations.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -93,4 +114,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*

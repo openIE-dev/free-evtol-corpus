@@ -1,7 +1,7 @@
 ---
 title: "cert-experimental"
 parent: "Invalidity Contentions"
-nav_order: 6
+nav_order: 8
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-11  
 **Cross-cut tag:** `cert-experimental`  
-**Entries:** 35 (35 commons-grade, 0 draft)  
+**Entries:** 46 (46 commons-grade, 0 draft)  
 **Earliest disclosure:** 1907-11-13  
-**Most recent disclosure:** 2018-05-21
+**Most recent disclosure:** 2018-12
 
 ---
 
@@ -252,6 +252,27 @@ cite, copy, or redistribute these contentions.
 1. Maisel, M.D., Giulianetti, D.J., Dugan, D.C. The History of the XV-15 Tilt Rotor Research Aircraft. NASA SP-2000-4517, 2000 (detailed XV-3 lineage chapter).
 2. NASA TN D-2538, 'Performance Tests of the Bell XV-3 Tilt-Rotor Aircraft,' 1965.
 3. Bell Helicopter XV-3 program archives.
+
+---
+
+### 1956 — Convertawings Model A Quadrotor
+
+- **id:** `convertawings-model-a`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Convertawings Inc / D. H. Kaplan
+- **disclosure citation:** Convertawings Model A Quadrotor first flight 1956 at Amityville NY; designed by D. H. Kaplan. The first quadrotor with full cyclic and collective pitch control on each of the four rotors. U.S. Army / Navy evaluated; program ended ~1960 for lack of orders. Documented in contemporary aviation press and rotorcraft histories.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> Convertawings Model A is the foundational quadrotor with full cyclic + collective control on each rotor — a direct architectural precursor of modern quadrotor eVTOL. Establishes prior art for: (1) the H-frame four-rotor configuration with cross-shafted multi-engine drive, (2) attitude control via per-rotor cyclic pitch (the de Bothezat 1922 design used differential collective only). Convertawings' 1950s patents are long expired. Combined with de-bothezat-quadrotor (1922), curtiss-wright-vz-7 (1958), and piasecki-vz-8-airgeep (1958), comprehensively places quadrotor architecture in mid-20th-century public-domain prior art.
+
+**Sources:**
+
+1. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
+2. Markman and Holder. Straight Up. Schiffer, 2000.
+3. Aviation Week coverage of Convertawings Model A, 1956-1959.
 
 ---
 
@@ -547,6 +568,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2010-11 — UPenn cooperative grasping and transport with multiple quadrotors
+
+- **id:** `upenn-cooperative-grasping`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** University of Pennsylvania GRASP Laboratory / Daniel Mellinger / Michael Shomin / Nathan Michael / Vijay Kumar
+- **disclosure citation:** Mellinger, Daniel; Shomin, Michael; Michael, Nathan; Kumar, Vijay. 'Cooperative Grasping and Transport using Multiple Quadrotors.' International Symposium on Distributed Autonomous Robotic Systems (DARS), Lausanne, November 2010; published Springer Tracts in Advanced Robotics, 2013. UPenn GRASP Laboratory; demonstration videos widely circulated 2010-2012.
+- **disclosed subsystems:** `lift-modular-docking`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `autonomy-pilot-removed`, `cert-experimental`
+
+**Prior art notes:**
+
+> UPenn's cooperative-grasping work (Mellinger, Shomin, Michael, Kumar, DARS 2010) is the closest conceptual ancestor of ModQuad within the GRASP Laboratory — multiple quadrotors rigidly coupling to a shared body and cooperatively controlling it as a single composite multirotor. Establishes prior art for: (1) rigid in-air coupling of N independent quadrotors into a single controlled composite, (2) distributed cooperative control allocation across the coupled set, (3) cooperative aerial transport / manipulation. Combined with eth-distributed-flight-array (2010) and upenn-modquad (2018), comprehensively places modular / cooperatively-coupled multirotor architecture in academic public-domain prior art.
+
+**Sources:**
+
+1. Mellinger, D., Shomin, M., Michael, N., Kumar, V. 'Cooperative Grasping and Transport using Multiple Quadrotors.' DARS 2010 / STAR 2013.
+2. Michael, N., Fink, J., Kumar, V. 'Cooperative manipulation and transportation with aerial robots.' Autonomous Robots 30(1), 2011.
+3. UPenn GRASP Laboratory project archive.
+
+---
+
 ### 2011-03-22 — Festo SmartBird
 
 - **id:** `festo-smartbird`
@@ -590,6 +632,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2011-09 — University of Bologna Modular Multirotor Vehicle
+
+- **id:** `bologna-modular-multirotor`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** University of Bologna CASY (Center for Research on Complex Automated Systems) / Roberto Naldi / Lorenzo Marconi
+- **disclosure citation:** Naldi, Roberto; Marconi, Lorenzo et al. 'Modeling and Control of a Class of Modular Aerial Robots Combining Under-Actuated Air Vehicles With a Reconfigurable Mechanism.' IEEE Transactions on Robotics, subsequent to 2011 conference work. University of Bologna CASY group; papers in IEEE T-RO, IFAC, and ICRA 2011-2015.
+- **disclosed subsystems:** `lift-modular-docking`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> The University of Bologna's modular multirotor work (Naldi & Marconi, CASY group, ~2011-2015) is the Italian academic disclosure of modular-reconfigurable aerial robots combining under-actuated thrust modules with a reconfigurable connecting mechanism. Establishes Italian prior art for: (1) modular aerial vehicles where the composite achieves full actuation from individually-under-actuated parts, (2) reconfigurable inter-module mechanisms changing thrust-vector geometry. Together with the ETH and UPenn modular-aerial-robot lineages, places modular multirotor architecture in cross-national academic public-domain prior art.
+
+**Sources:**
+
+1. Naldi, R., Marconi, L. et al. 'Modeling and Control of a Class of Modular Aerial Robots.' IEEE Transactions on Robotics, 2011-2015 (multiple papers).
+2. Naldi, R., Gentili, L., Marconi, L., Sala, A. 'Design and experimental validation of a nonlinear control law for a ducted-fan miniature aerial vehicle.' Control Engineering Practice, 2010.
+3. University of Bologna CASY group publications archive.
+
+---
+
 ### 2011-10-21 — e-volo VC1 (Volocopter precursor)
 
 - **id:** `volocopter-vc1`
@@ -611,6 +674,47 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2011-12-02 — ETH Flight Assembled Architecture
+
+- **id:** `eth-flight-assembled-architecture`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** ETH Zurich Gramazio Kohler Research / Raffaello D'Andrea (flying machine control) / FRAC Centre Orléans
+- **disclosure citation:** Flight Assembled Architecture installation, FRAC Centre, Orléans, France, 2011-12-02 to 2012-02-19. ETH Zurich Gramazio Kohler Research (Fabio Gramazio, Matthias Kohler) with flying-machine control by Raffaello D'Andrea's group. Quadrotors autonomously assembled a 6-meter tower from 1,500 foam modules. Documented in academic publications and the book 'Flight Assembled Architecture' (Editions HYX, 2013).
+- **disclosed subsystems:** `lift-modular-docking`, `control-swarm-coordinated-fleet`, `autonomy-pilot-removed`, `cert-experimental`
+
+**Prior art notes:**
+
+> ETH Zurich's Flight Assembled Architecture (Gramazio Kohler + D'Andrea, 2011-2012) is the foundational disclosure of autonomous aerial robots constructing load-bearing structures by coordinated assembly of modular components. Establishes prior art for: (1) coordinated multi-quadrotor fleet assembly of structures from modular building blocks, (2) the concept of on-demand aerially-assembled structures (directly relevant to 'a flying structure built on demand from individual modules'), (3) autonomous pick-and-place aerial manipulation at fleet scale. Combined with eth-distributed-flight-array (2010), upenn-cooperative-grasping (2010), and upenn-modquad (2018), comprehensively places modular-aerial-assembly architecture in academic public-domain prior art.
+
+**Sources:**
+
+1. Willmann, J., Augugliaro, F., Cadalbert, T., D'Andrea, R., Gramazio, F., Kohler, M. 'Aerial Robotic Construction: Towards a New Field of Architectural Research.' International Journal of Architectural Computing 10(3), 2012.
+2. Gramazio, F., Kohler, M., D'Andrea, R. (eds). Flight Assembled Architecture. Editions HYX, 2013.
+3. Augugliaro, F. et al. 'The Flight Assembled Architecture installation: Cooperative construction with flying machines.' IEEE Control Systems Magazine 34(4), 2014.
+
+---
+
+### 2012-01-31 — KMel Robotics / UPenn nano-quadrotor swarm
+
+- **id:** `kmel-nano-quadrotor-swarm`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** KMel Robotics (UPenn GRASP Laboratory spinout) / Alex Kushleyev / Daniel Mellinger / Vijay Kumar
+- **disclosure citation:** Kushleyev, Alex; Mellinger, Daniel; Powers, Caitlin; Kumar, Vijay. 'Towards a swarm of agile micro quadrotors.' Robotics: Science and Systems (RSS), Sydney, 2012; published Autonomous Robots 35(4), 2013. The famous '20 nano quadrotors flying in formation' video was released by the UPenn GRASP Lab / KMel Robotics 2012-01-31 (viewed tens of millions of times). KMel Robotics later acquired by Qualcomm.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-swarm-coordinated-fleet`, `control-differential-thrust-attitude`, `autonomy-pilot-removed`, `cert-experimental`
+
+**Prior art notes:**
+
+> The KMel Robotics / UPenn GRASP nano-quadrotor swarm (Kushleyev, Mellinger, Powers, Kumar, RSS 2012) is the foundational public disclosure of large-scale agile multirotor swarm coordination — the famous '20 nano quadrotors' video. Establishes prior art for: (1) tightly-coordinated 3D formation flight of N independent multirotors, (2) dynamic in-flight reconfiguration of swarm formations, (3) coordinated passage through constrained openings while maintaining formation. Combined with intel-shooting-star (2016) and collmot-drone-show (2014), comprehensively places multi-drone coordinated-fleet control in pre-2017 prior art. The 'fleet acting as one system' concept central to modern modular/swarm eVTOL is anticipated here.
+
+**Sources:**
+
+1. Kushleyev, A., Mellinger, D., Powers, C., Kumar, V. 'Towards a swarm of agile micro quadrotors.' RSS 2012 / Autonomous Robots 35(4), 2013.
+2. UPenn GRASP Laboratory / KMel Robotics video, 'A Swarm of Nano Quadrotors,' 2012-01-31.
+
+---
+
 ### 2013-01-31 — Bitcraze Crazyflie
 
 - **id:** `bitcraze-crazyflie`
@@ -629,6 +733,27 @@ cite, copy, or redistribute these contentions.
 1. Bitcraze AB Crazyflie repository, github.com/bitcraze.
 2. Honegger, D. et al. 'An Open Source Indoor Visual Odometry.' ICRA 2013.
 3. Multiple academic papers using Crazyflie as research platform 2013-2024.
+
+---
+
+### 2014 — CollMot Robotics drone-show swarm
+
+- **id:** `collmot-drone-show`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** CollMot Robotics / CollMot Entertainment (Budapest, Hungary) / Gábor Vásárhelyi / Tamás Vicsek
+- **disclosure citation:** CollMot Robotics founded 2014 in Budapest by Gábor Vásárhelyi (with roots in Tamás Vicsek's collective-motion research group at Eötvös Loránd University); decentralized outdoor drone-swarm flight published in Vásárhelyi, G. et al. 'Optimized flocking of autonomous drones in confined environments,' Science Robotics 3(20), 2018. CollMot Entertainment performs commercial drone-light shows worldwide.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-swarm-coordinated-fleet`, `autonomy-pilot-removed`, `cert-experimental`
+
+**Prior art notes:**
+
+> CollMot Robotics establishes Hungarian prior art for decentralized outdoor drone-swarm coordination — distinct from motion-capture-based indoor swarms (UPenn nano-quad, Intel Shooting Star) by operating outdoors at scale with onboard GPS and decentralized self-organizing flocking. Rooted in Tamás Vicsek's foundational collective-motion physics (the Vicsek model, 1995). The Science Robotics 2018 paper (Vásárhelyi et al.) is a comprehensive disclosure. Adds Hungary to the eVTOL / aerial-robotics prior-art map. Together with kmel-nano-quadrotor-swarm and intel-shooting-star, places multi-drone coordinated-fleet control in continuous prior-art coverage.
+
+**Sources:**
+
+1. Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A.E., Vicsek, T. 'Optimized flocking of autonomous drones in confined environments.' Science Robotics 3(20), 2018.
+2. Vicsek, T. et al. 'Novel type of phase transition in a system of self-driven particles.' Physical Review Letters 75(6), 1995.
+3. CollMot Robotics / CollMot Entertainment technical materials.
 
 ---
 
@@ -674,6 +799,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-09 — EPFL GimBall
+
+- **id:** `epfl-gimball`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** EPFL Laboratory of Intelligent Systems (Dario Floreano) / Adrien Briod (later Flyability SA)
+- **disclosure citation:** Briod, Adrien; Kornatowski, Przemyslaw; Zufferey, Jean-Christophe; Floreano, Dario. 'A Collision-resilient Flying Robot.' Journal of Field Robotics 31(4), 2014. EPFL Laboratory of Intelligent Systems; won the UAE Drones for Good Award 2015; commercialized as Flyability Elios via the Flyability SA spinout.
+- **disclosed subsystems:** `airframe-collision-resilient-cage`, `lift-coaxial-rotor`, `lift-distributed-electric-propulsion`, `cert-experimental`
+
+**Prior art notes:**
+
+> EPFL's GimBall (Briod, Kornatowski, Zufferey, Floreano, JFR 2014) is the foundational disclosure of the gimbaled protective-cage flying-robot architecture — a freely-rotating outer cage that decouples collision impacts from the inner flight system, enabling collision-tolerant flight. Establishes prior art for: (1) rotating protective-cage airframe geometry, (2) collision-tolerant operation enabling contact-based maneuvers (including docking). The protective-cage concept is directly antecedent to ModQuad's cuboid-frame docking architecture. Commercialized as Flyability Elios for industrial confined-space inspection.
+
+**Sources:**
+
+1. Briod, A., Kornatowski, P., Zufferey, J.-C., Floreano, D. 'A Collision-resilient Flying Robot.' Journal of Field Robotics 31(4), 2014.
+2. EPFL Laboratory of Intelligent Systems publications archive.
+3. Flyability SA technical materials.
+
+---
+
 ### 2015-04 — ArduPilot QuadPlane VTOL
 
 - **id:** `ardupilot-quadplane`
@@ -716,6 +862,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-11-04 — Intel Shooting Star drone-light-show system
+
+- **id:** `intel-shooting-star`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Intel Corporation
+- **disclosure citation:** Intel Shooting Star drone-light-show system publicly demonstrated 2016-11-04 (500-drone Guinness World Record, Krailling Germany); subsequently scaled to 1,218 drones (PyeongChang Olympics opening ceremony 2018-02-09) and 2,018+ drones (Folsom CA, 2018-07). Intel filed multiple patents on swarm light-show choreography and coordinated multi-drone control. Publicly disclosed via Intel press materials and Guinness World Records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-swarm-coordinated-fleet`, `autonomy-pilot-removed`, `cert-experimental`
+
+**Prior art notes:**
+
+> Intel Shooting Star establishes US commercial prior art for large-scale single-operator coordinated drone-fleet control — 500 drones (2016), 1,218 drones (PyeongChang 2018 Olympics), 2,018+ drones (2018). Establishes prior art for: (1) one operator controlling a fleet of N independent multirotors as a single coordinated system, (2) choreography-software-driven fleet trajectory generation at scale, (3) the 'fleet flies as one system' control paradigm directly relevant to any modular / swarm-coordinated eVTOL claim. Together with kmel-nano-quadrotor-swarm (2012) and collmot-drone-show (2014), comprehensively places coordinated-multi-drone control in 2012-2018 prior art across US academic, US commercial, and Hungarian commercial lineages.
+
+**Sources:**
+
+1. Intel Corporation press releases on Shooting Star, 2016-2020.
+2. Guinness World Records, 'Most unmanned aerial vehicles (UAVs) airborne simultaneously,' 2016-11-04 and 2018-07.
+3. PyeongChang 2018 Olympic Winter Games opening ceremony, 2018-02-09.
+
+---
+
 ### 2017-04-20 — Gravity Industries Jet Suit
 
 - **id:** `gravity-industries-jet-suit`
@@ -735,6 +902,27 @@ cite, copy, or redistribute these contentions.
 2. Browning, Richard. Taking on Gravity. Bantam Press, 2019.
 3. Gravity Industries press materials and patent filings.
 4. Guinness World Records archive 2019-11-12.
+
+---
+
+### 2017-08 — EPFL origami folding drone
+
+- **id:** `epfl-folding-drone`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** EPFL Laboratory of Intelligent Systems (Dario Floreano) / Stefano Mintchev
+- **disclosure citation:** Mintchev, Stefano; Floreano, Dario. 'A pocket sized foldable quadrotor for collaborative missions.' (and related papers). EPFL Laboratory of Intelligent Systems, 2017; published IEEE Robotics and Automation Letters and ICRA/IROS 2017-2019. Origami-inspired quadrotor that folds into a compact package for storage/transport and self-deploys for flight.
+- **disclosed subsystems:** `airframe-in-flight-morphing`, `lift-distributed-electric-propulsion`, `cert-experimental`
+
+**Prior art notes:**
+
+> EPFL's origami folding drone (Mintchev & Floreano, 2017) establishes prior art for foldable / self-deploying multirotor airframes — arms that collapse into a compact transport package and deploy for flight. Establishes prior art for: (1) origami-inspired collapsible quadrotor arm architecture, (2) spring-loaded or motor-driven self-deployment. Together with uzh-foldable-drone (active mid-flight folding) and univ-tokyo-dragon (in-flight multilink transformation), comprehensively places morphing / folding aerial-robot architecture in academic public-domain prior art.
+
+**Sources:**
+
+1. Mintchev, S., Floreano, D. 'A pocket sized foldable quadrotor for collaborative missions.' Related EPFL LIS publications 2017-2019.
+2. Mintchev, S., Daler, L., L'Eplattenier, G., Saint-Raymond, L., Floreano, D. 'Foldable and Self-Deployable Pocket Sized Quadrotor.' ICRA 2015.
+3. EPFL Laboratory of Intelligent Systems publications archive.
 
 ---
 
@@ -759,6 +947,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-05 — DRAGON (University of Tokyo JSK Laboratory)
+
+- **id:** `univ-tokyo-dragon`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** University of Tokyo JSK Laboratory (Masayuki Inaba) / Moju Zhao / Tomoki Anzai / Fan Shi
+- **disclosure citation:** Zhao, Moju; Anzai, Tomoki; Shi, Fan; Chen, Xiangyu; Okada, Kei; Inaba, Masayuki. 'Design, Modeling, and Control of an Aerial Robot DRAGON: A Dual-Rotor-Embedded Multilink Robot With the Ability of Multi-Degree-of-Freedom Aerial Transformation.' IEEE Robotics and Automation Letters 3(2), 2018; presented ICRA 2018. University of Tokyo JSK Laboratory. DRAGON = 'Dual-rotor embedded multilink Robot with the Ability of multi-deGree-of-freedom aerial transformatioN'.
+- **disclosed subsystems:** `airframe-in-flight-morphing`, `lift-modular-docking`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `autonomy-pilot-removed`, `cert-experimental`
+
+**Prior art notes:**
+
+> The University of Tokyo JSK Laboratory's DRAGON (Zhao, Anzai, Shi, Chen, Okada, Inaba, RAL 2018 / ICRA 2018) is the foundational disclosure of the multilink transforming aerial robot — a serially-connected chain of thrust-vectoring modules with actuated joints, able to change its whole-body shape in flight (line, curve, loop, gap-thread) and perform whole-body aerial manipulation by wrapping around objects. Establishes Japanese prior art for: (1) modular serially-linked aerial-robot architecture, (2) in-flight whole-body transformation with real-time control allocation across the changing kinematic chain, (3) whole-body aerial grasping/manipulation. Together with eth-distributed-flight-array, upenn-modquad, and the morphing-drone lineage (epfl-folding-drone, uzh-foldable-drone), comprehensively places modular / transforming / reconfigurable aerial-robot architecture in academic public-domain prior art across Swiss, US, and Japanese research lineages. **Directly anticipates any future commercial eVTOL claim involving in-flight reconfiguration of a multi-module airframe.**
+
+**Sources:**
+
+1. Zhao, M., Anzai, T., Shi, F., Chen, X., Okada, K., Inaba, M. 'Design, Modeling, and Control of an Aerial Robot DRAGON.' IEEE RAL 3(2), 2018.
+2. Anzai, T., Zhao, M., Murooka, M., Shi, F., Okada, K., Inaba, M. 'Aerial Grasping Based on Shape Adaptive Transformation by HALO.' ICRA 2018.
+3. University of Tokyo JSK Laboratory publications archive.
+
+---
+
 ### 2018-05-21 — ModQuad (UPenn GRASP Laboratory)
 
 - **id:** `upenn-modquad`
@@ -766,7 +975,7 @@ cite, copy, or redistribute these contentions.
 - **ip status:** open-permissive
 - **creator:** University of Pennsylvania GRASP Laboratory / David Saldaña / Mark Yim / Vijay Kumar
 - **disclosure citation:** Saldaña, David; Gabrich, Bruno; Li, Guanrui; Yim, Mark; Kumar, Vijay. 'ModQuad: The Flying Modular Structure that Self-Assembles in Midair.' IEEE International Conference on Robotics and Automation (ICRA), Brisbane Australia, 2018-05-21 to 2018-05-25. Multiple successor papers including ModQuad-Vi (ICRA 2019), ModQuad-DoF (IROS 2018), ModQuad-RP (RAL 2020). UPenn GRASP Laboratory open-source hardware designs at github.com/swarmslab.
-- **disclosed subsystems:** `lift-modular-docking`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `autonomy-pilot-removed`, `cert-experimental`
+- **disclosed subsystems:** `airframe-collision-resilient-cage`, `autonomy-pilot-removed`, `cert-experimental`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `lift-distributed-electric-propulsion`, `lift-modular-docking`
 
 **Prior art notes:**
 
@@ -782,6 +991,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-12 — UZH RPG foldable drone
+
+- **id:** `uzh-foldable-drone`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** University of Zurich Robotics and Perception Group (Davide Scaramuzza) / Davide Falanga / Kevin Kleber / Stefano Mintchev / Dario Floreano
+- **disclosure citation:** Falanga, Davide; Kleber, Kevin; Mintchev, Stefano; Floreano, Dario; Scaramuzza, Davide. 'The Foldable Drone: A Morphing Quadrotor That Can Squeeze and Fly.' IEEE Robotics and Automation Letters 4(2), 2018 / presented ICRA 2019. University of Zurich Robotics and Perception Group (with EPFL LIS collaboration). A quadrotor that actively folds its arms in flight to change its morphology and pass through narrow gaps.
+- **disclosed subsystems:** `airframe-in-flight-morphing`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> UZH's Foldable Drone (Falanga, Kleber, Mintchev, Floreano, Scaramuzza, RAL 2018 / ICRA 2019) is the foundational disclosure of in-flight repeatable airframe morphing — a quadrotor that actively folds its arms to change its geometry mid-flight (X → H → O shape) and adapts its control allocation in real time. Establishes prior art for: (1) servo-actuated repeatable in-flight airframe reconfiguration, (2) real-time control-allocation adaptation to changing rotor geometry, (3) morphology-driven obstacle traversal. Together with univ-tokyo-dragon (multilink transformation) and epfl-folding-drone (one-shot deployment), comprehensively places morphing aerial-robot architecture in academic public-domain prior art — directly relevant to any modular or reconfigurable eVTOL claim involving in-flight geometry change.
+
+**Sources:**
+
+1. Falanga, D., Kleber, K., Mintchev, S., Floreano, D., Scaramuzza, D. 'The Foldable Drone: A Morphing Quadrotor That Can Squeeze and Fly.' IEEE RAL 4(2), 2018.
+2. University of Zurich Robotics and Perception Group publications archive.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -789,4 +1018,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7e83101`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*

@@ -13,11 +13,11 @@ Each markdown file in this directory is an **invalidity-contention packet**:
 a chronologically-ordered, attorney-ready prior art reference. There are two
 kinds:
 
-- **Auto-generated** (43 packets). Derived from `corpus.jsonl` by grouping
+- **Auto-generated** (46 packets). Derived from `corpus.jsonl` by grouping
   entries on their `disclosed_subsystems` tags. Each tag with two or more
   disclosing entries gets a packet. Each entry's `prior_art_notes` is
   reproduced verbatim alongside the citation-ready metadata.
-  Total entry-references across packets: **711**.
+  Total entry-references across packets: **778**.
 - **Hand-written** (4 packets). Patent- or company-specific
   contention packets that walk through architectural claim areas and map them
   to corpus entries that anticipate each. These survive regeneration of the
@@ -82,5 +82,5 @@ Hand-written packets in this directory are preserved.
 
 - **Generated:** 2026-05-11
 - **Source:** <https://github.com/openIE-dev/free-evtol-corpus>
-- **Corpus revision:** `7e83101`
+- **Corpus revision:** `bff4888`
 

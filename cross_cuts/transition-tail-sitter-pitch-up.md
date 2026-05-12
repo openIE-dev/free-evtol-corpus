@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `transition-tail-sitter-pitch-up`
 
-**10 corpus entries disclose this subsystem.**
+**11 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1944-09
 
@@ -104,3 +104,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bell APT (Autonomous Pod Transport) publicly disclosed August 2018; APT 70 (70 lb / ~32 kg payload variant) first flight 2019-08; demonstrated package delivery and NASA UTM integration trials 2020-2021. Documented in Bell Textron press materials, NASA UTM program reports, and FAA filings.
 - **ip status**: patented
 - **prior art notes**: Bell APT (Autonomous Pod Transport) establishes US prior art for the modular-cargo-pod tail-sitter eVTOL — a reusable quad-rotor tail-sitter airframe carrying a swappable cargo pod mounted between the rotor booms. Establishes prior art for: (1) modular swappable cargo pod + reusable propulsion airframe architecture in tail-sitter form, (2) NASA UTM-integrated autonomous cargo eVTOL operations (2020-2021 trials), (3) the pod-as-deliverable design pattern. Together with airbus-popup (modular passenger capsule), elroy-air-chaparral (modular cargo pod), and the academic modular-aerial-robot lineage, places modular-pod eVTOL architecture in commercial prior art from 2017-2018 forward.
+
+## Alef Aeronautics Model A (2022-10-19)
+
+- **id**: `alef-model-a`
+- **corpus**: private
+- **creator**: Alef Aeronautics Inc (San Mateo, California)
+- **disclosure**: Alef Aeronautics Model A publicly unveiled 2022-10-19; received FAA Special Airworthiness Certificate (Experimental) 2023-06-12 — the first 'flying car' to receive an FAA airworthiness certificate. Alef (founded 2015) demonstrated a full-scale prototype driving and (briefly) lifting 2022-2023. Documented in Alef press materials, FAA filings, and Alef patent filings.
+- **ip status**: patented
+- **prior art notes**: Alef Aeronautics Model A establishes US prior art for the rotors-under-mesh-skin drive+fly transformer — a road-legal car with eight electric lift rotors hidden under a perforated upper skin, taking off vertically through the mesh and then rotating the whole body (cabin gimballed level) to fly as a biplane-wing. The first 'flying car' to receive an FAA airworthiness certificate (2023). Establishes prior art for: (1) mesh-skin / perforated-surface lift-rotor concealment architecture, (2) whole-body-rotation drive+fly transition with gimballed cabin, (3) the car-body-as-biplane-wing configuration. Distinct from the folding-wing transformers (Klein Vision, AeroMobil, ASKA) and modular-capsule transformers (Airbus Pop.Up, XPENG AeroHT). Together with these and pal-v-liberty (autogyro transformer), comprehensively places drive+fly transformer architecture in prior art across folding-wing / modular-capsule / whole-body-rotation / autogyro variants.

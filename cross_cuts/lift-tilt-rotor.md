@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-tilt-rotor`
 
-**23 corpus entries disclose this subsystem.**
+**24 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1955-08-11
 
@@ -140,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ASKA / NFT Inc founded 2018 by Guy Kaplinsky and Maki Kaplinsky; A5 production-design unveiled at CES 2023 (2023-01-04); FAA Special Airworthiness Certificate (Experimental) granted 2023-06-29 for flight testing. NHTSA-approved street-legal road operation pending.
 - **ip status**: patented
 - **prior art notes**: ASKA A5 is the leading drive+fly transformer eVTOL with documented FAA experimental-category certification. Establishes prior art for: (1) folding-wing tilt-rotor transformer architecture, (2) hybrid-electric powerplant for transformer range extension, (3) dual-certification basis (FAA + NHTSA road-legal). Anticipates: PAL-V Liberty, AeroMobil 4.0, Klein Vision AirCar, and any modern drive+fly patent claim.
+
+## Voliro omnidirectional flying robot (2018-05)
+
+- **id**: `voliro`
+- **corpus**: private
+- **creator**: Voliro Airborne Robotics (ETH Zurich spinout) / Marco Tognon / Mina Kamel / Roland Siegwart (ASL)
+- **disclosure**: Voliro hexacopter with tiltable rotor arms first publicly disclosed 2018 (ETH Zurich Autonomous Systems Lab student project, then ETH spinout Voliro Airborne Robotics, founded 2019); academic paper Bodie, Karen et al. 'Towards Efficient Full Pose Omnidirectionality with Overactuated MAVs,' ISER 2018 / and related ASL publications. Commercialized for contact-based industrial inspection (Voliro X, 2022).
+- **ip status**: patented
+- **prior art notes**: Voliro establishes prior art for the tilting-arm omnidirectional multirotor — a hexacopter with six independently-tilting rotor arms giving full-pose (6-DOF) control via tilt geometry rather than bidirectional propellers. Distinct from the ETH Omnicopter approach. Establishes prior art for: (1) independently-tilting-arm omnidirectional multirotor, (2) contact-based aerial interaction (pressing sensors against surfaces). Commercialized for industrial inspection. Together with eth-omnicopter (2016) and cyclotech-cruiseup (2022), comprehensively places omnidirectional / fully-actuated multirotor architecture in academic and commercial prior art.
 
 ## Joby Aviation S4 (2018-12-20)
 

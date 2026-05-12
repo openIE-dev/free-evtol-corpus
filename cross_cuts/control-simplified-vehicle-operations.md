@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `control-simplified-vehicle-operations`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2018-12-20
+Earliest disclosure: 2018-10-25
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## LIFT Aircraft Hexa (2018-10-25)
+
+- **id**: `lift-aircraft-hexa`
+- **corpus**: private
+- **creator**: LIFT Aircraft Inc (Austin, Texas)
+- **disclosure**: LIFT Aircraft Hexa publicly unveiled 2018-10-25; first crewed flights 2019; FAA Part 103 ultralight category (no pilot license required); public 'flight experiences' / training-flight programme launched 2021-2024. Documented in LIFT Aircraft press materials, FAA Part 103 registrations, and U.S. Air Force AFWERX Agility Prime contracts.
+- **ip status**: patented
+- **prior art notes**: LIFT Aircraft Hexa establishes US prior art for the maximally-redundant single-seat multirotor eVTOL — eighteen independent rotors each with its own battery and motor (full distributed redundancy, tolerates loss of six rotors), single-joystick fly-by-wire simplified vehicle operations, FAA Part 103 ultralight operation. Establishes prior art for: (1) per-rotor-independent battery/motor architecture with deep failure tolerance, (2) consumer-grade single-joystick SVO for an 18-rotor eVTOL, (3) Part 103 ultralight commercial flight-experience deployment. Together with pivotal-blackfly, jetson-one, ehang-eh216, and volocopter-volocity, comprehensively places single-seat / small-pax multirotor eVTOL in commercial prior art.
 
 ## Joby Aviation S4 (2018-12-20)
 

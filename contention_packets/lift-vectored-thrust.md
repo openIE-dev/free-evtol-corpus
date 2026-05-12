@@ -1,15 +1,15 @@
 ---
 title: "lift-vectored-thrust"
 parent: "Invalidity Contentions"
-nav_order: 28
+nav_order: 32
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-vectored-thrust`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-vectored-thrust`  
-**Entries:** 27 (27 commons-grade, 0 draft)  
+**Entries:** 29 (29 commons-grade, 0 draft)  
 **Earliest disclosure:** 1955-12-10  
 **Most recent disclosure:** 2018-11-08
 
@@ -381,6 +381,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1982 — Williams X-Jet
+
+- **id:** `williams-x-jet`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Williams International / U.S. Army / DARPA
+- **disclosure citation:** Williams International X-Jet (Williams Aerial Systems Platform) publicly demonstrated 1982-1983 under U.S. Army / DARPA evaluation. Williams International (the small-turbofan specialist) built a single-person standing platform powered by a Williams WR19 turbofan (the same engine class as cruise missiles). Documented in U.S. Army evaluation reports and Williams International materials.
+- **disclosed subsystems:** `lift-vectored-thrust`, `cert-military`
+
+**Prior art notes:**
+
+> Williams International's X-Jet establishes prior art for the turbofan-powered standing personal VTOL platform — distinct from rocket-belt (Bell, 1961, ~21 sec endurance), ducted-fan (Hiller VZ-1, 1955), and modern jet-suit (Gravity Industries, 2017) variants by using a single compact turbofan for ~30-minute endurance. Establishes prior art for: (1) turbofan-powered single-person platform, (2) bifurcated-exhaust vane vectoring for personal-VTOL attitude. Williams' 1980s patents are expired. Combined with bell-rocket-belt, hiller-vz-1-pawnee, solotrek-xfv, gravity-industries-jet-suit, and martin-aircraft-jetpack, comprehensively places personal-VTOL platform architecture across rocket / ducted-fan / turbofan / turbojet propulsion in 1955-2017 prior art.
+
+**Sources:**
+
+1. U.S. Army / DARPA Williams Aerial Systems Platform evaluation reports.
+2. Williams International corporate history materials.
+3. Aviation Week coverage 1982-1983.
+
+---
+
 ### 1982-06-25 — Spinner (Blade Runner)
 
 - **id:** `bladerunner-spinner`
@@ -574,6 +595,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2012-08-07 — Hybrid Air Vehicles Airlander 10
+
+- **id:** `hybrid-air-vehicles-airlander-10`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Hybrid Air Vehicles Ltd (Bedford, United Kingdom)
+- **disclosure citation:** Hybrid Air Vehicles HAV-304 (built for the cancelled U.S. Army LEMV programme) first flight 2012-08-07 at Lakehurst NJ; rebuilt as the Airlander 10 by HAV in the UK, first flight 2016-08-17 at Cardington. Hybrid Air Vehicles is developing the production Airlander 10 for passenger and cargo service (~2026-2028). Documented in HAV technical materials, U.S. Army LEMV reports, and UK CAA certification filings.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-vectored-thrust`, `lift-distributed-electric-propulsion`, `propulsion-hybrid-series`, `cert-part-23`
+
+**Prior art notes:**
+
+> Hybrid Air Vehicles Airlander 10 establishes UK prior art for the hybrid airship — a hull shaped to generate ~40% aerodynamic lift alongside ~60% buoyant helium lift, with vectored ducted propulsors for VTOL control, able to operate from unprepared sites (water, ice, sand, rough ground). Establishes prior art for: (1) hybrid aerodynamic-plus-buoyant lift architecture, (2) vectored-propulsor VTOL control on an airship, (3) infrastructure-free VTOL operation at large scale. Together with lta-research-pathfinder-1 (2023) and flying-whales-lca60t (2012), establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Also relevant to the Orb Aerospace / Skyways 'unprepared site operations' thesis at a much larger scale.
+
+**Sources:**
+
+1. Hybrid Air Vehicles technical materials and press releases 2012-2025.
+2. U.S. Army LEMV (Long Endurance Multi-intelligence Vehicle) programme reports.
+3. UK CAA Airlander 10 certification filings.
+
+---
+
 ### 2017-04-20 — Gravity Industries Jet Suit
 
 - **id:** `gravity-industries-jet-suit`
@@ -624,4 +666,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

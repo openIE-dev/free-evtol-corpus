@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-military`
 
-**37 corpus entries disclose this subsystem.**
+**38 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941-10-30
 
@@ -221,6 +221,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AV-8B prototype YAV-8B first flight 1978-11-09 at McDonnell Douglas St. Louis (modified Harrier GR.1 airframe); production AV-8B first flight 1981-11-05; entered USMC service 1985. Joint U.S.-U.K. production program (RAF Harrier GR.5 / GR.7 / GR.9 variants). Documented in U.S. Navy / RAF technical orders, McDonnell Douglas / Boeing technical papers, and Smithsonian collections.
 - **ip status**: patented
 - **prior art notes**: AV-8B Harrier II is the production-definitive vectored-thrust VTOL fighter — second-generation development of the P.1127/Harrier lineage with supercritical wing and lift-improvement devices that nearly doubled payload over Harrier GR.1. The U.S. Marine Corps operated AV-8B from 1985 through 2014 (replaced by F-35B), and the RAF operated GR.5/7/9 variants 1989-2010 — comprehensive multi-decade operational disclosure of the production-scale Pegasus four-poster vectored-thrust architecture. Most McDonnell Douglas / Boeing AV-8B-era patents have now expired (filed 1975-2000). Combined with hawker-p-1127 (1960), hawker-siddeley-harrier (1967), and f-35b-lightning (2008), comprehensively places vectored-thrust VTOL fighter architecture in 50+ years of public-domain prior art.
+
+## Williams X-Jet (1982)
+
+- **id**: `williams-x-jet`
+- **corpus**: private
+- **creator**: Williams International / U.S. Army / DARPA
+- **disclosure**: Williams International X-Jet (Williams Aerial Systems Platform) publicly demonstrated 1982-1983 under U.S. Army / DARPA evaluation. Williams International (the small-turbofan specialist) built a single-person standing platform powered by a Williams WR19 turbofan (the same engine class as cruise missiles). Documented in U.S. Army evaluation reports and Williams International materials.
+- **ip status**: patented
+- **prior art notes**: Williams International's X-Jet establishes prior art for the turbofan-powered standing personal VTOL platform — distinct from rocket-belt (Bell, 1961, ~21 sec endurance), ducted-fan (Hiller VZ-1, 1955), and modern jet-suit (Gravity Industries, 2017) variants by using a single compact turbofan for ~30-minute endurance. Establishes prior art for: (1) turbofan-powered single-person platform, (2) bifurcated-exhaust vane vectoring for personal-VTOL attitude. Williams' 1980s patents are expired. Combined with bell-rocket-belt, hiller-vz-1-pawnee, solotrek-xfv, gravity-industries-jet-suit, and martin-aircraft-jetpack, comprehensively places personal-VTOL platform architecture across rocket / ducted-fan / turbofan / turbojet propulsion in 1955-2017 prior art.
 
 ## Mil Mi-30 (1985-03)
 

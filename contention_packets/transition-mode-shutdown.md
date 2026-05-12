@@ -1,16 +1,16 @@
 ---
 title: "transition-mode-shutdown"
 parent: "Invalidity Contentions"
-nav_order: 44
+nav_order: 48
 layout: default
 ---
 
 # Invalidity Contention Packet — `transition-mode-shutdown`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `transition-mode-shutdown`  
-**Entries:** 18 (18 commons-grade, 0 draft)  
-**Earliest disclosure:** 2014-09  
+**Entries:** 20 (20 commons-grade, 0 draft)  
+**Earliest disclosure:** 1986-12-02  
 **Most recent disclosure:** 2022-08
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1986-12-02 — Sikorsky/DARPA X-Wing
+
+- **id:** `sikorsky-x-wing`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Sikorsky Aircraft / NASA / DARPA / U.S. Army
+- **disclosure citation:** RSRA/X-Wing technology demonstrator first flight (fixed-wing mode, rotor stopped) 1986-12-02 at NASA Ames; program cancelled 1988 before in-flight rotor stop/start was demonstrated. Built on the Sikorsky S-72 RSRA airframe with a four-bladed rigid rotor that could be stopped in flight to act as an X-shaped fixed wing. Documented in NASA / DARPA technical reports.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `transition-mode-shutdown`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Sikorsky/DARPA X-Wing (RSRA-based, 1986) is the foundational disclosure of the stopped-rotor / rotor-wing architecture: a rigid rotor with circulation control that spins for hover, then stops to act as a fixed X-shaped wing for high-speed cruise. Establishes prior art for: (1) stoppable-in-flight rigid rotor that doubles as a fixed wing, (2) circulation-control (blown) rotor blades enabling lift across the full azimuth, (3) the rotor-stop-and-restart transition concept. Although in-flight rotor stop was never demonstrated before cancellation, the design disclosure is complete in NASA/DARPA documentation. Anticipates: any modern eVTOL claim involving stoppable lift rotors that become fixed lifting surfaces (a recurring concept in high-speed-cruise VTOL proposals).
+
+**Sources:**
+
+1. NASA Technical Memoranda on RSRA/X-Wing, multiple 1984-1988.
+2. Sikorsky Aircraft X-Wing program archive.
+3. DARPA X-Wing program reports, DTIC.
+
+---
 
 ### 2014-09 — PX4 VTOL flight stack
 
@@ -358,6 +379,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-10 — REGENT Viceroy seaglider
+
+- **id:** `regent-viceroy-seaglider`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** REGENT Craft Inc (Rhode Island, USA) — founded by Boeing / Aurora Flight Sciences alumni
+- **disclosure citation:** REGENT Craft (founded 2020 by Billy Thalheimer and Mike Klinker, ex-Aurora Flight Sciences / Boeing) unveiled the Viceroy seaglider 2021-10; quarter-scale prototype first flight 2022-08; full-scale Viceroy prototype rollout / first sea trials 2024-2025. The seaglider operates in three modes — floating (hull), foiling (hydrofoils), and flying (wing-in-ground-effect, ~9 m altitude). Documented in REGENT technical materials, U.S. Marine Corps / Navy contracts, and patent filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> REGENT Viceroy is the foundational modern disclosure of the electric wing-in-ground-effect (WIG) 'seaglider' — a distributed-electric-propulsion craft that transitions floating → hydrofoiling → ground-effect flight, operating a few meters above water. Establishes prior art for: (1) electric WIG / ekranoplan-class craft with distributed blown-wing propulsion, (2) the hull/foil/flight three-mode transition, (3) retractable-hydrofoil takeoff for a winged aircraft. While not vertical-takeoff in the classical sense, it is eVTOL-adjacent (the corpus scope covers ground-effect hybrids with VTOL-like operations) and shares DEP blown-wing architecture with eVTOL. Anticipates other electric-WIG and seaglider claims (a growing segment — also pursued by Wigetworks AirFish and others).
+
+**Sources:**
+
+1. REGENT Craft technical white papers and press releases 2021-2025.
+2. U.S. Marine Corps / Navy seaglider contract records.
+3. REGENT Craft patent filings, USPTO.
+
+---
+
 ### 2021-10-04 — AIR ONE (eVTOL)
 
 - **id:** `air-one`
@@ -428,4 +470,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-160 entries total. Generated from corpus.jsonl.
+178 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -11,7 +11,9 @@
 | Airbus A^3 Vahana | `airbus-vahana` | 2018 | private | patented |  |
 | Airbus CityAirbus NextGen | `airbus-cityairbus-nextgen` | 2021 | private | patented |  |
 | Airbus Pop.Up / Pop.Up Next | `airbus-popup` | 2017 | private | patented |  |
+| Airbus RACER | `airbus-racer` | 2024 | private | patented |  |
 | Albatross (Robur the Conqueror) | `verne-albatross` | 1886 | fictional | public-domain |  |
+| Alef Aeronautics Model A | `alef-model-a` | 2022 | private | patented |  |
 | AMSL Aero Vertiia | `amsl-vertiia` | 2021 | private | patented |  |
 | Archer Aviation Midnight | `archer-midnight` | 2021 | private | patented |  |
 | ArduPilot QuadPlane VTOL | `ardupilot-quadplane` | 2015 | open | open-copyleft |  |
@@ -45,8 +47,10 @@
 | Cornu helicopter | `cornu-helicopter` | 1907 | academic | public-domain |  |
 | Crisalion Mobility Integrity | `crisalion-integrity` | 2022 | private | patented |  |
 | Curtiss-Wright VZ-7 | `curtiss-wright-vz-7` | 1958 | academic | public-domain |  |
+| CycloTech CruiseUp / CCY-5 | `cyclotech-cruiseup` | 2021 | private | patented |  |
 | D-Dalus (IAT-21) | `d-dalus` | 2011 | academic | patented |  |
 | de Bothezat helicopter | `de-bothezat-quadrotor` | 1922 | academic | public-domain |  |
+| de Lackner HZ-1 Aerocycle | `de-lackner-hz-1-aerocycle` | 1955 | academic | patented |  |
 | DJI FlyCart 30 | `dji-flycart-30` | 2023 | private | patented |  |
 | Doak VZ-4 | `doak-vz-4` | 1958 | academic | public-domain |  |
 | Doblhoff WNF 342 | `doblhoff-wnf-342` | 1943 | academic | public-domain |  |
@@ -61,6 +65,8 @@
 | ePlane Company e200 | `eplane-company-e200` | 2022 | private | patented |  |
 | ETH Distributed Flight Array | `eth-distributed-flight-array` | 2010 | academic | open-permissive |  |
 | ETH Flight Assembled Architecture | `eth-flight-assembled-architecture` | 2011 | academic | open-permissive |  |
+| ETH Omnicopter | `eth-omnicopter` | 2016 | academic | patented |  |
+| Eurocopter X3 | `eurocopter-x3` | 2010 | private | patented |  |
 | Eve Air Mobility eVTOL | `eve-air-mobility` | 2020 | private | patented |  |
 | Fairey Rotodyne | `fairey-rotodyne` | 1957 | academic | public-domain |  |
 | Federation shuttlecraft (Star Trek) | `star-trek-shuttlecraft` | 1967 | fictional | fictional |  |
@@ -68,6 +74,7 @@
 | Flapter (Castle in the Sky / Laputa) | `laputa-flapter` | 1986 | fictional | fictional |  |
 | Flettner Fl 282 Kolibri | `flettner-fl-282-kolibri` | 1941 | academic | public-domain |  |
 | Flying carpet (One Thousand and One Nights) | `arabian-nights-flying-carpet` | 0850 | fictional | public-domain |  |
+| Flying Whales LCA60T | `flying-whales-lca60t` | 2012 | private | patented |  |
 | Focke-Wulf Fa 61 | `focke-wulf-fa-61` | 1936 | academic | public-domain |  |
 | Focke-Wulf Triebflügel | `focke-wulf-triebflugel` | 1944 | academic | public-domain |  |
 | Gaw attack carrier (Mobile Suit Gundam) | `gundam-gaw` | 1979 | fictional | fictional |  |
@@ -77,9 +84,11 @@
 | Hawker P.1127 | `hawker-p-1127` | 1960 | academic | patented |  |
 | Hawker Siddeley Harrier GR.1 | `hawker-siddeley-harrier` | 1967 | private | patented |  |
 | Helldiver carrier (Patlabor) | `patlabor-helldiver` | 1989 | fictional | fictional |  |
+| Hiller VZ-1 Pawnee | `hiller-vz-1-pawnee` | 1955 | academic | patented |  |
 | Hiller X-18 | `hiller-x-18` | 1959 | academic | public-domain |  |
 | Honda eVTOL | `honda-evtol` | 2021 | private | patented |  |
 | Hoversurf Scorpion-3 | `hoversurf-s3` | 2017 | private | patented |  |
+| Hybrid Air Vehicles Airlander 10 | `hybrid-air-vehicles-airlander-10` | 2012 | private | patented |  |
 | Hyundai Supernal S-A2 | `hyundai-supernal-sa2` | 2024 | private | patented |  |
 | Intel Shooting Star drone-light-show system | `intel-shooting-star` | 2016 | private | patented |  |
 | Iron Man Mark suits | `iron-man-suit` | 1963 | fictional | fictional |  |
@@ -98,10 +107,12 @@
 | Lana de Terzi vacuum airship | `lana-terzi-vacuum-airship` | 1670 | academic | public-domain |  |
 | Leonardo AW609 | `leonardo-aw609` | 2003 | private | patented |  |
 | Leonardo da Vinci ornithopter sketches | `da-vinci-ornithopter` | 1485 | academic | public-domain |  |
+| LIFT Aircraft Hexa | `lift-aircraft-hexa` | 2018 | private | patented |  |
 | Lilium Jet (7-seat) | `lilium-jet` | 2019 | private | patented |  |
 | Lockheed Martin F-35B Lightning II | `f-35b-lightning` | 2008 | private | patented |  |
 | Lockheed XFV-1 Salmon | `lockheed-xfv-salmon` | 1954 | academic | public-domain |  |
 | Lockheed XV-4 Hummingbird | `lockheed-xv-4-hummingbird` | 1962 | academic | public-domain |  |
+| LTA Research Pathfinder 1 | `lta-research-pathfinder-1` | 2023 | private | patented |  |
 | LTV XC-142A | `ltv-xc-142` | 1964 | academic | public-domain |  |
 | Manna Air Delivery drone | `manna-air-delivery` | 2020 | private | patented |  |
 | Manta Aircraft ANN2 | `manta-aircraft-ann2` | 2020 | private | patented |  |
@@ -119,12 +130,14 @@
 | Ornithopter (Dune) | `dune-ornithopter` | 1965 | fictional | fictional |  |
 | PAL-V Liberty | `pal-v-liberty` | 2012 | private | patented |  |
 | Pegasus Vertical Business Jet | `pegasus-universal-aerospace` | 2018 | private | patented |  |
+| Pepelats (Kin-dza-dza!) | `kin-dza-dza-pepelats` | 1986 | fictional | public-domain |  |
 | Pescara helicopter | `pescara-helicopter` | 1922 | academic | patented |  |
 | Piasecki VZ-8 Airgeep | `piasecki-vz-8-airgeep` | 1958 | academic | public-domain |  |
 | Pivotal Helix (formerly Opener BlackFly) | `pivotal-blackfly` | 2018 | private | patented |  |
 | Pushpaka Vimana (Ramayana) | `pushpaka-vimana` | -050 | fictional | public-domain |  |
 | PX4 VTOL flight stack | `px4-vtol` | 2014 | open | open-permissive |  |
 | Pyka Pelican Cargo | `pyka-pelican` | 2018 | private | patented |  |
+| REGENT Viceroy seaglider | `regent-viceroy-seaglider` | 2021 | private | patented |  |
 | Ryan X-13 Vertijet | `ryan-x-13-vertijet` | 1955 | academic | public-domain |  |
 | Saab Skeldar V-200 | `saab-skeldar-v-200` | 2007 | private | patented |  |
 | Sabrewing Rhaegal-A | `sabrewing-rhaegal-a` | 2019 | private | patented |  |
@@ -136,11 +149,14 @@
 | Sikorsky S-97 Raider | `sikorsky-s-97-raider` | 2015 | private | patented |  |
 | Sikorsky VS-300 | `sikorsky-vs-300` | 1939 | academic | patented |  |
 | Sikorsky-Boeing SB>1 Defiant | `sikorsky-boeing-defiant` | 2019 | private | patented |  |
+| Sikorsky/DARPA X-Wing | `sikorsky-x-wing` | 1986 | academic | public-domain |  |
 | SkyDrive SD-05 | `skydrive-sd-05` | 2018 | private | patented |  |
 | SNECMA C.450 Coléoptère | `snecma-coleoptere` | 1959 | academic | public-domain |  |
+| SoloTrek XFV / Trek Aerospace Springtail | `solotrek-xfv` | 2001 | private | patented |  |
 | Spinner (Blade Runner) | `bladerunner-spinner` | 1982 | fictional | fictional |  |
 | Take-copter (Doraemon) | `doraemon-takecopter` | 1969 | fictional | fictional |  |
 | TCab Tech E20 | `tcab-tech-e20` | 2022 | private | patented |  |
+| Terrafugia Transition | `terrafugia-transition` | 2009 | private | patented |  |
 | Terror (Master of the World) | `verne-terror` | 1904 | fictional | public-domain |  |
 | Thunderbird 2 (International Rescue) | `thunderbird-2` | 1965 | fictional | fictional |  |
 | Tolmekian Gunship (Nausicaä of the Valley of the Wind) | `nausicaa-tolmekian-gunship` | 1984 | fictional | fictional |  |
@@ -155,7 +171,9 @@
 | VF-1 Valkyrie / Veritech (Super Dimension Fortress Macross) | `macross-vf-1-veritech` | 1982 | fictional | fictional |  |
 | VFW-Fokker VAK 191B | `vfw-fokker-vak-191b` | 1971 | academic | public-domain |  |
 | Volansi VBAT | `volansi-vbat` | 2018 | private | patented |  |
+| Voliro omnidirectional flying robot | `voliro` | 2018 | private | patented |  |
 | Volocopter VoloCity | `volocopter-volocity` | 2019 | private | patented |  |
+| Williams X-Jet | `williams-x-jet` | 1982 | private | patented |  |
 | Wingcopter 198 | `wingcopter-198` | 2017 | private | patented |  |
 | Wisk Aero Cora / Gen 6 | `wisk-cora` | 2018 | private | patented |  |
 | Workhorse SureFly | `workhorse-surefly` | 2017 | private | patented |  |

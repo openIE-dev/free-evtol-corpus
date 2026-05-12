@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `airframe-composite-monocoque`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `airframe-composite-monocoque`  
-**Entries:** 46 (46 commons-grade, 0 draft)  
+**Entries:** 50 (50 commons-grade, 0 draft)  
 **Earliest disclosure:** 1978-11-09  
 **Most recent disclosure:** 2024-04-04
 
@@ -465,6 +465,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-10-25 — LIFT Aircraft Hexa
+
+- **id:** `lift-aircraft-hexa`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** LIFT Aircraft Inc (Austin, Texas)
+- **disclosure citation:** LIFT Aircraft Hexa publicly unveiled 2018-10-25; first crewed flights 2019; FAA Part 103 ultralight category (no pilot license required); public 'flight experiences' / training-flight programme launched 2021-2024. Documented in LIFT Aircraft press materials, FAA Part 103 registrations, and U.S. Air Force AFWERX Agility Prime contracts.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `control-simplified-vehicle-operations`, `cert-part-103-ultralight`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> LIFT Aircraft Hexa establishes US prior art for the maximally-redundant single-seat multirotor eVTOL — eighteen independent rotors each with its own battery and motor (full distributed redundancy, tolerates loss of six rotors), single-joystick fly-by-wire simplified vehicle operations, FAA Part 103 ultralight operation. Establishes prior art for: (1) per-rotor-independent battery/motor architecture with deep failure tolerance, (2) consumer-grade single-joystick SVO for an 18-rotor eVTOL, (3) Part 103 ultralight commercial flight-experience deployment. Together with pivotal-blackfly, jetson-one, ehang-eh216, and volocopter-volocity, comprehensively places single-seat / small-pax multirotor eVTOL in commercial prior art.
+
+**Sources:**
+
+1. LIFT Aircraft press releases and FAA Part 103 registrations 2018-2024.
+2. U.S. Air Force AFWERX Agility Prime contract records (LIFT Hexa).
+
+---
+
 ### 2018-11-08 — Pegasus Vertical Business Jet
 
 - **id:** `pegasus-universal-aerospace`
@@ -739,6 +759,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-07 — CycloTech CruiseUp / CCY-5
+
+- **id:** `cyclotech-cruiseup`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** CycloTech GmbH (Linz, Austria)
+- **disclosure citation:** CycloTech GmbH (founded 2004 as D-Dalus successor, rebranded CycloTech 2020) unveiled the CruiseUp passenger eVTOL concept 2022-09; the CCY-5 technology demonstrator (a sub-scale flying testbed using six CycloRotors) achieved first untethered flight 2024-04-17 at Wels, Austria. CycloTech holds an extensive cycloidal-rotor patent estate.
+- **disclosed subsystems:** `lift-cyclorotor`, `control-fully-actuated-omnidirectional`, `lift-distributed-electric-propulsion`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> CycloTech CruiseUp / CCY-5 is the modern production-oriented disclosure of cyclorotor (cyclogiro) eVTOL — six electric CycloRotors giving omnidirectional fully-actuated thrust via azimuthal blade-pitch modulation. Establishes Austrian prior art for: (1) passenger-scale cyclorotor eVTOL architecture, (2) electric CycloRotor propulsion with 360° in-plane thrust vectoring, (3) the omnidirectional fully-actuated cyclorotor control. Builds on the D-Dalus research demonstrator (2011) and the foundational Pescara cyclogiro patents (1928, long expired). Together with d-dalus and eth-omnicopter, comprehensively places cyclorotor and omnidirectional VTOL architecture in prior art.
+
+**Sources:**
+
+1. CycloTech GmbH technical white papers and press releases 2020-2024.
+2. CycloTech CCY-5 first flight, Wels Austria, 2024-04-17.
+3. Pescara cyclogiro patents (1928, foundational, expired).
+
+---
+
 ### 2021-07-16 — XPENG AeroHT X2
 
 - **id:** `aeroht-xpeng-x2`
@@ -844,6 +885,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-10 — REGENT Viceroy seaglider
+
+- **id:** `regent-viceroy-seaglider`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** REGENT Craft Inc (Rhode Island, USA) — founded by Boeing / Aurora Flight Sciences alumni
+- **disclosure citation:** REGENT Craft (founded 2020 by Billy Thalheimer and Mike Klinker, ex-Aurora Flight Sciences / Boeing) unveiled the Viceroy seaglider 2021-10; quarter-scale prototype first flight 2022-08; full-scale Viceroy prototype rollout / first sea trials 2024-2025. The seaglider operates in three modes — floating (hull), foiling (hydrofoils), and flying (wing-in-ground-effect, ~9 m altitude). Documented in REGENT technical materials, U.S. Marine Corps / Navy contracts, and patent filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> REGENT Viceroy is the foundational modern disclosure of the electric wing-in-ground-effect (WIG) 'seaglider' — a distributed-electric-propulsion craft that transitions floating → hydrofoiling → ground-effect flight, operating a few meters above water. Establishes prior art for: (1) electric WIG / ekranoplan-class craft with distributed blown-wing propulsion, (2) the hull/foil/flight three-mode transition, (3) retractable-hydrofoil takeoff for a winged aircraft. While not vertical-takeoff in the classical sense, it is eVTOL-adjacent (the corpus scope covers ground-effect hybrids with VTOL-like operations) and shares DEP blown-wing architecture with eVTOL. Anticipates other electric-WIG and seaglider claims (a growing segment — also pursued by Wigetworks AirFish and others).
+
+**Sources:**
+
+1. REGENT Craft technical white papers and press releases 2021-2025.
+2. U.S. Marine Corps / Navy seaglider contract records.
+3. REGENT Craft patent filings, USPTO.
+
+---
+
 ### 2021-10-04 — AIR ONE (eVTOL)
 
 - **id:** `air-one`
@@ -924,6 +986,27 @@ cite, copy, or redistribute these contentions.
 
 1. Crisalion Mobility press releases 2022-2024.
 2. Tecnalia Research and Innovation public technical disclosures.
+
+---
+
+### 2022-10-19 — Alef Aeronautics Model A
+
+- **id:** `alef-model-a`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Alef Aeronautics Inc (San Mateo, California)
+- **disclosure citation:** Alef Aeronautics Model A publicly unveiled 2022-10-19; received FAA Special Airworthiness Certificate (Experimental) 2023-06-12 — the first 'flying car' to receive an FAA airworthiness certificate. Alef (founded 2015) demonstrated a full-scale prototype driving and (briefly) lifting 2022-2023. Documented in Alef press materials, FAA filings, and Alef patent filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-tail-sitter-pitch-up`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Alef Aeronautics Model A establishes US prior art for the rotors-under-mesh-skin drive+fly transformer — a road-legal car with eight electric lift rotors hidden under a perforated upper skin, taking off vertically through the mesh and then rotating the whole body (cabin gimballed level) to fly as a biplane-wing. The first 'flying car' to receive an FAA airworthiness certificate (2023). Establishes prior art for: (1) mesh-skin / perforated-surface lift-rotor concealment architecture, (2) whole-body-rotation drive+fly transition with gimballed cabin, (3) the car-body-as-biplane-wing configuration. Distinct from the folding-wing transformers (Klein Vision, AeroMobil, ASKA) and modular-capsule transformers (Airbus Pop.Up, XPENG AeroHT). Together with these and pal-v-liberty (autogyro transformer), comprehensively places drive+fly transformer architecture in prior art across folding-wing / modular-capsule / whole-body-rotation / autogyro variants.
+
+**Sources:**
+
+1. Alef Aeronautics press releases 2022-2024.
+2. FAA Special Airworthiness Certificate dossier (Alef Model A), 2023-06-12.
+3. Alef Aeronautics patent filings, USPTO (incl. US 11,167,839).
 
 ---
 
@@ -1018,4 +1101,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

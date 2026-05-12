@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `control-differential-thrust-attitude`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-differential-thrust-attitude`  
-**Entries:** 30 (30 commons-grade, 0 draft)  
+**Entries:** 33 (33 commons-grade, 0 draft)  
 **Earliest disclosure:** 1922  
 **Most recent disclosure:** 2024-04-04
 
@@ -378,6 +378,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2016-05 — ETH Omnicopter
+
+- **id:** `eth-omnicopter`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** ETH Zurich Institute for Dynamic Systems and Control (Raffaello D'Andrea) / Dario Brescianini
+- **disclosure citation:** Brescianini, Dario; D'Andrea, Raffaello. 'Design, modeling and control of an omni-directional aerial vehicle.' IEEE International Conference on Robotics and Automation (ICRA), Stockholm, May 2016; subsequent IEEE Transactions on Control Systems Technology and demonstration videos (catching and throwing a ball mid-air). ETH Zurich IDSC.
+- **disclosed subsystems:** `control-fully-actuated-omnidirectional`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> The ETH Omnicopter (Brescianini & D'Andrea, ICRA 2016) is the foundational disclosure of the fully-actuated omnidirectional multirotor — eight bidirectional propellers on a cubic frame giving independent control of force and torque in all six degrees of freedom, able to hover at arbitrary attitudes and recover from any orientation. Establishes prior art for: (1) fully-actuated (6-DOF) multirotor architecture, (2) bidirectional-propeller thrust vectoring, (3) arbitrary-attitude hover and orientation recovery. Anticipates: Voliro (omnidirectional tilt-rotor hexrotor), CycloTech (omnidirectional cyclorotor), and any commercial eVTOL claim asserting novelty over fully-actuated or arbitrary-attitude multirotor control.
+
+**Sources:**
+
+1. Brescianini, D., D'Andrea, R. 'Design, modeling and control of an omni-directional aerial vehicle.' ICRA 2016.
+2. Brescianini, D., D'Andrea, R. 'An omni-directional multirotor vehicle.' Mechatronics, 2018.
+3. ETH Zurich IDSC publications archive.
+
+---
+
 ### 2017-04-28 — Hoversurf Scorpion-3
 
 - **id:** `hoversurf-s3`
@@ -462,6 +483,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-05 — Voliro omnidirectional flying robot
+
+- **id:** `voliro`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Voliro Airborne Robotics (ETH Zurich spinout) / Marco Tognon / Mina Kamel / Roland Siegwart (ASL)
+- **disclosure citation:** Voliro hexacopter with tiltable rotor arms first publicly disclosed 2018 (ETH Zurich Autonomous Systems Lab student project, then ETH spinout Voliro Airborne Robotics, founded 2019); academic paper Bodie, Karen et al. 'Towards Efficient Full Pose Omnidirectionality with Overactuated MAVs,' ISER 2018 / and related ASL publications. Commercialized for contact-based industrial inspection (Voliro X, 2022).
+- **disclosed subsystems:** `control-fully-actuated-omnidirectional`, `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> Voliro establishes prior art for the tilting-arm omnidirectional multirotor — a hexacopter with six independently-tilting rotor arms giving full-pose (6-DOF) control via tilt geometry rather than bidirectional propellers. Distinct from the ETH Omnicopter approach. Establishes prior art for: (1) independently-tilting-arm omnidirectional multirotor, (2) contact-based aerial interaction (pressing sensors against surfaces). Commercialized for industrial inspection. Together with eth-omnicopter (2016) and cyclotech-cruiseup (2022), comprehensively places omnidirectional / fully-actuated multirotor architecture in academic and commercial prior art.
+
+**Sources:**
+
+1. Bodie, K. et al. 'Towards Efficient Full Pose Omnidirectionality with Overactuated MAVs.' ISER 2018.
+2. Bodie, K. et al. 'An Omnidirectional Aerial Manipulation Platform for Contact-Based Inspection.' RSS 2019.
+3. Voliro Airborne Robotics technical materials, voliro.com.
+
+---
+
 ### 2018-05-21 — ModQuad (UPenn GRASP Laboratory)
 
 - **id:** `upenn-modquad`
@@ -524,6 +566,26 @@ cite, copy, or redistribute these contentions.
 1. Jetson AB press releases 2018–2024.
 2. Jetson ONE technical specifications, jetsonaero.com.
 3. FAA Part 103 ultralight registration records (Jetson ONE customer aircraft).
+
+---
+
+### 2018-10-25 — LIFT Aircraft Hexa
+
+- **id:** `lift-aircraft-hexa`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** LIFT Aircraft Inc (Austin, Texas)
+- **disclosure citation:** LIFT Aircraft Hexa publicly unveiled 2018-10-25; first crewed flights 2019; FAA Part 103 ultralight category (no pilot license required); public 'flight experiences' / training-flight programme launched 2021-2024. Documented in LIFT Aircraft press materials, FAA Part 103 registrations, and U.S. Air Force AFWERX Agility Prime contracts.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `control-simplified-vehicle-operations`, `cert-part-103-ultralight`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> LIFT Aircraft Hexa establishes US prior art for the maximally-redundant single-seat multirotor eVTOL — eighteen independent rotors each with its own battery and motor (full distributed redundancy, tolerates loss of six rotors), single-joystick fly-by-wire simplified vehicle operations, FAA Part 103 ultralight operation. Establishes prior art for: (1) per-rotor-independent battery/motor architecture with deep failure tolerance, (2) consumer-grade single-joystick SVO for an 18-rotor eVTOL, (3) Part 103 ultralight commercial flight-experience deployment. Together with pivotal-blackfly, jetson-one, ehang-eh216, and volocopter-volocity, comprehensively places single-seat / small-pax multirotor eVTOL in commercial prior art.
+
+**Sources:**
+
+1. LIFT Aircraft press releases and FAA Part 103 registrations 2018-2024.
+2. U.S. Air Force AFWERX Agility Prime contract records (LIFT Hexa).
 
 ---
 
@@ -680,4 +742,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

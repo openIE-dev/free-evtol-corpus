@@ -46,7 +46,11 @@
       "year": "1670",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "flying-whales-lca60t",
+        "hybrid-air-vehicles-airlander-10",
+        "lta-research-pathfinder-1"
+      ]
     },
     {
       "id": "verne-albatross",
@@ -115,6 +119,7 @@
       "descendants": [
         "cierva-autogyro",
         "d-dalus",
+        "de-lackner-hz-1-aerocycle",
         "doraemon-takecopter",
         "flettner-fl-282-kolibri",
         "focke-wulf-fa-61",
@@ -144,6 +149,7 @@
         "curtiss-wright-vz-7",
         "doak-vz-4",
         "ehang-eh216",
+        "hiller-vz-1-pawnee",
         "mil-v-12",
         "oehmichen-helicopter",
         "piasecki-vz-8-airgeep",
@@ -307,11 +313,40 @@
       ],
       "descendants": [
         "aerovironment-skytote",
+        "alef-model-a",
         "bell-apt",
         "pivotal-blackfly",
         "ryan-x-13-vertijet",
         "snecma-coleoptere",
         "volansi-vbat"
+      ]
+    },
+    {
+      "id": "de-lackner-hz-1-aerocycle",
+      "name": "de Lackner HZ-1 Aerocycle",
+      "year": "1955",
+      "corpus": "academic",
+      "ancestors": [
+        "pescara-helicopter"
+      ],
+      "descendants": [
+        "aerofex-aero-x",
+        "hoversurf-s3"
+      ]
+    },
+    {
+      "id": "hiller-vz-1-pawnee",
+      "name": "Hiller VZ-1 Pawnee",
+      "year": "1955",
+      "corpus": "academic",
+      "ancestors": [
+        "de-bothezat-quadrotor"
+      ],
+      "descendants": [
+        "aerofex-aero-x",
+        "hoversurf-s3",
+        "pivotal-blackfly",
+        "solotrek-xfv"
       ]
     },
     {
@@ -417,6 +452,7 @@
         "doblhoff-wnf-342"
       ],
       "descendants": [
+        "eurocopter-x3",
         "sikorsky-s-72-rsra"
       ]
     },
@@ -556,7 +592,9 @@
         "aerofex-aero-x",
         "gravity-industries-jet-suit",
         "iron-man-suit",
-        "martin-aircraft-jetpack"
+        "martin-aircraft-jetpack",
+        "solotrek-xfv",
+        "williams-x-jet"
       ]
     },
     {
@@ -583,6 +621,7 @@
         "airbus-popup",
         "aska-a5",
         "bladerunner-spinner",
+        "kin-dza-dza-pepelats",
         "macross-vf-1-veritech",
         "moller-skycar-m400",
         "nausicaa-tolmekian-gunship",
@@ -785,7 +824,8 @@
       ],
       "descendants": [
         "sikorsky-boeing-defiant",
-        "sikorsky-s-97-raider"
+        "sikorsky-s-97-raider",
+        "sikorsky-x-wing"
       ]
     },
     {
@@ -853,6 +893,18 @@
       "descendants": []
     },
     {
+      "id": "williams-x-jet",
+      "name": "Williams X-Jet",
+      "year": "1982",
+      "corpus": "private",
+      "ancestors": [
+        "bell-rocket-belt"
+      ],
+      "descendants": [
+        "gravity-industries-jet-suit"
+      ]
+    },
+    {
       "id": "bladerunner-spinner",
       "name": "Spinner (Blade Runner)",
       "year": "1982",
@@ -917,6 +969,26 @@
       "descendants": [
         "festo-smartbird"
       ]
+    },
+    {
+      "id": "kin-dza-dza-pepelats",
+      "name": "Pepelats (Kin-dza-dza!)",
+      "year": "1986",
+      "corpus": "fictional",
+      "ancestors": [
+        "jetsons-aerocar"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sikorsky-x-wing",
+      "name": "Sikorsky/DARPA X-Wing",
+      "year": "1986",
+      "corpus": "academic",
+      "ancestors": [
+        "sikorsky-s-72-rsra"
+      ],
+      "descendants": []
     },
     {
       "id": "yak-141",
@@ -994,6 +1066,20 @@
         "kaman-hh-43-huskie"
       ],
       "descendants": []
+    },
+    {
+      "id": "solotrek-xfv",
+      "name": "SoloTrek XFV / Trek Aerospace Springtail",
+      "year": "2001",
+      "corpus": "private",
+      "ancestors": [
+        "bell-rocket-belt",
+        "hiller-vz-1-pawnee"
+      ],
+      "descendants": [
+        "gravity-industries-jet-suit",
+        "martin-aircraft-jetpack"
+      ]
     },
     {
       "id": "bell-eagle-eye",
@@ -1098,7 +1184,8 @@
       "year": "2008",
       "corpus": "private",
       "ancestors": [
-        "bell-rocket-belt"
+        "bell-rocket-belt",
+        "solotrek-xfv"
       ],
       "descendants": [
         "gravity-industries-jet-suit"
@@ -1111,10 +1198,25 @@
       "corpus": "private",
       "ancestors": [
         "bell-rocket-belt",
+        "de-lackner-hz-1-aerocycle",
+        "hiller-vz-1-pawnee",
         "piasecki-vz-8-airgeep"
       ],
       "descendants": [
         "hoversurf-s3"
+      ]
+    },
+    {
+      "id": "terrafugia-transition",
+      "name": "Terrafugia Transition",
+      "year": "2009",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "aeromobil-4-0",
+        "aska-a5",
+        "geely-aerofugia-ae200",
+        "klein-vision-aircar"
       ]
     },
     {
@@ -1151,8 +1253,21 @@
       "descendants": [
         "bologna-modular-multirotor",
         "eth-flight-assembled-architecture",
+        "eth-omnicopter",
         "univ-tokyo-dragon",
         "upenn-modquad"
+      ]
+    },
+    {
+      "id": "eurocopter-x3",
+      "name": "Eurocopter X3",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [
+        "fairey-rotodyne"
+      ],
+      "descendants": [
+        "airbus-racer"
       ]
     },
     {
@@ -1186,7 +1301,9 @@
       "ancestors": [
         "pescara-helicopter"
       ],
-      "descendants": []
+      "descendants": [
+        "cyclotech-cruiseup"
+      ]
     },
     {
       "id": "bologna-modular-multirotor",
@@ -1211,6 +1328,7 @@
         "aeroht-xpeng-x2",
         "dji-flycart-30",
         "ehang-eh216",
+        "lift-aircraft-hexa",
         "skydrive-sd-05",
         "volocopter-volocity",
         "workhorse-surefly"
@@ -1223,6 +1341,16 @@
       "corpus": "academic",
       "ancestors": [
         "eth-distributed-flight-array"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "flying-whales-lca60t",
+      "name": "Flying Whales LCA60T",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "lana-terzi-vacuum-airship"
       ],
       "descendants": []
     },
@@ -1251,6 +1379,16 @@
       "descendants": [
         "aska-a5"
       ]
+    },
+    {
+      "id": "hybrid-air-vehicles-airlander-10",
+      "name": "Hybrid Air Vehicles Airlander 10",
+      "year": "2012",
+      "corpus": "private",
+      "ancestors": [
+        "lana-terzi-vacuum-airship"
+      ],
+      "descendants": []
     },
     {
       "id": "bitcraze-crazyflie",
@@ -1384,6 +1522,19 @@
       ]
     },
     {
+      "id": "eth-omnicopter",
+      "name": "ETH Omnicopter",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [
+        "eth-distributed-flight-array"
+      ],
+      "descendants": [
+        "cyclotech-cruiseup",
+        "voliro"
+      ]
+    },
+    {
       "id": "nasa-x-57-maxwell",
       "name": "NASA X-57 Maxwell",
       "year": "2016",
@@ -1396,6 +1547,7 @@
         "archer-midnight",
         "beta-alia-250",
         "joby-s4",
+        "regent-viceroy-seaglider",
         "wisk-cora"
       ]
     },
@@ -1451,7 +1603,8 @@
       "year": "2017",
       "corpus": "private",
       "ancestors": [
-        "bladerunner-spinner"
+        "bladerunner-spinner",
+        "terrafugia-transition"
       ],
       "descendants": [
         "aska-a5",
@@ -1466,7 +1619,9 @@
       "ancestors": [
         "bell-rocket-belt",
         "iron-man-suit",
-        "martin-aircraft-jetpack"
+        "martin-aircraft-jetpack",
+        "solotrek-xfv",
+        "williams-x-jet"
       ],
       "descendants": []
     },
@@ -1491,6 +1646,8 @@
       "ancestors": [
         "aerofex-aero-x",
         "curtiss-wright-vz-7",
+        "de-lackner-hz-1-aerocycle",
+        "hiller-vz-1-pawnee",
         "piasecki-vz-8-airgeep"
       ],
       "descendants": []
@@ -1540,6 +1697,7 @@
         "jetsons-aerocar",
         "klein-vision-aircar",
         "pal-v-liberty",
+        "terrafugia-transition",
         "verne-terror"
       ],
       "descendants": []
@@ -1573,6 +1731,7 @@
       "descendants": [
         "aeroht-xpeng-x2",
         "dji-flycart-30",
+        "lift-aircraft-hexa",
         "skydrive-sd-05",
         "wandering-earth-cargo-vtol"
       ]
@@ -1616,6 +1775,16 @@
       "descendants": []
     },
     {
+      "id": "voliro",
+      "name": "Voliro omnidirectional flying robot",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "eth-omnicopter"
+      ],
+      "descendants": []
+    },
+    {
       "id": "embraerx-evtol-concept",
       "name": "EmbraerX eVTOL concept (2018)",
       "year": "2018",
@@ -1648,6 +1817,7 @@
       "ancestors": [
         "aerovironment-skytote",
         "convair-xfy-pogo",
+        "hiller-vz-1-pawnee",
         "verne-albatross"
       ],
       "descendants": []
@@ -1683,6 +1853,17 @@
       "ancestors": [
         "curtiss-wright-vz-7",
         "verne-albatross"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "lift-aircraft-hexa",
+      "name": "LIFT Aircraft Hexa",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "ehang-eh216",
+        "volocopter-vc1"
       ],
       "descendants": []
     },
@@ -1892,9 +2073,11 @@
       "ancestors": [
         "aeromobil-4-0",
         "bladerunner-spinner",
+        "terrafugia-transition",
         "verne-terror"
       ],
       "descendants": [
+        "alef-model-a",
         "aska-a5"
       ]
     },
@@ -1936,6 +2119,17 @@
       "descendants": []
     },
     {
+      "id": "cyclotech-cruiseup",
+      "name": "CycloTech CruiseUp / CCY-5",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "d-dalus",
+        "eth-omnicopter"
+      ],
+      "descendants": []
+    },
+    {
       "id": "aeroht-xpeng-x2",
       "name": "XPENG AeroHT X2",
       "year": "2021",
@@ -1955,7 +2149,8 @@
       "corpus": "private",
       "ancestors": [
         "bell-xv-15",
-        "joby-s4"
+        "joby-s4",
+        "terrafugia-transition"
       ],
       "descendants": []
     },
@@ -1989,6 +2184,16 @@
       "ancestors": [
         "beta-alia-250",
         "elroy-air-chaparral"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "regent-viceroy-seaglider",
+      "name": "REGENT Viceroy seaglider",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "nasa-x-57-maxwell"
       ],
       "descendants": []
     },
@@ -2035,6 +2240,17 @@
       "descendants": []
     },
     {
+      "id": "alef-model-a",
+      "name": "Alef Aeronautics Model A",
+      "year": "2022",
+      "corpus": "private",
+      "ancestors": [
+        "convair-xfy-pogo",
+        "klein-vision-aircar"
+      ],
+      "descendants": []
+    },
+    {
       "id": "tcab-tech-e20",
       "name": "TCab Tech E20",
       "year": "2022",
@@ -2059,6 +2275,16 @@
       ]
     },
     {
+      "id": "lta-research-pathfinder-1",
+      "name": "LTA Research Pathfinder 1",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "lana-terzi-vacuum-airship"
+      ],
+      "descendants": []
+    },
+    {
       "id": "hyundai-supernal-sa2",
       "name": "Hyundai Supernal S-A2",
       "year": "2024",
@@ -2078,6 +2304,16 @@
         "aeroht-xpeng-x2",
         "airbus-popup",
         "jetsons-aerocar"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "airbus-racer",
+      "name": "Airbus RACER",
+      "year": "2024",
+      "corpus": "private",
+      "ancestors": [
+        "eurocopter-x3"
       ],
       "descendants": []
     }

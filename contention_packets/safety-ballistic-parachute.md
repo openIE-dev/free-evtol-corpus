@@ -1,13 +1,13 @@
 ---
 title: "safety-ballistic-parachute"
 parent: "Invalidity Contentions"
-nav_order: 37
+nav_order: 41
 layout: default
 ---
 
 # Invalidity Contention Packet — `safety-ballistic-parachute`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `safety-ballistic-parachute`  
 **Entries:** 24 (24 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-10-21  
@@ -554,4 +554,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

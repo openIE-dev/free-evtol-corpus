@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `cert-part-27`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `cert-part-27`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
@@ -91,4 +91,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

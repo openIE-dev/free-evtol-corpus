@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-coaxial-rotor`
 
-**24 corpus entries disclose this subsystem.**
+**27 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1922
 
@@ -69,6 +69,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The XFY-1 Pogo is the first heavier-than-air aircraft to demonstrate full VTOL transition: vertical takeoff, transition to horizontal flight, sustained cruise, transition back to vertical, and vertical landing — all in one flight, by Coleman on 1954-11-02. Establishes prior art for the entire concept of a hover-cruise VTOL transition envelope, the conversion-corridor concept, and the tail-sitter architecture. Specific subsystems disclosed: contra-rotating coaxial lift propulsion (anticipates Wisk Cora-class coax claims), tail-sitter pitch-up transition, manual aerodynamic transition control. Modern eVTOL programs that abandoned tail-sitting in favor of tilt-rotor or tilt-wing did so because of pilot ergonomics, not because tail-sitting didn't work — XFY-1 demonstrated it does.
 
+## de Lackner HZ-1 Aerocycle (1955-01)
+
+- **id**: `de-lackner-hz-1-aerocycle`
+- **corpus**: academic
+- **creator**: de Lackner Helicopters Inc / U.S. Army
+- **disclosure**: de Lackner HZ-1 Aerocycle first tethered flights January 1955; first free flight 1955-11. U.S. Army Transportation Research Command program; cancelled 1956 after instability and rotor-strike concerns. Documented in TRC test reports and Smithsonian collections.
+- **ip status**: patented
+- **prior art notes**: The de Lackner HZ-1 Aerocycle is the open-rotor counterpart to the Hiller VZ-1 Pawnee — a standing personal-platform with coaxial counter-rotating open rotors below the pilot, controlled by leaning. Establishes prior art for: (1) the open-rotor personal flying-platform / 'flying motorcycle' architecture, (2) handlebar-and-lean control of a personal VTOL. Combined with hiller-vz-1-pawnee (1955, ducted-fan variant) and aerofex-aero-x (2008, modern hover bike), places personal-platform VTOL in continuous public-domain prior art.
+
+## Hiller VZ-1 Pawnee (1955-02)
+
+- **id**: `hiller-vz-1-pawnee`
+- **corpus**: academic
+- **creator**: Hiller Aircraft / U.S. Army / Office of Naval Research
+- **disclosure**: Hiller VZ-1 Pawnee (originally ONR-funded 'Flying Platform') first tethered hover early 1955; first free flight 1955-04. Office of Naval Research / U.S. Army Transportation Research Command program. Documented in ONR / TRC test reports and Hiller Aviation Museum collections.
+- **ip status**: patented
+- **prior art notes**: Hiller VZ-1 Pawnee is the foundational disclosure of the standing ducted-fan personal flying-platform architecture with kinesthetic (body-weight-shift) control. Establishes prior art for: (1) counter-rotating ducted lift fans in a personal-scale platform, (2) kinesthetic attitude control (the lean-to-steer paradigm later used by hover bikes and the Pivotal/Opener tail-sitter), (3) the duct-as-structure design. Hiller's 1950s ducted-fan patents are long expired. Combined with de-lackner-hz-1-aerocycle (1955), williams-x-jet (1982), and solotrek-xfv (2001), comprehensively places ducted-fan personal-platform VTOL in continuous public-domain prior art from 1955 forward.
+
 ## Hiller X-18 (1959-11-24)
 
 - **id**: `hiller-x-18`
@@ -104,6 +122,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaman K-MAX first flight 1991-12-23; FAA Type Certificate Part 27 (restricted category) granted 1994-08-30. Optionally-Piloted Aircraft (OPA) variant flown autonomously by U.S. Marine Corps in Afghanistan 2011-2014 (the first deployed unmanned heavy-lift helicopter).
 - **ip status**: patented
 - **prior art notes**: Kaman K-MAX is the modern descendant of HH-43 intermeshing-rotor architecture and the first heavy-lift helicopter deployed for unmanned cargo operations in combat (Afghanistan, 2011-2014). Establishes prior art for: (1) modern certified intermeshing-rotor helicopter (extends HH-43 prior art into the 1990s-2010s with documented operational performance), (2) optionally-piloted heavy-lift cargo VTOL (Lockheed Martin retrofit), (3) Part 27 certification basis for intermeshing rotor.
+
+## SoloTrek XFV / Trek Aerospace Springtail (2001-12-17)
+
+- **id**: `solotrek-xfv`
+- **corpus**: private
+- **creator**: Millennium Jet / Trek Aerospace / NASA / DARPA
+- **disclosure**: Millennium Jet SoloTrek XFV first tethered hover 2001-12-17; developed under NASA and DARPA contracts. Renamed Springtail Exoskeleton Flying Vehicle by successor Trek Aerospace ~2003. Documented in NASA / DARPA technical reports and Trek Aerospace patent filings.
+- **ip status**: patented
+- **prior art notes**: SoloTrek XFV / Springtail establishes prior art for the back-worn ducted-fan exoskeleton flying vehicle — twin shoulder-mounted ducted lift fans on a wearable frame. Establishes prior art for: (1) exoskeleton-mounted ducted-fan personal VTOL, (2) the upright-pilot-in-wearable-frame architecture, (3) single-engine belt-driven dual-fan personal VTOL. Combined with hiller-vz-1-pawnee, williams-x-jet, gravity-industries-jet-suit, martin-aircraft-jetpack, and iron-man-suit (fictional), comprehensively places personal-VTOL exoskeleton/platform architecture in 1955-2017 prior art.
 
 ## AeroVironment SkyTote (2003-04)
 

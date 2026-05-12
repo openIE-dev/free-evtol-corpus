@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-vectored-thrust`
 
-**27 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1955-12-10
 
@@ -159,6 +159,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Mobile Suit Gundam Gaw establishes 1979 Japanese fictional prior art for vectored-thrust heavy-lift VTOL aerial carrier. Combined with Thunderbird 2 (1965, GB), provides 1965–1979 international fictional prior-art base for cargo / military VTOL transport. Mobile Suit Gundam is one of the longest-running Japanese science-fiction franchises, with continuous engineering-detailed mecha-carrier depictions in successor series 1979–present.
 
+## Williams X-Jet (1982)
+
+- **id**: `williams-x-jet`
+- **corpus**: private
+- **creator**: Williams International / U.S. Army / DARPA
+- **disclosure**: Williams International X-Jet (Williams Aerial Systems Platform) publicly demonstrated 1982-1983 under U.S. Army / DARPA evaluation. Williams International (the small-turbofan specialist) built a single-person standing platform powered by a Williams WR19 turbofan (the same engine class as cruise missiles). Documented in U.S. Army evaluation reports and Williams International materials.
+- **ip status**: patented
+- **prior art notes**: Williams International's X-Jet establishes prior art for the turbofan-powered standing personal VTOL platform — distinct from rocket-belt (Bell, 1961, ~21 sec endurance), ducted-fan (Hiller VZ-1, 1955), and modern jet-suit (Gravity Industries, 2017) variants by using a single compact turbofan for ~30-minute endurance. Establishes prior art for: (1) turbofan-powered single-person platform, (2) bifurcated-exhaust vane vectoring for personal-VTOL attitude. Williams' 1980s patents are expired. Combined with bell-rocket-belt, hiller-vz-1-pawnee, solotrek-xfv, gravity-industries-jet-suit, and martin-aircraft-jetpack, comprehensively places personal-VTOL platform architecture across rocket / ducted-fan / turbofan / turbojet propulsion in 1955-2017 prior art.
+
 ## Spinner (Blade Runner) (1982-06-25)
 
 - **id**: `bladerunner-spinner`
@@ -239,6 +248,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Urban Aeronautics' X-Hawk / AirMule first untethered hover 2009-12-21 at Megiddo airfield, Israel; CityHawk civil variant unveiled 2018-02-08. Urban Aeronautics holds the Fancraft / fuselage-internal-rotor patent family (US 7,789,342 et seq., filed early 2000s).
 - **ip status**: patented
 - **prior art notes**: Urban Aeronautics CityHawk / Cormorant establishes Israeli prior-art lineage for ducted-fan internal-rotor VTOL ('Fancraft'). The fuselage-internal lift-fan architecture is uncommon and relatively narrowly patented by Urban Aeronautics. Cormorant (military cargo variant) completed Israeli Defense Forces evaluation 2016. Establishes prior art for: (1) fuselage-internal ducted lift fan, (2) cascade-vane deflection for attitude control in lieu of differential rotor thrust, (3) compact urban-VTOL form factor without exposed rotors. Anticipates modern claims around safety-margin-improvement via internal rotors.
+
+## Hybrid Air Vehicles Airlander 10 (2012-08-07)
+
+- **id**: `hybrid-air-vehicles-airlander-10`
+- **corpus**: private
+- **creator**: Hybrid Air Vehicles Ltd (Bedford, United Kingdom)
+- **disclosure**: Hybrid Air Vehicles HAV-304 (built for the cancelled U.S. Army LEMV programme) first flight 2012-08-07 at Lakehurst NJ; rebuilt as the Airlander 10 by HAV in the UK, first flight 2016-08-17 at Cardington. Hybrid Air Vehicles is developing the production Airlander 10 for passenger and cargo service (~2026-2028). Documented in HAV technical materials, U.S. Army LEMV reports, and UK CAA certification filings.
+- **ip status**: patented
+- **prior art notes**: Hybrid Air Vehicles Airlander 10 establishes UK prior art for the hybrid airship — a hull shaped to generate ~40% aerodynamic lift alongside ~60% buoyant helium lift, with vectored ducted propulsors for VTOL control, able to operate from unprepared sites (water, ice, sand, rough ground). Establishes prior art for: (1) hybrid aerodynamic-plus-buoyant lift architecture, (2) vectored-propulsor VTOL control on an airship, (3) infrastructure-free VTOL operation at large scale. Together with lta-research-pathfinder-1 (2023) and flying-whales-lca60t (2012), establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Also relevant to the Orb Aerospace / Skyways 'unprepared site operations' thesis at a much larger scale.
 
 ## Gravity Industries Jet Suit (2017-04-20)
 

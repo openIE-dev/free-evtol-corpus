@@ -1,15 +1,15 @@
 ---
 title: "lift-tilt-rotor"
 parent: "Invalidity Contentions"
-nav_order: 25
+nav_order: 29
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-tilt-rotor`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-tilt-rotor`  
-**Entries:** 23 (23 commons-grade, 0 draft)  
+**Entries:** 24 (24 commons-grade, 0 draft)  
 **Earliest disclosure:** 1955-08-11  
 **Most recent disclosure:** 2024-01-09
 
@@ -335,6 +335,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-05 — Voliro omnidirectional flying robot
+
+- **id:** `voliro`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Voliro Airborne Robotics (ETH Zurich spinout) / Marco Tognon / Mina Kamel / Roland Siegwart (ASL)
+- **disclosure citation:** Voliro hexacopter with tiltable rotor arms first publicly disclosed 2018 (ETH Zurich Autonomous Systems Lab student project, then ETH spinout Voliro Airborne Robotics, founded 2019); academic paper Bodie, Karen et al. 'Towards Efficient Full Pose Omnidirectionality with Overactuated MAVs,' ISER 2018 / and related ASL publications. Commercialized for contact-based industrial inspection (Voliro X, 2022).
+- **disclosed subsystems:** `control-fully-actuated-omnidirectional`, `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> Voliro establishes prior art for the tilting-arm omnidirectional multirotor — a hexacopter with six independently-tilting rotor arms giving full-pose (6-DOF) control via tilt geometry rather than bidirectional propellers. Distinct from the ETH Omnicopter approach. Establishes prior art for: (1) independently-tilting-arm omnidirectional multirotor, (2) contact-based aerial interaction (pressing sensors against surfaces). Commercialized for industrial inspection. Together with eth-omnicopter (2016) and cyclotech-cruiseup (2022), comprehensively places omnidirectional / fully-actuated multirotor architecture in academic and commercial prior art.
+
+**Sources:**
+
+1. Bodie, K. et al. 'Towards Efficient Full Pose Omnidirectionality with Overactuated MAVs.' ISER 2018.
+2. Bodie, K. et al. 'An Omnidirectional Aerial Manipulation Platform for Contact-Based Inspection.' RSS 2019.
+3. Voliro Airborne Robotics technical materials, voliro.com.
+
+---
+
 ### 2018-12-20 — Joby Aviation S4
 
 - **id:** `joby-s4`
@@ -531,4 +552,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

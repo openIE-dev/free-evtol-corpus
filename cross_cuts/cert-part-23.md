@@ -6,14 +6,32 @@ layout: default
 
 # Cross-cut: `cert-part-23`
 
-**20 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2017-04-20
+Earliest disclosure: 2012
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Flying Whales LCA60T (2012)
+
+- **id**: `flying-whales-lca60t`
+- **corpus**: private
+- **creator**: Flying Whales (Bordeaux, France) — backed by the French state and Quebec
+- **disclosure**: Flying Whales (founded 2012 in Bordeaux, originally to support French national forestry log extraction) developing the LCA60T — a rigid airship designed to carry 60 tonnes of cargo with load/unload while hovering (no landing required). Backed by Bpifrance, the Nouvelle-Aquitaine region, the government of Quebec, and ADP (Aéroports de Paris). First flight targeted ~2027. Documented in Flying Whales technical materials and French government investment disclosures.
+- **ip status**: patented
+- **prior art notes**: Flying Whales LCA60T establishes French prior art for the heavy-lift cargo airship with hover-mode load/unload — a 60-tonne-capacity rigid airship with 32 distributed electric propellers, designed to deliver cargo from a stationary hover without landing or ground infrastructure. Establishes prior art for: (1) heavy-lift buoyant-hybrid cargo architecture, (2) distributed-electric-propeller precision hover on a large airship, (3) crane-mode hovering cargo delivery. Together with lta-research-pathfinder-1 and hybrid-air-vehicles-airlander-10, establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Adds another French entry alongside the Eurocopter X3 / Airbus RACER compound-helicopter lineage and the SNECMA / Cyrano / Verne French VTOL heritage.
+
+## Hybrid Air Vehicles Airlander 10 (2012-08-07)
+
+- **id**: `hybrid-air-vehicles-airlander-10`
+- **corpus**: private
+- **creator**: Hybrid Air Vehicles Ltd (Bedford, United Kingdom)
+- **disclosure**: Hybrid Air Vehicles HAV-304 (built for the cancelled U.S. Army LEMV programme) first flight 2012-08-07 at Lakehurst NJ; rebuilt as the Airlander 10 by HAV in the UK, first flight 2016-08-17 at Cardington. Hybrid Air Vehicles is developing the production Airlander 10 for passenger and cargo service (~2026-2028). Documented in HAV technical materials, U.S. Army LEMV reports, and UK CAA certification filings.
+- **ip status**: patented
+- **prior art notes**: Hybrid Air Vehicles Airlander 10 establishes UK prior art for the hybrid airship — a hull shaped to generate ~40% aerodynamic lift alongside ~60% buoyant helium lift, with vectored ducted propulsors for VTOL control, able to operate from unprepared sites (water, ice, sand, rough ground). Establishes prior art for: (1) hybrid aerodynamic-plus-buoyant lift architecture, (2) vectored-propulsor VTOL control on an airship, (3) infrastructure-free VTOL operation at large scale. Together with lta-research-pathfinder-1 (2023) and flying-whales-lca60t (2012), establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Also relevant to the Orb Aerospace / Skyways 'unprepared site operations' thesis at a much larger scale.
 
 ## AeroMobil 4.0 (2017-04-20)
 
@@ -167,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Honda Motor Company eVTOL program publicly disclosed 2021-09-30 at 'Honda Dream Loop' announcement; design materials and target specifications subsequently disclosed in Honda investor briefings 2022–2024. Targeted commercial operation 2030.
 - **ip status**: patented
 - **prior art notes**: Honda eVTOL establishes prior art for hybrid-turbine-electric passenger eVTOL — Honda's specific architecture decision is to use a gas-turbine genset (leveraging HondaJet experience) for range extension. Anticipates other turbine-hybrid eVTOL claims (Elroy Air Chaparral, AMSL Aero Vertiia variants).
+
+## REGENT Viceroy seaglider (2021-10)
+
+- **id**: `regent-viceroy-seaglider`
+- **corpus**: private
+- **creator**: REGENT Craft Inc (Rhode Island, USA) — founded by Boeing / Aurora Flight Sciences alumni
+- **disclosure**: REGENT Craft (founded 2020 by Billy Thalheimer and Mike Klinker, ex-Aurora Flight Sciences / Boeing) unveiled the Viceroy seaglider 2021-10; quarter-scale prototype first flight 2022-08; full-scale Viceroy prototype rollout / first sea trials 2024-2025. The seaglider operates in three modes — floating (hull), foiling (hydrofoils), and flying (wing-in-ground-effect, ~9 m altitude). Documented in REGENT technical materials, U.S. Marine Corps / Navy contracts, and patent filings.
+- **ip status**: patented
+- **prior art notes**: REGENT Viceroy is the foundational modern disclosure of the electric wing-in-ground-effect (WIG) 'seaglider' — a distributed-electric-propulsion craft that transitions floating → hydrofoiling → ground-effect flight, operating a few meters above water. Establishes prior art for: (1) electric WIG / ekranoplan-class craft with distributed blown-wing propulsion, (2) the hull/foil/flight three-mode transition, (3) retractable-hydrofoil takeoff for a winged aircraft. While not vertical-takeoff in the classical sense, it is eVTOL-adjacent (the corpus scope covers ground-effect hybrids with VTOL-like operations) and shares DEP blown-wing architecture with eVTOL. Anticipates other electric-WIG and seaglider claims (a growing segment — also pursued by Wigetworks AirFish and others).
 
 ## AIR ONE (eVTOL) (2021-10-04)
 

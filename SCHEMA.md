@@ -140,8 +140,12 @@ Single load-bearing axis for sorting entries.
 - `jetpack_personal` — strap-on (Bell Rocket Belt, Gravity Industries, JetPack
   Aviation)
 - `hover_bike` — open-rotor straddle (Aerofex, Hoversurf)
-- `ground_effect_hybrid` — WIG / ekranoplan with VTOL mode
-- `transformer` — drive+fly or fold-out (ASKA A5, AeroMobil, PAL-V)
+- `ground_effect_hybrid` — WIG / ekranoplan with VTOL-like operations (REGENT seaglider)
+- `buoyant_hybrid` — airship with vectored-thrust VTOL augmentation; static
+  (and partly aerodynamic) lift plus distributed/vectored electric thrust
+  (LTA Pathfinder 1, Hybrid Air Vehicles Airlander 10, Flying Whales LCA60T)
+- `transformer` — drive+fly or fold-out (ASKA A5, AeroMobil, PAL-V, Klein
+  Vision AirCar, Alef Model A, Airbus Pop.Up, XPENG AeroHT)
 - `fictional_repulsor` — anti-grav; useful as fictional-class anchor for
   generic "any VTOL" claims
 - `other` — escape hatch with explanation in notes
@@ -175,6 +179,13 @@ are append-only to preserve cross-entry searchability.
 - `lift-coanda-effect`
 - `lift-tip-jet-rotor`
 - `lift-compound-rotorcraft`
+- `lift-modular-docking` — modular units that dock (in flight or on the ground)
+  into a single composite multirotor airframe (ETH Distributed Flight Array,
+  UPenn ModQuad, DRAGON, Airbus Pop.Up, Bell APT)
+- `lift-buoyant-hybrid` — static (helium) lift augmented by distributed/vectored
+  electric thrust for controlled VTOL (LTA Pathfinder 1, Airlander 10, Flying Whales)
+- `lift-stopped-rotor` — rigid rotor that stops in flight to act as a fixed
+  lifting surface (Sikorsky/DARPA X-Wing)
 
 **Transition control**
 - `transition-conversion-corridor`
@@ -211,6 +222,12 @@ are append-only to preserve cross-entry searchability.
 - `control-simplified-vehicle-operations`
 - `control-trajectory-mpc`
 - `control-zero-pilot-rl-policy`
+- `control-fully-actuated-omnidirectional` — independent control of force and
+  torque in all 6 DOF; arbitrary-attitude hover (ETH Omnicopter, Voliro, CycloTech)
+- `control-swarm-coordinated-fleet` — one operator / planner controlling a fleet
+  of N independent aircraft as a single coordinated system; formation flight and
+  in-flight reconfiguration (KMel/UPenn nano-quad swarm, Intel Shooting Star,
+  CollMot, ETH Flight Assembled Architecture)
 
 **Autonomy**
 - `autonomy-bvlos-detect-and-avoid`
@@ -234,6 +251,12 @@ are append-only to preserve cross-entry searchability.
 - `safety-redundant-bus`
 - `airframe-composite-monocoque`
 - `airframe-tilting-wing-spar`
+- `airframe-in-flight-morphing` — airframe geometry actively reconfigures in
+  flight (folding arms, transforming multilink body) with adaptive control
+  allocation (EPFL folding drone, UZH Foldable Drone, DRAGON)
+- `airframe-collision-resilient-cage` — rotating / decoupling protective cage
+  enabling collision-tolerant flight and contact-based maneuvers (EPFL GimBall,
+  ModQuad cuboid frame)
 
 **Certification path**
 - `cert-part-23`

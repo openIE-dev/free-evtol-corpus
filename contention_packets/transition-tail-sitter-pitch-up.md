@@ -1,17 +1,17 @@
 ---
 title: "transition-tail-sitter-pitch-up"
 parent: "Invalidity Contentions"
-nav_order: 45
+nav_order: 49
 layout: default
 ---
 
 # Invalidity Contention Packet — `transition-tail-sitter-pitch-up`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `transition-tail-sitter-pitch-up`  
-**Entries:** 10 (10 commons-grade, 0 draft)  
+**Entries:** 11 (11 commons-grade, 0 draft)  
 **Earliest disclosure:** 1944-09  
-**Most recent disclosure:** 2018-08
+**Most recent disclosure:** 2022-10-19
 
 ---
 
@@ -253,6 +253,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-10-19 — Alef Aeronautics Model A
+
+- **id:** `alef-model-a`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Alef Aeronautics Inc (San Mateo, California)
+- **disclosure citation:** Alef Aeronautics Model A publicly unveiled 2022-10-19; received FAA Special Airworthiness Certificate (Experimental) 2023-06-12 — the first 'flying car' to receive an FAA airworthiness certificate. Alef (founded 2015) demonstrated a full-scale prototype driving and (briefly) lifting 2022-2023. Documented in Alef press materials, FAA filings, and Alef patent filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-tail-sitter-pitch-up`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Alef Aeronautics Model A establishes US prior art for the rotors-under-mesh-skin drive+fly transformer — a road-legal car with eight electric lift rotors hidden under a perforated upper skin, taking off vertically through the mesh and then rotating the whole body (cabin gimballed level) to fly as a biplane-wing. The first 'flying car' to receive an FAA airworthiness certificate (2023). Establishes prior art for: (1) mesh-skin / perforated-surface lift-rotor concealment architecture, (2) whole-body-rotation drive+fly transition with gimballed cabin, (3) the car-body-as-biplane-wing configuration. Distinct from the folding-wing transformers (Klein Vision, AeroMobil, ASKA) and modular-capsule transformers (Airbus Pop.Up, XPENG AeroHT). Together with these and pal-v-liberty (autogyro transformer), comprehensively places drive+fly transformer architecture in prior art across folding-wing / modular-capsule / whole-body-rotation / autogyro variants.
+
+**Sources:**
+
+1. Alef Aeronautics press releases 2022-2024.
+2. FAA Special Airworthiness Certificate dossier (Alef Model A), 2023-06-12.
+3. Alef Aeronautics patent filings, USPTO (incl. US 11,167,839).
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -260,4 +281,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

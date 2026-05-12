@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `autonomy-pilot-removed`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `autonomy-pilot-removed`  
 **Entries:** 26 (26 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
@@ -594,4 +594,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `cert-military`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `cert-military`  
-**Entries:** 37 (37 commons-grade, 0 draft)  
+**Entries:** 38 (38 commons-grade, 0 draft)  
 **Earliest disclosure:** 1941-10-30  
 **Most recent disclosure:** 2019-03-21
 
@@ -530,6 +530,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1982 — Williams X-Jet
+
+- **id:** `williams-x-jet`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Williams International / U.S. Army / DARPA
+- **disclosure citation:** Williams International X-Jet (Williams Aerial Systems Platform) publicly demonstrated 1982-1983 under U.S. Army / DARPA evaluation. Williams International (the small-turbofan specialist) built a single-person standing platform powered by a Williams WR19 turbofan (the same engine class as cruise missiles). Documented in U.S. Army evaluation reports and Williams International materials.
+- **disclosed subsystems:** `lift-vectored-thrust`, `cert-military`
+
+**Prior art notes:**
+
+> Williams International's X-Jet establishes prior art for the turbofan-powered standing personal VTOL platform — distinct from rocket-belt (Bell, 1961, ~21 sec endurance), ducted-fan (Hiller VZ-1, 1955), and modern jet-suit (Gravity Industries, 2017) variants by using a single compact turbofan for ~30-minute endurance. Establishes prior art for: (1) turbofan-powered single-person platform, (2) bifurcated-exhaust vane vectoring for personal-VTOL attitude. Williams' 1980s patents are expired. Combined with bell-rocket-belt, hiller-vz-1-pawnee, solotrek-xfv, gravity-industries-jet-suit, and martin-aircraft-jetpack, comprehensively places personal-VTOL platform architecture across rocket / ducted-fan / turbofan / turbojet propulsion in 1955-2017 prior art.
+
+**Sources:**
+
+1. U.S. Army / DARPA Williams Aerial Systems Platform evaluation reports.
+2. Williams International corporate history materials.
+3. Aviation Week coverage 1982-1983.
+
+---
+
 ### 1985-03 — Mil Mi-30
 
 - **id:** `mil-mi-30`
@@ -829,4 +850,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

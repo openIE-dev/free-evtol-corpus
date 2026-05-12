@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `cert-easa-special-condition-vtol`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `cert-easa-special-condition-vtol`  
-**Entries:** 19 (19 commons-grade, 0 draft)  
+**Entries:** 20 (20 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-07  
 **Most recent disclosure:** 2024-04-04
 
@@ -251,6 +251,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-07 — CycloTech CruiseUp / CCY-5
+
+- **id:** `cyclotech-cruiseup`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** CycloTech GmbH (Linz, Austria)
+- **disclosure citation:** CycloTech GmbH (founded 2004 as D-Dalus successor, rebranded CycloTech 2020) unveiled the CruiseUp passenger eVTOL concept 2022-09; the CCY-5 technology demonstrator (a sub-scale flying testbed using six CycloRotors) achieved first untethered flight 2024-04-17 at Wels, Austria. CycloTech holds an extensive cycloidal-rotor patent estate.
+- **disclosed subsystems:** `lift-cyclorotor`, `control-fully-actuated-omnidirectional`, `lift-distributed-electric-propulsion`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> CycloTech CruiseUp / CCY-5 is the modern production-oriented disclosure of cyclorotor (cyclogiro) eVTOL — six electric CycloRotors giving omnidirectional fully-actuated thrust via azimuthal blade-pitch modulation. Establishes Austrian prior art for: (1) passenger-scale cyclorotor eVTOL architecture, (2) electric CycloRotor propulsion with 360° in-plane thrust vectoring, (3) the omnidirectional fully-actuated cyclorotor control. Builds on the D-Dalus research demonstrator (2011) and the foundational Pescara cyclogiro patents (1928, long expired). Together with d-dalus and eth-omnicopter, comprehensively places cyclorotor and omnidirectional VTOL architecture in prior art.
+
+**Sources:**
+
+1. CycloTech GmbH technical white papers and press releases 2020-2024.
+2. CycloTech CCY-5 first flight, Wels Austria, 2024-04-17.
+3. Pescara cyclogiro patents (1928, foundational, expired).
+
+---
+
 ### 2021-07-16 — XPENG AeroHT X2
 
 - **id:** `aeroht-xpeng-x2`
@@ -446,4 +467,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

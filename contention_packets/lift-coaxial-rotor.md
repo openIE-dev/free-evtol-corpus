@@ -1,15 +1,15 @@
 ---
 title: "lift-coaxial-rotor"
 parent: "Invalidity Contentions"
-nav_order: 19
+nav_order: 22
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-coaxial-rotor`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-coaxial-rotor`  
-**Entries:** 24 (24 commons-grade, 0 draft)  
+**Entries:** 27 (27 commons-grade, 0 draft)  
 **Earliest disclosure:** 1922  
 **Most recent disclosure:** 2023-08-16
 
@@ -170,6 +170,48 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1955-01 — de Lackner HZ-1 Aerocycle
+
+- **id:** `de-lackner-hz-1-aerocycle`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** de Lackner Helicopters Inc / U.S. Army
+- **disclosure citation:** de Lackner HZ-1 Aerocycle first tethered flights January 1955; first free flight 1955-11. U.S. Army Transportation Research Command program; cancelled 1956 after instability and rotor-strike concerns. Documented in TRC test reports and Smithsonian collections.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `lift-distributed-electric-propulsion`, `cert-experimental`
+
+**Prior art notes:**
+
+> The de Lackner HZ-1 Aerocycle is the open-rotor counterpart to the Hiller VZ-1 Pawnee — a standing personal-platform with coaxial counter-rotating open rotors below the pilot, controlled by leaning. Establishes prior art for: (1) the open-rotor personal flying-platform / 'flying motorcycle' architecture, (2) handlebar-and-lean control of a personal VTOL. Combined with hiller-vz-1-pawnee (1955, ducted-fan variant) and aerofex-aero-x (2008, modern hover bike), places personal-platform VTOL in continuous public-domain prior art.
+
+**Sources:**
+
+1. U.S. Army Transportation Research Command HZ-1 Aerocycle reports.
+2. Markman and Holder. Straight Up. Schiffer, 2000.
+3. Smithsonian / U.S. Army Transportation Museum HZ-1 collection.
+
+---
+
+### 1955-02 — Hiller VZ-1 Pawnee
+
+- **id:** `hiller-vz-1-pawnee`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Hiller Aircraft / U.S. Army / Office of Naval Research
+- **disclosure citation:** Hiller VZ-1 Pawnee (originally ONR-funded 'Flying Platform') first tethered hover early 1955; first free flight 1955-04. Office of Naval Research / U.S. Army Transportation Research Command program. Documented in ONR / TRC test reports and Hiller Aviation Museum collections.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Hiller VZ-1 Pawnee is the foundational disclosure of the standing ducted-fan personal flying-platform architecture with kinesthetic (body-weight-shift) control. Establishes prior art for: (1) counter-rotating ducted lift fans in a personal-scale platform, (2) kinesthetic attitude control (the lean-to-steer paradigm later used by hover bikes and the Pivotal/Opener tail-sitter), (3) the duct-as-structure design. Hiller's 1950s ducted-fan patents are long expired. Combined with de-lackner-hz-1-aerocycle (1955), williams-x-jet (1982), and solotrek-xfv (2001), comprehensively places ducted-fan personal-platform VTOL in continuous public-domain prior art from 1955 forward.
+
+**Sources:**
+
+1. Office of Naval Research / U.S. Army Transportation Research Command VZ-1 reports.
+2. Markman and Holder. Straight Up. Schiffer, 2000.
+3. Hiller Aviation Museum VZ-1 collection.
+
+---
+
 ### 1959-11-24 — Hiller X-18
 
 - **id:** `hiller-x-18`
@@ -250,6 +292,27 @@ cite, copy, or redistribute these contentions.
 1. Kaman Aerospace press releases and FAA TC dossier 1994.
 2. U.S. Marine Corps K-MAX OPA mission reports, declassified excerpts.
 3. Lockheed Martin / Kaman OPA program technical materials.
+
+---
+
+### 2001-12-17 — SoloTrek XFV / Trek Aerospace Springtail
+
+- **id:** `solotrek-xfv`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Millennium Jet / Trek Aerospace / NASA / DARPA
+- **disclosure citation:** Millennium Jet SoloTrek XFV first tethered hover 2001-12-17; developed under NASA and DARPA contracts. Renamed Springtail Exoskeleton Flying Vehicle by successor Trek Aerospace ~2003. Documented in NASA / DARPA technical reports and Trek Aerospace patent filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> SoloTrek XFV / Springtail establishes prior art for the back-worn ducted-fan exoskeleton flying vehicle — twin shoulder-mounted ducted lift fans on a wearable frame. Establishes prior art for: (1) exoskeleton-mounted ducted-fan personal VTOL, (2) the upright-pilot-in-wearable-frame architecture, (3) single-engine belt-driven dual-fan personal VTOL. Combined with hiller-vz-1-pawnee, williams-x-jet, gravity-industries-jet-suit, martin-aircraft-jetpack, and iron-man-suit (fictional), comprehensively places personal-VTOL exoskeleton/platform architecture in 1955-2017 prior art.
+
+**Sources:**
+
+1. NASA / DARPA SoloTrek XFV technical reports.
+2. Trek Aerospace Springtail patent filings, USPTO.
+3. Popular Science and Aviation Week coverage 2001-2003.
 
 ---
 
@@ -551,4 +614,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

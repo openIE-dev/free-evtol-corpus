@@ -1,17 +1,17 @@
 ---
 title: "lift-compound-rotorcraft"
 parent: "Invalidity Contentions"
-nav_order: 20
+nav_order: 23
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-compound-rotorcraft`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-compound-rotorcraft`  
-**Entries:** 9 (9 commons-grade, 0 draft)  
+**Entries:** 12 (12 commons-grade, 0 draft)  
 **Earliest disclosure:** 1923-01-09  
-**Most recent disclosure:** 2019-03-21
+**Most recent disclosure:** 2024-04-25
 
 ---
 
@@ -167,6 +167,47 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1986-12-02 — Sikorsky/DARPA X-Wing
+
+- **id:** `sikorsky-x-wing`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Sikorsky Aircraft / NASA / DARPA / U.S. Army
+- **disclosure citation:** RSRA/X-Wing technology demonstrator first flight (fixed-wing mode, rotor stopped) 1986-12-02 at NASA Ames; program cancelled 1988 before in-flight rotor stop/start was demonstrated. Built on the Sikorsky S-72 RSRA airframe with a four-bladed rigid rotor that could be stopped in flight to act as an X-shaped fixed wing. Documented in NASA / DARPA technical reports.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `transition-mode-shutdown`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Sikorsky/DARPA X-Wing (RSRA-based, 1986) is the foundational disclosure of the stopped-rotor / rotor-wing architecture: a rigid rotor with circulation control that spins for hover, then stops to act as a fixed X-shaped wing for high-speed cruise. Establishes prior art for: (1) stoppable-in-flight rigid rotor that doubles as a fixed wing, (2) circulation-control (blown) rotor blades enabling lift across the full azimuth, (3) the rotor-stop-and-restart transition concept. Although in-flight rotor stop was never demonstrated before cancellation, the design disclosure is complete in NASA/DARPA documentation. Anticipates: any modern eVTOL claim involving stoppable lift rotors that become fixed lifting surfaces (a recurring concept in high-speed-cruise VTOL proposals).
+
+**Sources:**
+
+1. NASA Technical Memoranda on RSRA/X-Wing, multiple 1984-1988.
+2. Sikorsky Aircraft X-Wing program archive.
+3. DARPA X-Wing program reports, DTIC.
+
+---
+
+### 2010-09-06 — Eurocopter X3
+
+- **id:** `eurocopter-x3`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Eurocopter (later Airbus Helicopters)
+- **disclosure citation:** Eurocopter X3 first flight 2010-09-06 at Istres, France; set an unofficial rotorcraft speed record of 472 km/h (255 kt) in level flight 2013-06-07. The X3 demonstrated the compound-helicopter architecture (main rotor + wing-mounted forward-thrust propellers) as a practical high-speed configuration. Documented in Eurocopter / Airbus Helicopters technical papers and AHS/VFS Forum publications.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Eurocopter X3 establishes French/European prior art for the modern compound-helicopter architecture: a single main rotor for lift plus wing-mounted forward-thrust propellers that also provide anti-torque via differential thrust (no tail rotor). The 472 km/h speed record (2013) demonstrated the configuration's high-speed capability. Establishes prior art for: (1) main-rotor + wing-mounted lateral-propeller compound architecture, (2) differential-lateral-propeller-thrust anti-torque (replacing the tail rotor), (3) wing-offloading of the main rotor in cruise. Direct ancestor of the Airbus RACER (2022). Together with fairey-rotodyne (1957), sikorsky-boeing-defiant (2019), sikorsky-s-97-raider (2015), and airbus-racer (2022), comprehensively places compound-rotorcraft architecture in prior art.
+
+**Sources:**
+
+1. Eurocopter / Airbus Helicopters X3 technical papers, AHS/VFS Forums 2011-2015.
+2. Fédération Aéronautique Internationale records / Airbus speed-record documentation 2013.
+
+---
+
 ### 2012-04-01 — PAL-V Liberty
 
 - **id:** `pal-v-liberty`
@@ -229,6 +270,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024-04-25 — Airbus RACER
+
+- **id:** `airbus-racer`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Airbus Helicopters / Clean Sky 2 (EU Horizon programme)
+- **disclosure citation:** Airbus RACER first flight 2024-04-25 at Marignane, France; developed under the EU Clean Sky 2 / Clean Aviation programme (announced 2017, rolled out 2023, first flight 2024). Production-track successor to the Eurocopter X3 demonstrator. Documented in Airbus Helicopters / Clean Sky technical materials.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Airbus RACER is the production-track European compound-helicopter demonstrator (first flight 2024). Refines the Eurocopter X3 architecture with a box-wing carrying lateral cruise/anti-torque propellers and an engine eco-mode (one engine shut down in cruise). Establishes prior art for: (1) box-wing compound-helicopter configuration, (2) eco-mode engine shutdown in compound rotorcraft cruise. Together with eurocopter-x3 (2010) and the Sikorsky compound-rotorcraft lineage, comprehensively places compound-rotorcraft architecture in 1957-2024 prior art.
+
+**Sources:**
+
+1. Airbus Helicopters / Clean Sky 2 RACER technical materials 2017-2024.
+2. Airbus press release, RACER first flight, 2024-04-25.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -236,4 +297,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

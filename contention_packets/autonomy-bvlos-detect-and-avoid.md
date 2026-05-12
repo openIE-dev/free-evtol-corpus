@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `autonomy-bvlos-detect-and-avoid`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `autonomy-bvlos-detect-and-avoid`  
 **Entries:** 11 (11 commons-grade, 0 draft)  
 **Earliest disclosure:** 2017  
@@ -282,4 +282,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

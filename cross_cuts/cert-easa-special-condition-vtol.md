@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-easa-special-condition-vtol`
 
-**19 corpus entries disclose this subsystem.**
+**20 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-07
 
@@ -104,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Manna Drone Delivery Ltd founded 2018 in Dublin by Bobby Healy; operational food delivery service launched September 2020 in Oranmore, Galway; expanded to multiple Irish towns and UK 2021-2024. Documented in Irish Aviation Authority (IAA) operational approvals and Manna press materials.
 - **ip status**: patented
 - **prior art notes**: Manna Air Delivery establishes Ireland's lead commercial drone-delivery OEM with operational deployment 2020-2024 across Irish towns. Distinctive: tethered cargo drop without landing (architectural variant of cargo delivery distinct from DJI FlyCart's set-down approach). Adds Ireland to the Western European eVTOL ecosystem.
+
+## CycloTech CruiseUp / CCY-5 (2021-07)
+
+- **id**: `cyclotech-cruiseup`
+- **corpus**: private
+- **creator**: CycloTech GmbH (Linz, Austria)
+- **disclosure**: CycloTech GmbH (founded 2004 as D-Dalus successor, rebranded CycloTech 2020) unveiled the CruiseUp passenger eVTOL concept 2022-09; the CCY-5 technology demonstrator (a sub-scale flying testbed using six CycloRotors) achieved first untethered flight 2024-04-17 at Wels, Austria. CycloTech holds an extensive cycloidal-rotor patent estate.
+- **ip status**: patented
+- **prior art notes**: CycloTech CruiseUp / CCY-5 is the modern production-oriented disclosure of cyclorotor (cyclogiro) eVTOL — six electric CycloRotors giving omnidirectional fully-actuated thrust via azimuthal blade-pitch modulation. Establishes Austrian prior art for: (1) passenger-scale cyclorotor eVTOL architecture, (2) electric CycloRotor propulsion with 360° in-plane thrust vectoring, (3) the omnidirectional fully-actuated cyclorotor control. Builds on the D-Dalus research demonstrator (2011) and the foundational Pescara cyclogiro patents (1928, long expired). Together with d-dalus and eth-omnicopter, comprehensively places cyclorotor and omnidirectional VTOL architecture in prior art.
 
 ## XPENG AeroHT X2 (2021-07-16)
 

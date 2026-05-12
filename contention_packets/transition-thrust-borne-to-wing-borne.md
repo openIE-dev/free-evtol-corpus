@@ -1,13 +1,13 @@
 ---
 title: "transition-thrust-borne-to-wing-borne"
 parent: "Invalidity Contentions"
-nav_order: 46
+nav_order: 50
 layout: default
 ---
 
 # Invalidity Contention Packet — `transition-thrust-borne-to-wing-borne`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `transition-thrust-borne-to-wing-borne`  
 **Entries:** 55 (55 commons-grade, 0 draft)  
 **Earliest disclosure:** 1955-08-11  
@@ -1208,4 +1208,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

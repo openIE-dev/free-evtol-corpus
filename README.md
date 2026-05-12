@@ -9,7 +9,7 @@ personal VTOL, tilt-rotor and tilt-wing demonstrators, military VTOL,
 ducted-fan and vectored-thrust craft, drive+fly transformers, and the science
 fiction and academic literature that anticipated all of them.
 
-Coverage is global and deep: 144 entries spanning ~2,500 years from the
+Coverage is global and deep: 178 entries spanning ~2,500 years from the
 Pushpaka Vimana (Sanskrit Ramayana, ~5th c BCE) and the 1001 Nights flying
 carpet (~9th c CE) through Verne's *Albatross* (1886, 74 distributed lift
 airscrews — the foundational engineering anticipation of distributed-electric-
@@ -23,23 +23,30 @@ AutoFlight, AeroHT, Hyundai Supernal, Eve, AMSL, ePlane, Zuri, Crisalion,
 Manta, AeroMobil, Klein Vision, PAL-V, Pivotal, Jetson, AIR, ASKA, etc.)
 through 2024.
 
-**28 countries on six populated continents** — US, JP, DE, RU, CN, FR, GB,
-CH, IT, AT, CA, IN, SE, AR, AU, BR, ES, IL, SK, CZ, EG, HU, IE, KR, NL, NZ, SG, ZA.
+**29 countries on six populated continents** — US, JP, DE, FR, RU, CH, CN, GB,
+IT, AT, CA, IN, SE, AR, AU, BR, ES, IL, SK, CZ, EG, GE, HU, IE, KR, NL, NZ, SG, ZA.
 
-The corpus also covers the adjacent academic lineage of modular, transforming,
-swarming, and self-assembling aerial robots — ETH Zurich Distributed Flight
-Array (2010), UPenn cooperative-grasping and ModQuad (2010, 2018), KMel/UPenn
-nano-quadrotor swarm (2012), Intel Shooting Star (2016), University of Tokyo
-DRAGON (2018), UZH/EPFL morphing drones (2017-2018), Airbus Pop.Up and Bell APT
-modular-pod concepts (2017-2018), and more — because these are the deepest prior
-art for any future commercial eVTOL claim involving modular reconfigurable
-multirotor architecture or swarm-to-single-airframe transitions.
+The corpus also covers the adjacent lineages that bound any future commercial
+eVTOL patent claim: modular / transforming / swarming / self-assembling aerial
+robots (ETH Distributed Flight Array 2010, UPenn ModQuad 2018, University of
+Tokyo DRAGON 2018, KMel/UPenn nano-quad swarm 2012, Intel Shooting Star 2016,
+Airbus Pop.Up and Bell APT modular-pod concepts 2017-2018); fully-actuated
+omnidirectional multirotors (ETH Omnicopter 2016, Voliro 2018, CycloTech 2022);
+historical personal-VTOL platforms (Hiller VZ-1 Pawnee 1955, de Lackner HZ-1
+Aerocycle 1955, Williams X-Jet 1982, SoloTrek XFV 2001); compound rotorcraft
+(Fairey Rotodyne 1957, Eurocopter X3 2010, Airbus RACER 2024, Sikorsky/DARPA
+X-Wing 1986); electric airships and WIG craft (LTA Pathfinder 1 2023, Hybrid
+Air Vehicles Airlander 10 2012, Flying Whales LCA60T 2012, REGENT seaglider
+2021); and drive+fly transformers across folding-wing, modular-capsule,
+whole-body-rotation, and autogyro variants (Terrafugia Transition 2009, Klein
+Vision AirCar 2020, Alef Model A 2022, Airbus Pop.Up 2017, PAL-V Liberty 2024).
 
 Hand-written invalidity-contention packets target the Joby Aviation, Archer
 Aviation, Beta Technologies, and Volocopter patent estates by mapping their
 architectural claim domains to corpus entries that anticipate each.
-Auto-generated subsystem packets cover 46 distinct architectural /
-certification / safety / autonomy / modular-docking / morphing / swarm domains.
+Auto-generated subsystem packets cover 50 distinct architectural / certification
+/ safety / autonomy / modular-docking / morphing / swarm / omnidirectional /
+buoyant-hybrid / stopped-rotor domains.
 
 **The corpus IS the prior art commons.** Every entry, at the moment of
 timestamped commit and quarterly release, is a defensive publication. There

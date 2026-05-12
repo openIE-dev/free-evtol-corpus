@@ -1,15 +1,15 @@
 ---
 title: "control-rotor-failure-reconfiguration"
 parent: "Invalidity Contentions"
-nav_order: 17
+nav_order: 18
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-rotor-failure-reconfiguration`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `control-rotor-failure-reconfiguration`  
-**Entries:** 13 (13 commons-grade, 0 draft)  
+**Entries:** 14 (14 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
 **Most recent disclosure:** 2023-08-16
 
@@ -275,6 +275,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-10-25 — LIFT Aircraft Hexa
+
+- **id:** `lift-aircraft-hexa`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** LIFT Aircraft Inc (Austin, Texas)
+- **disclosure citation:** LIFT Aircraft Hexa publicly unveiled 2018-10-25; first crewed flights 2019; FAA Part 103 ultralight category (no pilot license required); public 'flight experiences' / training-flight programme launched 2021-2024. Documented in LIFT Aircraft press materials, FAA Part 103 registrations, and U.S. Air Force AFWERX Agility Prime contracts.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `control-simplified-vehicle-operations`, `cert-part-103-ultralight`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> LIFT Aircraft Hexa establishes US prior art for the maximally-redundant single-seat multirotor eVTOL — eighteen independent rotors each with its own battery and motor (full distributed redundancy, tolerates loss of six rotors), single-joystick fly-by-wire simplified vehicle operations, FAA Part 103 ultralight operation. Establishes prior art for: (1) per-rotor-independent battery/motor architecture with deep failure tolerance, (2) consumer-grade single-joystick SVO for an 18-rotor eVTOL, (3) Part 103 ultralight commercial flight-experience deployment. Together with pivotal-blackfly, jetson-one, ehang-eh216, and volocopter-volocity, comprehensively places single-seat / small-pax multirotor eVTOL in commercial prior art.
+
+**Sources:**
+
+1. LIFT Aircraft press releases and FAA Part 103 registrations 2018-2024.
+2. U.S. Air Force AFWERX Agility Prime contract records (LIFT Hexa).
+
+---
+
 ### 2019-08-14 — Volocopter VoloCity
 
 - **id:** `volocopter-volocity`
@@ -324,4 +344,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

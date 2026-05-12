@@ -1,15 +1,15 @@
 ---
 title: "lift-distributed-electric-propulsion"
 parent: "Invalidity Contentions"
-nav_order: 21
+nav_order: 25
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-distributed-electric-propulsion`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-distributed-electric-propulsion`  
-**Entries:** 75 (75 commons-grade, 0 draft)  
+**Entries:** 87 (87 commons-grade, 0 draft)  
 **Earliest disclosure:** 1886  
 **Most recent disclosure:** 2024-04-04
 
@@ -191,6 +191,48 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1955-01 — de Lackner HZ-1 Aerocycle
+
+- **id:** `de-lackner-hz-1-aerocycle`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** de Lackner Helicopters Inc / U.S. Army
+- **disclosure citation:** de Lackner HZ-1 Aerocycle first tethered flights January 1955; first free flight 1955-11. U.S. Army Transportation Research Command program; cancelled 1956 after instability and rotor-strike concerns. Documented in TRC test reports and Smithsonian collections.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `lift-distributed-electric-propulsion`, `cert-experimental`
+
+**Prior art notes:**
+
+> The de Lackner HZ-1 Aerocycle is the open-rotor counterpart to the Hiller VZ-1 Pawnee — a standing personal-platform with coaxial counter-rotating open rotors below the pilot, controlled by leaning. Establishes prior art for: (1) the open-rotor personal flying-platform / 'flying motorcycle' architecture, (2) handlebar-and-lean control of a personal VTOL. Combined with hiller-vz-1-pawnee (1955, ducted-fan variant) and aerofex-aero-x (2008, modern hover bike), places personal-platform VTOL in continuous public-domain prior art.
+
+**Sources:**
+
+1. U.S. Army Transportation Research Command HZ-1 Aerocycle reports.
+2. Markman and Holder. Straight Up. Schiffer, 2000.
+3. Smithsonian / U.S. Army Transportation Museum HZ-1 collection.
+
+---
+
+### 1955-02 — Hiller VZ-1 Pawnee
+
+- **id:** `hiller-vz-1-pawnee`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Hiller Aircraft / U.S. Army / Office of Naval Research
+- **disclosure citation:** Hiller VZ-1 Pawnee (originally ONR-funded 'Flying Platform') first tethered hover early 1955; first free flight 1955-04. Office of Naval Research / U.S. Army Transportation Research Command program. Documented in ONR / TRC test reports and Hiller Aviation Museum collections.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Hiller VZ-1 Pawnee is the foundational disclosure of the standing ducted-fan personal flying-platform architecture with kinesthetic (body-weight-shift) control. Establishes prior art for: (1) counter-rotating ducted lift fans in a personal-scale platform, (2) kinesthetic attitude control (the lean-to-steer paradigm later used by hover bikes and the Pivotal/Opener tail-sitter), (3) the duct-as-structure design. Hiller's 1950s ducted-fan patents are long expired. Combined with de-lackner-hz-1-aerocycle (1955), williams-x-jet (1982), and solotrek-xfv (2001), comprehensively places ducted-fan personal-platform VTOL in continuous public-domain prior art from 1955 forward.
+
+**Sources:**
+
+1. Office of Naval Research / U.S. Army Transportation Research Command VZ-1 reports.
+2. Markman and Holder. Straight Up. Schiffer, 2000.
+3. Hiller Aviation Museum VZ-1 collection.
+
+---
+
 ### 1956 — Convertawings Model A Quadrotor
 
 - **id:** `convertawings-model-a`
@@ -293,6 +335,27 @@ cite, copy, or redistribute these contentions.
 1. Mikheyev, Vadim. Mil V-12 / Mi-12: The World's Largest Helicopter. Polygon, 2002.
 2. Gunston, Bill. The Osprey Encyclopedia of Russian Aircraft. Osprey, 1995.
 3. FAI absolute world record archive, 1969-08-06.
+
+---
+
+### 2001-12-17 — SoloTrek XFV / Trek Aerospace Springtail
+
+- **id:** `solotrek-xfv`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Millennium Jet / Trek Aerospace / NASA / DARPA
+- **disclosure citation:** Millennium Jet SoloTrek XFV first tethered hover 2001-12-17; developed under NASA and DARPA contracts. Renamed Springtail Exoskeleton Flying Vehicle by successor Trek Aerospace ~2003. Documented in NASA / DARPA technical reports and Trek Aerospace patent filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> SoloTrek XFV / Springtail establishes prior art for the back-worn ducted-fan exoskeleton flying vehicle — twin shoulder-mounted ducted lift fans on a wearable frame. Establishes prior art for: (1) exoskeleton-mounted ducted-fan personal VTOL, (2) the upright-pilot-in-wearable-frame architecture, (3) single-engine belt-driven dual-fan personal VTOL. Combined with hiller-vz-1-pawnee, williams-x-jet, gravity-industries-jet-suit, martin-aircraft-jetpack, and iron-man-suit (fictional), comprehensively places personal-VTOL exoskeleton/platform architecture in 1955-2017 prior art.
+
+**Sources:**
+
+1. NASA / DARPA SoloTrek XFV technical reports.
+2. Trek Aerospace Springtail patent filings, USPTO.
+3. Popular Science and Aviation Week coverage 2001-2003.
 
 ---
 
@@ -401,6 +464,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2012 — Flying Whales LCA60T
+
+- **id:** `flying-whales-lca60t`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Flying Whales (Bordeaux, France) — backed by the French state and Quebec
+- **disclosure citation:** Flying Whales (founded 2012 in Bordeaux, originally to support French national forestry log extraction) developing the LCA60T — a rigid airship designed to carry 60 tonnes of cargo with load/unload while hovering (no landing required). Backed by Bpifrance, the Nouvelle-Aquitaine region, the government of Quebec, and ADP (Aéroports de Paris). First flight targeted ~2027. Documented in Flying Whales technical materials and French government investment disclosures.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-distributed-electric-propulsion`, `propulsion-hybrid-series`, `propulsion-bldc-direct-drive`, `cert-part-23`
+
+**Prior art notes:**
+
+> Flying Whales LCA60T establishes French prior art for the heavy-lift cargo airship with hover-mode load/unload — a 60-tonne-capacity rigid airship with 32 distributed electric propellers, designed to deliver cargo from a stationary hover without landing or ground infrastructure. Establishes prior art for: (1) heavy-lift buoyant-hybrid cargo architecture, (2) distributed-electric-propeller precision hover on a large airship, (3) crane-mode hovering cargo delivery. Together with lta-research-pathfinder-1 and hybrid-air-vehicles-airlander-10, establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Adds another French entry alongside the Eurocopter X3 / Airbus RACER compound-helicopter lineage and the SNECMA / Cyrano / Verne French VTOL heritage.
+
+**Sources:**
+
+1. Flying Whales technical materials and press releases 2012-2025.
+2. Bpifrance / Nouvelle-Aquitaine / government of Quebec investment disclosures.
+3. Flying Whales patent filings, INPI / EPO records.
+
+---
+
 ### 2012-01-31 — KMel Robotics / UPenn nano-quadrotor swarm
 
 - **id:** `kmel-nano-quadrotor-swarm`
@@ -418,6 +502,27 @@ cite, copy, or redistribute these contentions.
 
 1. Kushleyev, A., Mellinger, D., Powers, C., Kumar, V. 'Towards a swarm of agile micro quadrotors.' RSS 2012 / Autonomous Robots 35(4), 2013.
 2. UPenn GRASP Laboratory / KMel Robotics video, 'A Swarm of Nano Quadrotors,' 2012-01-31.
+
+---
+
+### 2012-08-07 — Hybrid Air Vehicles Airlander 10
+
+- **id:** `hybrid-air-vehicles-airlander-10`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Hybrid Air Vehicles Ltd (Bedford, United Kingdom)
+- **disclosure citation:** Hybrid Air Vehicles HAV-304 (built for the cancelled U.S. Army LEMV programme) first flight 2012-08-07 at Lakehurst NJ; rebuilt as the Airlander 10 by HAV in the UK, first flight 2016-08-17 at Cardington. Hybrid Air Vehicles is developing the production Airlander 10 for passenger and cargo service (~2026-2028). Documented in HAV technical materials, U.S. Army LEMV reports, and UK CAA certification filings.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-vectored-thrust`, `lift-distributed-electric-propulsion`, `propulsion-hybrid-series`, `cert-part-23`
+
+**Prior art notes:**
+
+> Hybrid Air Vehicles Airlander 10 establishes UK prior art for the hybrid airship — a hull shaped to generate ~40% aerodynamic lift alongside ~60% buoyant helium lift, with vectored ducted propulsors for VTOL control, able to operate from unprepared sites (water, ice, sand, rough ground). Establishes prior art for: (1) hybrid aerodynamic-plus-buoyant lift architecture, (2) vectored-propulsor VTOL control on an airship, (3) infrastructure-free VTOL operation at large scale. Together with lta-research-pathfinder-1 (2023) and flying-whales-lca60t (2012), establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Also relevant to the Orb Aerospace / Skyways 'unprepared site operations' thesis at a much larger scale.
+
+**Sources:**
+
+1. Hybrid Air Vehicles technical materials and press releases 2012-2025.
+2. U.S. Army LEMV (Long Endurance Multi-intelligence Vehicle) programme reports.
+3. UK CAA Airlander 10 certification filings.
 
 ---
 
@@ -585,6 +690,27 @@ cite, copy, or redistribute these contentions.
 1. Aurora Flight Sciences DARPA VTOL X-Plane technical white papers, 2014–2018.
 2. DARPA VTOL X-Plane program reports, available DTIC.
 3. AIAA SciTech / Aviation Forum papers from Aurora team 2014–2018.
+
+---
+
+### 2016-05 — ETH Omnicopter
+
+- **id:** `eth-omnicopter`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** ETH Zurich Institute for Dynamic Systems and Control (Raffaello D'Andrea) / Dario Brescianini
+- **disclosure citation:** Brescianini, Dario; D'Andrea, Raffaello. 'Design, modeling and control of an omni-directional aerial vehicle.' IEEE International Conference on Robotics and Automation (ICRA), Stockholm, May 2016; subsequent IEEE Transactions on Control Systems Technology and demonstration videos (catching and throwing a ball mid-air). ETH Zurich IDSC.
+- **disclosed subsystems:** `control-fully-actuated-omnidirectional`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> The ETH Omnicopter (Brescianini & D'Andrea, ICRA 2016) is the foundational disclosure of the fully-actuated omnidirectional multirotor — eight bidirectional propellers on a cubic frame giving independent control of force and torque in all six degrees of freedom, able to hover at arbitrary attitudes and recover from any orientation. Establishes prior art for: (1) fully-actuated (6-DOF) multirotor architecture, (2) bidirectional-propeller thrust vectoring, (3) arbitrary-attitude hover and orientation recovery. Anticipates: Voliro (omnidirectional tilt-rotor hexrotor), CycloTech (omnidirectional cyclorotor), and any commercial eVTOL claim asserting novelty over fully-actuated or arbitrary-attitude multirotor control.
+
+**Sources:**
+
+1. Brescianini, D., D'Andrea, R. 'Design, modeling and control of an omni-directional aerial vehicle.' ICRA 2016.
+2. Brescianini, D., D'Andrea, R. 'An omni-directional multirotor vehicle.' Mechatronics, 2018.
+3. ETH Zurich IDSC publications archive.
 
 ---
 
@@ -884,6 +1010,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-05 — Voliro omnidirectional flying robot
+
+- **id:** `voliro`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Voliro Airborne Robotics (ETH Zurich spinout) / Marco Tognon / Mina Kamel / Roland Siegwart (ASL)
+- **disclosure citation:** Voliro hexacopter with tiltable rotor arms first publicly disclosed 2018 (ETH Zurich Autonomous Systems Lab student project, then ETH spinout Voliro Airborne Robotics, founded 2019); academic paper Bodie, Karen et al. 'Towards Efficient Full Pose Omnidirectionality with Overactuated MAVs,' ISER 2018 / and related ASL publications. Commercialized for contact-based industrial inspection (Voliro X, 2022).
+- **disclosed subsystems:** `control-fully-actuated-omnidirectional`, `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> Voliro establishes prior art for the tilting-arm omnidirectional multirotor — a hexacopter with six independently-tilting rotor arms giving full-pose (6-DOF) control via tilt geometry rather than bidirectional propellers. Distinct from the ETH Omnicopter approach. Establishes prior art for: (1) independently-tilting-arm omnidirectional multirotor, (2) contact-based aerial interaction (pressing sensors against surfaces). Commercialized for industrial inspection. Together with eth-omnicopter (2016) and cyclotech-cruiseup (2022), comprehensively places omnidirectional / fully-actuated multirotor architecture in academic and commercial prior art.
+
+**Sources:**
+
+1. Bodie, K. et al. 'Towards Efficient Full Pose Omnidirectionality with Overactuated MAVs.' ISER 2018.
+2. Bodie, K. et al. 'An Omnidirectional Aerial Manipulation Platform for Contact-Based Inspection.' RSS 2019.
+3. Voliro Airborne Robotics technical materials, voliro.com.
+
+---
+
 ### 2018-05-09 — EmbraerX eVTOL concept (2018)
 
 - **id:** `embraerx-evtol-concept`
@@ -1009,6 +1156,26 @@ cite, copy, or redistribute these contentions.
 1. Jetson AB press releases 2018–2024.
 2. Jetson ONE technical specifications, jetsonaero.com.
 3. FAA Part 103 ultralight registration records (Jetson ONE customer aircraft).
+
+---
+
+### 2018-10-25 — LIFT Aircraft Hexa
+
+- **id:** `lift-aircraft-hexa`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** LIFT Aircraft Inc (Austin, Texas)
+- **disclosure citation:** LIFT Aircraft Hexa publicly unveiled 2018-10-25; first crewed flights 2019; FAA Part 103 ultralight category (no pilot license required); public 'flight experiences' / training-flight programme launched 2021-2024. Documented in LIFT Aircraft press materials, FAA Part 103 registrations, and U.S. Air Force AFWERX Agility Prime contracts.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `control-simplified-vehicle-operations`, `cert-part-103-ultralight`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> LIFT Aircraft Hexa establishes US prior art for the maximally-redundant single-seat multirotor eVTOL — eighteen independent rotors each with its own battery and motor (full distributed redundancy, tolerates loss of six rotors), single-joystick fly-by-wire simplified vehicle operations, FAA Part 103 ultralight operation. Establishes prior art for: (1) per-rotor-independent battery/motor architecture with deep failure tolerance, (2) consumer-grade single-joystick SVO for an 18-rotor eVTOL, (3) Part 103 ultralight commercial flight-experience deployment. Together with pivotal-blackfly, jetson-one, ehang-eh216, and volocopter-volocity, comprehensively places single-seat / small-pax multirotor eVTOL in commercial prior art.
+
+**Sources:**
+
+1. LIFT Aircraft press releases and FAA Part 103 registrations 2018-2024.
+2. U.S. Air Force AFWERX Agility Prime contract records (LIFT Hexa).
 
 ---
 
@@ -1347,6 +1514,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-07 — CycloTech CruiseUp / CCY-5
+
+- **id:** `cyclotech-cruiseup`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** CycloTech GmbH (Linz, Austria)
+- **disclosure citation:** CycloTech GmbH (founded 2004 as D-Dalus successor, rebranded CycloTech 2020) unveiled the CruiseUp passenger eVTOL concept 2022-09; the CCY-5 technology demonstrator (a sub-scale flying testbed using six CycloRotors) achieved first untethered flight 2024-04-17 at Wels, Austria. CycloTech holds an extensive cycloidal-rotor patent estate.
+- **disclosed subsystems:** `lift-cyclorotor`, `control-fully-actuated-omnidirectional`, `lift-distributed-electric-propulsion`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> CycloTech CruiseUp / CCY-5 is the modern production-oriented disclosure of cyclorotor (cyclogiro) eVTOL — six electric CycloRotors giving omnidirectional fully-actuated thrust via azimuthal blade-pitch modulation. Establishes Austrian prior art for: (1) passenger-scale cyclorotor eVTOL architecture, (2) electric CycloRotor propulsion with 360° in-plane thrust vectoring, (3) the omnidirectional fully-actuated cyclorotor control. Builds on the D-Dalus research demonstrator (2011) and the foundational Pescara cyclogiro patents (1928, long expired). Together with d-dalus and eth-omnicopter, comprehensively places cyclorotor and omnidirectional VTOL architecture in prior art.
+
+**Sources:**
+
+1. CycloTech GmbH technical white papers and press releases 2020-2024.
+2. CycloTech CCY-5 first flight, Wels Austria, 2024-04-17.
+3. Pescara cyclogiro patents (1928, foundational, expired).
+
+---
+
 ### 2021-07-16 — XPENG AeroHT X2
 
 - **id:** `aeroht-xpeng-x2`
@@ -1452,6 +1640,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-10 — REGENT Viceroy seaglider
+
+- **id:** `regent-viceroy-seaglider`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** REGENT Craft Inc (Rhode Island, USA) — founded by Boeing / Aurora Flight Sciences alumni
+- **disclosure citation:** REGENT Craft (founded 2020 by Billy Thalheimer and Mike Klinker, ex-Aurora Flight Sciences / Boeing) unveiled the Viceroy seaglider 2021-10; quarter-scale prototype first flight 2022-08; full-scale Viceroy prototype rollout / first sea trials 2024-2025. The seaglider operates in three modes — floating (hull), foiling (hydrofoils), and flying (wing-in-ground-effect, ~9 m altitude). Documented in REGENT technical materials, U.S. Marine Corps / Navy contracts, and patent filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> REGENT Viceroy is the foundational modern disclosure of the electric wing-in-ground-effect (WIG) 'seaglider' — a distributed-electric-propulsion craft that transitions floating → hydrofoiling → ground-effect flight, operating a few meters above water. Establishes prior art for: (1) electric WIG / ekranoplan-class craft with distributed blown-wing propulsion, (2) the hull/foil/flight three-mode transition, (3) retractable-hydrofoil takeoff for a winged aircraft. While not vertical-takeoff in the classical sense, it is eVTOL-adjacent (the corpus scope covers ground-effect hybrids with VTOL-like operations) and shares DEP blown-wing architecture with eVTOL. Anticipates other electric-WIG and seaglider claims (a growing segment — also pursued by Wigetworks AirFish and others).
+
+**Sources:**
+
+1. REGENT Craft technical white papers and press releases 2021-2025.
+2. U.S. Marine Corps / Navy seaglider contract records.
+3. REGENT Craft patent filings, USPTO.
+
+---
+
 ### 2021-10-04 — AIR ONE (eVTOL)
 
 - **id:** `air-one`
@@ -1535,6 +1744,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-10-19 — Alef Aeronautics Model A
+
+- **id:** `alef-model-a`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Alef Aeronautics Inc (San Mateo, California)
+- **disclosure citation:** Alef Aeronautics Model A publicly unveiled 2022-10-19; received FAA Special Airworthiness Certificate (Experimental) 2023-06-12 — the first 'flying car' to receive an FAA airworthiness certificate. Alef (founded 2015) demonstrated a full-scale prototype driving and (briefly) lifting 2022-2023. Documented in Alef press materials, FAA filings, and Alef patent filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-tail-sitter-pitch-up`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Alef Aeronautics Model A establishes US prior art for the rotors-under-mesh-skin drive+fly transformer — a road-legal car with eight electric lift rotors hidden under a perforated upper skin, taking off vertically through the mesh and then rotating the whole body (cabin gimballed level) to fly as a biplane-wing. The first 'flying car' to receive an FAA airworthiness certificate (2023). Establishes prior art for: (1) mesh-skin / perforated-surface lift-rotor concealment architecture, (2) whole-body-rotation drive+fly transition with gimballed cabin, (3) the car-body-as-biplane-wing configuration. Distinct from the folding-wing transformers (Klein Vision, AeroMobil, ASKA) and modular-capsule transformers (Airbus Pop.Up, XPENG AeroHT). Together with these and pal-v-liberty (autogyro transformer), comprehensively places drive+fly transformer architecture in prior art across folding-wing / modular-capsule / whole-body-rotation / autogyro variants.
+
+**Sources:**
+
+1. Alef Aeronautics press releases 2022-2024.
+2. FAA Special Airworthiness Certificate dossier (Alef Model A), 2023-06-12.
+3. Alef Aeronautics patent filings, USPTO (incl. US 11,167,839).
+
+---
+
 ### 2022-12-07 — TCab Tech E20
 
 - **id:** `tcab-tech-e20`
@@ -1574,6 +1804,27 @@ cite, copy, or redistribute these contentions.
 1. DJI press releases and product disclosures 2023–2024.
 2. CAAC type certification dossier (DJI FlyCart 30).
 3. DJI patent estate, USPTO and CNIPA records.
+
+---
+
+### 2023-11-08 — LTA Research Pathfinder 1
+
+- **id:** `lta-research-pathfinder-1`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** LTA Research and Exploration (Mountain View, CA) — funded by Sergey Brin
+- **disclosure citation:** LTA Research Pathfinder 1 received FAA Special Airworthiness Certificate (Experimental) 2023-09; first untethered flight 2023-11-08 at Moffett Field, CA. LTA Research (funded by Google co-founder Sergey Brin since ~2016) builds rigid electric airships for humanitarian cargo and disaster relief. Documented in FAA filings and LTA Research materials.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-distributed-electric-propulsion`, `propulsion-bldc-direct-drive`, `cert-experimental`
+
+**Prior art notes:**
+
+> LTA Research Pathfinder 1 establishes modern prior art for the electric rigid airship with vectored-thrust VTOL augmentation — buoyant helium lift augmented by distributed electric propellers for controlled vertical takeoff/landing without ground infrastructure. Establishes prior art for: (1) modern rigid electric airship architecture, (2) lidar-based ballast/lift management, (3) the buoyant-hybrid VTOL concept (static lift + vectored thrust). The corpus scope includes buoyant-hybrid craft with VTOL-like operations. Together with hybrid-air-vehicles-airlander (2012) and flying-whales-lca60t (2012), establishes the modern hybrid-airship / buoyant-VTOL prior-art base.
+
+**Sources:**
+
+1. LTA Research and Exploration technical materials and press releases 2023-2025.
+2. FAA Special Airworthiness Certificate dossier (Pathfinder 1).
+3. Pathfinder 1 first flight, Moffett Field CA, 2023-11-08.
 
 ---
 
@@ -1626,4 +1877,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

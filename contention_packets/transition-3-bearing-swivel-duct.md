@@ -1,13 +1,13 @@
 ---
 title: "transition-3-bearing-swivel-duct"
 parent: "Invalidity Contentions"
-nav_order: 41
+nav_order: 45
 layout: default
 ---
 
 # Invalidity Contention Packet — `transition-3-bearing-swivel-duct`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `transition-3-bearing-swivel-duct`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1987-03-09  
@@ -93,4 +93,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

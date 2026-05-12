@@ -1,16 +1,16 @@
 ---
 title: "propulsion-hybrid-series"
 parent: "Invalidity Contentions"
-nav_order: 34
+nav_order: 38
 layout: default
 ---
 
 # Invalidity Contention Packet — `propulsion-hybrid-series`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `propulsion-hybrid-series`  
-**Entries:** 11 (11 commons-grade, 0 draft)  
-**Earliest disclosure:** 2016-03-03  
+**Entries:** 13 (13 commons-grade, 0 draft)  
+**Earliest disclosure:** 2012  
 **Most recent disclosure:** 2021-09-30
 
 ---
@@ -41,6 +41,48 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2012 — Flying Whales LCA60T
+
+- **id:** `flying-whales-lca60t`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Flying Whales (Bordeaux, France) — backed by the French state and Quebec
+- **disclosure citation:** Flying Whales (founded 2012 in Bordeaux, originally to support French national forestry log extraction) developing the LCA60T — a rigid airship designed to carry 60 tonnes of cargo with load/unload while hovering (no landing required). Backed by Bpifrance, the Nouvelle-Aquitaine region, the government of Quebec, and ADP (Aéroports de Paris). First flight targeted ~2027. Documented in Flying Whales technical materials and French government investment disclosures.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-distributed-electric-propulsion`, `propulsion-hybrid-series`, `propulsion-bldc-direct-drive`, `cert-part-23`
+
+**Prior art notes:**
+
+> Flying Whales LCA60T establishes French prior art for the heavy-lift cargo airship with hover-mode load/unload — a 60-tonne-capacity rigid airship with 32 distributed electric propellers, designed to deliver cargo from a stationary hover without landing or ground infrastructure. Establishes prior art for: (1) heavy-lift buoyant-hybrid cargo architecture, (2) distributed-electric-propeller precision hover on a large airship, (3) crane-mode hovering cargo delivery. Together with lta-research-pathfinder-1 and hybrid-air-vehicles-airlander-10, establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Adds another French entry alongside the Eurocopter X3 / Airbus RACER compound-helicopter lineage and the SNECMA / Cyrano / Verne French VTOL heritage.
+
+**Sources:**
+
+1. Flying Whales technical materials and press releases 2012-2025.
+2. Bpifrance / Nouvelle-Aquitaine / government of Quebec investment disclosures.
+3. Flying Whales patent filings, INPI / EPO records.
+
+---
+
+### 2012-08-07 — Hybrid Air Vehicles Airlander 10
+
+- **id:** `hybrid-air-vehicles-airlander-10`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Hybrid Air Vehicles Ltd (Bedford, United Kingdom)
+- **disclosure citation:** Hybrid Air Vehicles HAV-304 (built for the cancelled U.S. Army LEMV programme) first flight 2012-08-07 at Lakehurst NJ; rebuilt as the Airlander 10 by HAV in the UK, first flight 2016-08-17 at Cardington. Hybrid Air Vehicles is developing the production Airlander 10 for passenger and cargo service (~2026-2028). Documented in HAV technical materials, U.S. Army LEMV reports, and UK CAA certification filings.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-vectored-thrust`, `lift-distributed-electric-propulsion`, `propulsion-hybrid-series`, `cert-part-23`
+
+**Prior art notes:**
+
+> Hybrid Air Vehicles Airlander 10 establishes UK prior art for the hybrid airship — a hull shaped to generate ~40% aerodynamic lift alongside ~60% buoyant helium lift, with vectored ducted propulsors for VTOL control, able to operate from unprepared sites (water, ice, sand, rough ground). Establishes prior art for: (1) hybrid aerodynamic-plus-buoyant lift architecture, (2) vectored-propulsor VTOL control on an airship, (3) infrastructure-free VTOL operation at large scale. Together with lta-research-pathfinder-1 (2023) and flying-whales-lca60t (2012), establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Also relevant to the Orb Aerospace / Skyways 'unprepared site operations' thesis at a much larger scale.
+
+**Sources:**
+
+1. Hybrid Air Vehicles technical materials and press releases 2012-2025.
+2. U.S. Army LEMV (Long Endurance Multi-intelligence Vehicle) programme reports.
+3. UK CAA Airlander 10 certification filings.
+
+---
 
 ### 2016-03-03 — Aurora Flight Sciences LightningStrike XV-24A
 
@@ -281,4 +323,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

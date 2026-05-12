@@ -1,13 +1,13 @@
 ---
 title: "safety-redundant-bus"
 parent: "Invalidity Contentions"
-nav_order: 38
+nav_order: 42
 layout: default
 ---
 
 # Invalidity Contention Packet — `safety-redundant-bus`
 
-**Generated:** 2026-05-11  
+**Generated:** 2026-05-12  
 **Cross-cut tag:** `safety-redundant-bus`  
 **Entries:** 28 (28 commons-grade, 0 draft)  
 **Earliest disclosure:** 1989-03-19  
@@ -638,4 +638,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `bff4888`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*

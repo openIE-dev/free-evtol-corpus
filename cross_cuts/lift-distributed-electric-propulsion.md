@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-distributed-electric-propulsion`
 
-**87 corpus entries disclose this subsystem.**
+**102 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -78,6 +78,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sikorsky VS-300 is the foundational disclosure of the single-main-rotor + tail-rotor helicopter architecture that subsequently dominated heavier-than-air rotorcraft for 80+ years. Establishes prior art for: (1) the simple single-rotor + small-anti-torque-rotor architecture, (2) the iterative design methodology of progressive simplification from compound multi-rotor to canonical single-rotor configuration. Igor Sikorsky's foundational patents are long expired. Although not strictly an eVTOL, VS-300 is foundational vertical-lift prior art that anticipates any helicopter-derived eVTOL.
 
+## Piasecki H-21 / HRP Rescuer (1945-03-07)
+
+- **id**: `piasecki-h-21`
+- **corpus**: academic
+- **creator**: Piasecki Helicopter Corporation / U.S. Navy / U.S. Army / U.S. Air Force
+- **disclosure**: Piasecki PV-3 / XHRP-1 Rescuer first flight 1945-03-07; the production H-21 Workhorse/Shawnee entered service 1949. Frank Piasecki's tandem-rotor (overlapping fore-and-aft rotors) architecture became one of the two dominant heavy-helicopter configurations (the other being Sikorsky's single-main-rotor). Documented in U.S. Navy/Army technical orders and Smithsonian collections.
+- **ip status**: patented
+- **prior art notes**: The Piasecki H-21 / HRP Rescuer (Frank Piasecki, 1945) is the foundational disclosure of the tandem-rotor helicopter architecture — two large counter-rotating rotors fore and aft, synchronized to cancel torque without a tail rotor. Establishes prior art for: (1) tandem-rotor lift architecture (ancestor of the Boeing CH-47 Chinook), (2) overlapping-rotor synchronization, (3) torque cancellation between two main lift rotors. Piasecki's 1940s patents are long expired. The tandem-rotor configuration is relevant prior art for any eVTOL using fore-and-aft lift-rotor pairs (a recurring lift+cruise and multirotor geometry). Combined with de-bothezat-quadrotor (1922) and convertawings-model-a (1956), places multi-rotor lift architectures comprehensively in mid-20th-century prior art.
+
+## Yakovlev Yak-24 (1952-07-03)
+
+- **id**: `yak-24`
+- **corpus**: academic
+- **creator**: Yakovlev Design Bureau
+- **disclosure**: Yakovlev Yak-24 first flight 1952-07-03; entered limited Soviet service 1955. A tandem-rotor heavy transport helicopter — the Soviet answer to the Piasecki tandem-rotor configuration. Set FAI payload records 1956. Documented in Yakovlev OKB archives (post-1991 declassified) and Gunston's Soviet aircraft references.
+- **ip status**: public-domain
+- **prior art notes**: The Yakovlev Yak-24 (1952) is the Soviet tandem-rotor heavy helicopter — the Soviet counterpart to the Piasecki H-21, demonstrating the tandem-rotor architecture in an independently-developed lineage. Soviet government work, fully in the public domain post-1991. Together with piasecki-h-21 (1945), places tandem-rotor lift architecture in cross-national prior art. Adds another Russian/Soviet entry to the deep Soviet rotorcraft heritage (TsAGI 1-EA, de Bothezat, Mil V-12, Kamov lineage, Yak VTOL fighters, Mil tip-jet, Mil Mi-30 tilt-rotor).
+
 ## de Lackner HZ-1 Aerocycle (1955-01)
 
 - **id**: `de-lackner-hz-1-aerocycle`
@@ -114,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The VZ-7 is one of three contemporaneous U.S. Army 'flying jeep' programs (with the Chrysler VZ-6 and Piasecki VZ-8) that disclosed the modern open-rotor quadrotor architecture in 1958, controlled by differential rotor thrust at the four corners of an X-frame. Establishes a 1958 anchor for: (1) corner-mounted open-rotor quad configuration, (2) cross-shafted single-engine drive of four lift rotors (mechanical analogue of modern electric quadrotors with DC-link power sharing), (3) differential-thrust attitude allocation. Combined with de-bothezat-quadrotor (1922), this places the basic open-rotor quadrotor lift architecture in the public domain a full half-century before any modern multirotor patent attempt. The Hoversurf S3 and Aerofex hover bike as well as Jetson ONE all sit downstream of this disclosure.
 
+## Chrysler VZ-6 (1958)
+
+- **id**: `chrysler-vz-6`
+- **corpus**: academic
+- **creator**: Chrysler Corporation / U.S. Army Transportation Research Command
+- **disclosure**: Chrysler VZ-6 'flying jeep' first (and essentially only) flight tests 1959 at Chrysler's facility — it proved unstable and overweight and the program ended quickly. The third of the three U.S. Army 'flying jeep' programs (with Curtiss-Wright VZ-7 and Piasecki VZ-8). Documented in U.S. Army TRC reports.
+- **ip status**: public-domain
+- **prior art notes**: The Chrysler VZ-6 (1958-1959) is the third of the three U.S. Army 'flying jeep' programs, completing the trio with the Curtiss-Wright VZ-7 (open quadrotor) and the Piasecki VZ-8 Airgeep (tandem open rotors). The VZ-6 used twin ducted lift fans fore and aft of the pilot with exhaust-vane attitude control. Establishes additional U.S. public-domain prior art for: (1) twin-ducted-fan personal/light flying-platform architecture, (2) exhaust-vane attitude control. Together with curtiss-wright-vz-7, piasecki-vz-8-airgeep, hiller-vz-1-pawnee, and de-lackner-hz-1-aerocycle, comprehensively places the 1955-1958 'flying jeep' / personal-platform design space in public-domain prior art.
+
 ## Piasecki VZ-8 Airgeep (1958-10-12)
 
 - **id**: `piasecki-vz-8-airgeep`
@@ -122,6 +149,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Piasecki VZ-8 Airgeep first flight 1958-10-12 at Piasecki Pennsylvania facility. Sister U.S. Army 'flying jeep' program to Curtiss-Wright VZ-7 and Chrysler VZ-6. Documented in TRC test reports.
 - **ip status**: public-domain
 - **prior art notes**: Piasecki VZ-8 Airgeep is the third major U.S. Army 'flying jeep' program of 1958 (with Curtiss-Wright VZ-7 and Chrysler VZ-6), establishing prior art for: (1) tandem fore-and-aft open-rotor architecture (precursor to Aerofex Aero-X hover-bike geometry by 50 years), (2) cross-coupled twin-piston-engine drive with engine-out continued lift. The hover-bike architecture descends directly from this 1958 disclosure.
+
+## Vanguard Omniplane (1959)
+
+- **id**: `vanguard-omniplane`
+- **corpus**: academic
+- **creator**: Vanguard Air and Marine Corporation / U.S. Army
+- **disclosure**: Vanguard Omniplane first tethered hover 1959; never achieved free flight or transition (gearbox failure during testing, program ended ~1962). A small VTOL with two ducted lift fans buried in the wings plus a pusher propeller. Documented in U.S. Army TRC reports and Smithsonian collections.
+- **ip status**: public-domain
+- **prior art notes**: The Vanguard Omniplane (1959) is an early disclosure of the 'fan-in-wing' VTOL architecture — ducted lift fans embedded inside the wing structure, covered by louvres in cruise, with a separate pusher propeller for forward flight. Establishes prior art for: (1) fan-in-wing embedded lift fans, (2) louvre-covered lift fans for cruise drag reduction, (3) the mode-shutdown transition (lift fans off in cruise, pusher provides thrust). Although the program failed mechanically, the design disclosure is complete in U.S. Army documentation. Anticipates the Ryan XV-5 Vertifan (1964) and modern fan-in-wing eVTOL (Horizon Aircraft Cavorite X5). Together with the lift+cruise cluster, places mode-shutdown / fan-in-wing architecture in public-domain prior art.
 
 ## Jetsons family aerocar (1962-09-23)
 
@@ -140,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mil V-12 first hover 1968-06-27; first horizontal flight 1969-02-10. Set FAI absolute payload world record 1969-08-06: 40,204.5 kg lifted to 2,255 m. The world record stands unbroken. Documented in Mil OKB archives and in Gunston's Soviet aircraft references.
 - **ip status**: public-domain
 - **prior art notes**: The V-12/Mi-12 is the largest helicopter ever built and the canonical disclosure of side-by-side lateral lift-rotor architecture at scale. Establishes prior art for: (1) twin-side-by-side lateral lift-rotor geometry (architectural ancestor of any eVTOL with lateral twin-rotor lift), (2) cross-shafted multi-engine drive of lateral rotor pair (engine-out continued lift), (3) record-scale heavy-lift VTOL operations. Soviet government work, comprehensively in the public domain post-1991. Although not electric, the lateral-rotor architectural pattern is anticipated for any commercial eVTOL claiming novelty over twin-side-by-side lift rotor configurations.
+
+## Hawker Siddeley HS.141 (1972)
+
+- **id**: `hawker-siddeley-hs-141`
+- **corpus**: academic
+- **creator**: Hawker Siddeley Aviation
+- **disclosure**: Hawker Siddeley HS.141 VTOL short-haul airliner design study, developed 1971-1973 in response to a perceived 1980s market for city-centre vertiport airline service; never built. A ~100-seat jet airliner with a bank of dedicated lift engines plus cruise turbofans. Documented in Hawker Siddeley company materials, the UK aerospace press of the early 1970s, and Wood's Project Cancelled.
+- **ip status**: public-domain
+- **prior art notes**: The Hawker Siddeley HS.141 (1972) is the foundational disclosure of the civil-airliner-scale VTOL passenger transport with distributed dedicated lift engines plus cruise engines, designed for city-centre vertiport operation. Establishes prior art for: (1) airliner-scale VTOL passenger transport, (2) the vertiport-city-centre airline-service operational concept, (3) sixteen-lift-engine distributed-lift architecture at airliner scale. Although never built, the design disclosure is documented in Hawker Siddeley materials and the UK aerospace press. Anticipates: the entire modern eVTOL urban-air-mobility / vertiport business thesis (Joby, Archer, Lilium, Eve, Volocopter all pitch city-centre vertiport service), demonstrating that the operational concept was specifically disclosed in 1972.
 
 ## SoloTrek XFV / Trek Aerospace Springtail (2001-12-17)
 
@@ -231,6 +276,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-permissive
 - **prior art notes**: Bitcraze Crazyflie is the canonical open-hardware micro-quadrotor reference platform — used in 1000+ academic papers and hundreds of university research labs worldwide as the standard small-quadrotor experimental platform. Establishes Swedish prior art for open-hardware quadrotor design and substantially places small-quadrotor architecture in the open-hardware public domain via CERN-OHL/BSD/GPL licensing. Combined with ardupilot-quadplane and px4-vtol, comprehensively places open-source / open-hardware multirotor design in prior art.
 
+## Aeros Aeroscraft / Dragon Dream (2013-09-05)
+
+- **id**: `aeros-aeroscraft-dragon-dream`
+- **corpus**: private
+- **creator**: Aeros (Aeros Corporation / Worldwide Aeros Corp) / Igor Pasternak
+- **disclosure**: Aeros 'Dragon Dream' (a ~79 m sub-scale demonstrator of the planned Aeroscraft ML866) first untethered flight 2013-09-05 at Tustin CA (inside a former blimp hangar). Aeros (Igor Pasternak) develops rigid variable-buoyancy airships using 'Control Of Static Heaviness' (COSH) to take off and land vertically without ballast exchange. Documented in Aeros materials, U.S. DARPA/Defense Department reports, and FAA filings.
+- **ip status**: patented
+- **prior art notes**: The Aeros Aeroscraft / Dragon Dream (2013) establishes prior art for the variable-buoyancy VTOL airship — a rigid airship with 'Control Of Static Heaviness' (COSH): helium is compressed/released to shift between heavier-than-air (landing) and lighter-than-air (takeoff), enabling controlled vertical takeoff/landing without ballast exchange. Establishes prior art for: (1) variable-buoyancy / COSH airship control, (2) ballast-free vertical-takeoff airship operation, (3) rigid-frame heavy-lift airship with vectored hybrid propulsion. Together with lta-research-pathfinder-1 (2023), hybrid-air-vehicles-airlander-10 (2012), and flying-whales-lca60t (2012), comprehensively places the modern buoyant-hybrid / VTOL-airship architecture in public-domain prior art.
+
 ## CollMot Robotics drone-show swarm (2014)
 
 - **id**: `collmot-drone-show`
@@ -239,6 +293,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: CollMot Robotics founded 2014 in Budapest by Gábor Vásárhelyi (with roots in Tamás Vicsek's collective-motion research group at Eötvös Loránd University); decentralized outdoor drone-swarm flight published in Vásárhelyi, G. et al. 'Optimized flocking of autonomous drones in confined environments,' Science Robotics 3(20), 2018. CollMot Entertainment performs commercial drone-light shows worldwide.
 - **ip status**: patented
 - **prior art notes**: CollMot Robotics establishes Hungarian prior art for decentralized outdoor drone-swarm coordination — distinct from motion-capture-based indoor swarms (UPenn nano-quad, Intel Shooting Star) by operating outdoors at scale with onboard GPS and decentralized self-organizing flocking. Rooted in Tamás Vicsek's foundational collective-motion physics (the Vicsek model, 1995). The Science Robotics 2018 paper (Vásárhelyi et al.) is a comprehensive disclosure. Adds Hungary to the eVTOL / aerial-robotics prior-art map. Together with kmel-nano-quadrotor-swarm and intel-shooting-star, places multi-drone coordinated-fleet control in continuous prior-art coverage.
+
+## Malloy Aeronautics Hoverbike / US Army JTARV (2014-06)
+
+- **id**: `malloy-aeronautics-hoverbike`
+- **corpus**: private
+- **creator**: Malloy Aeronautics (United Kingdom; founder Chris Malloy, Australian) — later partnered with SURVICE Engineering / U.S. Army; acquired by BAE Systems 2024
+- **disclosure**: Malloy Aeronautics publicly unveiled the Hoverbike (a quadcopter straddle vehicle) at Paris Air Show 2014; partnered with SURVICE Engineering for the U.S. Army's Joint Tactical Aerial Resupply Vehicle (JTARV) programme 2015; the cargo variant became the TRV-150 Tactical Resupply UAS for the U.S. Marine Corps. Malloy Aeronautics acquired by BAE Systems 2024. Documented in Malloy materials and U.S. Army/USMC contract records.
+- **ip status**: patented
+- **prior art notes**: Malloy Aeronautics' Hoverbike / U.S. Army JTARV / USMC TRV-150 establishes prior art for the four-ducted-rotor hover-bike-and-cargo-quad family that reached U.S. military service — the crewed Hoverbike and the uncrewed TRV-150 cargo variant on a shared four-ducted-rotor airframe. Establishes prior art for: (1) ducted-rotor hover-bike architecture, (2) crewed-and-uncrewed variants on a common airframe, (3) operational military deployment of a hover-bike-class platform. Acquired by BAE Systems 2024. Together with aerofex-aero-x (2008), hoversurf-s3 (2017), jetpack-aviation-speeder (2021), and the historical personal-platform anchors, comprehensively places hover-bike architecture in commercial and military prior art. (Note: the Malloy TRV-150 is closely related to but distinct from the Skyways/Orb Aerospace TRV-150 lineage — both used the 'TRV-150' designation for USMC tactical-resupply VTOL.)
 
 ## H3 Dynamics HyFly hydrogen-electric eVTOL (2014-07)
 
@@ -329,6 +392,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Skyways Inc founded ~2017 in Austin, Texas. Skyways A22 autonomous VTOL cargo aircraft publicly demonstrated for USMC Naval Air Systems Command (NAVAIR) starting 2019; awarded USMC Tactical Resupply Vehicle (TRV-150) contract 2020. Orb Aerospace product line including the Orb Nomad publicly disclosed via Air Force AFWERX program records, Skyways press materials, and U.S. defense contracting disclosures. Distinct architectural commitment to industrial / defense / emergency-response cargo missions rather than urban passenger air taxi.
 - **ip status**: patented
 - **prior art notes**: Orb Aerospace / Skyways establishes US prior art for the industrial / defense / emergency-response cargo eVTOL category — distinct architectural and operational commitment from urban passenger air taxi. The USMC TRV-150 contract (2020) is among the earliest production-track autonomous VTOL cargo deployments in U.S. military service. Establishes prior art for: (1) hybrid-electric autonomous cargo eVTOL specifically designed for unprepared / austere site operations, (2) the industrial-first eVTOL deployment thesis (cargo and defense use cases preceding consumer urban air taxi). Together with elroy-air-chaparral, pyka-pelican, sabrewing-rhaegal-a, volansi-vbat, wingcopter-198, dji-flycart-30, and amsl-vertiia, comprehensively places autonomous hybrid-electric cargo eVTOL architecture in 2017-2024 commercial prior art across US, DE, AU, and CN industrial lineages.
+
+## Alauda Aeronautics Airspeeder (Mk3 / Mk4) (2017)
+
+- **id**: `alauda-airspeeder`
+- **corpus**: private
+- **creator**: Alauda Aeronautics / Airspeeder (Adelaide, Australia) / Matthew Pearson
+- **disclosure**: Alauda Aeronautics (founded 2016 in Adelaide by Matthew Pearson) developed the Airspeeder racing eVTOL — the Mk3 (uncrewed remote-piloted racer, first flew 2021, raced in the 'EXA Series' 2022) and the Mk4 (crewed racer, unveiled 2022, designed for the manned Airspeeder Grand Prix). The world's first eVTOL racing series. Documented in Alauda/Airspeeder materials and Australian CASA filings.
+- **ip status**: patented
+- **prior art notes**: Alauda Aeronautics' Airspeeder (Mk3 uncrewed 2021, Mk4 crewed 2022) establishes Australian prior art for the racing eVTOL — a high-power-to-weight single-seat (or uncrewed) octocopter designed for close-formation pylon racing, the world's first eVTOL racing series. Establishes prior art for: (1) racing-tuned eVTOL flight envelope and aggressive-maneuvering control, (2) the racing-eVTOL operational concept, (3) crewed/uncrewed variants on a racing airframe. Together with amsl-vertiia (AU, hydrogen passenger eVTOL), deepens Australia's eVTOL footprint. The racing-eVTOL niche is a distinct application alongside passenger air taxi, cargo, personal, and military eVTOL — and Airspeeder is its foundational disclosure.
 
 ## Zuri eVTOL (2017-03)
 
@@ -528,6 +600,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The Joby S4 is the lead commercial tilt-rotor electric eVTOL. Direct architectural descendant of bell-xv-15 (1977) and v-22-osprey (1989) — Joby's tilt geometry, conversion corridor, and gimbaled prop-rotor topology are classical tilt-rotor architecture with electric distributed propulsion substituted for cross-shafted turboshaft. Establishes prior art for: (1) six-rotor tilt-rotor with stop-in-cruise props, (2) BLDC direct-drive tilt-rotor propulsion, (3) Part 23 SVO certification basis. Joby's patent estate (US 10,994,841 et seq.) covers specific implementations but is anticipated on the architectural level by XV-15 and V-22 disclosures.
 
+## teTra Mk-5 (2019)
+
+- **id**: `tetra-mk-5`
+- **corpus**: private
+- **creator**: teTra Aviation Corporation (Tokyo, Japan) / Tasuku Nakai
+- **disclosure**: teTra Aviation Corporation (founded 2018 in Tokyo, an outgrowth of GoFly Prize-competing students) revealed the Mk-3 personal eVTOL (2020, GoFly Prize 'Pratt & Whitney Disruptor Award' winner) and subsequently the production Mk-5 single-seat personal eVTOL (2021); first crewed flights and FAA Special Airworthiness Certificate process underway. Documented in teTra materials and GoFly Prize records.
+- **ip status**: patented
+- **prior art notes**: teTra Mk-5 establishes Japanese prior art for the high-rotor-count single-seat personal eVTOL — a fixed-wing airframe with 32 small distributed lift rotors for hover redundancy plus wing lift for cruise efficiency. A GoFly Prize-derived design. Establishes prior art for: (1) very-high-rotor-count (~32) personal eVTOL with fixed wings, (2) the GoFly Prize lineage of personal-flight designs. Together with skydrive-sd-05 (JP, multirotor air taxi), aska-a5 (JP/US, drive+fly), honda-evtol (JP, hybrid), and the Japanese fictional VTOL anchors, deepens Japan's eVTOL footprint. Together with lift-aircraft-hexa (US, 18-rotor) and ehang-eh216 (CN, 16-rotor), places high-rotor-count personal/small eVTOL architecture in prior art.
+
 ## Bell Nexus 4EX (2019-01-07)
 
 - **id**: `bell-nexus-4ex`
@@ -572,6 +653,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lilium Jet 5-seat prototype unveiled and first hover flight 2019-05-16 at Manching; 7-seat production design unveiled 2021-03-30. Disclosures continued through Lilium SPAC merger Form S-4 2021-09 and subsequent NASDAQ filings until bankruptcy 2024-10.
 - **ip status**: patented
 - **prior art notes**: Lilium Jet establishes prior art for the high-multiplicity ducted-fan-array eVTOL: 36 small embedded ducted fans tilting in flap-segment groupings to provide both lift and cruise. Architecturally a hyper-distributed extension of Bell X-22 (4 tilt-ducts) and Doak VZ-4 (2 tilt-ducts). Although Lilium filed for bankruptcy in October 2024, the patent estate (now in receivership / likely auctioned) covers specific implementations of the 36-fan ducted-array geometry and EASA SC-VTOL certification basis approaches. The fundamental architecture (multiple ducted fans in a tilting flap arrangement) is anticipated by Bell X-22 (1966).
+
+## Jaunt Air Mobility Journey (2019-06)
+
+- **id**: `jaunt-air-mobility`
+- **corpus**: private
+- **creator**: Jaunt Air Mobility LLC (Montreal, Canada / Texas, USA) — subsidiary of AIRO Group; licensed Carter Aviation SR/C technology
+- **disclosure**: Jaunt Air Mobility (founded 2019, headquartered in Montreal with Texas operations, a subsidiary of the AIRO Group) unveiled the Journey eVTOL — a slowed-rotor compound electric VTOL using 'ROSA' (Reduced rOtor Speed Aircraft) technology licensed from Carter Aviation — in 2019; selected for the U.S. Air Force AFWERX Agility Prime programme 2020. Documented in Jaunt Air Mobility materials, AFWERX records, and AIRO Group SEC filings (NASDAQ: AIRO).
+- **ip status**: patented
+- **prior art notes**: Jaunt Air Mobility's Journey eVTOL establishes Canadian/US prior art for the slowed-rotor-compound electric VTOL — a single large rotor that spins fast for jump-takeoff then slows dramatically in cruise while a wing carries lift and electric pushers provide thrust ('ROSA', licensed from Carter Aviation). A distinct eVTOL architecture from the multirotor and tilt-rotor approaches. Establishes prior art for: (1) slowed-rotor-compound electric VTOL, (2) jump-takeoff stored-inertia rotor in an electric eVTOL, (3) the wing-offloads-slowed-rotor-in-cruise eVTOL configuration. Together with cartercopter (1998, the SR/C origin), karem-ar40 (2008, optimum-speed rotor), and overair-butterfly (2020, OSR eVTOL), comprehensively places slowed/variable-RPM-rotor compound eVTOL architecture in prior art. Adds another Canadian entry alongside Horizon Aircraft and the Avro Canada Avrocar heritage.
 
 ## Volocopter VoloCity (2019-08-14)
 
@@ -627,6 +717,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Eve Air Mobility is Brazil's lead commercial eVTOL, backed by Embraer's 100+-year aerospace heritage. The 8+1 lift+cruise architecture is architecturally similar to Beta Alia and AutoFlight Prosperity I; establishes Brazilian / Latin American prior-art lineage for commercial lift+cruise eVTOL. Eve has the deepest commercial aerospace certification experience among any eVTOL company by virtue of Embraer parentage.
 
+## Overair Butterfly (2020-10-15)
+
+- **id**: `overair-butterfly`
+- **corpus**: private
+- **creator**: Overair Inc (Santa Ana, California) — Karem Aircraft spinoff; partnered with Hanwha Systems (Korea)
+- **disclosure**: Overair (spun out of Karem Aircraft in 2020, with investment from Hanwha Systems of South Korea) unveiled the Butterfly eVTOL — a tilt-rotor eVTOL using Karem's 'Optimum Speed Tilt-Rotor' (OSTR) technology (large slow-turning prop-rotors with continuously-variable RPM) — in October 2020. Documented in Overair materials, Hanwha Systems disclosures, and U.S. Air Force AFWERX Agility Prime records.
+- **ip status**: patented
+- **prior art notes**: Overair's Butterfly establishes prior art for the optimum-speed tilt-rotor eVTOL — a tilt-rotor eVTOL with four very large, slow-turning prop-rotors whose RPM is continuously varied with flight regime ('OSTR', from Karem Aircraft's OSR technology), giving low disk loading for quiet, efficient hover. Distinct from the small-fast-prop tilt-rotor eVTOLs (Joby S4, TCab E20) by the large-slow-prop approach. Establishes prior art for: (1) continuously-variable-RPM tilt-rotor in an eVTOL, (2) very-low-disk-loading large slow prop-rotors for quiet hover, (3) the OSR-applied-to-eVTOL configuration. Hanwha Systems (Korea) partnership ties this to the Korean eVTOL ecosystem (Hyundai Supernal, Plana). Together with karem-ar40 (2008, OSTR origin), cartercopter (1998), and jaunt-air-mobility (2019), comprehensively places variable-RPM / slowed-rotor / optimum-speed-rotor eVTOL architecture in prior art.
+
 ## AMSL Aero Vertiia (2021-03)
 
 - **id**: `amsl-vertiia`
@@ -662,6 +761,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: XPENG Voyager X2 publicly unveiled 2021-07-16 at XPENG Tech Day; first untethered manned flight 2022-10-10 at Dubai. AeroHT subsequently unveiled X3 (2023) and the modular Land Aircraft Carrier (2024). AeroHT holds Chinese patents on coaxial multirotor and modular drive+fly architecture.
 - **ip status**: patented
 - **prior art notes**: AeroHT (XPENG flying car subsidiary) is one of three lead Chinese passenger eVTOL programs (with EHang and AutoFlight). The X2 establishes Chinese prior art for coaxial-pair multirotor passenger eVTOL with autonomous + pilot-override flight management. AeroHT's subsequent X3 and modular Land Aircraft Carrier (2024) extend to drive+fly transformer geometry.
+
+## Horizon Aircraft Cavorite X5 (2021-09)
+
+- **id**: `horizon-aircraft-cavorite-x5`
+- **corpus**: private
+- **creator**: New Horizon Aircraft Ltd (Lindsay, Ontario, Canada)
+- **disclosure**: New Horizon Aircraft (Canadian, founded 2013, public on NASDAQ as HOVR via SPAC merger 2024) unveiled the Cavorite X5 hybrid eVTOL in 2021; 50%-scale prototype first conventional flight 2023-11 and first full transition 2024-11. The Cavorite uses a 'fan-in-wing' design — fourteen lift fans embedded in the wings, covered by sliding panels in cruise so the aircraft flies as a conventional fixed-wing. Documented in Horizon Aircraft materials and SEC filings (named for H.G. Wells's anti-gravity material 'Cavorite').
+- **ip status**: patented
+- **prior art notes**: Horizon Aircraft Cavorite X5 establishes Canadian prior art for the modern 'fan-in-wing' hybrid eVTOL — fourteen electric lift fans embedded in the wing structure, covered by sliding panels in cruise so the wing becomes a clean conventional wing with a single pusher. Establishes prior art for: (1) modern panel-covered fan-in-wing eVTOL, (2) hybrid-electric fan-in-wing architecture, (3) the wing-as-clean-wing-in-cruise design. Directly descended in concept from vanguard-omniplane (1959) and ryan-xv-5-vertifan (1964). Together with these and lilium-jet (ducted-fan-array), aurora-lightningstrike-xv-24a (tilt-wing ducted-fan), and bell-nexus-4ex (tilt-duct), comprehensively places ducted-fan / fan-in-wing eVTOL architecture in prior art. Adds Canadian depth alongside Jaunt Air Mobility and the Avro Canada Avrocar heritage.
 
 ## Geely Aerofugia AE200 (2021-09-14)
 
@@ -726,6 +834,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AutoFlight Prosperity I is the leading Chinese lift+cruise eVTOL — architectural sibling to Beta Alia-250 with eight rather than four lift rotors. The 250 km Hong Kong-Macau demonstration flight (2024-04-29) is the longest eVTOL flight publicly documented as of mid-2024. Establishes Chinese prior-art lineage for lift+cruise architecture and supports EASA SC-VTOL certification basis dual-track with EHang's CAAC certification.
 
+## Doroni H1 / H1-X (2022-06)
+
+- **id**: `doroni-h1`
+- **corpus**: private
+- **creator**: Doroni Aerospace (Fort Lauderdale, Florida) / Doron Merdinger
+- **disclosure**: Doroni Aerospace (founded 2016 by Doron Merdinger) unveiled the H1 two-seat personal eVTOL in 2022; first crewed test flight 2023-05; received an FAA Special Airworthiness Certificate (Experimental) 2023; developing the H1-X for FAA Part 23 certification. Designed to fit in a two-car garage and operate from driveways under (intended) Part 103 ultralight or LSA rules. Documented in Doroni materials and FAA filings.
+- **ip status**: patented
+- **prior art notes**: Doroni H1 establishes US prior art for the garage-storable enclosed-rotor two-seat personal eVTOL — eight ducted lift rotors housed within the airframe body (not on exposed booms), small fixed wings, car-like footprint, driveway operation. Establishes prior art for: (1) fully-enclosed-within-body lift rotors on a personal eVTOL, (2) garage-storable / driveway-operable two-seat personal eVTOL form factor. Together with pivotal-blackfly, jetson-one, lift-aircraft-hexa, alef-model-a, and the historical personal-platform anchors, comprehensively places small-personal eVTOL architecture in prior art.
+
 ## ePlane Company e200 (2022-08)
 
 - **id**: `eplane-company-e200`
@@ -734,6 +851,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: The ePlane Company e200 unveiled 2022-08; first sub-scale prototype hover flight 2022-12; full-scale prototype rolled out 2023-09 at IIT Madras Research Park. Founded 2017 by Prof. Satya Chakravarthy. Awarded Anjani Mashelkar Inclusive Innovation Award 2023.
 - **ip status**: patented
 - **prior art notes**: ePlane e200 is India's lead commercial eVTOL — IIT Madras research spinout with explicit design constraint for compact urban Indian airspace. Establishes Indian prior-art lineage for commercial lift+cruise eVTOL and the design philosophy of compact-footprint operation in dense urban environments. Targeted at DGCA (Directorate General of Civil Aviation, India) certification.
+
+## Plana Aero CP-01 (2022-08)
+
+- **id**: `plana-cp-01`
+- **corpus**: private
+- **creator**: Plana Aerospace Inc (Seongnam, South Korea)
+- **disclosure**: Plana Aerospace (founded 2021 in South Korea by Braden Kim) unveiled the CP-01 hybrid-electric eVTOL in 2022; sub-scale prototype flight tests 2023-2024; targeting Korean (MOLIT) and FAA certification for regional air mobility. Documented in Plana materials and Korean Ministry of Land, Infrastructure and Transport (MOLIT) records.
+- **ip status**: patented
+- **prior art notes**: Plana Aero CP-01 establishes Korean prior art for the hybrid-electric regional eVTOL — a lift+cruise eVTOL with a turbine-genset-electric hybrid powertrain for ~500 km range, targeting intercity routes. Distinct from the urban-air-taxi-focused Korean peer Hyundai Supernal (battery-electric, 100 km). Establishes Korean depth in the hybrid-electric eVTOL space alongside Honda (JP), Zuri (CZ), Elroy Air (US), and AMSL Vertiia (AU). Together with hyundai-supernal-sa2, the Hanwha-Systems-backed overair-butterfly, and (fictionally) space-sweepers-victory, deepens Korea's eVTOL footprint.
 
 ## Crisalion Mobility Integrity (2022-09-08)
 
@@ -770,6 +896,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DJI FlyCart 30 publicly unveiled 2023-08-16 in Shenzhen; CAAC type certification application 2023; commercial deliveries to Chinese and international markets 2024. DJI is the world's largest drone manufacturer and holds an extensive multirotor patent estate.
 - **ip status**: patented
 - **prior art notes**: DJI FlyCart 30 is the entry of the world's largest drone manufacturer into the heavy-cargo eVTOL category. DJI's massive patent estate and operational scale (millions of multirotor flights/day globally) constitute foundational prior-art coverage for: (1) coaxial-pair multirotor manufacturing at scale, (2) autonomous multirotor cargo delivery, (3) consumer-priced multirotor architecture migration to commercial cargo class. Establishes Chinese prior-art lineage for heavy-payload multirotor cargo eVTOL with explicit Beyond Visual Line of Sight (BVLOS) operational basis.
+
+## Sarla Aviation Shunya (2023-11)
+
+- **id**: `sarla-aviation-shunya`
+- **corpus**: private
+- **creator**: Sarla Aviation (Bangalore, India)
+- **disclosure**: Sarla Aviation (founded 2023 in Bangalore by Adrian Schmidt, Rakesh Gaonkar, and Shivam Chauhan; named after Sarla Thakral, India's first woman pilot) unveiled the Shunya eVTOL air taxi in November 2023, with production targeted for ~2028 in Indian cities (Bangalore, Mumbai, Delhi, Pune); sub-scale prototype work 2024. Documented in Sarla materials and Indian DGCA engagement records.
+- **ip status**: patented
+- **prior art notes**: Sarla Aviation Shunya establishes additional Indian prior art for the urban-air-taxi multirotor eVTOL — a five-seat eVTOL designed for short hops in dense Indian cities, the second major Indian eVTOL OEM after ePlane. Establishes Indian depth alongside eplane-company-e200 (IN, lift+cruise) and the Indian fictional flight anchor (Krrish). Together with ehang-eh216 (CN), volocopter-volocity (DE), and the global multirotor air-taxi cluster, places urban-air-taxi multirotor eVTOL architecture in prior art across US, EU, China, India, Japan, Korea, and Brazil lineages.
 
 ## LTA Research Pathfinder 1 (2023-11-08)
 

@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `transition-lift-fan-clutched`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1967-02-10
+Earliest disclosure: 1964-05-25
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Ryan XV-5 Vertifan (1964-05-25)
+
+- **id**: `ryan-xv-5-vertifan`
+- **corpus**: academic
+- **creator**: Ryan Aeronautical Company / U.S. Army / NASA
+- **disclosure**: Ryan XV-5A Vertifan first flight 1964-05-25; first transition 1964-11-05. A 'lift-fan' VTOL using gas-driven lift fans embedded in the wings and nose. U.S. Army / NASA program; flew through the late 1960s. Documented in NASA and U.S. Army test reports.
+- **ip status**: patented
+- **prior art notes**: The Ryan XV-5 Vertifan (1964) is the foundational disclosure of the gas-driven tip-turbine lift fan — large lift fans embedded in the wings/nose, driven by turbojet exhaust gas routed to turbines on the fan rims (rather than mechanical shafts), with the fans covered by louvres for cruise. Establishes prior art for: (1) tip-turbine gas-coupled lift fans, (2) fan-in-wing embedded lift, (3) divert-exhaust mode transition. General Electric's 1960s tip-turbine lift-fan patents are expired. Together with vanguard-omniplane (1959, mechanically-driven fan-in-wing) and lockheed-xv-4-hummingbird (1962, ejector-augmenter), places fan-in-wing / embedded-lift-fan VTOL architecture comprehensively in 1959-1964 public-domain prior art — directly relevant to Lilium's ducted-fan-array eVTOL and modern fan-in-wing eVTOL concepts.
 
 ## Dornier Do 31 (1967-02-10)
 

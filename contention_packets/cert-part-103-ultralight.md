@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `cert-part-103-ultralight`  
-**Entries:** 6 (6 commons-grade, 0 draft)  
+**Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 2008-10  
-**Most recent disclosure:** 2019-10-03
+**Most recent disclosure:** 2021-04
 
 ---
 
@@ -146,6 +146,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019 — teTra Mk-5
+
+- **id:** `tetra-mk-5`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** teTra Aviation Corporation (Tokyo, Japan) / Tasuku Nakai
+- **disclosure citation:** teTra Aviation Corporation (founded 2018 in Tokyo, an outgrowth of GoFly Prize-competing students) revealed the Mk-3 personal eVTOL (2020, GoFly Prize 'Pratt & Whitney Disruptor Award' winner) and subsequently the production Mk-5 single-seat personal eVTOL (2021); first crewed flights and FAA Special Airworthiness Certificate process underway. Documented in teTra materials and GoFly Prize records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-103-ultralight`
+
+**Prior art notes:**
+
+> teTra Mk-5 establishes Japanese prior art for the high-rotor-count single-seat personal eVTOL — a fixed-wing airframe with 32 small distributed lift rotors for hover redundancy plus wing lift for cruise efficiency. A GoFly Prize-derived design. Establishes prior art for: (1) very-high-rotor-count (~32) personal eVTOL with fixed wings, (2) the GoFly Prize lineage of personal-flight designs. Together with skydrive-sd-05 (JP, multirotor air taxi), aska-a5 (JP/US, drive+fly), honda-evtol (JP, hybrid), and the Japanese fictional VTOL anchors, deepens Japan's eVTOL footprint. Together with lift-aircraft-hexa (US, 18-rotor) and ehang-eh216 (CN, 16-rotor), places high-rotor-count personal/small eVTOL architecture in prior art.
+
+**Sources:**
+
+1. teTra Aviation Mk-3 / Mk-5 technical materials 2019-2024.
+2. GoFly Prize competition records (teTra Mk-3, Pratt & Whitney Disruptor Award).
+
+---
+
 ### 2019-10-03 — Kitty Hawk Heaviside
 
 - **id:** `kittyhawk-heaviside`
@@ -167,6 +187,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-04 — JetPack Aviation Speeder
+
+- **id:** `jetpack-aviation-speeder`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** JetPack Aviation (Los Angeles, California) / David Mayman
+- **disclosure citation:** JetPack Aviation (founded by David Mayman, who also developed the JB-series jetpacks worn over the Statue of Liberty in 2015) unveiled the Speeder — a turbine-powered VTOL flying motorcycle — in April 2021; P1.5 prototype flight tests 2022-2024; awarded U.S. Air Force AFWERX and U.S. Army contracts. Documented in JetPack Aviation materials and AFWERX contract records.
+- **disclosed subsystems:** `lift-vectored-thrust`, `control-differential-thrust-attitude`, `cert-part-103-ultralight`
+
+**Prior art notes:**
+
+> The JetPack Aviation Speeder establishes US prior art for the jet-turbine hover-bike — a motorcycle-style straddle VTOL with four vectored jet turbines and fly-by-wire stabilization, no exposed rotors. Establishes prior art for: (1) jet-turbine-powered hover-bike (distinct from open-rotor hover bikes), (2) vectored-turbine lift and translation control for a personal VTOL, (3) heavy-fuel turbine personal VTOL. JetPack Aviation also developed the JB-series jetpacks (turbojet jetpacks flown 2015-2024) — together with bell-rocket-belt (1961), williams-x-jet (1982), gravity-industries-jet-suit (2017), martin-aircraft-jetpack (2008), solotrek-xfv (2001), aerofex-aero-x (2008), hoversurf-s3 (2017), and the historical personal-platform anchors (Hiller VZ-1, de Lackner HZ-1, Chrysler VZ-6), comprehensively places personal-VTOL platform and hover-bike architecture in deep prior art across rocket / ducted-fan / turbofan / turbojet / open-rotor / jet-turbine variants.
+
+**Sources:**
+
+1. JetPack Aviation Speeder / JB-series technical materials 2015-2024.
+2. U.S. Air Force AFWERX and U.S. Army contract records (JetPack Aviation).
+3. JetPack Aviation patent filings, USPTO.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -174,4 +215,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

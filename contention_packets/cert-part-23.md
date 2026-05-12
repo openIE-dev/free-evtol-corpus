@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `cert-part-23`  
-**Entries:** 23 (23 commons-grade, 0 draft)  
-**Earliest disclosure:** 2012  
+**Entries:** 31 (31 commons-grade, 0 draft)  
+**Earliest disclosure:** 1946-11-07  
 **Most recent disclosure:** 2024-01-09
 
 ---
@@ -41,6 +41,70 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1946-11-07 — Fulton Airphibian
+
+- **id:** `fulton-airphibian`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Robert Edison Fulton Jr / Continental Inc
+- **disclosure citation:** Robert Fulton Jr's Airphibian first flight 1946-11-07; received CAA (predecessor of FAA) type certification 1950 — the first roadable aircraft to receive a type certificate. The wings, tail, and propeller detach as one unit, leaving a drivable car. Documented in CAA certification records and Smithsonian collections (an Airphibian survives at NASM).
+- **disclosed subsystems:** `cert-part-23`
+
+**Prior art notes:**
+
+> The Fulton Airphibian (1946, type-certified 1950) is the first roadable aircraft to receive a CAA type certificate — establishing prior art for: (1) the detachable-flight-module roadable-aircraft architecture (wings/tail/propeller as a single removable unit), (2) a regulatory certification basis for roadable aircraft, 60+ years before Terrafugia. Fulton's patents are expired. Together with curtiss-autoplane (1917), waterman-aerobile (1937), and taylor-aerocar (1949), comprehensively places roadable-aircraft architecture in the public domain.
+
+**Sources:**
+
+1. CAA (Civil Aeronautics Administration) Airphibian type certificate records.
+2. Fulton, Robert E. Jr. patents, USPTO.
+3. Smithsonian National Air and Space Museum, Fulton Airphibian collection.
+
+---
+
+### 1949-12-08 — Taylor Aerocar
+
+- **id:** `taylor-aerocar`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Moulton 'Molt' Taylor / Aerocar International
+- **disclosure citation:** Molt Taylor's Aerocar I first flight 1949-12-08; received CAA type certification 1956; six built (1949-1960s), one still airworthy. The most famous and most successful classic flying car — the wings, tail, and propeller fold into a towable trailer behind the car. Documented in CAA certification records, Taylor's patents, and Smithsonian collections.
+- **disclosed subsystems:** `cert-part-23`
+
+**Prior art notes:**
+
+> The Taylor Aerocar (1949, type-certified 1956) is the definitive classic flying car — a car that tows a folding wing/tail/propeller assembly, reassembled in minutes, with a shared engine for road and flight. Establishes prior art for: (1) the towable-folding-flight-module roadable-aircraft architecture, (2) quick-attach folding wing assembly, (3) extension-shaft pusher-propeller drive. Molt Taylor's patents (US 2,767,939 et seq.) are expired. The Aerocar is the most-cited historical flying-car reference; together with curtiss-autoplane (1917), waterman-aerobile (1937), fulton-airphibian (1946), and terrafugia-transition (2009), it places drive+fly transformer architecture in a century-spanning public-domain prior-art base.
+
+**Sources:**
+
+1. Taylor, Moulton. US Patent 2,767,939, 'Convertible aircraft,' and related filings.
+2. CAA Aerocar type certificate records.
+3. Smithsonian National Air and Space Museum, Taylor Aerocar collection.
+4. Brown, Stuart F. 'The Flying Car That Wasn't.' Air & Space/Smithsonian, multiple.
+
+---
+
+### 2010 — Wigetworks AirFish 8
+
+- **id:** `wigetworks-airfish-8`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Wigetworks Pte Ltd (Singapore) — based on Hanno Fischer's Airfish design
+- **disclosure citation:** Wigetworks (Singapore) acquired the rights to Hanno Fischer's Airfish WIG-craft design (Fischer was a former Rhein-Flugzeugbau and Lippisch-school engineer) and developed the AirFish 8 — an 8-seat wing-in-ground-effect craft; the AirFish 8 became the first WIG craft registered as a ship under the Singapore flag (registered ~2020, type approval from Bureau Veritas). Documented in Wigetworks materials and Singapore maritime registration records.
+- **disclosed subsystems:** `cert-part-23`
+
+**Prior art notes:**
+
+> The Wigetworks AirFish 8 establishes Singapore prior art for the modern small-scale WIG craft — an 8-seat Lippisch-reverse-delta 'flarecraft' commercialized in Singapore, the first WIG craft registered as a ship under the Singapore flag with Bureau Veritas type approval. Descends from the Lippisch / Hanno Fischer WIG-craft lineage. Together with alexeyev-ekranoplan-km (1966, Soviet large-scale) and regent-viceroy-seaglider (2021, US electric), comprehensively places WIG / ground-effect-hybrid architecture in cross-national prior art. Adds Singapore depth alongside H3 Dynamics (Singapore hydrogen eVTOL UAS).
+
+**Sources:**
+
+1. Wigetworks Pte Ltd technical materials.
+2. Singapore ship registration / Bureau Veritas type-approval records for the AirFish 8.
+3. Fischer, Hanno. Airfish WIG-craft design materials (German / Rhein-Flugzeugbau lineage).
+
+---
 
 ### 2012 — Flying Whales LCA60T
 
@@ -315,6 +379,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-06 — Jaunt Air Mobility Journey
+
+- **id:** `jaunt-air-mobility`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Jaunt Air Mobility LLC (Montreal, Canada / Texas, USA) — subsidiary of AIRO Group; licensed Carter Aviation SR/C technology
+- **disclosure citation:** Jaunt Air Mobility (founded 2019, headquartered in Montreal with Texas operations, a subsidiary of the AIRO Group) unveiled the Journey eVTOL — a slowed-rotor compound electric VTOL using 'ROSA' (Reduced rOtor Speed Aircraft) technology licensed from Carter Aviation — in 2019; selected for the U.S. Air Force AFWERX Agility Prime programme 2020. Documented in Jaunt Air Mobility materials, AFWERX records, and AIRO Group SEC filings (NASDAQ: AIRO).
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Jaunt Air Mobility's Journey eVTOL establishes Canadian/US prior art for the slowed-rotor-compound electric VTOL — a single large rotor that spins fast for jump-takeoff then slows dramatically in cruise while a wing carries lift and electric pushers provide thrust ('ROSA', licensed from Carter Aviation). A distinct eVTOL architecture from the multirotor and tilt-rotor approaches. Establishes prior art for: (1) slowed-rotor-compound electric VTOL, (2) jump-takeoff stored-inertia rotor in an electric eVTOL, (3) the wing-offloads-slowed-rotor-in-cruise eVTOL configuration. Together with cartercopter (1998, the SR/C origin), karem-ar40 (2008, optimum-speed rotor), and overair-butterfly (2020, OSR eVTOL), comprehensively places slowed/variable-RPM-rotor compound eVTOL architecture in prior art. Adds another Canadian entry alongside Horizon Aircraft and the Avro Canada Avrocar heritage.
+
+**Sources:**
+
+1. Jaunt Air Mobility Journey technical materials 2019-2024.
+2. U.S. Air Force AFWERX Agility Prime contract records (Jaunt).
+3. AIRO Group SEC filings (NASDAQ: AIRO).
+
+---
+
 ### 2020-03-10 — Beta Technologies Alia-250
 
 - **id:** `beta-alia-250`
@@ -378,6 +463,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-10-15 — Overair Butterfly
+
+- **id:** `overair-butterfly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Overair Inc (Santa Ana, California) — Karem Aircraft spinoff; partnered with Hanwha Systems (Korea)
+- **disclosure citation:** Overair (spun out of Karem Aircraft in 2020, with investment from Hanwha Systems of South Korea) unveiled the Butterfly eVTOL — a tilt-rotor eVTOL using Karem's 'Optimum Speed Tilt-Rotor' (OSTR) technology (large slow-turning prop-rotors with continuously-variable RPM) — in October 2020. Documented in Overair materials, Hanwha Systems disclosures, and U.S. Air Force AFWERX Agility Prime records.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `transition-conversion-corridor`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Overair's Butterfly establishes prior art for the optimum-speed tilt-rotor eVTOL — a tilt-rotor eVTOL with four very large, slow-turning prop-rotors whose RPM is continuously varied with flight regime ('OSTR', from Karem Aircraft's OSR technology), giving low disk loading for quiet, efficient hover. Distinct from the small-fast-prop tilt-rotor eVTOLs (Joby S4, TCab E20) by the large-slow-prop approach. Establishes prior art for: (1) continuously-variable-RPM tilt-rotor in an eVTOL, (2) very-low-disk-loading large slow prop-rotors for quiet hover, (3) the OSR-applied-to-eVTOL configuration. Hanwha Systems (Korea) partnership ties this to the Korean eVTOL ecosystem (Hyundai Supernal, Plana). Together with karem-ar40 (2008, OSTR origin), cartercopter (1998), and jaunt-air-mobility (2019), comprehensively places variable-RPM / slowed-rotor / optimum-speed-rotor eVTOL architecture in prior art.
+
+**Sources:**
+
+1. Overair Butterfly technical materials 2020-2024.
+2. Hanwha Systems (Korea) Overair investment disclosures.
+3. U.S. Air Force AFWERX Agility Prime contract records (Overair).
+4. Karem Aircraft / Overair OSR / OSTR patents, USPTO.
+
+---
+
 ### 2021-03 — AMSL Aero Vertiia
 
 - **id:** `amsl-vertiia`
@@ -417,6 +524,26 @@ cite, copy, or redistribute these contentions.
 1. Archer Aviation S-1 (2021-06-10) and 10-K filings 2022–2025, SEC EDGAR.
 2. Archer Aviation press releases including 2022-11-16 Midnight unveil.
 3. Vertical Flight Society Forum 2023 technical paper from Archer engineering.
+
+---
+
+### 2021-09 — Horizon Aircraft Cavorite X5
+
+- **id:** `horizon-aircraft-cavorite-x5`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** New Horizon Aircraft Ltd (Lindsay, Ontario, Canada)
+- **disclosure citation:** New Horizon Aircraft (Canadian, founded 2013, public on NASDAQ as HOVR via SPAC merger 2024) unveiled the Cavorite X5 hybrid eVTOL in 2021; 50%-scale prototype first conventional flight 2023-11 and first full transition 2024-11. The Cavorite uses a 'fan-in-wing' design — fourteen lift fans embedded in the wings, covered by sliding panels in cruise so the aircraft flies as a conventional fixed-wing. Documented in Horizon Aircraft materials and SEC filings (named for H.G. Wells's anti-gravity material 'Cavorite').
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Horizon Aircraft Cavorite X5 establishes Canadian prior art for the modern 'fan-in-wing' hybrid eVTOL — fourteen electric lift fans embedded in the wing structure, covered by sliding panels in cruise so the wing becomes a clean conventional wing with a single pusher. Establishes prior art for: (1) modern panel-covered fan-in-wing eVTOL, (2) hybrid-electric fan-in-wing architecture, (3) the wing-as-clean-wing-in-cruise design. Directly descended in concept from vanguard-omniplane (1959) and ryan-xv-5-vertifan (1964). Together with these and lilium-jet (ducted-fan-array), aurora-lightningstrike-xv-24a (tilt-wing ducted-fan), and bell-nexus-4ex (tilt-duct), comprehensively places ducted-fan / fan-in-wing eVTOL architecture in prior art. Adds Canadian depth alongside Jaunt Air Mobility and the Avro Canada Avrocar heritage.
+
+**Sources:**
+
+1. New Horizon Aircraft Cavorite X5 technical materials 2021-2024.
+2. New Horizon Aircraft SEC filings (NASDAQ: HOVR).
 
 ---
 
@@ -504,6 +631,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-08 — Plana Aero CP-01
+
+- **id:** `plana-cp-01`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Plana Aerospace Inc (Seongnam, South Korea)
+- **disclosure citation:** Plana Aerospace (founded 2021 in South Korea by Braden Kim) unveiled the CP-01 hybrid-electric eVTOL in 2022; sub-scale prototype flight tests 2023-2024; targeting Korean (MOLIT) and FAA certification for regional air mobility. Documented in Plana materials and Korean Ministry of Land, Infrastructure and Transport (MOLIT) records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Plana Aero CP-01 establishes Korean prior art for the hybrid-electric regional eVTOL — a lift+cruise eVTOL with a turbine-genset-electric hybrid powertrain for ~500 km range, targeting intercity routes. Distinct from the urban-air-taxi-focused Korean peer Hyundai Supernal (battery-electric, 100 km). Establishes Korean depth in the hybrid-electric eVTOL space alongside Honda (JP), Zuri (CZ), Elroy Air (US), and AMSL Vertiia (AU). Together with hyundai-supernal-sa2, the Hanwha-Systems-backed overair-butterfly, and (fictionally) space-sweepers-victory, deepens Korea's eVTOL footprint.
+
+**Sources:**
+
+1. Plana Aerospace CP-01 technical materials 2022-2024.
+2. Korean MOLIT (Ministry of Land, Infrastructure and Transport) UAM programme records.
+
+---
+
+### 2023-11 — Sarla Aviation Shunya
+
+- **id:** `sarla-aviation-shunya`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sarla Aviation (Bangalore, India)
+- **disclosure citation:** Sarla Aviation (founded 2023 in Bangalore by Adrian Schmidt, Rakesh Gaonkar, and Shivam Chauhan; named after Sarla Thakral, India's first woman pilot) unveiled the Shunya eVTOL air taxi in November 2023, with production targeted for ~2028 in Indian cities (Bangalore, Mumbai, Delhi, Pune); sub-scale prototype work 2024. Documented in Sarla materials and Indian DGCA engagement records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Sarla Aviation Shunya establishes additional Indian prior art for the urban-air-taxi multirotor eVTOL — a five-seat eVTOL designed for short hops in dense Indian cities, the second major Indian eVTOL OEM after ePlane. Establishes Indian depth alongside eplane-company-e200 (IN, lift+cruise) and the Indian fictional flight anchor (Krrish). Together with ehang-eh216 (CN), volocopter-volocity (DE), and the global multirotor air-taxi cluster, places urban-air-taxi multirotor eVTOL architecture in prior art across US, EU, China, India, Japan, Korea, and Brazil lineages.
+
+**Sources:**
+
+1. Sarla Aviation Shunya technical materials 2023-2024.
+2. Indian DGCA (Directorate General of Civil Aviation) UAM engagement records.
+
+---
+
 ### 2024-01-09 — Hyundai Supernal S-A2
 
 - **id:** `hyundai-supernal-sa2`
@@ -532,4 +699,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `airframe-composite-monocoque`  
-**Entries:** 50 (50 commons-grade, 0 draft)  
+**Entries:** 57 (57 commons-grade, 0 draft)  
 **Earliest disclosure:** 1978-11-09  
 **Most recent disclosure:** 2024-04-04
 
@@ -168,6 +168,27 @@ cite, copy, or redistribute these contentions.
 3. U.S. Air Force AFWERX program disclosures.
 4. Orb Aerospace public technical materials.
 5. https://go.skyways.com/ — corporate landing page.
+
+---
+
+### 2017 — Alauda Aeronautics Airspeeder (Mk3 / Mk4)
+
+- **id:** `alauda-airspeeder`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Alauda Aeronautics / Airspeeder (Adelaide, Australia) / Matthew Pearson
+- **disclosure citation:** Alauda Aeronautics (founded 2016 in Adelaide by Matthew Pearson) developed the Airspeeder racing eVTOL — the Mk3 (uncrewed remote-piloted racer, first flew 2021, raced in the 'EXA Series' 2022) and the Mk4 (crewed racer, unveiled 2022, designed for the manned Airspeeder Grand Prix). The world's first eVTOL racing series. Documented in Alauda/Airspeeder materials and Australian CASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Alauda Aeronautics' Airspeeder (Mk3 uncrewed 2021, Mk4 crewed 2022) establishes Australian prior art for the racing eVTOL — a high-power-to-weight single-seat (or uncrewed) octocopter designed for close-formation pylon racing, the world's first eVTOL racing series. Establishes prior art for: (1) racing-tuned eVTOL flight envelope and aggressive-maneuvering control, (2) the racing-eVTOL operational concept, (3) crewed/uncrewed variants on a racing airframe. Together with amsl-vertiia (AU, hydrogen passenger eVTOL), deepens Australia's eVTOL footprint. The racing-eVTOL niche is a distinct application alongside passenger air taxi, cargo, personal, and military eVTOL — and Airspeeder is its foundational disclosure.
+
+**Sources:**
+
+1. Alauda Aeronautics / Airspeeder Mk3 / Mk4 technical materials 2017-2024.
+2. Airspeeder EXA Series race records 2022.
+3. Australian CASA (Civil Aviation Safety Authority) Airspeeder filings.
 
 ---
 
@@ -612,6 +633,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-06 — Jaunt Air Mobility Journey
+
+- **id:** `jaunt-air-mobility`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Jaunt Air Mobility LLC (Montreal, Canada / Texas, USA) — subsidiary of AIRO Group; licensed Carter Aviation SR/C technology
+- **disclosure citation:** Jaunt Air Mobility (founded 2019, headquartered in Montreal with Texas operations, a subsidiary of the AIRO Group) unveiled the Journey eVTOL — a slowed-rotor compound electric VTOL using 'ROSA' (Reduced rOtor Speed Aircraft) technology licensed from Carter Aviation — in 2019; selected for the U.S. Air Force AFWERX Agility Prime programme 2020. Documented in Jaunt Air Mobility materials, AFWERX records, and AIRO Group SEC filings (NASDAQ: AIRO).
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Jaunt Air Mobility's Journey eVTOL establishes Canadian/US prior art for the slowed-rotor-compound electric VTOL — a single large rotor that spins fast for jump-takeoff then slows dramatically in cruise while a wing carries lift and electric pushers provide thrust ('ROSA', licensed from Carter Aviation). A distinct eVTOL architecture from the multirotor and tilt-rotor approaches. Establishes prior art for: (1) slowed-rotor-compound electric VTOL, (2) jump-takeoff stored-inertia rotor in an electric eVTOL, (3) the wing-offloads-slowed-rotor-in-cruise eVTOL configuration. Together with cartercopter (1998, the SR/C origin), karem-ar40 (2008, optimum-speed rotor), and overair-butterfly (2020, OSR eVTOL), comprehensively places slowed/variable-RPM-rotor compound eVTOL architecture in prior art. Adds another Canadian entry alongside Horizon Aircraft and the Avro Canada Avrocar heritage.
+
+**Sources:**
+
+1. Jaunt Air Mobility Journey technical materials 2019-2024.
+2. U.S. Air Force AFWERX Agility Prime contract records (Jaunt).
+3. AIRO Group SEC filings (NASDAQ: AIRO).
+
+---
+
 ### 2019-08-14 — Volocopter VoloCity
 
 - **id:** `volocopter-volocity`
@@ -717,6 +759,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-10-15 — Overair Butterfly
+
+- **id:** `overair-butterfly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Overair Inc (Santa Ana, California) — Karem Aircraft spinoff; partnered with Hanwha Systems (Korea)
+- **disclosure citation:** Overair (spun out of Karem Aircraft in 2020, with investment from Hanwha Systems of South Korea) unveiled the Butterfly eVTOL — a tilt-rotor eVTOL using Karem's 'Optimum Speed Tilt-Rotor' (OSTR) technology (large slow-turning prop-rotors with continuously-variable RPM) — in October 2020. Documented in Overair materials, Hanwha Systems disclosures, and U.S. Air Force AFWERX Agility Prime records.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `transition-conversion-corridor`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Overair's Butterfly establishes prior art for the optimum-speed tilt-rotor eVTOL — a tilt-rotor eVTOL with four very large, slow-turning prop-rotors whose RPM is continuously varied with flight regime ('OSTR', from Karem Aircraft's OSR technology), giving low disk loading for quiet, efficient hover. Distinct from the small-fast-prop tilt-rotor eVTOLs (Joby S4, TCab E20) by the large-slow-prop approach. Establishes prior art for: (1) continuously-variable-RPM tilt-rotor in an eVTOL, (2) very-low-disk-loading large slow prop-rotors for quiet hover, (3) the OSR-applied-to-eVTOL configuration. Hanwha Systems (Korea) partnership ties this to the Korean eVTOL ecosystem (Hyundai Supernal, Plana). Together with karem-ar40 (2008, OSTR origin), cartercopter (1998), and jaunt-air-mobility (2019), comprehensively places variable-RPM / slowed-rotor / optimum-speed-rotor eVTOL architecture in prior art.
+
+**Sources:**
+
+1. Overair Butterfly technical materials 2020-2024.
+2. Hanwha Systems (Korea) Overair investment disclosures.
+3. U.S. Air Force AFWERX Agility Prime contract records (Overair).
+4. Karem Aircraft / Overair OSR / OSTR patents, USPTO.
+
+---
+
 ### 2021-03 — AMSL Aero Vertiia
 
 - **id:** `amsl-vertiia`
@@ -798,6 +862,26 @@ cite, copy, or redistribute these contentions.
 1. XPENG Tech Day 2021-07-16 announcement materials.
 2. Reuters and South China Morning Post coverage of 2022-10-10 Dubai flight.
 3. AeroHT product disclosures and Chinese patent filings.
+
+---
+
+### 2021-09 — Horizon Aircraft Cavorite X5
+
+- **id:** `horizon-aircraft-cavorite-x5`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** New Horizon Aircraft Ltd (Lindsay, Ontario, Canada)
+- **disclosure citation:** New Horizon Aircraft (Canadian, founded 2013, public on NASDAQ as HOVR via SPAC merger 2024) unveiled the Cavorite X5 hybrid eVTOL in 2021; 50%-scale prototype first conventional flight 2023-11 and first full transition 2024-11. The Cavorite uses a 'fan-in-wing' design — fourteen lift fans embedded in the wings, covered by sliding panels in cruise so the aircraft flies as a conventional fixed-wing. Documented in Horizon Aircraft materials and SEC filings (named for H.G. Wells's anti-gravity material 'Cavorite').
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Horizon Aircraft Cavorite X5 establishes Canadian prior art for the modern 'fan-in-wing' hybrid eVTOL — fourteen electric lift fans embedded in the wing structure, covered by sliding panels in cruise so the wing becomes a clean conventional wing with a single pusher. Establishes prior art for: (1) modern panel-covered fan-in-wing eVTOL, (2) hybrid-electric fan-in-wing architecture, (3) the wing-as-clean-wing-in-cruise design. Directly descended in concept from vanguard-omniplane (1959) and ryan-xv-5-vertifan (1964). Together with these and lilium-jet (ducted-fan-array), aurora-lightningstrike-xv-24a (tilt-wing ducted-fan), and bell-nexus-4ex (tilt-duct), comprehensively places ducted-fan / fan-in-wing eVTOL architecture in prior art. Adds Canadian depth alongside Jaunt Air Mobility and the Avro Canada Avrocar heritage.
+
+**Sources:**
+
+1. New Horizon Aircraft Cavorite X5 technical materials 2021-2024.
+2. New Horizon Aircraft SEC filings (NASDAQ: HOVR).
 
 ---
 
@@ -948,6 +1032,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-06 — Doroni H1 / H1-X
+
+- **id:** `doroni-h1`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Doroni Aerospace (Fort Lauderdale, Florida) / Doron Merdinger
+- **disclosure citation:** Doroni Aerospace (founded 2016 by Doron Merdinger) unveiled the H1 two-seat personal eVTOL in 2022; first crewed test flight 2023-05; received an FAA Special Airworthiness Certificate (Experimental) 2023; developing the H1-X for FAA Part 23 certification. Designed to fit in a two-car garage and operate from driveways under (intended) Part 103 ultralight or LSA rules. Documented in Doroni materials and FAA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `control-simplified-vehicle-operations`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Doroni H1 establishes US prior art for the garage-storable enclosed-rotor two-seat personal eVTOL — eight ducted lift rotors housed within the airframe body (not on exposed booms), small fixed wings, car-like footprint, driveway operation. Establishes prior art for: (1) fully-enclosed-within-body lift rotors on a personal eVTOL, (2) garage-storable / driveway-operable two-seat personal eVTOL form factor. Together with pivotal-blackfly, jetson-one, lift-aircraft-hexa, alef-model-a, and the historical personal-platform anchors, comprehensively places small-personal eVTOL architecture in prior art.
+
+**Sources:**
+
+1. Doroni Aerospace H1 / H1-X technical materials 2022-2024.
+2. FAA Special Airworthiness Certificate dossier (Doroni H1).
+
+---
+
 ### 2022-08 — ePlane Company e200
 
 - **id:** `eplane-company-e200`
@@ -966,6 +1070,26 @@ cite, copy, or redistribute these contentions.
 1. Chakravarthy, Satya. ePlane Company technical white papers, 2022–2024.
 2. Indian DGCA eVTOL certification framework filings.
 3. IIT Madras Research Park ePlane Company disclosures.
+
+---
+
+### 2022-08 — Plana Aero CP-01
+
+- **id:** `plana-cp-01`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Plana Aerospace Inc (Seongnam, South Korea)
+- **disclosure citation:** Plana Aerospace (founded 2021 in South Korea by Braden Kim) unveiled the CP-01 hybrid-electric eVTOL in 2022; sub-scale prototype flight tests 2023-2024; targeting Korean (MOLIT) and FAA certification for regional air mobility. Documented in Plana materials and Korean Ministry of Land, Infrastructure and Transport (MOLIT) records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Plana Aero CP-01 establishes Korean prior art for the hybrid-electric regional eVTOL — a lift+cruise eVTOL with a turbine-genset-electric hybrid powertrain for ~500 km range, targeting intercity routes. Distinct from the urban-air-taxi-focused Korean peer Hyundai Supernal (battery-electric, 100 km). Establishes Korean depth in the hybrid-electric eVTOL space alongside Honda (JP), Zuri (CZ), Elroy Air (US), and AMSL Vertiia (AU). Together with hyundai-supernal-sa2, the Hanwha-Systems-backed overair-butterfly, and (fictionally) space-sweepers-victory, deepens Korea's eVTOL footprint.
+
+**Sources:**
+
+1. Plana Aerospace CP-01 technical materials 2022-2024.
+2. Korean MOLIT (Ministry of Land, Infrastructure and Transport) UAM programme records.
 
 ---
 
@@ -1052,6 +1176,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-11 — Sarla Aviation Shunya
+
+- **id:** `sarla-aviation-shunya`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sarla Aviation (Bangalore, India)
+- **disclosure citation:** Sarla Aviation (founded 2023 in Bangalore by Adrian Schmidt, Rakesh Gaonkar, and Shivam Chauhan; named after Sarla Thakral, India's first woman pilot) unveiled the Shunya eVTOL air taxi in November 2023, with production targeted for ~2028 in Indian cities (Bangalore, Mumbai, Delhi, Pune); sub-scale prototype work 2024. Documented in Sarla materials and Indian DGCA engagement records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Sarla Aviation Shunya establishes additional Indian prior art for the urban-air-taxi multirotor eVTOL — a five-seat eVTOL designed for short hops in dense Indian cities, the second major Indian eVTOL OEM after ePlane. Establishes Indian depth alongside eplane-company-e200 (IN, lift+cruise) and the Indian fictional flight anchor (Krrish). Together with ehang-eh216 (CN), volocopter-volocity (DE), and the global multirotor air-taxi cluster, places urban-air-taxi multirotor eVTOL architecture in prior art across US, EU, China, India, Japan, Korea, and Brazil lineages.
+
+**Sources:**
+
+1. Sarla Aviation Shunya technical materials 2023-2024.
+2. Indian DGCA (Directorate General of Civil Aviation) UAM engagement records.
+
+---
+
 ### 2024-01-09 — Hyundai Supernal S-A2
 
 - **id:** `hyundai-supernal-sa2`
@@ -1101,4 +1245,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

@@ -1,7 +1,7 @@
 ---
 title: "lift-cyclorotor"
 parent: "Invalidity Contentions"
-nav_order: 24
+nav_order: 25
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-cyclorotor`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 2011-06-13  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 1922  
 **Most recent disclosure:** 2021-07
 
 ---
@@ -41,6 +41,28 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1922 — Kirsten-Boeing cyclogiro
+
+- **id:** `kirsten-boeing-cyclogiro`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Frederick Kirsten / University of Washington / Boeing Airplane Company
+- **disclosure citation:** Frederick Kirsten (University of Washington, later consulting for Boeing) developed the cyclogiro — a cycloidal-rotor propulsion/lift device — from the early 1920s; a 1922-1933 program produced wind-tunnel models and design studies for a cyclogiro aircraft, with Boeing involvement. Kirsten holds foundational US cyclogiro patents. Documented in NACA technical reports and University of Washington / Boeing archives.
+- **disclosed subsystems:** `lift-cyclorotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Kirsten-Boeing cyclogiro program (Frederick Kirsten, University of Washington / Boeing, 1922-1933) is the foundational US disclosure of the cyclogiro / cyclorotor lift architecture — barrel rotors with cyclically-pitched airfoil blades giving omnidirectional in-plane thrust. Kirsten's 1920s-1930s patents are long expired. Together with the Pescara cyclogiro patents (1928), d-dalus (2011), and cyclotech-cruiseup (2022), comprehensively places cyclorotor architecture in a century-spanning public-domain prior-art base from 1922 forward. Notably, Kirsten's work is contemporaneous with the de Bothezat quadrotor and Pescara helicopter — 1922 is a remarkably productive year for the foundational rotorcraft prior-art base.
+
+**Sources:**
+
+1. Kirsten, F.K. NACA Technical Notes on the cyclogiro, 1920s-1930s.
+2. Kirsten, Frederick. Cyclogiro patents, USPTO, 1920s-1930s.
+3. Wheatley, J.B. 'Simplified Aerodynamic Analysis of the Cyclogiro Rotating-Wing System.' NACA TN 467, 1933.
+4. University of Washington / Boeing Airplane Company archives.
+
+---
 
 ### 2011-06-13 — D-Dalus (IAT-21)
 
@@ -92,4 +114,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

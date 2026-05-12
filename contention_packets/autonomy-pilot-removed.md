@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `autonomy-pilot-removed`  
-**Entries:** 26 (26 commons-grade, 0 draft)  
+**Entries:** 27 (27 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
 **Most recent disclosure:** 2023-08-16
 
@@ -245,6 +245,27 @@ cite, copy, or redistribute these contentions.
 1. Vásárhelyi, G., Virágh, C., Somorjai, G., Nepusz, T., Eiben, A.E., Vicsek, T. 'Optimized flocking of autonomous drones in confined environments.' Science Robotics 3(20), 2018.
 2. Vicsek, T. et al. 'Novel type of phase transition in a system of self-driven particles.' Physical Review Letters 75(6), 1995.
 3. CollMot Robotics / CollMot Entertainment technical materials.
+
+---
+
+### 2014-06 — Malloy Aeronautics Hoverbike / US Army JTARV
+
+- **id:** `malloy-aeronautics-hoverbike`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Malloy Aeronautics (United Kingdom; founder Chris Malloy, Australian) — later partnered with SURVICE Engineering / U.S. Army; acquired by BAE Systems 2024
+- **disclosure citation:** Malloy Aeronautics publicly unveiled the Hoverbike (a quadcopter straddle vehicle) at Paris Air Show 2014; partnered with SURVICE Engineering for the U.S. Army's Joint Tactical Aerial Resupply Vehicle (JTARV) programme 2015; the cargo variant became the TRV-150 Tactical Resupply UAS for the U.S. Marine Corps. Malloy Aeronautics acquired by BAE Systems 2024. Documented in Malloy materials and U.S. Army/USMC contract records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Malloy Aeronautics' Hoverbike / U.S. Army JTARV / USMC TRV-150 establishes prior art for the four-ducted-rotor hover-bike-and-cargo-quad family that reached U.S. military service — the crewed Hoverbike and the uncrewed TRV-150 cargo variant on a shared four-ducted-rotor airframe. Establishes prior art for: (1) ducted-rotor hover-bike architecture, (2) crewed-and-uncrewed variants on a common airframe, (3) operational military deployment of a hover-bike-class platform. Acquired by BAE Systems 2024. Together with aerofex-aero-x (2008), hoversurf-s3 (2017), jetpack-aviation-speeder (2021), and the historical personal-platform anchors, comprehensively places hover-bike architecture in commercial and military prior art. (Note: the Malloy TRV-150 is closely related to but distinct from the Skyways/Orb Aerospace TRV-150 lineage — both used the 'TRV-150' designation for USMC tactical-resupply VTOL.)
+
+**Sources:**
+
+1. Malloy Aeronautics Hoverbike / TRV-150 technical materials 2014-2024.
+2. U.S. Army JTARV / USMC TRV-150 Tactical Resupply UAS contract records.
+3. BAE Systems acquisition of Malloy Aeronautics, 2024.
 
 ---
 
@@ -594,4 +615,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

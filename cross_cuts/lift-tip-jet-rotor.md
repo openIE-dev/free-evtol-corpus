@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-tip-jet-rotor`
 
-**4 corpus entries disclose this subsystem.**
+**5 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1943-05
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Focke-Wulf Triebflügel design specification submitted to Reichsluftfahrtministerium 1944-09; never built before WWII end. Design materials captured by Allied technical intelligence (CIOS / BIOS reports) post-war and declassified; documented in Smith and Kay's German Aircraft of the Second World War (1972) and Greenhill Books' Luftwaffe Secret Projects series.
 - **ip status**: public-domain
 - **prior art notes**: Focke-Wulf Triebflügel is the foundational German wartime disclosure of tip-jet rotor architecture combined with tail-sitter VTOL. Establishes prior art for: (1) tip-driven rotor (ramjet at blade tip eliminates need for central torque-cancellation gearbox/anti-torque tail rotor — torque-free lift), (2) the tail-sitter / coleopter VTOL lineage in jet/ramjet form. Allied technical intelligence reports post-1945 placed the design comprehensively in the public domain. Anticipates: tip-jet helicopter programs (Mil V-7, Doblhoff WNF 342, Fairey Rotodyne, Hughes XH-17), and any modern attempt to claim novelty over tip-driven rotor architecture.
+
+## Fairey Gyrodyne / Jet Gyrodyne (1947-12-07)
+
+- **id**: `fairey-gyrodyne`
+- **corpus**: academic
+- **creator**: Fairey Aviation Company
+- **disclosure**: Fairey FB-1 Gyrodyne first flight 1947-12-07; set an FAI helicopter speed record 1948-06-28 (124 mph). The Jet Gyrodyne (a modified Gyrodyne with tip-jet rotor drive, 1954) was the direct technology demonstrator for the Fairey Rotodyne. Documented in Fairey company archives and UK Ministry of Supply reports.
+- **ip status**: public-domain
+- **prior art notes**: The Fairey Gyrodyne (1947) and Jet Gyrodyne (1954) are the foundational UK compound-autogyro disclosures that led to the Fairey Rotodyne (1957). Establishes prior art for: (1) compound autogyro/helicopter with stub-wing tractor propeller providing both forward thrust and anti-torque (no tail rotor), (2) tip-jet rotor drive in a compound rotorcraft (the Jet Gyrodyne, 1954). UK Ministry of Supply public-domain disclosure. Together with cierva-autogyro (1923), fairey-rotodyne (1957), eurocopter-x3 (2010), and the modern compound-rotorcraft cluster, places compound-rotorcraft architecture in continuous prior art.
 
 ## Fairey Rotodyne (1957-11-06)
 

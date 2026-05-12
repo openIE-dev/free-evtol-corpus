@@ -1,7 +1,7 @@
 ---
 title: "transition-conversion-corridor"
 parent: "Invalidity Contentions"
-nav_order: 46
+nav_order: 47
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `transition-conversion-corridor`  
-**Entries:** 6 (6 commons-grade, 0 draft)  
+**Entries:** 7 (7 commons-grade, 0 draft)  
 **Earliest disclosure:** 1955-08-11  
-**Most recent disclosure:** 2018-12-20
+**Most recent disclosure:** 2020-10-15
 
 ---
 
@@ -169,6 +169,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-10-15 — Overair Butterfly
+
+- **id:** `overair-butterfly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Overair Inc (Santa Ana, California) — Karem Aircraft spinoff; partnered with Hanwha Systems (Korea)
+- **disclosure citation:** Overair (spun out of Karem Aircraft in 2020, with investment from Hanwha Systems of South Korea) unveiled the Butterfly eVTOL — a tilt-rotor eVTOL using Karem's 'Optimum Speed Tilt-Rotor' (OSTR) technology (large slow-turning prop-rotors with continuously-variable RPM) — in October 2020. Documented in Overair materials, Hanwha Systems disclosures, and U.S. Air Force AFWERX Agility Prime records.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `transition-conversion-corridor`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Overair's Butterfly establishes prior art for the optimum-speed tilt-rotor eVTOL — a tilt-rotor eVTOL with four very large, slow-turning prop-rotors whose RPM is continuously varied with flight regime ('OSTR', from Karem Aircraft's OSR technology), giving low disk loading for quiet, efficient hover. Distinct from the small-fast-prop tilt-rotor eVTOLs (Joby S4, TCab E20) by the large-slow-prop approach. Establishes prior art for: (1) continuously-variable-RPM tilt-rotor in an eVTOL, (2) very-low-disk-loading large slow prop-rotors for quiet hover, (3) the OSR-applied-to-eVTOL configuration. Hanwha Systems (Korea) partnership ties this to the Korean eVTOL ecosystem (Hyundai Supernal, Plana). Together with karem-ar40 (2008, OSTR origin), cartercopter (1998), and jaunt-air-mobility (2019), comprehensively places variable-RPM / slowed-rotor / optimum-speed-rotor eVTOL architecture in prior art.
+
+**Sources:**
+
+1. Overair Butterfly technical materials 2020-2024.
+2. Hanwha Systems (Korea) Overair investment disclosures.
+3. U.S. Air Force AFWERX Agility Prime contract records (Overair).
+4. Karem Aircraft / Overair OSR / OSTR patents, USPTO.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -176,4 +198,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

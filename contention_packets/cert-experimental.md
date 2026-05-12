@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `cert-experimental`  
-**Entries:** 56 (56 commons-grade, 0 draft)  
+**Entries:** 70 (70 commons-grade, 0 draft)  
 **Earliest disclosure:** 1907-11-13  
 **Most recent disclosure:** 2024-04-25
 
@@ -63,6 +63,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1917-02 — Curtiss Autoplane
+
+- **id:** `curtiss-autoplane`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Glenn Curtiss / Curtiss Aeroplane and Motor Company
+- **disclosure citation:** Glenn Curtiss exhibited the Autoplane at the Pan-American Aeronautical Exposition, New York, February 1917. A three-seat aluminium car body with detachable triplane wings and a four-blade pusher propeller; it made short hops but never sustained flight before the U.S. entry into WWI ended the project. The first serious attempt at a roadable aircraft. Documented in Curtiss company records and Smithsonian collections.
+- **disclosed subsystems:** `cert-experimental`
+
+**Prior art notes:**
+
+> The Curtiss Autoplane (1917) is the foundational disclosure of the roadable-aircraft / drive+fly transformer concept — a road automobile with detachable wings and a pusher propeller. Although it only made short hops, the engineering disclosure (detachable wing assembly, belt-driven pusher, dual-use chassis) is documented in Curtiss company records. Glenn Curtiss's 1917 patents are long expired. Combined with waterman-aerobile (1937), fulton-airphibian (1946), taylor-aerocar (1949), terrafugia-transition (2009), and the modern drive+fly cluster (Klein Vision, AeroMobil, ASKA, PAL-V, Alef), comprehensively places drive+fly transformer architecture in a century-spanning public-domain prior-art base from 1917 forward.
+
+**Sources:**
+
+1. Curtiss Aeroplane and Motor Company records, Smithsonian National Air and Space Museum.
+2. Roseberry, C.R. Glenn Curtiss: Pioneer of Flight. Doubleday, 1972.
+3. Pan-American Aeronautical Exposition catalogue, New York, 1917.
+
+---
+
 ### 1922 — Pescara helicopter
 
 - **id:** `pescara-helicopter`
@@ -82,6 +103,28 @@ cite, copy, or redistribute these contentions.
 2. Charnov, Bruce H. From Autogiro to Gyroplane: The Amazing Survival of an Aviation Technology. Praeger, 2003, chapter on Pescara.
 3. FAI archives, world record file 1924-04-18.
 4. Pescara, Raúl. Spanish Patent ES86,124, 1920.
+
+---
+
+### 1922 — Kirsten-Boeing cyclogiro
+
+- **id:** `kirsten-boeing-cyclogiro`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Frederick Kirsten / University of Washington / Boeing Airplane Company
+- **disclosure citation:** Frederick Kirsten (University of Washington, later consulting for Boeing) developed the cyclogiro — a cycloidal-rotor propulsion/lift device — from the early 1920s; a 1922-1933 program produced wind-tunnel models and design studies for a cyclogiro aircraft, with Boeing involvement. Kirsten holds foundational US cyclogiro patents. Documented in NACA technical reports and University of Washington / Boeing archives.
+- **disclosed subsystems:** `lift-cyclorotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Kirsten-Boeing cyclogiro program (Frederick Kirsten, University of Washington / Boeing, 1922-1933) is the foundational US disclosure of the cyclogiro / cyclorotor lift architecture — barrel rotors with cyclically-pitched airfoil blades giving omnidirectional in-plane thrust. Kirsten's 1920s-1930s patents are long expired. Together with the Pescara cyclogiro patents (1928), d-dalus (2011), and cyclotech-cruiseup (2022), comprehensively places cyclorotor architecture in a century-spanning public-domain prior-art base from 1922 forward. Notably, Kirsten's work is contemporaneous with the de Bothezat quadrotor and Pescara helicopter — 1922 is a remarkably productive year for the foundational rotorcraft prior-art base.
+
+**Sources:**
+
+1. Kirsten, F.K. NACA Technical Notes on the cyclogiro, 1920s-1930s.
+2. Kirsten, Frederick. Cyclogiro patents, USPTO, 1920s-1930s.
+3. Wheatley, J.B. 'Simplified Aerodynamic Analysis of the Cyclogiro Rotating-Wing System.' NACA TN 467, 1933.
+4. University of Washington / Boeing Airplane Company archives.
 
 ---
 
@@ -192,6 +235,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1937-02-21 — Waterman Arrowbile / Aerobile
+
+- **id:** `waterman-aerobile`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Waldo Waterman
+- **disclosure citation:** Waldo Waterman's Arrowbile first flight 1937-02-21 at Santa Monica CA; developed from his tailless 'Whatsit' (1932), it was a tailless flying wing with a detachable wing and a Studebaker engine, able to drive on roads. Five built; one survives at the Smithsonian as the 'Aerobile'. The first roadable aircraft to repeatedly fly and drive. Documented in Smithsonian collections and Waterman's autobiography.
+- **disclosed subsystems:** `cert-experimental`
+
+**Prior art notes:**
+
+> Waldo Waterman's Arrowbile/Aerobile (1937) is the foundational disclosure of the practical roadable aircraft — a tailless flying wing with detachable wing and dual-use automobile engine that demonstrated repeated flight and road operation. Establishes prior art for: (1) tailless-flying-wing roadable aircraft, (2) shared automobile engine for flight and road drive. Waterman's 1930s patents are long expired. Together with curtiss-autoplane (1917), fulton-airphibian (1946), and taylor-aerocar (1949), places early roadable-aircraft architecture comprehensively in the public domain.
+
+**Sources:**
+
+1. Waterman, Waldo. Waldo: Pioneer Aviator. Arsdalen Bosch, 1988.
+2. Smithsonian National Air and Space Museum, Waterman Aerobile collection.
+
+---
+
 ### 1939-09-14 — Sikorsky VS-300
 
 - **id:** `sikorsky-vs-300`
@@ -231,6 +294,48 @@ cite, copy, or redistribute these contentions.
 1. Young, Arthur M. The Bell Notes: A Journey from Metaphysics to Mechanics. Robert Briggs, 1979.
 2. Bell Helicopter / Textron archives, Fort Worth TX.
 3. Smithsonian NASM Bell Ship 1A collection.
+
+---
+
+### 1947-12-07 — Fairey Gyrodyne / Jet Gyrodyne
+
+- **id:** `fairey-gyrodyne`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Fairey Aviation Company
+- **disclosure citation:** Fairey FB-1 Gyrodyne first flight 1947-12-07; set an FAI helicopter speed record 1948-06-28 (124 mph). The Jet Gyrodyne (a modified Gyrodyne with tip-jet rotor drive, 1954) was the direct technology demonstrator for the Fairey Rotodyne. Documented in Fairey company archives and UK Ministry of Supply reports.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `lift-tip-jet-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Fairey Gyrodyne (1947) and Jet Gyrodyne (1954) are the foundational UK compound-autogyro disclosures that led to the Fairey Rotodyne (1957). Establishes prior art for: (1) compound autogyro/helicopter with stub-wing tractor propeller providing both forward thrust and anti-torque (no tail rotor), (2) tip-jet rotor drive in a compound rotorcraft (the Jet Gyrodyne, 1954). UK Ministry of Supply public-domain disclosure. Together with cierva-autogyro (1923), fairey-rotodyne (1957), eurocopter-x3 (2010), and the modern compound-rotorcraft cluster, places compound-rotorcraft architecture in continuous prior art.
+
+**Sources:**
+
+1. Fairey Aviation Company Gyrodyne / Jet Gyrodyne archives.
+2. UK Ministry of Supply Gyrodyne test reports.
+3. Wood, Derek. Project Cancelled. Macdonald & Jane's, 1975.
+
+---
+
+### 1954-11 — Bell ATV (Air Test Vehicle)
+
+- **id:** `bell-atv`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bell Aircraft Corporation / U.S. Air Force
+- **disclosure citation:** Bell ATV (Air Test Vehicle, Model 65) first tethered hover November 1954; first transition to horizontal flight 1955. A small demonstrator with two tilting turbojets on the wings plus a fixed vertical lift jet — Bell's first VTOL transition aircraft, the stepping stone toward the XV-3 tilt-rotor. Documented in USAF Flight Test Center reports and Bell Aircraft archives.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-vectored-thrust`, `transition-thrust-borne-to-wing-borne`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Bell ATV (Air Test Vehicle, 1954) is Bell Aircraft's first VTOL transition aircraft — wingtip-mounted tilting turbojets plus a fixed lift jet — and the experimental basis for the Bell XV-3 tilt-rotor (1955). Establishes prior art for: (1) wingtip-mounted tilting propulsors for VTOL transition (the tilt-rotor architectural concept in tilt-jet form), (2) combined wingtip-tilt + fixed-lift-jet hover augmentation. Together with bell-xv-3 (1955), bell-xv-15 (1977), v-22-osprey (1989), and the modern tilt-rotor cluster, places the wingtip-tilting-propulsor architecture in continuous public-domain prior art from 1954 forward.
+
+**Sources:**
+
+1. USAF Flight Test Center Bell ATV reports.
+2. Bell Aircraft Corporation Model 65 program archives.
+3. Markman and Holder. Straight Up. Schiffer, 2000.
 
 ---
 
@@ -401,6 +506,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1959 — Vanguard Omniplane
+
+- **id:** `vanguard-omniplane`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Vanguard Air and Marine Corporation / U.S. Army
+- **disclosure citation:** Vanguard Omniplane first tethered hover 1959; never achieved free flight or transition (gearbox failure during testing, program ended ~1962). A small VTOL with two ducted lift fans buried in the wings plus a pusher propeller. Documented in U.S. Army TRC reports and Smithsonian collections.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Vanguard Omniplane (1959) is an early disclosure of the 'fan-in-wing' VTOL architecture — ducted lift fans embedded inside the wing structure, covered by louvres in cruise, with a separate pusher propeller for forward flight. Establishes prior art for: (1) fan-in-wing embedded lift fans, (2) louvre-covered lift fans for cruise drag reduction, (3) the mode-shutdown transition (lift fans off in cruise, pusher provides thrust). Although the program failed mechanically, the design disclosure is complete in U.S. Army documentation. Anticipates the Ryan XV-5 Vertifan (1964) and modern fan-in-wing eVTOL (Horizon Aircraft Cavorite X5). Together with the lift+cruise cluster, places mode-shutdown / fan-in-wing architecture in public-domain prior art.
+
+**Sources:**
+
+1. U.S. Army Transportation Research Command Vanguard Omniplane reports.
+2. Markman and Holder. Straight Up. Schiffer, 2000.
+3. Smithsonian National Air and Space Museum, Vanguard Omniplane collection.
+
+---
+
 ### 1959-06-15 — Kamov Ka-22 Vintokryl
 
 - **id:** `kamov-ka-22-vintokryl`
@@ -461,6 +587,27 @@ cite, copy, or redistribute these contentions.
 1. Moore, Wendell F. US Patent 3,243,144 'Personal Propulsion Unit', 1966.
 2. Bell Aerosystems Rocket Belt program reports, NARA.
 3. Carlson, Steve. Bell Rocket Belt: A History. The Rocket Belt Convention, multiple editions.
+
+---
+
+### 1963-11-20 — Curtiss-Wright X-19
+
+- **id:** `curtiss-wright-x-19`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Curtiss-Wright Corporation / U.S. Army / U.S. Air Force / U.S. Navy
+- **disclosure citation:** Curtiss-Wright X-19 first flight 1963-11-20 (the predecessor X-100 demonstrator first flew 1959); program ended 1965 after a crash. A four-propeller 'radial-lift-force' tilt-prop VTOL using Curtiss-Wright's patented radial-force propeller. Tri-Service program. Documented in NASA and U.S. military test reports.
+- **disclosed subsystems:** `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Curtiss-Wright X-19 (1963; predecessor X-100, 1959) is the foundational disclosure of the four-propeller tandem-wing tilt-prop VTOL — four propellers at the tips of fore-and-aft wings, each tilting between vertical and horizontal, cross-shafted to two engines. Establishes prior art for: (1) the four-rotor tandem-wing tilt-prop configuration (distinct from the two-rotor tilt-rotor and the tilt-wing), (2) the 'radial lift force' propeller concept, (3) cross-shafted four-rotor tilt VTOL. Curtiss-Wright's 1950s-60s patents are expired. Together with bell-xv-3, ltv-xc-142, bell-x-22, and the modern multi-rotor tilt eVTOL cluster (Joby S4, Archer Midnight, TCab E20, Geely Aerofugia, Vertical VX4, Hyundai Supernal), comprehensively places multi-rotor tilt VTOL architecture in public-domain prior art from 1959 forward.
+
+**Sources:**
+
+1. NASA / U.S. military X-19 / X-100 test reports.
+2. Curtiss-Wright radial-lift-force propeller patents, USPTO.
+3. Markman and Holder. Straight Up. Schiffer, 2000.
 
 ---
 
@@ -568,6 +715,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1998-09 — CarterCopter / Carter PAV
+
+- **id:** `cartercopter`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Carter Aviation Technologies (Wichita Falls, Texas) / Jay Carter Jr
+- **disclosure citation:** Carter Aviation Technologies' CarterCopter Technology Demonstrator first flight September 1998; achieved 'Mu-1' (rotor advance ratio of 1.0 — flying as fast as the rotor tips advance, the holy grail of slowed-rotor compounds) on 2005-06-17, a documented first. The Carter PAV (Personal Air Vehicle) followed (2011). Carter's slowed-rotor technology was later licensed to Jaunt Air Mobility for an eVTOL. Documented in Carter Aviation technical papers and patents.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `cert-experimental`
+
+**Prior art notes:**
+
+> The CarterCopter / Carter PAV (Carter Aviation, 1998-2011) is the foundational modern disclosure of 'Slowed Rotor/Compound' (SR/C) technology — a high-inertia rotor that spins fast for jump-takeoff (stored kinetic energy), then is dramatically slowed in cruise while a wing carries lift and a pusher provides thrust, reaching rotor advance ratios > 1.0 (the 'Mu-1' milestone, documented 2005). Establishes prior art for: (1) high-inertia jump-takeoff rotor, (2) dramatic rotor-RPM reduction in cruise (slowed-rotor compound), (3) the wing-offloads-rotor-in-cruise compound architecture. Carter's SR/C patents were licensed to Jaunt Air Mobility for an eVTOL. Together with autogyro/compound anchors (Cierva 1923, Fairey Gyrodyne 1947, Fairey Rotodyne 1957), karem-ar40 (2008, optimum-speed rotor), jaunt-air-mobility (2019), and overair-butterfly (2020), comprehensively places slowed-rotor / variable-RPM-rotor compound architecture in public-domain and licensed prior art.
+
+**Sources:**
+
+1. Carter Aviation Technologies SR/C technical papers, AHS/VFS Forums 1998-2020.
+2. Carter, Jay Jr. Slowed Rotor/Compound patents, USPTO.
+3. FAI / AHS documentation of the CarterCopter Mu-1 milestone, 2005-06-17.
+
+---
+
 ### 2001-12-17 — SoloTrek XFV / Trek Aerospace Springtail
 
 - **id:** `solotrek-xfv`
@@ -586,6 +754,27 @@ cite, copy, or redistribute these contentions.
 1. NASA / DARPA SoloTrek XFV technical reports.
 2. Trek Aerospace Springtail patent filings, USPTO.
 3. Popular Science and Aviation Week coverage 2001-2003.
+
+---
+
+### 2005-07 — TU Delft DelFly
+
+- **id:** `tu-delft-delfly`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Delft University of Technology Micro Air Vehicle Lab (Guido de Croon / GertJan van der Wijngaart)
+- **disclosure citation:** TU Delft DelFly first flight July 2005 (a student project that became the long-running DelFly programme); DelFly Micro (2008) set a Guinness record as the smallest camera-equipped flapping-wing MAV (3 g); DelFly Nimble (2018, published in Science) demonstrated insect-like agile manoeuvres. Documented in TU Delft MAV Lab publications, including Karásek, M. et al. 'A tailless aerial robotic flapper reveals that flies use torque coupling in rapid banked turns,' Science 361(6407), 2018.
+- **disclosed subsystems:** `cert-experimental`
+
+**Prior art notes:**
+
+> The TU Delft DelFly programme (2005-present) is the longest-running academic disclosure of flapping-wing micro air vehicles — including the clap-and-fling X-wing flapping mechanism, the camera-equipped 3-gram DelFly Micro (2008), and the tailless flight-kinematics-only controlled DelFly Nimble (2018, published in Science). Establishes Dutch prior art for: (1) clap-and-fling flapping-wing lift, (2) tailless flapping-wing attitude control via kinematics modulation, (3) camera-carrying insect-scale flapping MAVs. Together with festo-smartbird (2011), aerovironment-nano-hummingbird (2011), harvard-robobee (2013), da-vinci-ornithopter (1485 sketches), laputa-flapter (1986 fictional), and dune-ornithopter (1965 fictional), comprehensively places flapping-wing flight architecture in deep cross-disciplinary prior art. Adds Netherlands depth alongside PAL-V (Dutch flying car).
+
+**Sources:**
+
+1. Karásek, M., Muijres, F.T., De Wagter, C., Remes, B.D.W., de Croon, G.C.H.E. 'A tailless aerial robotic flapper reveals that flies use torque coupling in rapid banked turns.' Science 361(6407), 2018.
+2. De Croon, G.C.H.E. et al. 'Design, aerodynamics, and vision-based control of the DelFly.' International Journal of Micro Air Vehicles 1(2), 2009.
+3. TU Delft Micro Air Vehicle Lab publications archive.
 
 ---
 
@@ -840,6 +1029,49 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2013-05-02 — Harvard RoboBee
+
+- **id:** `harvard-robobee`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Harvard Microrobotics Laboratory / Wyss Institute (Robert Wood)
+- **disclosure citation:** Harvard RoboBee first controlled flight reported in Ma, Kevin Y.; Chirarattananon, Pakpong; Fuller, Sawyer B.; Wood, Robert J. 'Controlled Flight of a Biologically Inspired, Insect-Scale Robot.' Science 340(6132), 2013-05-02. Subsequent milestones: RoboBee that perches via electrostatic adhesion (2016), RoboBee that swims and flies (2017), and the solar-powered tetherless RoboBee X-Wing (2019, Nature). Harvard Microrobotics Lab / Wyss Institute.
+- **disclosed subsystems:** `cert-experimental`
+
+**Prior art notes:**
+
+> The Harvard RoboBee (Wood lab / Wyss Institute, Science 2013) is the foundational disclosure of insect-scale flapping-wing flight — wings driven by piezoelectric bending actuators at ~120 Hz, attitude controlled by wing-kinematics modulation, structure built by pop-up MEMS lamination. Establishes prior art for: (1) piezoelectric-actuated insect-scale flapping flight, (2) pop-up MEMS aerial-robot fabrication, (3) the smallest controlled flying robot. Subsequent RoboBee variants added perching, swimming, and solar-powered tetherless flight. Together with tu-delft-delfly, festo-smartbird, aerovironment-nano-hummingbird, and the historical/fictional flapping-wing anchors, comprehensively places flapping-wing flight architecture across scales from insect (RoboBee) to bird (SmartBird, Nano Hummingbird) to human (da Vinci sketches, Dune/Laputa fictional) in deep prior art.
+
+**Sources:**
+
+1. Ma, K.Y., Chirarattananon, P., Fuller, S.B., Wood, R.J. 'Controlled Flight of a Biologically Inspired, Insect-Scale Robot.' Science 340(6132), 2013.
+2. Jafferis, N.T., Helbling, E.F., Karpelson, M., Wood, R.J. 'Untethered flight of an insect-sized flapping-wing microscale aerial vehicle.' Nature 570, 2019.
+3. Harvard Microrobotics Laboratory / Wyss Institute publications archive.
+
+---
+
+### 2013-09-05 — Aeros Aeroscraft / Dragon Dream
+
+- **id:** `aeros-aeroscraft-dragon-dream`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Aeros (Aeros Corporation / Worldwide Aeros Corp) / Igor Pasternak
+- **disclosure citation:** Aeros 'Dragon Dream' (a ~79 m sub-scale demonstrator of the planned Aeroscraft ML866) first untethered flight 2013-09-05 at Tustin CA (inside a former blimp hangar). Aeros (Igor Pasternak) develops rigid variable-buoyancy airships using 'Control Of Static Heaviness' (COSH) to take off and land vertically without ballast exchange. Documented in Aeros materials, U.S. DARPA/Defense Department reports, and FAA filings.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-distributed-electric-propulsion`, `propulsion-hybrid-series`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Aeros Aeroscraft / Dragon Dream (2013) establishes prior art for the variable-buoyancy VTOL airship — a rigid airship with 'Control Of Static Heaviness' (COSH): helium is compressed/released to shift between heavier-than-air (landing) and lighter-than-air (takeoff), enabling controlled vertical takeoff/landing without ballast exchange. Establishes prior art for: (1) variable-buoyancy / COSH airship control, (2) ballast-free vertical-takeoff airship operation, (3) rigid-frame heavy-lift airship with vectored hybrid propulsion. Together with lta-research-pathfinder-1 (2023), hybrid-air-vehicles-airlander-10 (2012), and flying-whales-lca60t (2012), comprehensively places the modern buoyant-hybrid / VTOL-airship architecture in public-domain prior art.
+
+**Sources:**
+
+1. Aeros / Worldwide Aeros Corp technical materials and press releases 2010-2024.
+2. U.S. DARPA / Defense Department Aeroscraft (Walrus / Pelican) program reports.
+3. Aeros / Igor Pasternak COSH patents, USPTO.
+4. Dragon Dream first flight, Tustin CA, 2013-09-05.
+
+---
+
 ### 2014 — CollMot Robotics drone-show swarm
 
 - **id:** `collmot-drone-show`
@@ -1008,6 +1240,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017 — Alauda Aeronautics Airspeeder (Mk3 / Mk4)
+
+- **id:** `alauda-airspeeder`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Alauda Aeronautics / Airspeeder (Adelaide, Australia) / Matthew Pearson
+- **disclosure citation:** Alauda Aeronautics (founded 2016 in Adelaide by Matthew Pearson) developed the Airspeeder racing eVTOL — the Mk3 (uncrewed remote-piloted racer, first flew 2021, raced in the 'EXA Series' 2022) and the Mk4 (crewed racer, unveiled 2022, designed for the manned Airspeeder Grand Prix). The world's first eVTOL racing series. Documented in Alauda/Airspeeder materials and Australian CASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Alauda Aeronautics' Airspeeder (Mk3 uncrewed 2021, Mk4 crewed 2022) establishes Australian prior art for the racing eVTOL — a high-power-to-weight single-seat (or uncrewed) octocopter designed for close-formation pylon racing, the world's first eVTOL racing series. Establishes prior art for: (1) racing-tuned eVTOL flight envelope and aggressive-maneuvering control, (2) the racing-eVTOL operational concept, (3) crewed/uncrewed variants on a racing airframe. Together with amsl-vertiia (AU, hydrogen passenger eVTOL), deepens Australia's eVTOL footprint. The racing-eVTOL niche is a distinct application alongside passenger air taxi, cargo, personal, and military eVTOL — and Airspeeder is its foundational disclosure.
+
+**Sources:**
+
+1. Alauda Aeronautics / Airspeeder Mk3 / Mk4 technical materials 2017-2024.
+2. Airspeeder EXA Series race records 2022.
+3. Australian CASA (Civil Aviation Safety Authority) Airspeeder filings.
+
+---
+
 ### 2017-04-20 — Gravity Industries Jet Suit
 
 - **id:** `gravity-industries-jet-suit`
@@ -1157,6 +1410,46 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-09 — Lazareth LMV 496
+
+- **id:** `lazareth-lmv-496`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Lazareth Auto-Moto (Annecy, France) / Ludovic Lazareth
+- **disclosure citation:** Lazareth Auto-Moto (a French custom-vehicle maker) unveiled the LMV 496 'La Moto Volante' — a motorcycle whose four wheels each contain a JetCat micro-turbojet that swivels downward for VTOL flight — in September 2019; tethered hover demonstrations 2021. A French jet-turbine flying motorcycle / hover-bike. Documented in Lazareth materials and motoring/aviation press.
+- **disclosed subsystems:** `lift-vectored-thrust`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Lazareth LMV 496 establishes French prior art for the four-micro-turbojet flying motorcycle — a road motorcycle whose four wheels each house a tilting micro-turbojet, swiveling downward for VTOL flight. Establishes prior art for: (1) wheel-integrated tilting-turbojet VTOL drive, (2) the jet-turbine flying-motorcycle / drive+fly hover-bike hybrid. Together with jetpack-aviation-speeder (2021, jet-turbine hover-bike), hoversurf-s3 (2017, open-rotor hover-bike), aerofex-aero-x (2008), and malloy-aeronautics-hoverbike (2014, ducted-rotor), comprehensively places hover-bike / flying-motorcycle architecture in cross-national prior art. Adds another French entry alongside the Eurocopter X3 / Airbus RACER / Flying Whales / SNECMA / Cyrano / Verne French VTOL heritage.
+
+**Sources:**
+
+1. Lazareth Auto-Moto LMV 496 technical materials and press releases 2019-2024.
+2. Motoring and aviation press coverage of the Lazareth flying motorcycle 2019-2021.
+
+---
+
+### 2022-06 — Doroni H1 / H1-X
+
+- **id:** `doroni-h1`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Doroni Aerospace (Fort Lauderdale, Florida) / Doron Merdinger
+- **disclosure citation:** Doroni Aerospace (founded 2016 by Doron Merdinger) unveiled the H1 two-seat personal eVTOL in 2022; first crewed test flight 2023-05; received an FAA Special Airworthiness Certificate (Experimental) 2023; developing the H1-X for FAA Part 23 certification. Designed to fit in a two-car garage and operate from driveways under (intended) Part 103 ultralight or LSA rules. Documented in Doroni materials and FAA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `control-simplified-vehicle-operations`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Doroni H1 establishes US prior art for the garage-storable enclosed-rotor two-seat personal eVTOL — eight ducted lift rotors housed within the airframe body (not on exposed booms), small fixed wings, car-like footprint, driveway operation. Establishes prior art for: (1) fully-enclosed-within-body lift rotors on a personal eVTOL, (2) garage-storable / driveway-operable two-seat personal eVTOL form factor. Together with pivotal-blackfly, jetson-one, lift-aircraft-hexa, alef-model-a, and the historical personal-platform anchors, comprehensively places small-personal eVTOL architecture in prior art.
+
+**Sources:**
+
+1. Doroni Aerospace H1 / H1-X technical materials 2022-2024.
+2. FAA Special Airworthiness Certificate dossier (Doroni H1).
+
+---
+
 ### 2022-10-19 — Alef Aeronautics Model A
 
 - **id:** `alef-model-a`
@@ -1226,4 +1519,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

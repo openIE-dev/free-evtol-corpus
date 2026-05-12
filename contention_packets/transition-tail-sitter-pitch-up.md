@@ -1,7 +1,7 @@
 ---
 title: "transition-tail-sitter-pitch-up"
 parent: "Invalidity Contentions"
-nav_order: 49
+nav_order: 50
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `transition-tail-sitter-pitch-up`  
-**Entries:** 11 (11 commons-grade, 0 draft)  
+**Entries:** 12 (12 commons-grade, 0 draft)  
 **Earliest disclosure:** 1944-09  
 **Most recent disclosure:** 2022-10-19
 
@@ -59,6 +59,27 @@ cite, copy, or redistribute these contentions.
 
 1. Smith, J.R. and Kay, Antony. German Aircraft of the Second World War. Putnam, 1972.
 2. Allied CIOS (Combined Intelligence Objectives Subcommittee) reports on Luftwaffe projects, post-1945.
+3. Schick and Meyer. Luftwaffe Secret Projects: Fighters 1939-1945. Midland, 1997.
+
+---
+
+### 1945-02 — Heinkel Lerche II
+
+- **id:** `heinkel-lerche-ii`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Heinkel Flugzeugwerke / Gerhard Heinkel (Germany, Luftwaffe contract)
+- **disclosure citation:** Heinkel Lerche II design study completed February 1945; never built before WWII end. An annular-wing tail-sitting VTOL interceptor with contra-rotating propellers inside the wing duct. Design materials captured by Allied technical intelligence and declassified post-war; documented in Smith and Kay's German Aircraft of the Second World War and Luftwaffe Secret Projects volumes.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-coanda-effect`, `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> The Heinkel Lerche II (1945) is the German wartime design study that directly anticipates the SNECMA Coléoptère (1959) — an annular-wing tail-sitting VTOL with contra-rotating propellers inside the wing duct. Although never built, the design disclosure is complete in Allied technical intelligence reports declassified post-war, placing the annular-wing coleopter architecture in the public domain from 1945. Together with snecma-coleoptere (1959), avrocar-vz-9 (1958), and convair-xfy-pogo (1954), comprehensively places the coleopter / annular-wing / tail-sitter VTOL design space in public-domain prior art.
+
+**Sources:**
+
+1. Smith, J.R. and Kay, Antony. German Aircraft of the Second World War. Putnam, 1972.
+2. Allied CIOS reports on Heinkel projects, post-1945.
 3. Schick and Meyer. Luftwaffe Secret Projects: Fighters 1939-1945. Midland, 1997.
 
 ---
@@ -281,4 +302,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

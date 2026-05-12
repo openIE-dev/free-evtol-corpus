@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `lift-vectored-thrust`
 
-**29 corpus entries disclose this subsystem.**
+**35 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1955-12-10
+Earliest disclosure: 1954-11
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bell ATV (Air Test Vehicle) (1954-11)
+
+- **id**: `bell-atv`
+- **corpus**: academic
+- **creator**: Bell Aircraft Corporation / U.S. Air Force
+- **disclosure**: Bell ATV (Air Test Vehicle, Model 65) first tethered hover November 1954; first transition to horizontal flight 1955. A small demonstrator with two tilting turbojets on the wings plus a fixed vertical lift jet — Bell's first VTOL transition aircraft, the stepping stone toward the XV-3 tilt-rotor. Documented in USAF Flight Test Center reports and Bell Aircraft archives.
+- **ip status**: public-domain
+- **prior art notes**: The Bell ATV (Air Test Vehicle, 1954) is Bell Aircraft's first VTOL transition aircraft — wingtip-mounted tilting turbojets plus a fixed lift jet — and the experimental basis for the Bell XV-3 tilt-rotor (1955). Establishes prior art for: (1) wingtip-mounted tilting propulsors for VTOL transition (the tilt-rotor architectural concept in tilt-jet form), (2) combined wingtip-tilt + fixed-lift-jet hover augmentation. Together with bell-xv-3 (1955), bell-xv-15 (1977), v-22-osprey (1989), and the modern tilt-rotor cluster, places the wingtip-tilting-propulsor architecture in continuous public-domain prior art from 1954 forward.
 
 ## Ryan X-13 Vertijet (1955-12-10)
 
@@ -141,6 +150,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: VFW-Fokker VAK 191B is the second major West German VTOL program (after Dornier Do 31). Establishes additional German prior-art lineage for vectored-thrust strike-aircraft configuration with main-engine + dedicated-lift-jet architecture. Combined with dornier-do-31, hawker-p-1127, and short-sc-1, comprehensively covers the European 1957-1971 vectored-thrust + dedicated-lift-jet design space in public-domain prior art.
 
+## Hawker Siddeley HS.141 (1972)
+
+- **id**: `hawker-siddeley-hs-141`
+- **corpus**: academic
+- **creator**: Hawker Siddeley Aviation
+- **disclosure**: Hawker Siddeley HS.141 VTOL short-haul airliner design study, developed 1971-1973 in response to a perceived 1980s market for city-centre vertiport airline service; never built. A ~100-seat jet airliner with a bank of dedicated lift engines plus cruise turbofans. Documented in Hawker Siddeley company materials, the UK aerospace press of the early 1970s, and Wood's Project Cancelled.
+- **ip status**: public-domain
+- **prior art notes**: The Hawker Siddeley HS.141 (1972) is the foundational disclosure of the civil-airliner-scale VTOL passenger transport with distributed dedicated lift engines plus cruise engines, designed for city-centre vertiport operation. Establishes prior art for: (1) airliner-scale VTOL passenger transport, (2) the vertiport-city-centre airline-service operational concept, (3) sixteen-lift-engine distributed-lift architecture at airliner scale. Although never built, the design disclosure is documented in Hawker Siddeley materials and the UK aerospace press. Anticipates: the entire modern eVTOL urban-air-mobility / vertiport business thesis (Joby, Archer, Lilium, Eve, Volocopter all pitch city-centre vertiport service), demonstrating that the operational concept was specifically disclosed in 1972.
+
 ## McDonnell Douglas / BAe AV-8B Harrier II (1978-11-09)
 
 - **id**: `av-8b-harrier-ii`
@@ -240,6 +258,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Martin Jetpack is New Zealand's foundational disclosure of long-endurance personal-VTOL flight. Architecturally distinct from Bell Rocket Belt (rockets, 21 sec) and Gravity Industries (turbojets, 10 min) by using twin large ducted fans for ~30 min endurance. Establishes prior art for: (1) twin-ducted-fan personal-VTOL strap-on, (2) cyclic-pitch fan attitude control distinct from differential thrust, (3) FAA experimental-category personal jetpack certification basis. Glenn Martin's patents (NZ 539537, US 7,484,687) cover the architecture; some now expired.
 
+## Alien dropship (District 9) (2009-08-14)
+
+- **id**: `district-9-dropship`
+- **corpus**: fictional
+- **creator**: Neill Blomkamp / WETA Workshop / TriStar Pictures / QED International
+- **disclosure**: District 9, directed by Neill Blomkamp (South African), U.S./South African co-production, theatrical release 2009-08-14 — featuring alien ('Prawn') dropships and a large mothership hovering over Johannesburg, plus a powered exosuit ('exo') with VTOL-augmented jumps. WETA Workshop (New Zealand) executed the design. Documented in District 9 production materials and the WETA Workshop design retrospectives.
+- **ip status**: fictional
+- **prior art notes**: District 9's alien dropship and powered exosuit (Blomkamp / WETA Workshop, 2009) establish a South African fictional VTOL anchor — a heavy industrial dropship that descends, hovers over urban terrain, and lands vertically, plus a VTOL-augmented powered exosuit. Adds South African fictional VTOL prior art alongside pegasus-universal-aerospace (ZA, real VTOL business-jet concept). Together with the global cinematic VTOL-transport fictional anchors (Aliens Cheyenne 1986, Avatar Samson/Scorpion 2009, Thunderbird 2 1965, Mobile Suit Gundam Gaw 1979, Patlabor Helldiver 1989, Wandering Earth 2019), and with iron-man-suit / krrish-flight-suit / SoloTrek / Williams X-Jet (personal-VTOL exoskeleton/platform anchors), places military/cargo VTOL transport and powered-exosuit VTOL in comprehensive cross-national fictional + real prior art. Adds the deepest African representation in the corpus's fictional layer (with the Egyptian 1001 Nights flying carpet).
+
 ## Urban Aeronautics CityHawk (2009-12-21)
 
 - **id**: `urban-aero-cityhawk`
@@ -275,3 +302,30 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pegasus Vertical Business Jet design publicly unveiled 2018-11-08 at Aero South Africa; subsequent design refinements 2020–2024. Pegasus Universal Aerospace founded 2017 by Reza Mia. South African Civil Aviation Authority engagement on certification framework 2021 onward.
 - **ip status**: patented
 - **prior art notes**: Pegasus Vertical Business Jet is South Africa's lead commercial VTOL design — distinct architectural commitment to executive-jet operations (2,200 km range, 400 kt cruise) with VTOL hover capability. Establishes African continental prior-art lineage for commercial VTOL business aviation distinct from urban air taxi. Architecturally similar to Lockheed Martin / Aurora LightningStrike (XV-24A, US military 2016) in fuselage-internal lift fan + cruise jet topology.
+
+## Lazareth LMV 496 (2019-09)
+
+- **id**: `lazareth-lmv-496`
+- **corpus**: private
+- **creator**: Lazareth Auto-Moto (Annecy, France) / Ludovic Lazareth
+- **disclosure**: Lazareth Auto-Moto (a French custom-vehicle maker) unveiled the LMV 496 'La Moto Volante' — a motorcycle whose four wheels each contain a JetCat micro-turbojet that swivels downward for VTOL flight — in September 2019; tethered hover demonstrations 2021. A French jet-turbine flying motorcycle / hover-bike. Documented in Lazareth materials and motoring/aviation press.
+- **ip status**: patented
+- **prior art notes**: The Lazareth LMV 496 establishes French prior art for the four-micro-turbojet flying motorcycle — a road motorcycle whose four wheels each house a tilting micro-turbojet, swiveling downward for VTOL flight. Establishes prior art for: (1) wheel-integrated tilting-turbojet VTOL drive, (2) the jet-turbine flying-motorcycle / drive+fly hover-bike hybrid. Together with jetpack-aviation-speeder (2021, jet-turbine hover-bike), hoversurf-s3 (2017, open-rotor hover-bike), aerofex-aero-x (2008), and malloy-aeronautics-hoverbike (2014, ducted-rotor), comprehensively places hover-bike / flying-motorcycle architecture in cross-national prior art. Adds another French entry alongside the Eurocopter X3 / Airbus RACER / Flying Whales / SNECMA / Cyrano / Verne French VTOL heritage.
+
+## The Victory and orbital tugs (Space Sweepers) (2021-02-05)
+
+- **id**: `space-sweepers-victory`
+- **corpus**: fictional
+- **creator**: Jo Sung-hee / Bidangil Pictures / Netflix (distribution)
+- **disclosure**: Space Sweepers (Korean: 승리호 Seungriho), directed by Jo Sung-hee, released 2021-02-05 (Netflix) — Korea's first big-budget space science-fiction film, featuring 'The Victory', a debris-collecting spaceship, and various orbital and atmospheric craft including VTOL-capable tugs and shuttles. Documented in Space Sweepers production materials and Korean film-industry coverage.
+- **ip status**: fictional
+- **prior art notes**: Space Sweepers (Jo Sung-hee, 2021) — Korea's first big-budget space-SF film — establishes a Korean fictional VTOL anchor with 'The Victory' (a debris-collecting ship capable of atmospheric VTOL landing) and various orbital/atmospheric VTOL tugs and shuttles. Adds Korean fictional VTOL prior art alongside the real Korean eVTOL OEMs (Hyundai Supernal, Plana, Hanwha-backed Overair). Together with the global fictional VTOL-craft anchors, deepens the corpus's Asian fictional layer (Japan: Doraemon, Macross, Patlabor, Ghost in the Shell, Laputa, Nausicaä, Mobile Suit Gundam; China: Wandering Earth; India: Krrish; Korea: Space Sweepers).
+
+## JetPack Aviation Speeder (2021-04)
+
+- **id**: `jetpack-aviation-speeder`
+- **corpus**: private
+- **creator**: JetPack Aviation (Los Angeles, California) / David Mayman
+- **disclosure**: JetPack Aviation (founded by David Mayman, who also developed the JB-series jetpacks worn over the Statue of Liberty in 2015) unveiled the Speeder — a turbine-powered VTOL flying motorcycle — in April 2021; P1.5 prototype flight tests 2022-2024; awarded U.S. Air Force AFWERX and U.S. Army contracts. Documented in JetPack Aviation materials and AFWERX contract records.
+- **ip status**: patented
+- **prior art notes**: The JetPack Aviation Speeder establishes US prior art for the jet-turbine hover-bike — a motorcycle-style straddle VTOL with four vectored jet turbines and fly-by-wire stabilization, no exposed rotors. Establishes prior art for: (1) jet-turbine-powered hover-bike (distinct from open-rotor hover bikes), (2) vectored-turbine lift and translation control for a personal VTOL, (3) heavy-fuel turbine personal VTOL. JetPack Aviation also developed the JB-series jetpacks (turbojet jetpacks flown 2015-2024) — together with bell-rocket-belt (1961), williams-x-jet (1982), gravity-industries-jet-suit (2017), martin-aircraft-jetpack (2008), solotrek-xfv (2001), aerofex-aero-x (2008), hoversurf-s3 (2017), and the historical personal-platform anchors (Hiller VZ-1, de Lackner HZ-1, Chrysler VZ-6), comprehensively places personal-VTOL platform and hover-bike architecture in deep prior art across rocket / ducted-fan / turbofan / turbojet / open-rotor / jet-turbine variants.

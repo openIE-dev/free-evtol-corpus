@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `lift-cyclorotor`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2011-06-13
+Earliest disclosure: 1922
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Kirsten-Boeing cyclogiro (1922)
+
+- **id**: `kirsten-boeing-cyclogiro`
+- **corpus**: academic
+- **creator**: Frederick Kirsten / University of Washington / Boeing Airplane Company
+- **disclosure**: Frederick Kirsten (University of Washington, later consulting for Boeing) developed the cyclogiro — a cycloidal-rotor propulsion/lift device — from the early 1920s; a 1922-1933 program produced wind-tunnel models and design studies for a cyclogiro aircraft, with Boeing involvement. Kirsten holds foundational US cyclogiro patents. Documented in NACA technical reports and University of Washington / Boeing archives.
+- **ip status**: patented
+- **prior art notes**: The Kirsten-Boeing cyclogiro program (Frederick Kirsten, University of Washington / Boeing, 1922-1933) is the foundational US disclosure of the cyclogiro / cyclorotor lift architecture — barrel rotors with cyclically-pitched airfoil blades giving omnidirectional in-plane thrust. Kirsten's 1920s-1930s patents are long expired. Together with the Pescara cyclogiro patents (1928), d-dalus (2011), and cyclotech-cruiseup (2022), comprehensively places cyclorotor architecture in a century-spanning public-domain prior-art base from 1922 forward. Notably, Kirsten's work is contemporaneous with the de Bothezat quadrotor and Pescara helicopter — 1922 is a remarkably productive year for the foundational rotorcraft prior-art base.
 
 ## D-Dalus (IAT-21) (2011-06-13)
 

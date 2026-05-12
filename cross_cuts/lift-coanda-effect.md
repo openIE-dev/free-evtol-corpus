@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `lift-coanda-effect`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1958-12-05
+Earliest disclosure: 1945-02
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Heinkel Lerche II (1945-02)
+
+- **id**: `heinkel-lerche-ii`
+- **corpus**: academic
+- **creator**: Heinkel Flugzeugwerke / Gerhard Heinkel (Germany, Luftwaffe contract)
+- **disclosure**: Heinkel Lerche II design study completed February 1945; never built before WWII end. An annular-wing tail-sitting VTOL interceptor with contra-rotating propellers inside the wing duct. Design materials captured by Allied technical intelligence and declassified post-war; documented in Smith and Kay's German Aircraft of the Second World War and Luftwaffe Secret Projects volumes.
+- **ip status**: public-domain
+- **prior art notes**: The Heinkel Lerche II (1945) is the German wartime design study that directly anticipates the SNECMA Coléoptère (1959) — an annular-wing tail-sitting VTOL with contra-rotating propellers inside the wing duct. Although never built, the design disclosure is complete in Allied technical intelligence reports declassified post-war, placing the annular-wing coleopter architecture in the public domain from 1945. Together with snecma-coleoptere (1959), avrocar-vz-9 (1958), and convair-xfy-pogo (1954), comprehensively places the coleopter / annular-wing / tail-sitter VTOL design space in public-domain prior art.
 
 ## Avrocar VZ-9 (1958-12-05)
 

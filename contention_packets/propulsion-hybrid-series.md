@@ -1,7 +1,7 @@
 ---
 title: "propulsion-hybrid-series"
 parent: "Invalidity Contentions"
-nav_order: 38
+nav_order: 39
 layout: default
 ---
 
@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `propulsion-hybrid-series`  
-**Entries:** 13 (13 commons-grade, 0 draft)  
+**Entries:** 16 (16 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012  
-**Most recent disclosure:** 2021-09-30
+**Most recent disclosure:** 2022-08
 
 ---
 
@@ -81,6 +81,28 @@ cite, copy, or redistribute these contentions.
 1. Hybrid Air Vehicles technical materials and press releases 2012-2025.
 2. U.S. Army LEMV (Long Endurance Multi-intelligence Vehicle) programme reports.
 3. UK CAA Airlander 10 certification filings.
+
+---
+
+### 2013-09-05 — Aeros Aeroscraft / Dragon Dream
+
+- **id:** `aeros-aeroscraft-dragon-dream`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Aeros (Aeros Corporation / Worldwide Aeros Corp) / Igor Pasternak
+- **disclosure citation:** Aeros 'Dragon Dream' (a ~79 m sub-scale demonstrator of the planned Aeroscraft ML866) first untethered flight 2013-09-05 at Tustin CA (inside a former blimp hangar). Aeros (Igor Pasternak) develops rigid variable-buoyancy airships using 'Control Of Static Heaviness' (COSH) to take off and land vertically without ballast exchange. Documented in Aeros materials, U.S. DARPA/Defense Department reports, and FAA filings.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-distributed-electric-propulsion`, `propulsion-hybrid-series`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Aeros Aeroscraft / Dragon Dream (2013) establishes prior art for the variable-buoyancy VTOL airship — a rigid airship with 'Control Of Static Heaviness' (COSH): helium is compressed/released to shift between heavier-than-air (landing) and lighter-than-air (takeoff), enabling controlled vertical takeoff/landing without ballast exchange. Establishes prior art for: (1) variable-buoyancy / COSH airship control, (2) ballast-free vertical-takeoff airship operation, (3) rigid-frame heavy-lift airship with vectored hybrid propulsion. Together with lta-research-pathfinder-1 (2023), hybrid-air-vehicles-airlander-10 (2012), and flying-whales-lca60t (2012), comprehensively places the modern buoyant-hybrid / VTOL-airship architecture in public-domain prior art.
+
+**Sources:**
+
+1. Aeros / Worldwide Aeros Corp technical materials and press releases 2010-2024.
+2. U.S. DARPA / Defense Department Aeroscraft (Walrus / Pelican) program reports.
+3. Aeros / Igor Pasternak COSH patents, USPTO.
+4. Dragon Dream first flight, Tustin CA, 2013-09-05.
 
 ---
 
@@ -295,6 +317,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-09 — Horizon Aircraft Cavorite X5
+
+- **id:** `horizon-aircraft-cavorite-x5`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** New Horizon Aircraft Ltd (Lindsay, Ontario, Canada)
+- **disclosure citation:** New Horizon Aircraft (Canadian, founded 2013, public on NASDAQ as HOVR via SPAC merger 2024) unveiled the Cavorite X5 hybrid eVTOL in 2021; 50%-scale prototype first conventional flight 2023-11 and first full transition 2024-11. The Cavorite uses a 'fan-in-wing' design — fourteen lift fans embedded in the wings, covered by sliding panels in cruise so the aircraft flies as a conventional fixed-wing. Documented in Horizon Aircraft materials and SEC filings (named for H.G. Wells's anti-gravity material 'Cavorite').
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Horizon Aircraft Cavorite X5 establishes Canadian prior art for the modern 'fan-in-wing' hybrid eVTOL — fourteen electric lift fans embedded in the wing structure, covered by sliding panels in cruise so the wing becomes a clean conventional wing with a single pusher. Establishes prior art for: (1) modern panel-covered fan-in-wing eVTOL, (2) hybrid-electric fan-in-wing architecture, (3) the wing-as-clean-wing-in-cruise design. Directly descended in concept from vanguard-omniplane (1959) and ryan-xv-5-vertifan (1964). Together with these and lilium-jet (ducted-fan-array), aurora-lightningstrike-xv-24a (tilt-wing ducted-fan), and bell-nexus-4ex (tilt-duct), comprehensively places ducted-fan / fan-in-wing eVTOL architecture in prior art. Adds Canadian depth alongside Jaunt Air Mobility and the Avro Canada Avrocar heritage.
+
+**Sources:**
+
+1. New Horizon Aircraft Cavorite X5 technical materials 2021-2024.
+2. New Horizon Aircraft SEC filings (NASDAQ: HOVR).
+
+---
+
 ### 2021-09-30 — Honda eVTOL
 
 - **id:** `honda-evtol`
@@ -316,6 +358,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-08 — Plana Aero CP-01
+
+- **id:** `plana-cp-01`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Plana Aerospace Inc (Seongnam, South Korea)
+- **disclosure citation:** Plana Aerospace (founded 2021 in South Korea by Braden Kim) unveiled the CP-01 hybrid-electric eVTOL in 2022; sub-scale prototype flight tests 2023-2024; targeting Korean (MOLIT) and FAA certification for regional air mobility. Documented in Plana materials and Korean Ministry of Land, Infrastructure and Transport (MOLIT) records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Plana Aero CP-01 establishes Korean prior art for the hybrid-electric regional eVTOL — a lift+cruise eVTOL with a turbine-genset-electric hybrid powertrain for ~500 km range, targeting intercity routes. Distinct from the urban-air-taxi-focused Korean peer Hyundai Supernal (battery-electric, 100 km). Establishes Korean depth in the hybrid-electric eVTOL space alongside Honda (JP), Zuri (CZ), Elroy Air (US), and AMSL Vertiia (AU). Together with hyundai-supernal-sa2, the Hanwha-Systems-backed overair-butterfly, and (fictionally) space-sweepers-victory, deepens Korea's eVTOL footprint.
+
+**Sources:**
+
+1. Plana Aerospace CP-01 technical materials 2022-2024.
+2. Korean MOLIT (Ministry of Land, Infrastructure and Transport) UAM programme records.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -323,4 +385,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

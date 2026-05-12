@@ -1,7 +1,7 @@
 ---
 title: "transition-thrust-borne-to-wing-borne"
 parent: "Invalidity Contentions"
-nav_order: 50
+nav_order: 51
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `transition-thrust-borne-to-wing-borne`  
-**Entries:** 55 (55 commons-grade, 0 draft)  
-**Earliest disclosure:** 1955-08-11  
+**Entries:** 60 (60 commons-grade, 0 draft)  
+**Earliest disclosure:** 1954-11  
 **Most recent disclosure:** 2024-01-09
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1954-11 — Bell ATV (Air Test Vehicle)
+
+- **id:** `bell-atv`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bell Aircraft Corporation / U.S. Air Force
+- **disclosure citation:** Bell ATV (Air Test Vehicle, Model 65) first tethered hover November 1954; first transition to horizontal flight 1955. A small demonstrator with two tilting turbojets on the wings plus a fixed vertical lift jet — Bell's first VTOL transition aircraft, the stepping stone toward the XV-3 tilt-rotor. Documented in USAF Flight Test Center reports and Bell Aircraft archives.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-vectored-thrust`, `transition-thrust-borne-to-wing-borne`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Bell ATV (Air Test Vehicle, 1954) is Bell Aircraft's first VTOL transition aircraft — wingtip-mounted tilting turbojets plus a fixed lift jet — and the experimental basis for the Bell XV-3 tilt-rotor (1955). Establishes prior art for: (1) wingtip-mounted tilting propulsors for VTOL transition (the tilt-rotor architectural concept in tilt-jet form), (2) combined wingtip-tilt + fixed-lift-jet hover augmentation. Together with bell-xv-3 (1955), bell-xv-15 (1977), v-22-osprey (1989), and the modern tilt-rotor cluster, places the wingtip-tilting-propulsor architecture in continuous public-domain prior art from 1954 forward.
+
+**Sources:**
+
+1. USAF Flight Test Center Bell ATV reports.
+2. Bell Aircraft Corporation Model 65 program archives.
+3. Markman and Holder. Straight Up. Schiffer, 2000.
+
+---
 
 ### 1955-08-11 — Bell XV-3
 
@@ -233,6 +254,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1963-11-20 — Curtiss-Wright X-19
+
+- **id:** `curtiss-wright-x-19`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Curtiss-Wright Corporation / U.S. Army / U.S. Air Force / U.S. Navy
+- **disclosure citation:** Curtiss-Wright X-19 first flight 1963-11-20 (the predecessor X-100 demonstrator first flew 1959); program ended 1965 after a crash. A four-propeller 'radial-lift-force' tilt-prop VTOL using Curtiss-Wright's patented radial-force propeller. Tri-Service program. Documented in NASA and U.S. military test reports.
+- **disclosed subsystems:** `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Curtiss-Wright X-19 (1963; predecessor X-100, 1959) is the foundational disclosure of the four-propeller tandem-wing tilt-prop VTOL — four propellers at the tips of fore-and-aft wings, each tilting between vertical and horizontal, cross-shafted to two engines. Establishes prior art for: (1) the four-rotor tandem-wing tilt-prop configuration (distinct from the two-rotor tilt-rotor and the tilt-wing), (2) the 'radial lift force' propeller concept, (3) cross-shafted four-rotor tilt VTOL. Curtiss-Wright's 1950s-60s patents are expired. Together with bell-xv-3, ltv-xc-142, bell-x-22, and the modern multi-rotor tilt eVTOL cluster (Joby S4, Archer Midnight, TCab E20, Geely Aerofugia, Vertical VX4, Hyundai Supernal), comprehensively places multi-rotor tilt VTOL architecture in public-domain prior art from 1959 forward.
+
+**Sources:**
+
+1. NASA / U.S. military X-19 / X-100 test reports.
+2. Curtiss-Wright radial-lift-force propeller patents, USPTO.
+3. Markman and Holder. Straight Up. Schiffer, 2000.
+
+---
+
 ### 1964-07 — Yakovlev Yak-36
 
 - **id:** `yak-36-freehand`
@@ -398,6 +440,27 @@ cite, copy, or redistribute these contentions.
 1. VFW-Fokker company archives and Bundeswehr / BWB technical reports.
 2. Markman and Holder. Straight Up. Schiffer, 2000.
 3. Schick and Meyer. Luftwaffe Secret Projects: Strategic Bombers 1935-1945. Midland, 1997 (provides P.1101 lineage context).
+
+---
+
+### 1972 — Hawker Siddeley HS.141
+
+- **id:** `hawker-siddeley-hs-141`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Hawker Siddeley Aviation
+- **disclosure citation:** Hawker Siddeley HS.141 VTOL short-haul airliner design study, developed 1971-1973 in response to a perceived 1980s market for city-centre vertiport airline service; never built. A ~100-seat jet airliner with a bank of dedicated lift engines plus cruise turbofans. Documented in Hawker Siddeley company materials, the UK aerospace press of the early 1970s, and Wood's Project Cancelled.
+- **disclosed subsystems:** `lift-vectored-thrust`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `cert-part-25`
+
+**Prior art notes:**
+
+> The Hawker Siddeley HS.141 (1972) is the foundational disclosure of the civil-airliner-scale VTOL passenger transport with distributed dedicated lift engines plus cruise engines, designed for city-centre vertiport operation. Establishes prior art for: (1) airliner-scale VTOL passenger transport, (2) the vertiport-city-centre airline-service operational concept, (3) sixteen-lift-engine distributed-lift architecture at airliner scale. Although never built, the design disclosure is documented in Hawker Siddeley materials and the UK aerospace press. Anticipates: the entire modern eVTOL urban-air-mobility / vertiport business thesis (Joby, Archer, Lilium, Eve, Volocopter all pitch city-centre vertiport service), demonstrating that the operational concept was specifically disclosed in 1972.
+
+**Sources:**
+
+1. Hawker Siddeley Aviation HS.141 study materials.
+2. Wood, Derek. Project Cancelled. Macdonald & Jane's, 1975.
+3. Flight International coverage of the HS.141, early 1970s.
 
 ---
 
@@ -781,6 +844,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2013-04-10 — Bubbleship (Oblivion)
+
+- **id:** `oblivion-bubbleship`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Joseph Kosinski / Universal Pictures / Daniel Simon (vehicle design)
+- **disclosure citation:** Oblivion, directed by Joseph Kosinski, U.S. theatrical release 2013-04-10 — featuring the 'Bubbleship', a small two-seat VTOL reconnaissance/maintenance craft with a transparent bubble cockpit and twin tilting rotor/fan pods. Vehicle designed by Daniel Simon (former Bugatti designer; also designed the Tron Legacy Light Cycle). Documented in Oblivion production design materials and Daniel Simon's published design portfolios.
+- **disclosed subsystems:** `lift-tilt-rotor`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> The Oblivion Bubbleship (Daniel Simon design, 2013) is among the most engineering-detailed fictional small-VTOL designs — a two-seat tilt-rotor with a panoramic bubble cockpit, designed by ex-Bugatti designer Daniel Simon with documented tilt-mechanism and rotor-geometry notes. Establishes prior art for the two-seat bubble-canopy tilt-rotor configuration. Frequently cited as a visual reference for two-seat eVTOL concepts (the bubble canopy + twin tilting pods aesthetic). Together with bladerunner-spinner (1982), the Macross/Ghost-in-the-Shell/Patlabor Japanese tilt-rotor fictional anchors, avatar-samson-scorpion (2009), and the real tilt-rotor cluster (Bell XV-3 1955 onward), places fictional and real tilt-rotor architecture in comprehensive prior art.
+
+**Sources:**
+
+1. Kosinski, Joseph (dir.). Oblivion. Universal Pictures, 2013.
+2. Simon, Daniel. Cosmic Motors and subsequent design portfolios (Bubbleship design notes).
+3. Oblivion production design materials, Universal archives.
+
+---
+
 ### 2014-08 — NASA GL-10 Greased Lightning
 
 - **id:** `nasa-gl-10`
@@ -1076,6 +1160,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2020-10-15 — Overair Butterfly
+
+- **id:** `overair-butterfly`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Overair Inc (Santa Ana, California) — Karem Aircraft spinoff; partnered with Hanwha Systems (Korea)
+- **disclosure citation:** Overair (spun out of Karem Aircraft in 2020, with investment from Hanwha Systems of South Korea) unveiled the Butterfly eVTOL — a tilt-rotor eVTOL using Karem's 'Optimum Speed Tilt-Rotor' (OSTR) technology (large slow-turning prop-rotors with continuously-variable RPM) — in October 2020. Documented in Overair materials, Hanwha Systems disclosures, and U.S. Air Force AFWERX Agility Prime records.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `transition-conversion-corridor`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Overair's Butterfly establishes prior art for the optimum-speed tilt-rotor eVTOL — a tilt-rotor eVTOL with four very large, slow-turning prop-rotors whose RPM is continuously varied with flight regime ('OSTR', from Karem Aircraft's OSR technology), giving low disk loading for quiet, efficient hover. Distinct from the small-fast-prop tilt-rotor eVTOLs (Joby S4, TCab E20) by the large-slow-prop approach. Establishes prior art for: (1) continuously-variable-RPM tilt-rotor in an eVTOL, (2) very-low-disk-loading large slow prop-rotors for quiet hover, (3) the OSR-applied-to-eVTOL configuration. Hanwha Systems (Korea) partnership ties this to the Korean eVTOL ecosystem (Hyundai Supernal, Plana). Together with karem-ar40 (2008, OSTR origin), cartercopter (1998), and jaunt-air-mobility (2019), comprehensively places variable-RPM / slowed-rotor / optimum-speed-rotor eVTOL architecture in prior art.
+
+**Sources:**
+
+1. Overair Butterfly technical materials 2020-2024.
+2. Hanwha Systems (Korea) Overair investment disclosures.
+3. U.S. Air Force AFWERX Agility Prime contract records (Overair).
+4. Karem Aircraft / Overair OSR / OSTR patents, USPTO.
+
+---
+
 ### 2021-06-10 — Archer Aviation Midnight
 
 - **id:** `archer-midnight`
@@ -1208,4 +1314,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

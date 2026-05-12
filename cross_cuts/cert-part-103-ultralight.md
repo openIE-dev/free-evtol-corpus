@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-part-103-ultralight`
 
-**6 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2008-10
 
@@ -60,6 +60,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: LIFT Aircraft Hexa establishes US prior art for the maximally-redundant single-seat multirotor eVTOL — eighteen independent rotors each with its own battery and motor (full distributed redundancy, tolerates loss of six rotors), single-joystick fly-by-wire simplified vehicle operations, FAA Part 103 ultralight operation. Establishes prior art for: (1) per-rotor-independent battery/motor architecture with deep failure tolerance, (2) consumer-grade single-joystick SVO for an 18-rotor eVTOL, (3) Part 103 ultralight commercial flight-experience deployment. Together with pivotal-blackfly, jetson-one, ehang-eh216, and volocopter-volocity, comprehensively places single-seat / small-pax multirotor eVTOL in commercial prior art.
 
+## teTra Mk-5 (2019)
+
+- **id**: `tetra-mk-5`
+- **corpus**: private
+- **creator**: teTra Aviation Corporation (Tokyo, Japan) / Tasuku Nakai
+- **disclosure**: teTra Aviation Corporation (founded 2018 in Tokyo, an outgrowth of GoFly Prize-competing students) revealed the Mk-3 personal eVTOL (2020, GoFly Prize 'Pratt & Whitney Disruptor Award' winner) and subsequently the production Mk-5 single-seat personal eVTOL (2021); first crewed flights and FAA Special Airworthiness Certificate process underway. Documented in teTra materials and GoFly Prize records.
+- **ip status**: patented
+- **prior art notes**: teTra Mk-5 establishes Japanese prior art for the high-rotor-count single-seat personal eVTOL — a fixed-wing airframe with 32 small distributed lift rotors for hover redundancy plus wing lift for cruise efficiency. A GoFly Prize-derived design. Establishes prior art for: (1) very-high-rotor-count (~32) personal eVTOL with fixed wings, (2) the GoFly Prize lineage of personal-flight designs. Together with skydrive-sd-05 (JP, multirotor air taxi), aska-a5 (JP/US, drive+fly), honda-evtol (JP, hybrid), and the Japanese fictional VTOL anchors, deepens Japan's eVTOL footprint. Together with lift-aircraft-hexa (US, 18-rotor) and ehang-eh216 (CN, 16-rotor), places high-rotor-count personal/small eVTOL architecture in prior art.
+
 ## Kitty Hawk Heaviside (2019-10-03)
 
 - **id**: `kittyhawk-heaviside`
@@ -68,3 +77,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kitty Hawk Heaviside publicly unveiled 2019-10-03 at TED Conference / Wired25 Festival; first manned flight 2019-09. Kitty Hawk Corporation (funded by Larry Page) ceased operations 2022-09-21. Documented in Kitty Hawk press releases and the public technical paper 'Heaviside: A Single-Pilot eVTOL Aircraft' (Vertical Flight Society, 2020).
 - **ip status**: patented
 - **prior art notes**: Kitty Hawk Heaviside establishes US prior art for ultralight-class single-pilot tilt-rotor eVTOL with explicit low-noise design optimization. Although Kitty Hawk Corporation ceased operations 2022, the Heaviside disclosure is comprehensive — Larry Page-funded program with VFS Forum technical paper publication and Kitty Hawk's continued patent portfolio licensable through successor entities. Kitty Hawk also produced Cora (which became Wisk Aero after the Boeing JV, covered separately).
+
+## JetPack Aviation Speeder (2021-04)
+
+- **id**: `jetpack-aviation-speeder`
+- **corpus**: private
+- **creator**: JetPack Aviation (Los Angeles, California) / David Mayman
+- **disclosure**: JetPack Aviation (founded by David Mayman, who also developed the JB-series jetpacks worn over the Statue of Liberty in 2015) unveiled the Speeder — a turbine-powered VTOL flying motorcycle — in April 2021; P1.5 prototype flight tests 2022-2024; awarded U.S. Air Force AFWERX and U.S. Army contracts. Documented in JetPack Aviation materials and AFWERX contract records.
+- **ip status**: patented
+- **prior art notes**: The JetPack Aviation Speeder establishes US prior art for the jet-turbine hover-bike — a motorcycle-style straddle VTOL with four vectored jet turbines and fly-by-wire stabilization, no exposed rotors. Establishes prior art for: (1) jet-turbine-powered hover-bike (distinct from open-rotor hover bikes), (2) vectored-turbine lift and translation control for a personal VTOL, (3) heavy-fuel turbine personal VTOL. JetPack Aviation also developed the JB-series jetpacks (turbojet jetpacks flown 2015-2024) — together with bell-rocket-belt (1961), williams-x-jet (1982), gravity-industries-jet-suit (2017), martin-aircraft-jetpack (2008), solotrek-xfv (2001), aerofex-aero-x (2008), hoversurf-s3 (2017), and the historical personal-platform anchors (Hiller VZ-1, de Lackner HZ-1, Chrysler VZ-6), comprehensively places personal-VTOL platform and hover-bike architecture in deep prior art across rocket / ducted-fan / turbofan / turbojet / open-rotor / jet-turbine variants.

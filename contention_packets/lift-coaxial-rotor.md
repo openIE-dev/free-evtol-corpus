@@ -1,7 +1,7 @@
 ---
 title: "lift-coaxial-rotor"
 parent: "Invalidity Contentions"
-nav_order: 22
+nav_order: 23
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-coaxial-rotor`  
-**Entries:** 27 (27 commons-grade, 0 draft)  
+**Entries:** 31 (31 commons-grade, 0 draft)  
 **Earliest disclosure:** 1922  
 **Most recent disclosure:** 2023-08-16
 
@@ -103,6 +103,69 @@ cite, copy, or redistribute these contentions.
 1. Young, Arthur M. The Bell Notes: A Journey from Metaphysics to Mechanics. Robert Briggs, 1979.
 2. Bell Helicopter / Textron archives, Fort Worth TX.
 3. Smithsonian NASM Bell Ship 1A collection.
+
+---
+
+### 1945-02 — Heinkel Lerche II
+
+- **id:** `heinkel-lerche-ii`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Heinkel Flugzeugwerke / Gerhard Heinkel (Germany, Luftwaffe contract)
+- **disclosure citation:** Heinkel Lerche II design study completed February 1945; never built before WWII end. An annular-wing tail-sitting VTOL interceptor with contra-rotating propellers inside the wing duct. Design materials captured by Allied technical intelligence and declassified post-war; documented in Smith and Kay's German Aircraft of the Second World War and Luftwaffe Secret Projects volumes.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-coanda-effect`, `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> The Heinkel Lerche II (1945) is the German wartime design study that directly anticipates the SNECMA Coléoptère (1959) — an annular-wing tail-sitting VTOL with contra-rotating propellers inside the wing duct. Although never built, the design disclosure is complete in Allied technical intelligence reports declassified post-war, placing the annular-wing coleopter architecture in the public domain from 1945. Together with snecma-coleoptere (1959), avrocar-vz-9 (1958), and convair-xfy-pogo (1954), comprehensively places the coleopter / annular-wing / tail-sitter VTOL design space in public-domain prior art.
+
+**Sources:**
+
+1. Smith, J.R. and Kay, Antony. German Aircraft of the Second World War. Putnam, 1972.
+2. Allied CIOS reports on Heinkel projects, post-1945.
+3. Schick and Meyer. Luftwaffe Secret Projects: Fighters 1939-1945. Midland, 1997.
+
+---
+
+### 1945-03-07 — Piasecki H-21 / HRP Rescuer
+
+- **id:** `piasecki-h-21`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Piasecki Helicopter Corporation / U.S. Navy / U.S. Army / U.S. Air Force
+- **disclosure citation:** Piasecki PV-3 / XHRP-1 Rescuer first flight 1945-03-07; the production H-21 Workhorse/Shawnee entered service 1949. Frank Piasecki's tandem-rotor (overlapping fore-and-aft rotors) architecture became one of the two dominant heavy-helicopter configurations (the other being Sikorsky's single-main-rotor). Documented in U.S. Navy/Army technical orders and Smithsonian collections.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> The Piasecki H-21 / HRP Rescuer (Frank Piasecki, 1945) is the foundational disclosure of the tandem-rotor helicopter architecture — two large counter-rotating rotors fore and aft, synchronized to cancel torque without a tail rotor. Establishes prior art for: (1) tandem-rotor lift architecture (ancestor of the Boeing CH-47 Chinook), (2) overlapping-rotor synchronization, (3) torque cancellation between two main lift rotors. Piasecki's 1940s patents are long expired. The tandem-rotor configuration is relevant prior art for any eVTOL using fore-and-aft lift-rotor pairs (a recurring lift+cruise and multirotor geometry). Combined with de-bothezat-quadrotor (1922) and convertawings-model-a (1956), places multi-rotor lift architectures comprehensively in mid-20th-century prior art.
+
+**Sources:**
+
+1. Piasecki, Frank. Tandem-rotor helicopter patents, USPTO, 1940s-1950s.
+2. U.S. Navy / U.S. Army H-21 technical orders.
+3. Spenser, Jay P. Whirlybirds: A History of the U.S. Helicopter Pioneers. University of Washington Press, 1998.
+
+---
+
+### 1952-07-03 — Yakovlev Yak-24
+
+- **id:** `yak-24`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Yakovlev Design Bureau
+- **disclosure citation:** Yakovlev Yak-24 first flight 1952-07-03; entered limited Soviet service 1955. A tandem-rotor heavy transport helicopter — the Soviet answer to the Piasecki tandem-rotor configuration. Set FAI payload records 1956. Documented in Yakovlev OKB archives (post-1991 declassified) and Gunston's Soviet aircraft references.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> The Yakovlev Yak-24 (1952) is the Soviet tandem-rotor heavy helicopter — the Soviet counterpart to the Piasecki H-21, demonstrating the tandem-rotor architecture in an independently-developed lineage. Soviet government work, fully in the public domain post-1991. Together with piasecki-h-21 (1945), places tandem-rotor lift architecture in cross-national prior art. Adds another Russian/Soviet entry to the deep Soviet rotorcraft heritage (TsAGI 1-EA, de Bothezat, Mil V-12, Kamov lineage, Yak VTOL fighters, Mil tip-jet, Mil Mi-30 tilt-rotor).
+
+**Sources:**
+
+1. Yakovlev OKB Yak-24 archives, post-1991 declassified, RGAE.
+2. Gunston, Bill. The Osprey Encyclopedia of Russian Aircraft. Osprey, 1995.
+3. Gunston and Gordon. Yakovlev Aircraft Since 1924. Putnam, 1997.
 
 ---
 
@@ -398,6 +461,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017 — Alauda Aeronautics Airspeeder (Mk3 / Mk4)
+
+- **id:** `alauda-airspeeder`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Alauda Aeronautics / Airspeeder (Adelaide, Australia) / Matthew Pearson
+- **disclosure citation:** Alauda Aeronautics (founded 2016 in Adelaide by Matthew Pearson) developed the Airspeeder racing eVTOL — the Mk3 (uncrewed remote-piloted racer, first flew 2021, raced in the 'EXA Series' 2022) and the Mk4 (crewed racer, unveiled 2022, designed for the manned Airspeeder Grand Prix). The world's first eVTOL racing series. Documented in Alauda/Airspeeder materials and Australian CASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Alauda Aeronautics' Airspeeder (Mk3 uncrewed 2021, Mk4 crewed 2022) establishes Australian prior art for the racing eVTOL — a high-power-to-weight single-seat (or uncrewed) octocopter designed for close-formation pylon racing, the world's first eVTOL racing series. Establishes prior art for: (1) racing-tuned eVTOL flight envelope and aggressive-maneuvering control, (2) the racing-eVTOL operational concept, (3) crewed/uncrewed variants on a racing airframe. Together with amsl-vertiia (AU, hydrogen passenger eVTOL), deepens Australia's eVTOL footprint. The racing-eVTOL niche is a distinct application alongside passenger air taxi, cargo, personal, and military eVTOL — and Airspeeder is its foundational disclosure.
+
+**Sources:**
+
+1. Alauda Aeronautics / Airspeeder Mk3 / Mk4 technical materials 2017-2024.
+2. Airspeeder EXA Series race records 2022.
+3. Australian CASA (Civil Aviation Safety Authority) Airspeeder filings.
+
+---
+
 ### 2017-03-07 — Airbus Pop.Up / Pop.Up Next
 
 - **id:** `airbus-popup`
@@ -614,4 +698,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

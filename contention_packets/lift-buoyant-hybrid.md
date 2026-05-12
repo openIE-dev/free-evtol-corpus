@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-buoyant-hybrid`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012  
 **Most recent disclosure:** 2023-11-08
 
@@ -84,6 +84,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2013-09-05 — Aeros Aeroscraft / Dragon Dream
+
+- **id:** `aeros-aeroscraft-dragon-dream`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Aeros (Aeros Corporation / Worldwide Aeros Corp) / Igor Pasternak
+- **disclosure citation:** Aeros 'Dragon Dream' (a ~79 m sub-scale demonstrator of the planned Aeroscraft ML866) first untethered flight 2013-09-05 at Tustin CA (inside a former blimp hangar). Aeros (Igor Pasternak) develops rigid variable-buoyancy airships using 'Control Of Static Heaviness' (COSH) to take off and land vertically without ballast exchange. Documented in Aeros materials, U.S. DARPA/Defense Department reports, and FAA filings.
+- **disclosed subsystems:** `lift-buoyant-hybrid`, `lift-distributed-electric-propulsion`, `propulsion-hybrid-series`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Aeros Aeroscraft / Dragon Dream (2013) establishes prior art for the variable-buoyancy VTOL airship — a rigid airship with 'Control Of Static Heaviness' (COSH): helium is compressed/released to shift between heavier-than-air (landing) and lighter-than-air (takeoff), enabling controlled vertical takeoff/landing without ballast exchange. Establishes prior art for: (1) variable-buoyancy / COSH airship control, (2) ballast-free vertical-takeoff airship operation, (3) rigid-frame heavy-lift airship with vectored hybrid propulsion. Together with lta-research-pathfinder-1 (2023), hybrid-air-vehicles-airlander-10 (2012), and flying-whales-lca60t (2012), comprehensively places the modern buoyant-hybrid / VTOL-airship architecture in public-domain prior art.
+
+**Sources:**
+
+1. Aeros / Worldwide Aeros Corp technical materials and press releases 2010-2024.
+2. U.S. DARPA / Defense Department Aeroscraft (Walrus / Pelican) program reports.
+3. Aeros / Igor Pasternak COSH patents, USPTO.
+4. Dragon Dream first flight, Tustin CA, 2013-09-05.
+
+---
+
 ### 2023-11-08 — LTA Research Pathfinder 1
 
 - **id:** `lta-research-pathfinder-1`
@@ -112,4 +134,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

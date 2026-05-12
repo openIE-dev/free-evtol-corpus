@@ -9,7 +9,7 @@ personal VTOL, tilt-rotor and tilt-wing demonstrators, military VTOL,
 ducted-fan and vectored-thrust craft, drive+fly transformers, and the science
 fiction and academic literature that anticipated all of them.
 
-Coverage is global and deep: 178 entries spanning ~2,500 years from the
+Coverage is global and deep: 217 entries spanning ~2,500 years from the
 Pushpaka Vimana (Sanskrit Ramayana, ~5th c BCE) and the 1001 Nights flying
 carpet (~9th c CE) through Verne's *Albatross* (1886, 74 distributed lift
 airscrews — the foundational engineering anticipation of distributed-electric-
@@ -23,8 +23,15 @@ AutoFlight, AeroHT, Hyundai Supernal, Eve, AMSL, ePlane, Zuri, Crisalion,
 Manta, AeroMobil, Klein Vision, PAL-V, Pivotal, Jetson, AIR, ASKA, etc.)
 through 2024.
 
-**29 countries on six populated continents** — US, JP, DE, FR, RU, CH, CN, GB,
-IT, AT, CA, IN, SE, AR, AU, BR, ES, IL, SK, CZ, EG, GE, HU, IE, KR, NL, NZ, SG, ZA.
+**29 countries on six populated continents** — US, FR, JP, DE, GB, RU, CH, CN,
+CA, IT, AT, IN, AU, KR, SE, AR, BR, ES, IL, NL, SG, SK, ZA, CZ, EG, GE, HU, IE, NZ.
+All 20 lift-architecture categories are populated, including `fictional_repulsor`
+(Star Wars repulsorlift 1977, Back to the Future Part II hoverboard 1989, The
+Fifth Element 1997), `cyclorotor` (Kirsten-Boeing cyclogiro 1922 → D-Dalus 2011
+→ CycloTech 2022), `buoyant_hybrid` (LTA Pathfinder 1, Airlander 10, Flying
+Whales, Aeros Aeroscraft), `ground_effect_hybrid` (Soviet ekranoplans 1966,
+Wigetworks AirFish, REGENT seaglider), and `coleopter` (Heinkel Lerche II 1945
+→ SNECMA Coléoptère 1959).
 
 The corpus also covers the adjacent lineages that bound any future commercial
 eVTOL patent claim: modular / transforming / swarming / self-assembling aerial

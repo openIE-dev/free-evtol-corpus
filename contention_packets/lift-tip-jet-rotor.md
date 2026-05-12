@@ -1,7 +1,7 @@
 ---
 title: "lift-tip-jet-rotor"
 parent: "Invalidity Contentions"
-nav_order: 31
+nav_order: 32
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `lift-tip-jet-rotor`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
+**Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 1943-05  
 **Most recent disclosure:** 1957-12-20
 
@@ -84,6 +84,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1947-12-07 — Fairey Gyrodyne / Jet Gyrodyne
+
+- **id:** `fairey-gyrodyne`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Fairey Aviation Company
+- **disclosure citation:** Fairey FB-1 Gyrodyne first flight 1947-12-07; set an FAI helicopter speed record 1948-06-28 (124 mph). The Jet Gyrodyne (a modified Gyrodyne with tip-jet rotor drive, 1954) was the direct technology demonstrator for the Fairey Rotodyne. Documented in Fairey company archives and UK Ministry of Supply reports.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `lift-tip-jet-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Fairey Gyrodyne (1947) and Jet Gyrodyne (1954) are the foundational UK compound-autogyro disclosures that led to the Fairey Rotodyne (1957). Establishes prior art for: (1) compound autogyro/helicopter with stub-wing tractor propeller providing both forward thrust and anti-torque (no tail rotor), (2) tip-jet rotor drive in a compound rotorcraft (the Jet Gyrodyne, 1954). UK Ministry of Supply public-domain disclosure. Together with cierva-autogyro (1923), fairey-rotodyne (1957), eurocopter-x3 (2010), and the modern compound-rotorcraft cluster, places compound-rotorcraft architecture in continuous prior art.
+
+**Sources:**
+
+1. Fairey Aviation Company Gyrodyne / Jet Gyrodyne archives.
+2. UK Ministry of Supply Gyrodyne test reports.
+3. Wood, Derek. Project Cancelled. Macdonald & Jane's, 1975.
+
+---
+
 ### 1957-11-06 — Fairey Rotodyne
 
 - **id:** `fairey-rotodyne`
@@ -132,4 +153,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

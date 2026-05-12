@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `control-rotor-failure-reconfiguration`  
-**Entries:** 14 (14 commons-grade, 0 draft)  
+**Entries:** 19 (19 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
-**Most recent disclosure:** 2023-08-16
+**Most recent disclosure:** 2023-11
 
 ---
 
@@ -105,6 +105,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2014-06 — Malloy Aeronautics Hoverbike / US Army JTARV
+
+- **id:** `malloy-aeronautics-hoverbike`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Malloy Aeronautics (United Kingdom; founder Chris Malloy, Australian) — later partnered with SURVICE Engineering / U.S. Army; acquired by BAE Systems 2024
+- **disclosure citation:** Malloy Aeronautics publicly unveiled the Hoverbike (a quadcopter straddle vehicle) at Paris Air Show 2014; partnered with SURVICE Engineering for the U.S. Army's Joint Tactical Aerial Resupply Vehicle (JTARV) programme 2015; the cargo variant became the TRV-150 Tactical Resupply UAS for the U.S. Marine Corps. Malloy Aeronautics acquired by BAE Systems 2024. Documented in Malloy materials and U.S. Army/USMC contract records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Malloy Aeronautics' Hoverbike / U.S. Army JTARV / USMC TRV-150 establishes prior art for the four-ducted-rotor hover-bike-and-cargo-quad family that reached U.S. military service — the crewed Hoverbike and the uncrewed TRV-150 cargo variant on a shared four-ducted-rotor airframe. Establishes prior art for: (1) ducted-rotor hover-bike architecture, (2) crewed-and-uncrewed variants on a common airframe, (3) operational military deployment of a hover-bike-class platform. Acquired by BAE Systems 2024. Together with aerofex-aero-x (2008), hoversurf-s3 (2017), jetpack-aviation-speeder (2021), and the historical personal-platform anchors, comprehensively places hover-bike architecture in commercial and military prior art. (Note: the Malloy TRV-150 is closely related to but distinct from the Skyways/Orb Aerospace TRV-150 lineage — both used the 'TRV-150' designation for USMC tactical-resupply VTOL.)
+
+**Sources:**
+
+1. Malloy Aeronautics Hoverbike / TRV-150 technical materials 2014-2024.
+2. U.S. Army JTARV / USMC TRV-150 Tactical Resupply UAS contract records.
+3. BAE Systems acquisition of Malloy Aeronautics, 2024.
+
+---
+
 ### 2014-08 — NASA GL-10 Greased Lightning
 
 - **id:** `nasa-gl-10`
@@ -186,6 +207,27 @@ cite, copy, or redistribute these contentions.
 1. Aurora Flight Sciences DARPA VTOL X-Plane technical white papers, 2014–2018.
 2. DARPA VTOL X-Plane program reports, available DTIC.
 3. AIAA SciTech / Aviation Forum papers from Aurora team 2014–2018.
+
+---
+
+### 2017 — Alauda Aeronautics Airspeeder (Mk3 / Mk4)
+
+- **id:** `alauda-airspeeder`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Alauda Aeronautics / Airspeeder (Adelaide, Australia) / Matthew Pearson
+- **disclosure citation:** Alauda Aeronautics (founded 2016 in Adelaide by Matthew Pearson) developed the Airspeeder racing eVTOL — the Mk3 (uncrewed remote-piloted racer, first flew 2021, raced in the 'EXA Series' 2022) and the Mk4 (crewed racer, unveiled 2022, designed for the manned Airspeeder Grand Prix). The world's first eVTOL racing series. Documented in Alauda/Airspeeder materials and Australian CASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Alauda Aeronautics' Airspeeder (Mk3 uncrewed 2021, Mk4 crewed 2022) establishes Australian prior art for the racing eVTOL — a high-power-to-weight single-seat (or uncrewed) octocopter designed for close-formation pylon racing, the world's first eVTOL racing series. Establishes prior art for: (1) racing-tuned eVTOL flight envelope and aggressive-maneuvering control, (2) the racing-eVTOL operational concept, (3) crewed/uncrewed variants on a racing airframe. Together with amsl-vertiia (AU, hydrogen passenger eVTOL), deepens Australia's eVTOL footprint. The racing-eVTOL niche is a distinct application alongside passenger air taxi, cargo, personal, and military eVTOL — and Airspeeder is its foundational disclosure.
+
+**Sources:**
+
+1. Alauda Aeronautics / Airspeeder Mk3 / Mk4 technical materials 2017-2024.
+2. Airspeeder EXA Series race records 2022.
+3. Australian CASA (Civil Aviation Safety Authority) Airspeeder filings.
 
 ---
 
@@ -295,6 +337,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019 — teTra Mk-5
+
+- **id:** `tetra-mk-5`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** teTra Aviation Corporation (Tokyo, Japan) / Tasuku Nakai
+- **disclosure citation:** teTra Aviation Corporation (founded 2018 in Tokyo, an outgrowth of GoFly Prize-competing students) revealed the Mk-3 personal eVTOL (2020, GoFly Prize 'Pratt & Whitney Disruptor Award' winner) and subsequently the production Mk-5 single-seat personal eVTOL (2021); first crewed flights and FAA Special Airworthiness Certificate process underway. Documented in teTra materials and GoFly Prize records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-103-ultralight`
+
+**Prior art notes:**
+
+> teTra Mk-5 establishes Japanese prior art for the high-rotor-count single-seat personal eVTOL — a fixed-wing airframe with 32 small distributed lift rotors for hover redundancy plus wing lift for cruise efficiency. A GoFly Prize-derived design. Establishes prior art for: (1) very-high-rotor-count (~32) personal eVTOL with fixed wings, (2) the GoFly Prize lineage of personal-flight designs. Together with skydrive-sd-05 (JP, multirotor air taxi), aska-a5 (JP/US, drive+fly), honda-evtol (JP, hybrid), and the Japanese fictional VTOL anchors, deepens Japan's eVTOL footprint. Together with lift-aircraft-hexa (US, 18-rotor) and ehang-eh216 (CN, 16-rotor), places high-rotor-count personal/small eVTOL architecture in prior art.
+
+**Sources:**
+
+1. teTra Aviation Mk-3 / Mk-5 technical materials 2019-2024.
+2. GoFly Prize competition records (teTra Mk-3, Pratt & Whitney Disruptor Award).
+
+---
+
 ### 2019-08-14 — Volocopter VoloCity
 
 - **id:** `volocopter-volocity`
@@ -313,6 +375,26 @@ cite, copy, or redistribute these contentions.
 1. Volocopter press releases 2013–2024.
 2. EASA SC-VTOL filings, public docket.
 3. Vertical Flight Society Forum technical papers from Volocopter 2014–2024.
+
+---
+
+### 2022-06 — Doroni H1 / H1-X
+
+- **id:** `doroni-h1`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Doroni Aerospace (Fort Lauderdale, Florida) / Doron Merdinger
+- **disclosure citation:** Doroni Aerospace (founded 2016 by Doron Merdinger) unveiled the H1 two-seat personal eVTOL in 2022; first crewed test flight 2023-05; received an FAA Special Airworthiness Certificate (Experimental) 2023; developing the H1-X for FAA Part 23 certification. Designed to fit in a two-car garage and operate from driveways under (intended) Part 103 ultralight or LSA rules. Documented in Doroni materials and FAA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `control-simplified-vehicle-operations`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Doroni H1 establishes US prior art for the garage-storable enclosed-rotor two-seat personal eVTOL — eight ducted lift rotors housed within the airframe body (not on exposed booms), small fixed wings, car-like footprint, driveway operation. Establishes prior art for: (1) fully-enclosed-within-body lift rotors on a personal eVTOL, (2) garage-storable / driveway-operable two-seat personal eVTOL form factor. Together with pivotal-blackfly, jetson-one, lift-aircraft-hexa, alef-model-a, and the historical personal-platform anchors, comprehensively places small-personal eVTOL architecture in prior art.
+
+**Sources:**
+
+1. Doroni Aerospace H1 / H1-X technical materials 2022-2024.
+2. FAA Special Airworthiness Certificate dossier (Doroni H1).
 
 ---
 
@@ -337,6 +419,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-11 — Sarla Aviation Shunya
+
+- **id:** `sarla-aviation-shunya`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sarla Aviation (Bangalore, India)
+- **disclosure citation:** Sarla Aviation (founded 2023 in Bangalore by Adrian Schmidt, Rakesh Gaonkar, and Shivam Chauhan; named after Sarla Thakral, India's first woman pilot) unveiled the Shunya eVTOL air taxi in November 2023, with production targeted for ~2028 in Indian cities (Bangalore, Mumbai, Delhi, Pune); sub-scale prototype work 2024. Documented in Sarla materials and Indian DGCA engagement records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Sarla Aviation Shunya establishes additional Indian prior art for the urban-air-taxi multirotor eVTOL — a five-seat eVTOL designed for short hops in dense Indian cities, the second major Indian eVTOL OEM after ePlane. Establishes Indian depth alongside eplane-company-e200 (IN, lift+cruise) and the Indian fictional flight anchor (Krrish). Together with ehang-eh216 (CN), volocopter-volocity (DE), and the global multirotor air-taxi cluster, places urban-air-taxi multirotor eVTOL architecture in prior art across US, EU, China, India, Japan, Korea, and Brazil lineages.
+
+**Sources:**
+
+1. Sarla Aviation Shunya technical materials 2023-2024.
+2. Indian DGCA (Directorate General of Civil Aviation) UAM engagement records.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -344,4 +446,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

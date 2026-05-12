@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `transition-tail-sitter-pitch-up`
 
-**11 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1944-09
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Focke-Wulf Triebflügel design specification submitted to Reichsluftfahrtministerium 1944-09; never built before WWII end. Design materials captured by Allied technical intelligence (CIOS / BIOS reports) post-war and declassified; documented in Smith and Kay's German Aircraft of the Second World War (1972) and Greenhill Books' Luftwaffe Secret Projects series.
 - **ip status**: public-domain
 - **prior art notes**: Focke-Wulf Triebflügel is the foundational German wartime disclosure of tip-jet rotor architecture combined with tail-sitter VTOL. Establishes prior art for: (1) tip-driven rotor (ramjet at blade tip eliminates need for central torque-cancellation gearbox/anti-torque tail rotor — torque-free lift), (2) the tail-sitter / coleopter VTOL lineage in jet/ramjet form. Allied technical intelligence reports post-1945 placed the design comprehensively in the public domain. Anticipates: tip-jet helicopter programs (Mil V-7, Doblhoff WNF 342, Fairey Rotodyne, Hughes XH-17), and any modern attempt to claim novelty over tip-driven rotor architecture.
+
+## Heinkel Lerche II (1945-02)
+
+- **id**: `heinkel-lerche-ii`
+- **corpus**: academic
+- **creator**: Heinkel Flugzeugwerke / Gerhard Heinkel (Germany, Luftwaffe contract)
+- **disclosure**: Heinkel Lerche II design study completed February 1945; never built before WWII end. An annular-wing tail-sitting VTOL interceptor with contra-rotating propellers inside the wing duct. Design materials captured by Allied technical intelligence and declassified post-war; documented in Smith and Kay's German Aircraft of the Second World War and Luftwaffe Secret Projects volumes.
+- **ip status**: public-domain
+- **prior art notes**: The Heinkel Lerche II (1945) is the German wartime design study that directly anticipates the SNECMA Coléoptère (1959) — an annular-wing tail-sitting VTOL with contra-rotating propellers inside the wing duct. Although never built, the design disclosure is complete in Allied technical intelligence reports declassified post-war, placing the annular-wing coleopter architecture in the public domain from 1945. Together with snecma-coleoptere (1959), avrocar-vz-9 (1958), and convair-xfy-pogo (1954), comprehensively places the coleopter / annular-wing / tail-sitter VTOL design space in public-domain prior art.
 
 ## Lockheed XFV-1 Salmon (1954-03-23)
 

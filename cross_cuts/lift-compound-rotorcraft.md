@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-compound-rotorcraft`
 
-**12 corpus entries disclose this subsystem.**
+**15 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1923-01-09
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Doblhoff WNF 342 first hover 1943-05; first transition flight 1944-09. Captured by Allied forces 1945; Doblhoff subsequently emigrated to USA and worked at McDonnell on tip-jet helicopters (1947-1956). Documented in Allied technical intelligence reports and McDonnell tip-jet program archives.
 - **ip status**: public-domain
 - **prior art notes**: Doblhoff WNF 342 is the first tip-jet rotor helicopter to fly. Establishes prior art for: (1) tip-jet rotor propulsion in working form (predates Focke-Wulf Triebflügel's tip-ramjet by months but with simpler combustion-burner-at-tip architecture), (2) compound rotorcraft architecture switching between hover (rotor powered by tip-burners) and cruise (rotor autorotates, forward thrust via tractor propeller), (3) the no-anti-torque-tail-rotor architecture via tip-driven rotor. Doblhoff's emigration to McDonnell carried the technology directly into the U.S. tip-jet helicopter lineage.
+
+## Fairey Gyrodyne / Jet Gyrodyne (1947-12-07)
+
+- **id**: `fairey-gyrodyne`
+- **corpus**: academic
+- **creator**: Fairey Aviation Company
+- **disclosure**: Fairey FB-1 Gyrodyne first flight 1947-12-07; set an FAI helicopter speed record 1948-06-28 (124 mph). The Jet Gyrodyne (a modified Gyrodyne with tip-jet rotor drive, 1954) was the direct technology demonstrator for the Fairey Rotodyne. Documented in Fairey company archives and UK Ministry of Supply reports.
+- **ip status**: public-domain
+- **prior art notes**: The Fairey Gyrodyne (1947) and Jet Gyrodyne (1954) are the foundational UK compound-autogyro disclosures that led to the Fairey Rotodyne (1957). Establishes prior art for: (1) compound autogyro/helicopter with stub-wing tractor propeller providing both forward thrust and anti-torque (no tail rotor), (2) tip-jet rotor drive in a compound rotorcraft (the Jet Gyrodyne, 1954). UK Ministry of Supply public-domain disclosure. Together with cierva-autogyro (1923), fairey-rotodyne (1957), eurocopter-x3 (2010), and the modern compound-rotorcraft cluster, places compound-rotorcraft architecture in continuous prior art.
 
 ## Fairey Rotodyne (1957-11-06)
 
@@ -78,6 +87,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The Sikorsky/DARPA X-Wing (RSRA-based, 1986) is the foundational disclosure of the stopped-rotor / rotor-wing architecture: a rigid rotor with circulation control that spins for hover, then stops to act as a fixed X-shaped wing for high-speed cruise. Establishes prior art for: (1) stoppable-in-flight rigid rotor that doubles as a fixed wing, (2) circulation-control (blown) rotor blades enabling lift across the full azimuth, (3) the rotor-stop-and-restart transition concept. Although in-flight rotor stop was never demonstrated before cancellation, the design disclosure is complete in NASA/DARPA documentation. Anticipates: any modern eVTOL claim involving stoppable lift rotors that become fixed lifting surfaces (a recurring concept in high-speed-cruise VTOL proposals).
 
+## CarterCopter / Carter PAV (1998-09)
+
+- **id**: `cartercopter`
+- **corpus**: private
+- **creator**: Carter Aviation Technologies (Wichita Falls, Texas) / Jay Carter Jr
+- **disclosure**: Carter Aviation Technologies' CarterCopter Technology Demonstrator first flight September 1998; achieved 'Mu-1' (rotor advance ratio of 1.0 — flying as fast as the rotor tips advance, the holy grail of slowed-rotor compounds) on 2005-06-17, a documented first. The Carter PAV (Personal Air Vehicle) followed (2011). Carter's slowed-rotor technology was later licensed to Jaunt Air Mobility for an eVTOL. Documented in Carter Aviation technical papers and patents.
+- **ip status**: patented
+- **prior art notes**: The CarterCopter / Carter PAV (Carter Aviation, 1998-2011) is the foundational modern disclosure of 'Slowed Rotor/Compound' (SR/C) technology — a high-inertia rotor that spins fast for jump-takeoff (stored kinetic energy), then is dramatically slowed in cruise while a wing carries lift and a pusher provides thrust, reaching rotor advance ratios > 1.0 (the 'Mu-1' milestone, documented 2005). Establishes prior art for: (1) high-inertia jump-takeoff rotor, (2) dramatic rotor-RPM reduction in cruise (slowed-rotor compound), (3) the wing-offloads-rotor-in-cruise compound architecture. Carter's SR/C patents were licensed to Jaunt Air Mobility for an eVTOL. Together with autogyro/compound anchors (Cierva 1923, Fairey Gyrodyne 1947, Fairey Rotodyne 1957), karem-ar40 (2008, optimum-speed rotor), jaunt-air-mobility (2019), and overair-butterfly (2020), comprehensively places slowed-rotor / variable-RPM-rotor compound architecture in public-domain and licensed prior art.
+
 ## Eurocopter X3 (2010-09-06)
 
 - **id**: `eurocopter-x3`
@@ -113,6 +131,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sikorsky-Boeing SB>1 Defiant first flight 2019-03-21 at West Palm Beach FL (U.S. Army Future Vertical Lift / Joint Multi-Role Technology Demonstrator program). Predecessor Sikorsky X2 first flight 2008-08-27. Sikorsky holds extensive coaxial-rigid-rotor patent estate.
 - **ip status**: patented
 - **prior art notes**: Sikorsky-Boeing Defiant establishes prior art for: (1) modern rigid coaxial counter-rotating rotor design overcoming retreating-blade-stall speed limits, (2) compound rotorcraft architecture (lift rotor + auxiliary cruise propulsion). Although not eVTOL, the architectural patterns directly anticipate any modern compound-rotorcraft eVTOL (Jaunt Journey, Karem AR40) claiming coaxial-plus-pusher novelty.
+
+## Jaunt Air Mobility Journey (2019-06)
+
+- **id**: `jaunt-air-mobility`
+- **corpus**: private
+- **creator**: Jaunt Air Mobility LLC (Montreal, Canada / Texas, USA) — subsidiary of AIRO Group; licensed Carter Aviation SR/C technology
+- **disclosure**: Jaunt Air Mobility (founded 2019, headquartered in Montreal with Texas operations, a subsidiary of the AIRO Group) unveiled the Journey eVTOL — a slowed-rotor compound electric VTOL using 'ROSA' (Reduced rOtor Speed Aircraft) technology licensed from Carter Aviation — in 2019; selected for the U.S. Air Force AFWERX Agility Prime programme 2020. Documented in Jaunt Air Mobility materials, AFWERX records, and AIRO Group SEC filings (NASDAQ: AIRO).
+- **ip status**: patented
+- **prior art notes**: Jaunt Air Mobility's Journey eVTOL establishes Canadian/US prior art for the slowed-rotor-compound electric VTOL — a single large rotor that spins fast for jump-takeoff then slows dramatically in cruise while a wing carries lift and electric pushers provide thrust ('ROSA', licensed from Carter Aviation). A distinct eVTOL architecture from the multirotor and tilt-rotor approaches. Establishes prior art for: (1) slowed-rotor-compound electric VTOL, (2) jump-takeoff stored-inertia rotor in an electric eVTOL, (3) the wing-offloads-slowed-rotor-in-cruise eVTOL configuration. Together with cartercopter (1998, the SR/C origin), karem-ar40 (2008, optimum-speed rotor), and overair-butterfly (2020, OSR eVTOL), comprehensively places slowed/variable-RPM-rotor compound eVTOL architecture in prior art. Adds another Canadian entry alongside Horizon Aircraft and the Avro Canada Avrocar heritage.
 
 ## Airbus RACER (2024-04-25)
 

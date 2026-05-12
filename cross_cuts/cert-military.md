@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-military`
 
-**38 corpus entries disclose this subsystem.**
+**46 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941-10-30
 
@@ -41,6 +41,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Focke-Wulf Triebflügel design specification submitted to Reichsluftfahrtministerium 1944-09; never built before WWII end. Design materials captured by Allied technical intelligence (CIOS / BIOS reports) post-war and declassified; documented in Smith and Kay's German Aircraft of the Second World War (1972) and Greenhill Books' Luftwaffe Secret Projects series.
 - **ip status**: public-domain
 - **prior art notes**: Focke-Wulf Triebflügel is the foundational German wartime disclosure of tip-jet rotor architecture combined with tail-sitter VTOL. Establishes prior art for: (1) tip-driven rotor (ramjet at blade tip eliminates need for central torque-cancellation gearbox/anti-torque tail rotor — torque-free lift), (2) the tail-sitter / coleopter VTOL lineage in jet/ramjet form. Allied technical intelligence reports post-1945 placed the design comprehensively in the public domain. Anticipates: tip-jet helicopter programs (Mil V-7, Doblhoff WNF 342, Fairey Rotodyne, Hughes XH-17), and any modern attempt to claim novelty over tip-driven rotor architecture.
+
+## Heinkel Lerche II (1945-02)
+
+- **id**: `heinkel-lerche-ii`
+- **corpus**: academic
+- **creator**: Heinkel Flugzeugwerke / Gerhard Heinkel (Germany, Luftwaffe contract)
+- **disclosure**: Heinkel Lerche II design study completed February 1945; never built before WWII end. An annular-wing tail-sitting VTOL interceptor with contra-rotating propellers inside the wing duct. Design materials captured by Allied technical intelligence and declassified post-war; documented in Smith and Kay's German Aircraft of the Second World War and Luftwaffe Secret Projects volumes.
+- **ip status**: public-domain
+- **prior art notes**: The Heinkel Lerche II (1945) is the German wartime design study that directly anticipates the SNECMA Coléoptère (1959) — an annular-wing tail-sitting VTOL with contra-rotating propellers inside the wing duct. Although never built, the design disclosure is complete in Allied technical intelligence reports declassified post-war, placing the annular-wing coleopter architecture in the public domain from 1945. Together with snecma-coleoptere (1959), avrocar-vz-9 (1958), and convair-xfy-pogo (1954), comprehensively places the coleopter / annular-wing / tail-sitter VTOL design space in public-domain prior art.
+
+## Piasecki H-21 / HRP Rescuer (1945-03-07)
+
+- **id**: `piasecki-h-21`
+- **corpus**: academic
+- **creator**: Piasecki Helicopter Corporation / U.S. Navy / U.S. Army / U.S. Air Force
+- **disclosure**: Piasecki PV-3 / XHRP-1 Rescuer first flight 1945-03-07; the production H-21 Workhorse/Shawnee entered service 1949. Frank Piasecki's tandem-rotor (overlapping fore-and-aft rotors) architecture became one of the two dominant heavy-helicopter configurations (the other being Sikorsky's single-main-rotor). Documented in U.S. Navy/Army technical orders and Smithsonian collections.
+- **ip status**: patented
+- **prior art notes**: The Piasecki H-21 / HRP Rescuer (Frank Piasecki, 1945) is the foundational disclosure of the tandem-rotor helicopter architecture — two large counter-rotating rotors fore and aft, synchronized to cancel torque without a tail rotor. Establishes prior art for: (1) tandem-rotor lift architecture (ancestor of the Boeing CH-47 Chinook), (2) overlapping-rotor synchronization, (3) torque cancellation between two main lift rotors. Piasecki's 1940s patents are long expired. The tandem-rotor configuration is relevant prior art for any eVTOL using fore-and-aft lift-rotor pairs (a recurring lift+cruise and multirotor geometry). Combined with de-bothezat-quadrotor (1922) and convertawings-model-a (1956), places multi-rotor lift architectures comprehensively in mid-20th-century prior art.
+
+## Yakovlev Yak-24 (1952-07-03)
+
+- **id**: `yak-24`
+- **corpus**: academic
+- **creator**: Yakovlev Design Bureau
+- **disclosure**: Yakovlev Yak-24 first flight 1952-07-03; entered limited Soviet service 1955. A tandem-rotor heavy transport helicopter — the Soviet answer to the Piasecki tandem-rotor configuration. Set FAI payload records 1956. Documented in Yakovlev OKB archives (post-1991 declassified) and Gunston's Soviet aircraft references.
+- **ip status**: public-domain
+- **prior art notes**: The Yakovlev Yak-24 (1952) is the Soviet tandem-rotor heavy helicopter — the Soviet counterpart to the Piasecki H-21, demonstrating the tandem-rotor architecture in an independently-developed lineage. Soviet government work, fully in the public domain post-1991. Together with piasecki-h-21 (1945), places tandem-rotor lift architecture in cross-national prior art. Adds another Russian/Soviet entry to the deep Soviet rotorcraft heritage (TsAGI 1-EA, de Bothezat, Mil V-12, Kamov lineage, Yak VTOL fighters, Mil tip-jet, Mil Mi-30 tilt-rotor).
 
 ## Kaman HH-43 Huskie (1953-09-13)
 
@@ -96,6 +123,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The VZ-7 is one of three contemporaneous U.S. Army 'flying jeep' programs (with the Chrysler VZ-6 and Piasecki VZ-8) that disclosed the modern open-rotor quadrotor architecture in 1958, controlled by differential rotor thrust at the four corners of an X-frame. Establishes a 1958 anchor for: (1) corner-mounted open-rotor quad configuration, (2) cross-shafted single-engine drive of four lift rotors (mechanical analogue of modern electric quadrotors with DC-link power sharing), (3) differential-thrust attitude allocation. Combined with de-bothezat-quadrotor (1922), this places the basic open-rotor quadrotor lift architecture in the public domain a full half-century before any modern multirotor patent attempt. The Hoversurf S3 and Aerofex hover bike as well as Jetson ONE all sit downstream of this disclosure.
 
+## Chrysler VZ-6 (1958)
+
+- **id**: `chrysler-vz-6`
+- **corpus**: academic
+- **creator**: Chrysler Corporation / U.S. Army Transportation Research Command
+- **disclosure**: Chrysler VZ-6 'flying jeep' first (and essentially only) flight tests 1959 at Chrysler's facility — it proved unstable and overweight and the program ended quickly. The third of the three U.S. Army 'flying jeep' programs (with Curtiss-Wright VZ-7 and Piasecki VZ-8). Documented in U.S. Army TRC reports.
+- **ip status**: public-domain
+- **prior art notes**: The Chrysler VZ-6 (1958-1959) is the third of the three U.S. Army 'flying jeep' programs, completing the trio with the Curtiss-Wright VZ-7 (open quadrotor) and the Piasecki VZ-8 Airgeep (tandem open rotors). The VZ-6 used twin ducted lift fans fore and aft of the pilot with exhaust-vane attitude control. Establishes additional U.S. public-domain prior art for: (1) twin-ducted-fan personal/light flying-platform architecture, (2) exhaust-vane attitude control. Together with curtiss-wright-vz-7, piasecki-vz-8-airgeep, hiller-vz-1-pawnee, and de-lackner-hz-1-aerocycle, comprehensively places the 1955-1958 'flying jeep' / personal-platform design space in public-domain prior art.
+
 ## Doak VZ-4 (1958-02-25)
 
 - **id**: `doak-vz-4`
@@ -150,6 +186,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: Lockheed XV-4 Hummingbird establishes prior art for the ejector-augmenter VTOL architecture: dedicated lift through an air-entrainment ejector that multiplies engine thrust during hover. Although the augmenter approach proved less efficient than direct-lift jets and was not adopted in subsequent VTOL designs, the disclosure is complete in U.S. government documentation. Filed against any modern attempt to claim novelty over thrust-augmenting ejector VTOL configurations, this is anticipating prior art.
 
+## Ryan XV-5 Vertifan (1964-05-25)
+
+- **id**: `ryan-xv-5-vertifan`
+- **corpus**: academic
+- **creator**: Ryan Aeronautical Company / U.S. Army / NASA
+- **disclosure**: Ryan XV-5A Vertifan first flight 1964-05-25; first transition 1964-11-05. A 'lift-fan' VTOL using gas-driven lift fans embedded in the wings and nose. U.S. Army / NASA program; flew through the late 1960s. Documented in NASA and U.S. Army test reports.
+- **ip status**: patented
+- **prior art notes**: The Ryan XV-5 Vertifan (1964) is the foundational disclosure of the gas-driven tip-turbine lift fan — large lift fans embedded in the wings/nose, driven by turbojet exhaust gas routed to turbines on the fan rims (rather than mechanical shafts), with the fans covered by louvres for cruise. Establishes prior art for: (1) tip-turbine gas-coupled lift fans, (2) fan-in-wing embedded lift, (3) divert-exhaust mode transition. General Electric's 1960s tip-turbine lift-fan patents are expired. Together with vanguard-omniplane (1959, mechanically-driven fan-in-wing) and lockheed-xv-4-hummingbird (1962, ejector-augmenter), places fan-in-wing / embedded-lift-fan VTOL architecture comprehensively in 1959-1964 public-domain prior art — directly relevant to Lilium's ducted-fan-array eVTOL and modern fan-in-wing eVTOL concepts.
+
 ## Yakovlev Yak-36 (1964-07)
 
 - **id**: `yak-36-freehand`
@@ -185,6 +230,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bell X-22A first flight 1966-03-17 at Niagara Falls; first transition from hover to cruise 1966-08-22. NASA, Air Force, and Navy joint test reports widely available.
 - **ip status**: public-domain
 - **prior art notes**: The X-22A is the most thoroughly tested tilt-duct VTOL aircraft. Establishes prior art for: (1) four-corner tilt-duct architecture, (2) ducted fans as primary lift with cross-shafted multi-engine drive, (3) variable-stability flight research providing 800+ flight hours of transition envelope data published in NASA reports. The X-22's combination of tilt and ducting anticipates modern ducted-fan-array concepts (Lilium Jet's 36 ducted fans is a multiplicity extension of this 4-fan arrangement). Combined with Doak VZ-4 (1958), places tilt-duct architectures comprehensively in the public domain by 1966.
+
+## Alexeyev KM 'Caspian Sea Monster' / Lun-class ekranoplan (1966-10-16)
+
+- **id**: `alexeyev-ekranoplan-km`
+- **corpus**: academic
+- **creator**: Rostislav Alexeyev / Central Hydrofoil Design Bureau (TsKB SPK), Soviet Navy
+- **disclosure**: The Alexeyev KM ekranoplan ('Korabl-Maket', dubbed the 'Caspian Sea Monster' by U.S. intelligence) first flight 1966-10-16 on the Caspian Sea; the production Lun-class ekranoplan (Project 903) entered Soviet Navy service 1987. Wing-in-ground-effect (WIG) craft flying a few meters above the water on a captured air cushion. Declassified post-1991; documented in Russian naval-aviation histories and Western intelligence reports.
+- **ip status**: public-domain
+- **prior art notes**: The Alexeyev KM 'Caspian Sea Monster' and the production Lun-class ekranoplan (1966-1987) are the foundational large-scale disclosure of the wing-in-ground-effect (WIG) / ekranoplan architecture — a winged craft flying meters above water on a captured air cushion, with power-augmented ram for takeoff. Soviet government work, fully in the public domain post-1991. Although not vertical-takeoff, WIG craft are eVTOL-adjacent (the corpus covers ground-effect hybrids). The ekranoplan is the direct ancestor of modern electric seagliders (REGENT Viceroy, 2021) and modern WIG craft (Wigetworks AirFish). Establishes prior art for: (1) WIG / ekranoplan flight, (2) power-augmented-ram takeoff blowing under the wing, (3) the few-meters-above-water cruise regime that modern electric seagliders target.
 
 ## Dornier Do 31 (1967-02-10)
 
@@ -312,6 +366,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The F-35B is the production STOVL fighter that descends from Hawker P.1127 (vectored thrust), Yak-141 (3BSM), and the X-35B JSF demonstrator. Establishes prior art for: (1) clutched lift-fan gearbox driven by main engine shaft (lift-fan disengages for cruise), (2) production-grade 3BSM aft nozzle, (3) integrated 3BSM + lift-fan + roll-post hover trim system. The Bevilaqua lift-fan patent (US 6,732,529) is set to expire in 2019–2020 (filed 1999). After expiration, the lift-fan-with-clutch architecture is in the public domain — relevant for any future eVTOL claiming similar clutched-cruise-fan arrangements.
 
+## AeroVironment Nano Hummingbird (2011-02-17)
+
+- **id**: `aerovironment-nano-hummingbird`
+- **corpus**: academic
+- **creator**: AeroVironment Inc / DARPA
+- **disclosure**: AeroVironment Nano Hummingbird publicly disclosed 2011-02-17 as the result of DARPA's Nano Air Vehicle (NAV) programme — a flapping-wing drone the size and shape of a hummingbird, able to hover, fly forward, and carry a camera. Documented in DARPA NAV programme reports and AeroVironment materials; named one of Time magazine's '50 Best Inventions of 2011'.
+- **ip status**: patented
+- **prior art notes**: The AeroVironment Nano Hummingbird (DARPA NAV programme, 2011) is the foundational disclosure of the bird-mimetic flapping-wing drone capable of sustained controlled hover and forward flight with an onboard camera — attitude controlled purely by wing-kinematics modulation, no tail or control surfaces. Establishes prior art for: (1) hovering flapping-wing drone at bird scale, (2) wing-twist-and-flap combined lift/thrust generation, (3) camera-carrying flapping-wing MAV. Together with tu-delft-delfly (2005), festo-smartbird (2011), harvard-robobee (2013), and the historical/fictional flapping-wing anchors (da Vinci 1485, Dune 1965, Laputa 1986), comprehensively places flapping-wing flight architecture in deep prior art.
+
 ## Boeing Phantom Swift (2013-03-19)
 
 - **id**: `boeing-phantom-swift`
@@ -320,6 +383,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boeing Phantom Swift design publicly disclosed at AHS Forum 2013-05 as Boeing's response to DARPA VTOL X-Plane Phase 1 (2013-03-19). Sub-scale tethered hover demonstrator flown 2014. Boeing did not advance to Phase 3 (Aurora won).
 - **ip status**: patented
 - **prior art notes**: Boeing Phantom Swift is Boeing's response to DARPA VTOL X-Plane (2013) — the architectural mirror to Aurora LightningStrike with hybrid fuselage-internal lift fans + wingtip tilt-ducts. Although not selected for Phase 3, the design disclosure is in the public domain via DARPA program documentation. Establishes additional US prior-art lineage for: (1) hybrid lift-fan + tilt-duct architecture, (2) lockheed-xv-4-hummingbird-style augmenter-wing lift fans in modern tilt-duct context.
+
+## Malloy Aeronautics Hoverbike / US Army JTARV (2014-06)
+
+- **id**: `malloy-aeronautics-hoverbike`
+- **corpus**: private
+- **creator**: Malloy Aeronautics (United Kingdom; founder Chris Malloy, Australian) — later partnered with SURVICE Engineering / U.S. Army; acquired by BAE Systems 2024
+- **disclosure**: Malloy Aeronautics publicly unveiled the Hoverbike (a quadcopter straddle vehicle) at Paris Air Show 2014; partnered with SURVICE Engineering for the U.S. Army's Joint Tactical Aerial Resupply Vehicle (JTARV) programme 2015; the cargo variant became the TRV-150 Tactical Resupply UAS for the U.S. Marine Corps. Malloy Aeronautics acquired by BAE Systems 2024. Documented in Malloy materials and U.S. Army/USMC contract records.
+- **ip status**: patented
+- **prior art notes**: Malloy Aeronautics' Hoverbike / U.S. Army JTARV / USMC TRV-150 establishes prior art for the four-ducted-rotor hover-bike-and-cargo-quad family that reached U.S. military service — the crewed Hoverbike and the uncrewed TRV-150 cargo variant on a shared four-ducted-rotor airframe. Establishes prior art for: (1) ducted-rotor hover-bike architecture, (2) crewed-and-uncrewed variants on a common airframe, (3) operational military deployment of a hover-bike-class platform. Acquired by BAE Systems 2024. Together with aerofex-aero-x (2008), hoversurf-s3 (2017), jetpack-aviation-speeder (2021), and the historical personal-platform anchors, comprehensively places hover-bike architecture in commercial and military prior art. (Note: the Malloy TRV-150 is closely related to but distinct from the Skyways/Orb Aerospace TRV-150 lineage — both used the 'TRV-150' designation for USMC tactical-resupply VTOL.)
 
 ## Sikorsky S-97 Raider (2015-05-22)
 

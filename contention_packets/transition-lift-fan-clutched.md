@@ -1,7 +1,7 @@
 ---
 title: "transition-lift-fan-clutched"
 parent: "Invalidity Contentions"
-nav_order: 47
+nav_order: 48
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-12  
 **Cross-cut tag:** `transition-lift-fan-clutched`  
-**Entries:** 4 (4 commons-grade, 0 draft)  
-**Earliest disclosure:** 1967-02-10  
+**Entries:** 5 (5 commons-grade, 0 draft)  
+**Earliest disclosure:** 1964-05-25  
 **Most recent disclosure:** 2008-06-11
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1964-05-25 — Ryan XV-5 Vertifan
+
+- **id:** `ryan-xv-5-vertifan`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Ryan Aeronautical Company / U.S. Army / NASA
+- **disclosure citation:** Ryan XV-5A Vertifan first flight 1964-05-25; first transition 1964-11-05. A 'lift-fan' VTOL using gas-driven lift fans embedded in the wings and nose. U.S. Army / NASA program; flew through the late 1960s. Documented in NASA and U.S. Army test reports.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `transition-lift-fan-clutched`, `transition-mode-shutdown`, `cert-military`
+
+**Prior art notes:**
+
+> The Ryan XV-5 Vertifan (1964) is the foundational disclosure of the gas-driven tip-turbine lift fan — large lift fans embedded in the wings/nose, driven by turbojet exhaust gas routed to turbines on the fan rims (rather than mechanical shafts), with the fans covered by louvres for cruise. Establishes prior art for: (1) tip-turbine gas-coupled lift fans, (2) fan-in-wing embedded lift, (3) divert-exhaust mode transition. General Electric's 1960s tip-turbine lift-fan patents are expired. Together with vanguard-omniplane (1959, mechanically-driven fan-in-wing) and lockheed-xv-4-hummingbird (1962, ejector-augmenter), places fan-in-wing / embedded-lift-fan VTOL architecture comprehensively in 1959-1964 public-domain prior art — directly relevant to Lilium's ducted-fan-array eVTOL and modern fan-in-wing eVTOL concepts.
+
+**Sources:**
+
+1. NASA / U.S. Army Ryan XV-5 Vertifan test reports.
+2. General Electric tip-turbine lift-fan patents, USPTO, 1960s.
+3. Markman and Holder. Straight Up. Schiffer, 2000.
+
+---
 
 ### 1967-02-10 — Dornier Do 31
 
@@ -135,4 +156,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `d899fde`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*

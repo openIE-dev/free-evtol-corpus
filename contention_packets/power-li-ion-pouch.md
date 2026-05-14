@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `power-li-ion-pouch`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `power-li-ion-pouch`  
-**Entries:** 42 (42 commons-grade, 0 draft)  
+**Entries:** 44 (44 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-06  
 **Most recent disclosure:** 2024-04-04
 
@@ -60,6 +60,27 @@ cite, copy, or redistribute these contentions.
 1. Malloy Aeronautics Hoverbike / TRV-150 technical materials 2014-2024.
 2. U.S. Army JTARV / USMC TRV-150 Tactical Resupply UAS contract records.
 3. BAE Systems acquisition of Malloy Aeronautics, 2024.
+
+---
+
+### 2015-08 — Joby S2
+
+- **id:** `joby-s2`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Joby Aviation (Santa Cruz, California)
+- **disclosure citation:** Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
+
+**Sources:**
+
+1. Bevirt, JoeBen et al. Joby S2 technical white paper, 2015.
+2. Joby Aviation S-1 SEC filing 2020 (history section).
+3. Vertical Flight Society Forum technical papers from Joby engineering 2015-2018.
 
 ---
 
@@ -479,6 +500,26 @@ cite, copy, or redistribute these contentions.
 1. Kitty Hawk Corporation press releases 2019-2022.
 2. Vertical Flight Society Forum 76 paper, 'Heaviside,' 2020.
 3. TED Talk archive, Page/Kitty Hawk presentations 2018-2020.
+
+---
+
+### 2019-10-30 — Volocopter VoloDrone
+
+- **id:** `volocopter-volodrone`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volocopter GmbH (Bruchsal, Germany)
+- **disclosure citation:** Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`, `safety-redundant-bus`
+
+**Prior art notes:**
+
+> Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
+
+**Sources:**
+
+1. Volocopter VoloDrone press materials and demonstrations 2019-2024.
+2. DB Schenker / Volocopter cargo logistics partnership records.
 
 ---
 
@@ -928,4 +969,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

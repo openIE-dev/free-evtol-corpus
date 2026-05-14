@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `power-hybrid-genset`
 
-**13 corpus entries disclose this subsystem.**
+**14 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-08
 
@@ -95,6 +95,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sabrewing Aircraft Rhaegal-A unveiled April 2019; sub-scale prototype hover trials 2020. Designed for 4,500 lb (2,040 kg) cargo capacity in unmanned configuration. Documented in Sabrewing technical materials and FAA filings.
 - **ip status**: patented
 - **prior art notes**: Sabrewing Rhaegal-A establishes US prior art for heavy-cargo (2-ton class) hybrid-electric eVTOL with ducted-fan architecture. Distinct from Elroy Air Chaparral by larger payload and ducted-fan rather than open-rotor lift. Anticipates other heavy-cargo eVTOL claims filed post-2019.
+
+## Pipistrel Nuuva V300 (2019-10-15)
+
+- **id**: `pipistrel-nuuva-v300`
+- **corpus**: private
+- **creator**: Pipistrel (Slovenia; acquired by Textron 2022)
+- **disclosure**: Pipistrel (a Slovenian light-aircraft maker, the manufacturer of the Velis Electro — the first type-certified electric aeroplane) unveiled the Nuuva V300 hybrid VTOL cargo aircraft 2019-10-15; Pipistrel acquired by Textron 2022-04. The Nuuva V300 is intended as a heavy-cargo lift+cruise hybrid-electric eVTOL. Documented in Pipistrel/Textron materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Pipistrel Nuuva V300 establishes Slovenian prior art for the hybrid-electric heavy-cargo eVTOL — eight electric lift rotors plus a single combustion-driven cruise pusher, designed for ~460 kg cargo over ~2,500 km range. Adds Slovenia (SI) to the global eVTOL OEM map. Pipistrel's parent company is Textron (also owner of Bell Textron) — the Pipistrel-Textron-Bell axis creates an integrated tilt-rotor + hybrid-cargo + electric-fixed-wing eVTOL family. Together with elroy-air-chaparral, sabrewing-rhaegal-a, wingcopter-198, pyka-pelican, amsl-vertiia, autoflight-prosperity-i, dji-flycart-30, and orb-aerospace-nomad, comprehensively places hybrid-electric cargo eVTOL architecture in commercial prior art across nine national/regional lineages.
 
 ## Manta Aircraft ANN2 (2020-04)
 

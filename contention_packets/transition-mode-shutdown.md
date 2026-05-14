@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `transition-mode-shutdown`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `transition-mode-shutdown`  
-**Entries:** 26 (26 commons-grade, 0 draft)  
+**Entries:** 27 (27 commons-grade, 0 draft)  
 **Earliest disclosure:** 1959  
 **Most recent disclosure:** 2022-08
 
@@ -357,6 +357,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-10-15 — Pipistrel Nuuva V300
+
+- **id:** `pipistrel-nuuva-v300`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Pipistrel (Slovenia; acquired by Textron 2022)
+- **disclosure citation:** Pipistrel (a Slovenian light-aircraft maker, the manufacturer of the Velis Electro — the first type-certified electric aeroplane) unveiled the Nuuva V300 hybrid VTOL cargo aircraft 2019-10-15; Pipistrel acquired by Textron 2022-04. The Nuuva V300 is intended as a heavy-cargo lift+cruise hybrid-electric eVTOL. Documented in Pipistrel/Textron materials and EASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Pipistrel Nuuva V300 establishes Slovenian prior art for the hybrid-electric heavy-cargo eVTOL — eight electric lift rotors plus a single combustion-driven cruise pusher, designed for ~460 kg cargo over ~2,500 km range. Adds Slovenia (SI) to the global eVTOL OEM map. Pipistrel's parent company is Textron (also owner of Bell Textron) — the Pipistrel-Textron-Bell axis creates an integrated tilt-rotor + hybrid-cargo + electric-fixed-wing eVTOL family. Together with elroy-air-chaparral, sabrewing-rhaegal-a, wingcopter-198, pyka-pelican, amsl-vertiia, autoflight-prosperity-i, dji-flycart-30, and orb-aerospace-nomad, comprehensively places hybrid-electric cargo eVTOL architecture in commercial prior art across nine national/regional lineages.
+
+**Sources:**
+
+1. Pipistrel Nuuva V300 technical materials 2019-2024.
+2. Textron acquisition of Pipistrel, 2022-04 disclosures.
+3. EASA SC-VTOL public docket (Pipistrel).
+
+---
+
 ### 2020-03-10 — Beta Technologies Alia-250
 
 - **id:** `beta-alia-250`
@@ -593,4 +614,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

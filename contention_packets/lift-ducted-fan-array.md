@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `lift-ducted-fan-array`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-ducted-fan-array`  
-**Entries:** 14 (14 commons-grade, 0 draft)  
+**Entries:** 15 (15 commons-grade, 0 draft)  
 **Earliest disclosure:** 1959  
 **Most recent disclosure:** 2021-09
 
@@ -273,6 +273,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019 — Bellwether Industries Volar
+
+- **id:** `bellwether-volar`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bellwether Industries (London, United Kingdom)
+- **disclosure citation:** Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `lift-vectored-thrust`, `propulsion-hybrid-series`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
+
+**Sources:**
+
+1. Bellwether Industries Volar / Antelope technical materials 2019-2024.
+
+---
+
 ### 2019-04 — Sabrewing Rhaegal-A
 
 - **id:** `sabrewing-rhaegal-a`
@@ -341,4 +360,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

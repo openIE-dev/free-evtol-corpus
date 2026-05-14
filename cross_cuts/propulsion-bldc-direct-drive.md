@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `propulsion-bldc-direct-drive`
 
-**54 corpus entries disclose this subsystem.**
+**59 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2011-10-21
 
@@ -68,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fredericks, William J. et al. 'Aerodynamic Characteristics of an Electric Distributed Propulsion Wind Tunnel Model.' AHS International Forum 70, May 2014; subsequent flight test reports through 2015 documented in NASA TM-2017-219653 and related.
 - **ip status**: public-domain
 - **prior art notes**: GL-10 is NASA's foundational disclosure of distributed electric propulsion (DEP) applied to tilt-wing VTOL. Establishes prior art for: (1) ten-rotor wing-distributed electric lift architecture, (2) hybrid genset+battery propulsion topology for VTOL, (3) DEP-specific control allocation including rotor-failure reconfiguration. NASA's publication of GL-10 design and test data is comprehensive and CC-licensed by virtue of being U.S. government work. Anticipates: lift-plus-cruise commercial eVTOLs that use DEP across a wing (Beta Alia, Wisk Cora variants), and any DEP-specific control allocation patents filed post-2014. Combined with X-57 Maxwell, GL-10 places DEP comprehensively in the public domain.
+
+## Joby S2 (2015-08)
+
+- **id**: `joby-s2`
+- **corpus**: private
+- **creator**: Joby Aviation (Santa Cruz, California)
+- **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **ip status**: patented
+- **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
 
 ## NASA X-57 Maxwell (2016-06-17)
 
@@ -231,6 +240,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: teTra Mk-5 establishes Japanese prior art for the high-rotor-count single-seat personal eVTOL — a fixed-wing airframe with 32 small distributed lift rotors for hover redundancy plus wing lift for cruise efficiency. A GoFly Prize-derived design. Establishes prior art for: (1) very-high-rotor-count (~32) personal eVTOL with fixed wings, (2) the GoFly Prize lineage of personal-flight designs. Together with skydrive-sd-05 (JP, multirotor air taxi), aska-a5 (JP/US, drive+fly), honda-evtol (JP, hybrid), and the Japanese fictional VTOL anchors, deepens Japan's eVTOL footprint. Together with lift-aircraft-hexa (US, 18-rotor) and ehang-eh216 (CN, 16-rotor), places high-rotor-count personal/small eVTOL architecture in prior art.
 
+## Bellwether Industries Volar (2019)
+
+- **id**: `bellwether-volar`
+- **corpus**: private
+- **creator**: Bellwether Industries (London, United Kingdom)
+- **disclosure**: Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **ip status**: patented
+- **prior art notes**: Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
+
 ## Elroy Air Chaparral C1 (2019-01-30)
 
 - **id**: `elroy-air-chaparral`
@@ -275,6 +293,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kitty Hawk Heaviside publicly unveiled 2019-10-03 at TED Conference / Wired25 Festival; first manned flight 2019-09. Kitty Hawk Corporation (funded by Larry Page) ceased operations 2022-09-21. Documented in Kitty Hawk press releases and the public technical paper 'Heaviside: A Single-Pilot eVTOL Aircraft' (Vertical Flight Society, 2020).
 - **ip status**: patented
 - **prior art notes**: Kitty Hawk Heaviside establishes US prior art for ultralight-class single-pilot tilt-rotor eVTOL with explicit low-noise design optimization. Although Kitty Hawk Corporation ceased operations 2022, the Heaviside disclosure is comprehensive — Larry Page-funded program with VFS Forum technical paper publication and Kitty Hawk's continued patent portfolio licensable through successor entities. Kitty Hawk also produced Cora (which became Wisk Aero after the Boeing JV, covered separately).
+
+## Pipistrel Nuuva V300 (2019-10-15)
+
+- **id**: `pipistrel-nuuva-v300`
+- **corpus**: private
+- **creator**: Pipistrel (Slovenia; acquired by Textron 2022)
+- **disclosure**: Pipistrel (a Slovenian light-aircraft maker, the manufacturer of the Velis Electro — the first type-certified electric aeroplane) unveiled the Nuuva V300 hybrid VTOL cargo aircraft 2019-10-15; Pipistrel acquired by Textron 2022-04. The Nuuva V300 is intended as a heavy-cargo lift+cruise hybrid-electric eVTOL. Documented in Pipistrel/Textron materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Pipistrel Nuuva V300 establishes Slovenian prior art for the hybrid-electric heavy-cargo eVTOL — eight electric lift rotors plus a single combustion-driven cruise pusher, designed for ~460 kg cargo over ~2,500 km range. Adds Slovenia (SI) to the global eVTOL OEM map. Pipistrel's parent company is Textron (also owner of Bell Textron) — the Pipistrel-Textron-Bell axis creates an integrated tilt-rotor + hybrid-cargo + electric-fixed-wing eVTOL family. Together with elroy-air-chaparral, sabrewing-rhaegal-a, wingcopter-198, pyka-pelican, amsl-vertiia, autoflight-prosperity-i, dji-flycart-30, and orb-aerospace-nomad, comprehensively places hybrid-electric cargo eVTOL architecture in commercial prior art across nine national/regional lineages.
+
+## Volocopter VoloDrone (2019-10-30)
+
+- **id**: `volocopter-volodrone`
+- **corpus**: private
+- **creator**: Volocopter GmbH (Bruchsal, Germany)
+- **disclosure**: Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
 
 ## Beta Technologies Alia-250 (2020-03-10)
 
@@ -338,6 +374,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: New Horizon Aircraft (Canadian, founded 2013, public on NASDAQ as HOVR via SPAC merger 2024) unveiled the Cavorite X5 hybrid eVTOL in 2021; 50%-scale prototype first conventional flight 2023-11 and first full transition 2024-11. The Cavorite uses a 'fan-in-wing' design — fourteen lift fans embedded in the wings, covered by sliding panels in cruise so the aircraft flies as a conventional fixed-wing. Documented in Horizon Aircraft materials and SEC filings (named for H.G. Wells's anti-gravity material 'Cavorite').
 - **ip status**: patented
 - **prior art notes**: Horizon Aircraft Cavorite X5 establishes Canadian prior art for the modern 'fan-in-wing' hybrid eVTOL — fourteen electric lift fans embedded in the wing structure, covered by sliding panels in cruise so the wing becomes a clean conventional wing with a single pusher. Establishes prior art for: (1) modern panel-covered fan-in-wing eVTOL, (2) hybrid-electric fan-in-wing architecture, (3) the wing-as-clean-wing-in-cruise design. Directly descended in concept from vanguard-omniplane (1959) and ryan-xv-5-vertifan (1964). Together with these and lilium-jet (ducted-fan-array), aurora-lightningstrike-xv-24a (tilt-wing ducted-fan), and bell-nexus-4ex (tilt-duct), comprehensively places ducted-fan / fan-in-wing eVTOL architecture in prior art. Adds Canadian depth alongside Jaunt Air Mobility and the Avro Canada Avrocar heritage.
+
+## Maca Carcopter S11 (2021-09)
+
+- **id**: `maca-carcopter`
+- **corpus**: private
+- **creator**: MACA Industries (Toulouse, France) / Michaël Carchidi
+- **disclosure**: MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
+- **ip status**: patented
+- **prior art notes**: MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
 
 ## Geely Aerofugia AE200 (2021-09-14)
 

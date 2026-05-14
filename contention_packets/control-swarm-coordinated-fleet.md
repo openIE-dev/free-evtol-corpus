@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-swarm-coordinated-fleet`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-swarm-coordinated-fleet`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-12-02  
@@ -132,4 +132,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

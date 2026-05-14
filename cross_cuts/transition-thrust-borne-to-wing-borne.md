@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `transition-thrust-borne-to-wing-borne`
 
-**60 corpus entries disclose this subsystem.**
+**61 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-11
 
@@ -392,6 +392,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ArduPilot QuadPlane functionality first merged into ArduPlane main branch 2015-04 (commit history available at github.com/ArduPilot/ardupilot); first general public release with QuadPlane support: ArduPlane 3.5.0, 2015-12-14.
 - **ip status**: open-copyleft
 - **prior art notes**: ArduPilot QuadPlane is the GPL-licensed reference implementation of generic VTOL flight control. Establishes prior art (under GPL, but the architectural disclosure is unencumbered as prior art for patent purposes) for: (1) generic transition controller for lift+cruise, tilt-rotor, tilt-wing, and tail-sitter VTOLs, (2) rotor-failure detection and reconfiguration in multirotor lift, (3) Q_ASSIST transitional thrust assist algorithms. The git commit history provides timestamped disclosure of every subsystem-level innovation. Filed against any post-2015 patent claim on basic VTOL transition control or rotor-failure reconfiguration in multirotor lift, this is anticipating prior art.
+
+## Joby S2 (2015-08)
+
+- **id**: `joby-s2`
+- **corpus**: private
+- **creator**: Joby Aviation (Santa Cruz, California)
+- **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **ip status**: patented
+- **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
 
 ## Aurora Flight Sciences LightningStrike XV-24A (2016-03-03)
 

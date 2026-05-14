@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `autonomy-pilot-removed`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `autonomy-pilot-removed`  
-**Entries:** 27 (27 commons-grade, 0 draft)  
+**Entries:** 29 (29 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
 **Most recent disclosure:** 2023-08-16
 
@@ -101,6 +101,27 @@ cite, copy, or redistribute these contentions.
 1. AFRL technical reports on SkyTote, AFRL/MN-WR-TR-2004-001 series.
 2. AeroVironment publications and patent estate.
 3. AHS Forum papers from AeroVironment 2003–2008.
+
+---
+
+### 2005 — DLR ARTIS / SuperARTIS
+
+- **id:** `dlr-superartis`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Deutsches Zentrum für Luft- und Raumfahrt (DLR) Institute of Flight Systems / Stephan Adolf / Florian-Michael Adolf
+- **disclosure citation:** DLR ARTIS (Autonomous Rotorcraft Testbed for Intelligent Systems) first flight 2005; SuperARTIS (larger 24 kg variant) entered service ~2010 at DLR Braunschweig. The German Aerospace Center's autonomous-rotorcraft research platform. Foundational reference paper: Adolf, F.M., Andert, F. 'Onboard mission management for a VTOL UAV using sequence and supervisory control.' AHS Forum, 2011. Subsequent papers through 2015-2020 expanded ARTIS / SuperARTIS capability.
+- **disclosed subsystems:** `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `sensing-lidar-terrain`, `cert-experimental`
+
+**Prior art notes:**
+
+> DLR ARTIS / SuperARTIS (2005-) is the German Aerospace Center's autonomous-rotorcraft research platform — adds DLR (the German national aerospace research agency) to the academic aerial-robotics prior-art base alongside the existing US (UPenn GRASP, MIT, Harvard, NASA Langley/Ames/Armstrong), Swiss (ETH, EPFL, UZH), Japanese (Tokyo JSK), Dutch (TU Delft), Italian (Bologna), Austrian (IAT-21, CycloTech), Australian (ArduPilot), and Swiss-academic (Crazyflie at Bitcraze) anchors. The DLR ARTIS publications (F.M. Adolf, F. Andert, et al.) document mission-management, sense-and-avoid, and autonomous-rotorcraft control through 2005-2020.
+
+**Sources:**
+
+1. Adolf, F.M., Andert, F. 'Onboard mission management for a VTOL UAV using sequence and supervisory control.' AHS Forum, 2011.
+2. DLR Institute of Flight Systems publications archive (Braunschweig).
+3. Andert, F., Adolf, F.M. et al. ARTIS / SuperARTIS technical reports 2005-2020.
 
 ---
 
@@ -545,6 +566,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-10-30 — Volocopter VoloDrone
+
+- **id:** `volocopter-volodrone`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volocopter GmbH (Bruchsal, Germany)
+- **disclosure citation:** Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`, `safety-redundant-bus`
+
+**Prior art notes:**
+
+> Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
+
+**Sources:**
+
+1. Volocopter VoloDrone press materials and demonstrations 2019-2024.
+2. DB Schenker / Volocopter cargo logistics partnership records.
+
+---
+
 ### 2020-09 — Manna Air Delivery drone
 
 - **id:** `manna-air-delivery`
@@ -615,4 +656,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

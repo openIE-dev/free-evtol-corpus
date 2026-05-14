@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-easa-special-condition-vtol`
 
-**20 corpus entries disclose this subsystem.**
+**23 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2014-07
 
@@ -69,6 +69,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: SkyDrive SD-05 is Japan's lead passenger eVTOL, with Japan Civil Aviation Bureau type-certification application accepted 2021-10. The 12-motor coaxial-pair architecture is similar to EHang EH216-S; the program establishes Japanese prior-art lineage for multirotor passenger eVTOL and the JCAB SC-VTOL-equivalent certification approach. Originated in the volunteer CARTIVATOR project (2012), one of the earliest organized open-development eVTOL efforts.
 
+## Bellwether Industries Volar (2019)
+
+- **id**: `bellwether-volar`
+- **corpus**: private
+- **creator**: Bellwether Industries (London, United Kingdom)
+- **disclosure**: Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **ip status**: patented
+- **prior art notes**: Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
+
 ## Lilium Jet (7-seat) (2019-05-16)
 
 - **id**: `lilium-jet`
@@ -86,6 +95,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: VoloCity production-design unveiling 2019-08-14 at Helsinki ITS World Congress; precursor VC-200 first manned flight 2013-11-17; first public manned demo at Singapore 2019-10-22. EASA SC-VTOL certification process actively pursued; targeted operations Paris 2024 / 2026 commercial rollouts.
 - **ip status**: patented
 - **prior art notes**: Volocopter VoloCity is the production design descending from e-volo VC1 (2011, first manned multicopter flight). 18-rotor circular-ring multirotor architecture, EASA SC-VTOL certification basis. Establishes the German prior-art lineage from e-volo through Volocopter for circular-ring multirotor passenger eVTOL — foundational and predates EHang in manned-flight precedence.
+
+## Pipistrel Nuuva V300 (2019-10-15)
+
+- **id**: `pipistrel-nuuva-v300`
+- **corpus**: private
+- **creator**: Pipistrel (Slovenia; acquired by Textron 2022)
+- **disclosure**: Pipistrel (a Slovenian light-aircraft maker, the manufacturer of the Velis Electro — the first type-certified electric aeroplane) unveiled the Nuuva V300 hybrid VTOL cargo aircraft 2019-10-15; Pipistrel acquired by Textron 2022-04. The Nuuva V300 is intended as a heavy-cargo lift+cruise hybrid-electric eVTOL. Documented in Pipistrel/Textron materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Pipistrel Nuuva V300 establishes Slovenian prior art for the hybrid-electric heavy-cargo eVTOL — eight electric lift rotors plus a single combustion-driven cruise pusher, designed for ~460 kg cargo over ~2,500 km range. Adds Slovenia (SI) to the global eVTOL OEM map. Pipistrel's parent company is Textron (also owner of Bell Textron) — the Pipistrel-Textron-Bell axis creates an integrated tilt-rotor + hybrid-cargo + electric-fixed-wing eVTOL family. Together with elroy-air-chaparral, sabrewing-rhaegal-a, wingcopter-198, pyka-pelican, amsl-vertiia, autoflight-prosperity-i, dji-flycart-30, and orb-aerospace-nomad, comprehensively places hybrid-electric cargo eVTOL architecture in commercial prior art across nine national/regional lineages.
+
+## Volocopter VoloDrone (2019-10-30)
+
+- **id**: `volocopter-volodrone`
+- **corpus**: private
+- **creator**: Volocopter GmbH (Bruchsal, Germany)
+- **disclosure**: Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
 
 ## Manta Aircraft ANN2 (2020-04)
 

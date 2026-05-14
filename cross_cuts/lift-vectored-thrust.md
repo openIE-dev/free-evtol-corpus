@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-vectored-thrust`
 
-**35 corpus entries disclose this subsystem.**
+**39 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-11
 
@@ -213,6 +213,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Miyazaki's Tolmekian gunship establishes a Japanese cinematic disclosure of heavy military VTOL with multi-fan distributed lift architecture. The Art of Nausicaä (Tokuma Shoten, 1984) and the 1982-1994 manga provide detailed engineering depictions beyond the film. Establishes additional non-anglosphere fictional prior-art base for ducted-fan-array VTOL (with bladerunner-spinner and lilium-jet).
 
+## Landmate exoskeleton + VTOL transports (Appleseed) (1985-02)
+
+- **id**: `appleseed-landmate`
+- **corpus**: fictional
+- **creator**: Masamune Shirow / Seishinsha / Bandai Visual
+- **disclosure**: Masamune Shirow. Appleseed (アップルシード) manga, first serialized 1985-02 in Seishinsha's Comic Gaia (later collected as four volumes 1985-1989). Subsequent anime adaptations (1988 OVA, 2004 film, 2007 Appleseed Ex Machina, 2014 Appleseed Alpha) develop the depictions of the Landmate powered exoskeleton (with VTOL-augmented jumps in later versions) and the various Olympus VTOL military transports. Documented in Shirow's published manga, the Appleseed Databook (Seishinsha, 1990), and successor anime production materials.
+- **ip status**: fictional
+- **prior art notes**: Masamune Shirow's Appleseed (manga 1985, anime adaptations through 2014) is one of the foundational Japanese cyberpunk-mecha franchises — featuring the Landmate powered exoskeleton (with VTOL-augmented leaps in later depictions) and detailed VTOL military transports. Adds another Shirow-designed entry to the corpus (with the existing ghost-in-the-shell-tiltrotor 1989) — Shirow is among the most engineering-rigorous mecha designers in anime history. Together with iron-man-suit (1963) and SoloTrek XFV (2001 real), places powered-exoskeleton VTOL architecture in cross-decade fictional + real prior art.
+
 ## UD-4L Cheyenne dropship (Aliens) (1986-07-18)
 
 - **id**: `aliens-cheyenne-dropship`
@@ -239,6 +248,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Moller Skycar M200X (predecessor) first tethered hover 1989-04; M400 design publicly disclosed 1990 with continuous development through 2010s; first untethered M400 flight 2003-04 (limited tethered hover to 5 m). Moller holds the largest single inventor's portfolio of VTOL flying-car patents (>40 issued patents 1965-2015).
 - **ip status**: patented
 - **prior art notes**: Moller Skycar M400 is the foundational disclosure of the four-nacelle tilting-ducted-fan flying-car architecture. Although the M400 never achieved sustained free flight, Paul Moller's continuously-published patent portfolio (40+ issued US patents 1965-2015) constitutes the deepest single-inventor prior art base for VTOL flying-car designs. Establishes prior art for: (1) four-nacelle tilting-ducted-fan architecture, (2) Wankel rotary engine for VTOL propulsion, (3) clamshell thrust-vectoring deflectors. Most Moller patents have expired or are nearing expiration. Anticipates virtually every modern ducted-fan eVTOL (Lilium, AutoFlight, etc.) on architectural primitives.
+
+## Vanship (Last Exile) (2003-04-07)
+
+- **id**: `last-exile-vanship`
+- **corpus**: fictional
+- **creator**: Koichi Chigira / Range Murata (mecha design) / Gonzo (studio)
+- **disclosure**: Last Exile (ラスト エグザイル Rasuto Eguzairu), directed by Koichi Chigira, first broadcast 2003-04-07 on TV Tokyo (Japan). The Vanship — a small two-seat steampunk flying machine controlled by foot-pedals and a sidestick — is the series' iconic personal aircraft, designed by Range Murata. Documented in Last Exile production design books (Gonzo, 2003-2011) and Range Murata art books.
+- **ip status**: fictional
+- **prior art notes**: Range Murata's Vanship design (Last Exile, 2003) is a canonical steampunk-aesthetic Japanese fictional personal-VTOL — small two-seat, foot-pedal-and-sidestick controlled, with Claudia anti-grav lift plus rear-exhaust propulsion. Murata's published design materials provide engineering-grade depictions. Adds another Japanese fictional anchor with a distinctive 1920s-30s racing-aircraft aesthetic, complementing the futuristic-mecha (Macross, Patlabor, Ghost in the Shell, Gundam) and the Miyazaki organic (Laputa, Nausicaä) Japanese fictional VTOL clusters.
 
 ## Lockheed Martin F-35B Lightning II (2008-06-11)
 
@@ -294,6 +312,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Gravity Industries Daedalus jet suit establishes the modern British iteration of Bell Rocket Belt prior art — the multi-turbojet body-mounted personal-flight architecture. Adds 50+ years of incremental disclosure to the personal-VTOL design space, with arm-mounted thrust effectors as primary control distinguishing from Bell's hand-throttle. Filed against any modern personal-flight patent attempt asserting novelty over body-mounted multi-turbojet architecture, this entry combined with bell-rocket-belt is anticipating prior art.
 
+## Royal Talon Fighter (Black Panther) (2018-02-16)
+
+- **id**: `black-panther-royal-talon`
+- **corpus**: fictional
+- **creator**: Ryan Coogler / Marvel Studios / Disney / Hannah Beachler (production design)
+- **disclosure**: Black Panther, directed by Ryan Coogler, U.S. theatrical release 2018-02-16 — featuring the Royal Talon Fighter, the Wakandan flagship VTOL aircraft used by T'Challa and the Dora Milaje. Production design by Hannah Beachler (the first African American production designer to win an Academy Award, for this film). Documented in Marvel Studios Black Panther production design books and Beachler's design materials.
+- **ip status**: fictional
+- **prior art notes**: The Royal Talon Fighter (Black Panther, Hannah Beachler production design, 2018) establishes a culturally-distinct US-cinema VTOL anchor — Wakandan/Afro-futurist visual-design aesthetics applied to a fictional combat VTOL. Adds to the global fictional VTOL prior-art base alongside the existing American (Aliens, Avatar, Iron Man, Bubbleship, BTTF, Fifth Element, Star Trek, Star Wars), Japanese (Macross, Patlabor, Ghost in the Shell, Gundam, Laputa, Nausicaä, Doraemon, Last Exile, Appleseed), British (Thunderbird 2), Soviet/Georgian (Kin-dza-dza), Argentinian (Eternauta), South African (District 9), Chinese (Wandering Earth), Indian (Krrish), and Korean (Space Sweepers) fictional anchors.
+
 ## Pegasus Vertical Business Jet (2018-11-08)
 
 - **id**: `pegasus-universal-aerospace`
@@ -302,6 +329,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pegasus Vertical Business Jet design publicly unveiled 2018-11-08 at Aero South Africa; subsequent design refinements 2020–2024. Pegasus Universal Aerospace founded 2017 by Reza Mia. South African Civil Aviation Authority engagement on certification framework 2021 onward.
 - **ip status**: patented
 - **prior art notes**: Pegasus Vertical Business Jet is South Africa's lead commercial VTOL design — distinct architectural commitment to executive-jet operations (2,200 km range, 400 kt cruise) with VTOL hover capability. Establishes African continental prior-art lineage for commercial VTOL business aviation distinct from urban air taxi. Architecturally similar to Lockheed Martin / Aurora LightningStrike (XV-24A, US military 2016) in fuselage-internal lift fan + cruise jet topology.
+
+## Bellwether Industries Volar (2019)
+
+- **id**: `bellwether-volar`
+- **corpus**: private
+- **creator**: Bellwether Industries (London, United Kingdom)
+- **disclosure**: Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **ip status**: patented
+- **prior art notes**: Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
 
 ## Lazareth LMV 496 (2019-09)
 

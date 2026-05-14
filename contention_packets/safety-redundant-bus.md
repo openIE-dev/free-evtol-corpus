@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `safety-redundant-bus`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `safety-redundant-bus`  
-**Entries:** 28 (28 commons-grade, 0 draft)  
+**Entries:** 29 (29 commons-grade, 0 draft)  
 **Earliest disclosure:** 1989-03-19  
 **Most recent disclosure:** 2024-04-04
 
@@ -337,6 +337,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019-10-30 — Volocopter VoloDrone
+
+- **id:** `volocopter-volodrone`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volocopter GmbH (Bruchsal, Germany)
+- **disclosure citation:** Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`, `safety-redundant-bus`
+
+**Prior art notes:**
+
+> Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
+
+**Sources:**
+
+1. Volocopter VoloDrone press materials and demonstrations 2019-2024.
+2. DB Schenker / Volocopter cargo logistics partnership records.
+
+---
+
 ### 2020-03-10 — Beta Technologies Alia-250
 
 - **id:** `beta-alia-250`
@@ -638,4 +658,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

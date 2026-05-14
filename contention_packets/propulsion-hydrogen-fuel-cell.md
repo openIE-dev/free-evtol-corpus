@@ -7,11 +7,11 @@ layout: default
 
 # Invalidity Contention Packet — `propulsion-hydrogen-fuel-cell`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `propulsion-hydrogen-fuel-cell`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
+**Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-07  
-**Most recent disclosure:** 2021-03
+**Most recent disclosure:** 2021-09
 
 ---
 
@@ -83,6 +83,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-09 — Maca Carcopter S11
+
+- **id:** `maca-carcopter`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** MACA Industries (Toulouse, France) / Michaël Carchidi
+- **disclosure citation:** MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-hydrogen-fuel-cell`, `propulsion-bldc-direct-drive`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
+
+**Sources:**
+
+1. MACA Industries S11 Carcopter technical materials and IAA Mobility 2021 unveiling.
+2. MACA Industries press materials 2021-2024.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -90,4 +110,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

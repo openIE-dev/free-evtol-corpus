@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-tilt-rotor`
 
-**28 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-11
 
@@ -140,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Oblivion, directed by Joseph Kosinski, U.S. theatrical release 2013-04-10 — featuring the 'Bubbleship', a small two-seat VTOL reconnaissance/maintenance craft with a transparent bubble cockpit and twin tilting rotor/fan pods. Vehicle designed by Daniel Simon (former Bugatti designer; also designed the Tron Legacy Light Cycle). Documented in Oblivion production design materials and Daniel Simon's published design portfolios.
 - **ip status**: fictional
 - **prior art notes**: The Oblivion Bubbleship (Daniel Simon design, 2013) is among the most engineering-detailed fictional small-VTOL designs — a two-seat tilt-rotor with a panoramic bubble cockpit, designed by ex-Bugatti designer Daniel Simon with documented tilt-mechanism and rotor-geometry notes. Establishes prior art for the two-seat bubble-canopy tilt-rotor configuration. Frequently cited as a visual reference for two-seat eVTOL concepts (the bubble canopy + twin tilting pods aesthetic). Together with bladerunner-spinner (1982), the Macross/Ghost-in-the-Shell/Patlabor Japanese tilt-rotor fictional anchors, avatar-samson-scorpion (2009), and the real tilt-rotor cluster (Bell XV-3 1955 onward), places fictional and real tilt-rotor architecture in comprehensive prior art.
+
+## Joby S2 (2015-08)
+
+- **id**: `joby-s2`
+- **corpus**: private
+- **creator**: Joby Aviation (Santa Cruz, California)
+- **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **ip status**: patented
+- **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
 
 ## Wingcopter 198 (2017-04-26)
 

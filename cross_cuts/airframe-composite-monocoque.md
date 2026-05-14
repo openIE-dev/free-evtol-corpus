@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `airframe-composite-monocoque`
 
-**57 corpus entries disclose this subsystem.**
+**62 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1978-11-09
 
@@ -59,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PAL-V One prototype first flight 2012-04-01; PAL-V Liberty production design unveiled 2017-03-07 at Geneva Motor Show; received EASA Type Certificate Part 27 (CS-27) for autogyro mode 2024-04-29. PAL-V founded 2008 by John Bakker.
 - **ip status**: patented
 - **prior art notes**: PAL-V Liberty is the Netherlands' lead drive+fly transformer — architecturally distinct from Slovak peers (Klein/AeroMobil) by using autogyro lift rather than fixed-wing flight. Holds EASA Type Certificate Part 27 (autogyro mode), 2024-04-29 — the world's first type-certified flying car under autogyro classification. Direct architectural descendant of Cierva autogyro (1923) in road-legal passenger form factor.
+
+## Joby S2 (2015-08)
+
+- **id**: `joby-s2`
+- **corpus**: private
+- **creator**: Joby Aviation (Santa Cruz, California)
+- **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **ip status**: patented
+- **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
 
 ## Orb Aerospace Nomad (2017)
 
@@ -240,6 +249,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The Joby S4 is the lead commercial tilt-rotor electric eVTOL. Direct architectural descendant of bell-xv-15 (1977) and v-22-osprey (1989) — Joby's tilt geometry, conversion corridor, and gimbaled prop-rotor topology are classical tilt-rotor architecture with electric distributed propulsion substituted for cross-shafted turboshaft. Establishes prior art for: (1) six-rotor tilt-rotor with stop-in-cruise props, (2) BLDC direct-drive tilt-rotor propulsion, (3) Part 23 SVO certification basis. Joby's patent estate (US 10,994,841 et seq.) covers specific implementations but is anticipated on the architectural level by XV-15 and V-22 disclosures.
 
+## Bellwether Industries Volar (2019)
+
+- **id**: `bellwether-volar`
+- **corpus**: private
+- **creator**: Bellwether Industries (London, United Kingdom)
+- **disclosure**: Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **ip status**: patented
+- **prior art notes**: Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
+
 ## Bell Nexus 4EX (2019-01-07)
 
 - **id**: `bell-nexus-4ex`
@@ -284,6 +302,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: VoloCity production-design unveiling 2019-08-14 at Helsinki ITS World Congress; precursor VC-200 first manned flight 2013-11-17; first public manned demo at Singapore 2019-10-22. EASA SC-VTOL certification process actively pursued; targeted operations Paris 2024 / 2026 commercial rollouts.
 - **ip status**: patented
 - **prior art notes**: Volocopter VoloCity is the production design descending from e-volo VC1 (2011, first manned multicopter flight). 18-rotor circular-ring multirotor architecture, EASA SC-VTOL certification basis. Establishes the German prior-art lineage from e-volo through Volocopter for circular-ring multirotor passenger eVTOL — foundational and predates EHang in manned-flight precedence.
+
+## Pipistrel Nuuva V300 (2019-10-15)
+
+- **id**: `pipistrel-nuuva-v300`
+- **corpus**: private
+- **creator**: Pipistrel (Slovenia; acquired by Textron 2022)
+- **disclosure**: Pipistrel (a Slovenian light-aircraft maker, the manufacturer of the Velis Electro — the first type-certified electric aeroplane) unveiled the Nuuva V300 hybrid VTOL cargo aircraft 2019-10-15; Pipistrel acquired by Textron 2022-04. The Nuuva V300 is intended as a heavy-cargo lift+cruise hybrid-electric eVTOL. Documented in Pipistrel/Textron materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Pipistrel Nuuva V300 establishes Slovenian prior art for the hybrid-electric heavy-cargo eVTOL — eight electric lift rotors plus a single combustion-driven cruise pusher, designed for ~460 kg cargo over ~2,500 km range. Adds Slovenia (SI) to the global eVTOL OEM map. Pipistrel's parent company is Textron (also owner of Bell Textron) — the Pipistrel-Textron-Bell axis creates an integrated tilt-rotor + hybrid-cargo + electric-fixed-wing eVTOL family. Together with elroy-air-chaparral, sabrewing-rhaegal-a, wingcopter-198, pyka-pelican, amsl-vertiia, autoflight-prosperity-i, dji-flycart-30, and orb-aerospace-nomad, comprehensively places hybrid-electric cargo eVTOL architecture in commercial prior art across nine national/regional lineages.
+
+## Volocopter VoloDrone (2019-10-30)
+
+- **id**: `volocopter-volodrone`
+- **corpus**: private
+- **creator**: Volocopter GmbH (Bruchsal, Germany)
+- **disclosure**: Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
 
 ## Beta Technologies Alia-250 (2020-03-10)
 
@@ -374,6 +410,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: New Horizon Aircraft (Canadian, founded 2013, public on NASDAQ as HOVR via SPAC merger 2024) unveiled the Cavorite X5 hybrid eVTOL in 2021; 50%-scale prototype first conventional flight 2023-11 and first full transition 2024-11. The Cavorite uses a 'fan-in-wing' design — fourteen lift fans embedded in the wings, covered by sliding panels in cruise so the aircraft flies as a conventional fixed-wing. Documented in Horizon Aircraft materials and SEC filings (named for H.G. Wells's anti-gravity material 'Cavorite').
 - **ip status**: patented
 - **prior art notes**: Horizon Aircraft Cavorite X5 establishes Canadian prior art for the modern 'fan-in-wing' hybrid eVTOL — fourteen electric lift fans embedded in the wing structure, covered by sliding panels in cruise so the wing becomes a clean conventional wing with a single pusher. Establishes prior art for: (1) modern panel-covered fan-in-wing eVTOL, (2) hybrid-electric fan-in-wing architecture, (3) the wing-as-clean-wing-in-cruise design. Directly descended in concept from vanguard-omniplane (1959) and ryan-xv-5-vertifan (1964). Together with these and lilium-jet (ducted-fan-array), aurora-lightningstrike-xv-24a (tilt-wing ducted-fan), and bell-nexus-4ex (tilt-duct), comprehensively places ducted-fan / fan-in-wing eVTOL architecture in prior art. Adds Canadian depth alongside Jaunt Air Mobility and the Avro Canada Avrocar heritage.
+
+## Maca Carcopter S11 (2021-09)
+
+- **id**: `maca-carcopter`
+- **corpus**: private
+- **creator**: MACA Industries (Toulouse, France) / Michaël Carchidi
+- **disclosure**: MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
+- **ip status**: patented
+- **prior art notes**: MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
 
 ## Geely Aerofugia AE200 (2021-09-14)
 

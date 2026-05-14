@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-distributed-electric-propulsion`
 
-**102 corpus entries disclose this subsystem.**
+**109 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -32,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cornu helicopter first untethered free flight 1907-11-13 at Coquainvilliers, Normandy, by Paul Cornu — 20 cm altitude for 20 seconds. The first manned heavier-than-air rotorcraft to leave the ground in free flight. Documented in Cornu's contemporary technical papers and FAI archives.
 - **ip status**: public-domain
 - **prior art notes**: Paul Cornu's 1907 helicopter is the first free-flying piloted heavier-than-air rotorcraft in human history — predating the de Bothezat quadrotor by 15 years. Establishes prior art for: (1) twin-rotor manned rotorcraft architecture with cross-belt single-engine drive, (2) the foundational concept of practical vertical lift via airfoil-type rotors. Cornu's design materials are in the French public domain (creator died 1944, copyright in design specifications long expired). Combined with verne-albatross (1886) and pescara-helicopter (1922), comprehensively places multi-rotor manned VTOL in pre-1925 prior art.
+
+## Berliner helicopter (1922-06-16)
+
+- **id**: `berliner-helicopter`
+- **corpus**: academic
+- **creator**: Henry Berliner / Emile Berliner / Berliner Aircraft Company
+- **disclosure**: Henry Berliner (son of Emile Berliner, inventor of the gramophone) demonstrated his first practical helicopter to the U.S. Army at College Park MD on 1922-06-16 — the same year as the de Bothezat quadrotor and the Pescara coaxial helicopter. The Berliner machine made tethered hops and short free flights through 1925. Documented in U.S. Army Air Service reports, Smithsonian National Air and Space Museum collections (a Berliner is preserved at College Park), and Berliner family papers.
+- **ip status**: public-domain
+- **prior art notes**: Henry Berliner's 1922 helicopter is the parallel American disclosure to the de Bothezat quadrotor and Pescara coaxial — three independent 1922 manned-multirotor disclosures across the U.S., Argentina/France, and France. Establishes prior art for: (1) lateral side-by-side twin-rotor architecture in 1922 (predating Focke-Wulf Fa 61 by 14 years), (2) the parallel-track development of practical rotorcraft across multiple national prior-art bases. The U.S. Army Air Service evaluated the Berliner alongside the de Bothezat. Berliner's patents are long expired.
 
 ## de Bothezat helicopter (1922-12-18)
 
@@ -86,6 +95,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Piasecki PV-3 / XHRP-1 Rescuer first flight 1945-03-07; the production H-21 Workhorse/Shawnee entered service 1949. Frank Piasecki's tandem-rotor (overlapping fore-and-aft rotors) architecture became one of the two dominant heavy-helicopter configurations (the other being Sikorsky's single-main-rotor). Documented in U.S. Navy/Army technical orders and Smithsonian collections.
 - **ip status**: patented
 - **prior art notes**: The Piasecki H-21 / HRP Rescuer (Frank Piasecki, 1945) is the foundational disclosure of the tandem-rotor helicopter architecture — two large counter-rotating rotors fore and aft, synchronized to cancel torque without a tail rotor. Establishes prior art for: (1) tandem-rotor lift architecture (ancestor of the Boeing CH-47 Chinook), (2) overlapping-rotor synchronization, (3) torque cancellation between two main lift rotors. Piasecki's 1940s patents are long expired. The tandem-rotor configuration is relevant prior art for any eVTOL using fore-and-aft lift-rotor pairs (a recurring lift+cruise and multirotor geometry). Combined with de-bothezat-quadrotor (1922) and convertawings-model-a (1956), places multi-rotor lift architectures comprehensively in mid-20th-century prior art.
+
+## Cierva W.11 Air Horse (1948-12-08)
+
+- **id**: `cierva-air-horse`
+- **corpus**: academic
+- **creator**: Cierva Autogiro Company / Cunliffe-Owen Aircraft (UK)
+- **disclosure**: Cierva W.11 Air Horse first flight 1948-12-08 at Eastleigh, Hampshire. The largest helicopter in the world at the time — three large rotors arranged in tandem (forward, port-aft, starboard-aft) driven by a single Rolls-Royce Merlin engine via cross-shafting. Cancelled after a fatal crash 1950. Documented in Cierva / Cunliffe-Owen archives and UK Ministry of Supply reports.
+- **ip status**: public-domain
+- **prior art notes**: The Cierva W.11 Air Horse (1948) is the foundational disclosure of the three-rotor heavy-lift helicopter architecture — three large rotors arranged at the corners of a triangle, cross-shafted to a single engine. The largest helicopter in the world at the time, predating the Soviet Mil V-12 (1968, two-rotor lateral) and the Sikorsky CH-53E (1974). Establishes UK prior art for triangular-three-rotor lift architecture — a distinct multirotor configuration from the X-frame quadrotor (de Bothezat 1922), tandem (Piasecki 1945), lateral (Focke-Wulf Fa 61 1936, Berliner 1922), and coaxial (Pescara 1922) lineages. Cierva's post-Juan-de-la-Cierva company carried the Cierva-name autogyro/rotorcraft tradition into the post-war heavy-lift era.
 
 ## Yakovlev Yak-24 (1952-07-03)
 
@@ -348,6 +366,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-copyleft
 - **prior art notes**: ArduPilot QuadPlane is the GPL-licensed reference implementation of generic VTOL flight control. Establishes prior art (under GPL, but the architectural disclosure is unencumbered as prior art for patent purposes) for: (1) generic transition controller for lift+cruise, tilt-rotor, tilt-wing, and tail-sitter VTOLs, (2) rotor-failure detection and reconfiguration in multirotor lift, (3) Q_ASSIST transitional thrust assist algorithms. The git commit history provides timestamped disclosure of every subsystem-level innovation. Filed against any post-2015 patent claim on basic VTOL transition control or rotor-failure reconfiguration in multirotor lift, this is anticipating prior art.
 
+## Joby S2 (2015-08)
+
+- **id**: `joby-s2`
+- **corpus**: private
+- **creator**: Joby Aviation (Santa Cruz, California)
+- **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **ip status**: patented
+- **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
+
 ## Aurora Flight Sciences LightningStrike XV-24A (2016-03-03)
 
 - **id**: `aurora-lightningstrike-xv-24a`
@@ -609,6 +636,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: teTra Mk-5 establishes Japanese prior art for the high-rotor-count single-seat personal eVTOL — a fixed-wing airframe with 32 small distributed lift rotors for hover redundancy plus wing lift for cruise efficiency. A GoFly Prize-derived design. Establishes prior art for: (1) very-high-rotor-count (~32) personal eVTOL with fixed wings, (2) the GoFly Prize lineage of personal-flight designs. Together with skydrive-sd-05 (JP, multirotor air taxi), aska-a5 (JP/US, drive+fly), honda-evtol (JP, hybrid), and the Japanese fictional VTOL anchors, deepens Japan's eVTOL footprint. Together with lift-aircraft-hexa (US, 18-rotor) and ehang-eh216 (CN, 16-rotor), places high-rotor-count personal/small eVTOL architecture in prior art.
 
+## Bellwether Industries Volar (2019)
+
+- **id**: `bellwether-volar`
+- **corpus**: private
+- **creator**: Bellwether Industries (London, United Kingdom)
+- **disclosure**: Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **ip status**: patented
+- **prior art notes**: Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
+
 ## Bell Nexus 4EX (2019-01-07)
 
 - **id**: `bell-nexus-4ex`
@@ -680,6 +716,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kitty Hawk Heaviside publicly unveiled 2019-10-03 at TED Conference / Wired25 Festival; first manned flight 2019-09. Kitty Hawk Corporation (funded by Larry Page) ceased operations 2022-09-21. Documented in Kitty Hawk press releases and the public technical paper 'Heaviside: A Single-Pilot eVTOL Aircraft' (Vertical Flight Society, 2020).
 - **ip status**: patented
 - **prior art notes**: Kitty Hawk Heaviside establishes US prior art for ultralight-class single-pilot tilt-rotor eVTOL with explicit low-noise design optimization. Although Kitty Hawk Corporation ceased operations 2022, the Heaviside disclosure is comprehensive — Larry Page-funded program with VFS Forum technical paper publication and Kitty Hawk's continued patent portfolio licensable through successor entities. Kitty Hawk also produced Cora (which became Wisk Aero after the Boeing JV, covered separately).
+
+## Pipistrel Nuuva V300 (2019-10-15)
+
+- **id**: `pipistrel-nuuva-v300`
+- **corpus**: private
+- **creator**: Pipistrel (Slovenia; acquired by Textron 2022)
+- **disclosure**: Pipistrel (a Slovenian light-aircraft maker, the manufacturer of the Velis Electro — the first type-certified electric aeroplane) unveiled the Nuuva V300 hybrid VTOL cargo aircraft 2019-10-15; Pipistrel acquired by Textron 2022-04. The Nuuva V300 is intended as a heavy-cargo lift+cruise hybrid-electric eVTOL. Documented in Pipistrel/Textron materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Pipistrel Nuuva V300 establishes Slovenian prior art for the hybrid-electric heavy-cargo eVTOL — eight electric lift rotors plus a single combustion-driven cruise pusher, designed for ~460 kg cargo over ~2,500 km range. Adds Slovenia (SI) to the global eVTOL OEM map. Pipistrel's parent company is Textron (also owner of Bell Textron) — the Pipistrel-Textron-Bell axis creates an integrated tilt-rotor + hybrid-cargo + electric-fixed-wing eVTOL family. Together with elroy-air-chaparral, sabrewing-rhaegal-a, wingcopter-198, pyka-pelican, amsl-vertiia, autoflight-prosperity-i, dji-flycart-30, and orb-aerospace-nomad, comprehensively places hybrid-electric cargo eVTOL architecture in commercial prior art across nine national/regional lineages.
+
+## Volocopter VoloDrone (2019-10-30)
+
+- **id**: `volocopter-volodrone`
+- **corpus**: private
+- **creator**: Volocopter GmbH (Bruchsal, Germany)
+- **disclosure**: Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
 
 ## Beta Technologies Alia-250 (2020-03-10)
 
@@ -770,6 +824,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: New Horizon Aircraft (Canadian, founded 2013, public on NASDAQ as HOVR via SPAC merger 2024) unveiled the Cavorite X5 hybrid eVTOL in 2021; 50%-scale prototype first conventional flight 2023-11 and first full transition 2024-11. The Cavorite uses a 'fan-in-wing' design — fourteen lift fans embedded in the wings, covered by sliding panels in cruise so the aircraft flies as a conventional fixed-wing. Documented in Horizon Aircraft materials and SEC filings (named for H.G. Wells's anti-gravity material 'Cavorite').
 - **ip status**: patented
 - **prior art notes**: Horizon Aircraft Cavorite X5 establishes Canadian prior art for the modern 'fan-in-wing' hybrid eVTOL — fourteen electric lift fans embedded in the wing structure, covered by sliding panels in cruise so the wing becomes a clean conventional wing with a single pusher. Establishes prior art for: (1) modern panel-covered fan-in-wing eVTOL, (2) hybrid-electric fan-in-wing architecture, (3) the wing-as-clean-wing-in-cruise design. Directly descended in concept from vanguard-omniplane (1959) and ryan-xv-5-vertifan (1964). Together with these and lilium-jet (ducted-fan-array), aurora-lightningstrike-xv-24a (tilt-wing ducted-fan), and bell-nexus-4ex (tilt-duct), comprehensively places ducted-fan / fan-in-wing eVTOL architecture in prior art. Adds Canadian depth alongside Jaunt Air Mobility and the Avro Canada Avrocar heritage.
+
+## Maca Carcopter S11 (2021-09)
+
+- **id**: `maca-carcopter`
+- **corpus**: private
+- **creator**: MACA Industries (Toulouse, France) / Michaël Carchidi
+- **disclosure**: MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
+- **ip status**: patented
+- **prior art notes**: MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
 
 ## Geely Aerofugia AE200 (2021-09-14)
 

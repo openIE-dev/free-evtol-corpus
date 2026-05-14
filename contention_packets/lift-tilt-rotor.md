@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `lift-tilt-rotor`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-tilt-rotor`  
-**Entries:** 28 (28 commons-grade, 0 draft)  
+**Entries:** 29 (29 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-11  
 **Most recent disclosure:** 2024-01-09
 
@@ -335,6 +335,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2015-08 — Joby S2
+
+- **id:** `joby-s2`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Joby Aviation (Santa Cruz, California)
+- **disclosure citation:** Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
+
+**Sources:**
+
+1. Bevirt, JoeBen et al. Joby S2 technical white paper, 2015.
+2. Joby Aviation S-1 SEC filing 2020 (history section).
+3. Vertical Flight Society Forum technical papers from Joby engineering 2015-2018.
+
+---
+
 ### 2017-04-26 — Wingcopter 198
 
 - **id:** `wingcopter-198`
@@ -637,4 +658,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

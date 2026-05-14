@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `propulsion-hybrid-series`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `propulsion-hybrid-series`  
-**Entries:** 16 (16 commons-grade, 0 draft)  
+**Entries:** 18 (18 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012  
 **Most recent disclosure:** 2022-08
 
@@ -234,6 +234,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019 — Bellwether Industries Volar
+
+- **id:** `bellwether-volar`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bellwether Industries (London, United Kingdom)
+- **disclosure citation:** Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `lift-vectored-thrust`, `propulsion-hybrid-series`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
+
+**Sources:**
+
+1. Bellwether Industries Volar / Antelope technical materials 2019-2024.
+
+---
+
 ### 2019-01-07 — Bell Nexus 4EX
 
 - **id:** `bell-nexus-4ex`
@@ -293,6 +312,27 @@ cite, copy, or redistribute these contentions.
 
 1. Sabrewing Aircraft technical materials 2019-2024.
 2. FAA Part 23 / Special Conditions filings.
+
+---
+
+### 2019-10-15 — Pipistrel Nuuva V300
+
+- **id:** `pipistrel-nuuva-v300`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Pipistrel (Slovenia; acquired by Textron 2022)
+- **disclosure citation:** Pipistrel (a Slovenian light-aircraft maker, the manufacturer of the Velis Electro — the first type-certified electric aeroplane) unveiled the Nuuva V300 hybrid VTOL cargo aircraft 2019-10-15; Pipistrel acquired by Textron 2022-04. The Nuuva V300 is intended as a heavy-cargo lift+cruise hybrid-electric eVTOL. Documented in Pipistrel/Textron materials and EASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Pipistrel Nuuva V300 establishes Slovenian prior art for the hybrid-electric heavy-cargo eVTOL — eight electric lift rotors plus a single combustion-driven cruise pusher, designed for ~460 kg cargo over ~2,500 km range. Adds Slovenia (SI) to the global eVTOL OEM map. Pipistrel's parent company is Textron (also owner of Bell Textron) — the Pipistrel-Textron-Bell axis creates an integrated tilt-rotor + hybrid-cargo + electric-fixed-wing eVTOL family. Together with elroy-air-chaparral, sabrewing-rhaegal-a, wingcopter-198, pyka-pelican, amsl-vertiia, autoflight-prosperity-i, dji-flycart-30, and orb-aerospace-nomad, comprehensively places hybrid-electric cargo eVTOL architecture in commercial prior art across nine national/regional lineages.
+
+**Sources:**
+
+1. Pipistrel Nuuva V300 technical materials 2019-2024.
+2. Textron acquisition of Pipistrel, 2022-04 disclosures.
+3. EASA SC-VTOL public docket (Pipistrel).
 
 ---
 
@@ -385,4 +425,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

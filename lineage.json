@@ -29,7 +29,9 @@
       "name": "Leonardo da Vinci ornithopter sketches",
       "year": "1485",
       "corpus": "academic",
-      "ancestors": [],
+      "ancestors": [
+        "cayley-convertiplane-1843"
+      ],
       "descendants": [
         "aerovironment-nano-hummingbird",
         "harvard-robobee",
@@ -60,11 +62,55 @@
       ]
     },
     {
+      "id": "cayley-convertiplane-1843",
+      "name": "Cayley Aerial Carriage / Convertiplane sketch",
+      "year": "1843",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "cornu-helicopter",
+        "d-amecourt-helicopter",
+        "da-vinci-ornithopter",
+        "verne-albatross"
+      ]
+    },
+    {
+      "id": "d-amecourt-helicopter",
+      "name": "Ponton d'Amécourt aerodynamic helicopter",
+      "year": "1861",
+      "corpus": "academic",
+      "ancestors": [
+        "cayley-convertiplane-1843"
+      ],
+      "descendants": [
+        "berliner-helicopter",
+        "cornu-helicopter",
+        "ellehammer-helicopter",
+        "forlanini-steam-helicopter",
+        "pescara-helicopter"
+      ]
+    },
+    {
+      "id": "forlanini-steam-helicopter",
+      "name": "Forlanini steam helicopter model",
+      "year": "1877",
+      "corpus": "academic",
+      "ancestors": [
+        "d-amecourt-helicopter"
+      ],
+      "descendants": [
+        "berliner-helicopter",
+        "cornu-helicopter",
+        "ellehammer-helicopter"
+      ]
+    },
+    {
       "id": "verne-albatross",
       "name": "Albatross (Robur the Conqueror)",
       "year": "1886",
       "corpus": "fictional",
       "ancestors": [
+        "cayley-convertiplane-1843",
         "cyrano-comical-history-moon",
         "pushpaka-vimana"
       ],
@@ -83,6 +129,18 @@
         "pivotal-blackfly",
         "verne-terror",
         "volocopter-vc1"
+      ]
+    },
+    {
+      "id": "hg-wells-cavorite",
+      "name": "Cavorite (The First Men in the Moon, H.G. Wells)",
+      "year": "1900",
+      "corpus": "fictional",
+      "ancestors": [],
+      "descendants": [
+        "blish-cities-in-flight",
+        "horizon-aircraft-cavorite-x5",
+        "star-wars-repulsorlift"
       ]
     },
     {
@@ -105,6 +163,9 @@
       "year": "1907",
       "corpus": "academic",
       "ancestors": [
+        "cayley-convertiplane-1843",
+        "d-amecourt-helicopter",
+        "forlanini-steam-helicopter",
         "verne-albatross"
       ],
       "descendants": [
@@ -113,6 +174,17 @@
         "oehmichen-helicopter",
         "pescara-helicopter"
       ]
+    },
+    {
+      "id": "ellehammer-helicopter",
+      "name": "Ellehammer helicopter",
+      "year": "1912",
+      "corpus": "academic",
+      "ancestors": [
+        "d-amecourt-helicopter",
+        "forlanini-steam-helicopter"
+      ],
+      "descendants": []
     },
     {
       "id": "curtiss-autoplane",
@@ -145,6 +217,7 @@
       "corpus": "academic",
       "ancestors": [
         "cornu-helicopter",
+        "d-amecourt-helicopter",
         "verne-albatross"
       ],
       "descendants": [
@@ -162,6 +235,20 @@
         "sikorsky-s-97-raider",
         "sikorsky-vs-300",
         "tsagi-1-ea"
+      ]
+    },
+    {
+      "id": "berliner-helicopter",
+      "name": "Berliner helicopter",
+      "year": "1922",
+      "corpus": "academic",
+      "ancestors": [
+        "d-amecourt-helicopter",
+        "forlanini-steam-helicopter"
+      ],
+      "descendants": [
+        "focke-wulf-fa-61",
+        "mil-v-12"
       ]
     },
     {
@@ -201,6 +288,7 @@
       "descendants": [
         "cagliostro-autogyro",
         "cartercopter",
+        "cierva-air-horse",
         "fairey-gyrodyne",
         "fairey-rotodyne",
         "pal-v-liberty"
@@ -234,6 +322,7 @@
       "year": "1936",
       "corpus": "academic",
       "ancestors": [
+        "berliner-helicopter",
         "cornu-helicopter",
         "pescara-helicopter"
       ],
@@ -268,6 +357,7 @@
       ],
       "descendants": [
         "bell-model-30",
+        "dlr-superartis",
         "saab-skeldar-v-200",
         "schiebel-camcopter-s-100"
       ]
@@ -373,6 +463,16 @@
         "cartercopter",
         "fairey-rotodyne"
       ]
+    },
+    {
+      "id": "cierva-air-horse",
+      "name": "Cierva W.11 Air Horse",
+      "year": "1948",
+      "corpus": "academic",
+      "ancestors": [
+        "cierva-autogyro"
+      ],
+      "descendants": []
     },
     {
       "id": "taylor-aerocar",
@@ -482,6 +582,19 @@
         "hoversurf-s3",
         "pivotal-blackfly",
         "solotrek-xfv"
+      ]
+    },
+    {
+      "id": "blish-cities-in-flight",
+      "name": "Spindizzy (Cities in Flight, James Blish)",
+      "year": "1955",
+      "corpus": "fictional",
+      "ancestors": [
+        "hg-wells-cavorite"
+      ],
+      "descendants": [
+        "bttf-2-hoverboard",
+        "star-wars-repulsorlift"
       ]
     },
     {
@@ -791,6 +904,7 @@
         "bladerunner-spinner",
         "fifth-element-flying-taxi",
         "kin-dza-dza-pepelats",
+        "last-exile-vanship",
         "macross-vf-1-veritech",
         "moller-skycar-m400",
         "nausicaa-tolmekian-gunship",
@@ -808,6 +922,7 @@
         "bell-rocket-belt"
       ],
       "descendants": [
+        "appleseed-landmate",
         "gravity-industries-jet-suit",
         "krrish-flight-suit"
       ]
@@ -916,6 +1031,7 @@
       ],
       "descendants": [
         "aliens-cheyenne-dropship",
+        "black-panther-royal-talon",
         "elroy-air-chaparral",
         "gundam-gaw",
         "patlabor-helldiver",
@@ -934,6 +1050,7 @@
       "descendants": [
         "aurora-lightningstrike-xv-24a",
         "bell-nexus-4ex",
+        "bellwether-volar",
         "boeing-phantom-swift",
         "lilium-jet",
         "urban-aero-cityhawk"
@@ -995,6 +1112,7 @@
       "year": "1968",
       "corpus": "academic",
       "ancestors": [
+        "berliner-helicopter",
         "de-bothezat-quadrotor",
         "focke-wulf-fa-61"
       ],
@@ -1069,6 +1187,7 @@
         "geely-aerofugia-ae200",
         "ghost-in-the-shell-tiltrotor",
         "hyundai-supernal-sa2",
+        "joby-s2",
         "joby-s4",
         "karem-ar40",
         "leonardo-aw609",
@@ -1088,10 +1207,13 @@
       "corpus": "fictional",
       "ancestors": [
         "arabian-nights-flying-carpet",
+        "blish-cities-in-flight",
+        "hg-wells-cavorite",
         "pushpaka-vimana"
       ],
       "descendants": [
-        "bttf-2-hoverboard"
+        "bttf-2-hoverboard",
+        "walle-axiom-hoverchair"
       ]
     },
     {
@@ -1151,6 +1273,7 @@
       "descendants": [
         "aeromobil-4-0",
         "aska-a5",
+        "black-panther-royal-talon",
         "fifth-element-flying-taxi",
         "klein-vision-aircar",
         "oblivion-bubbleship",
@@ -1176,6 +1299,19 @@
         "jetsons-aerocar"
       ],
       "descendants": []
+    },
+    {
+      "id": "appleseed-landmate",
+      "name": "Landmate exoskeleton + VTOL transports (Appleseed)",
+      "year": "1985",
+      "corpus": "fictional",
+      "ancestors": [
+        "iron-man-suit"
+      ],
+      "descendants": [
+        "ghost-in-the-shell-tiltrotor",
+        "solotrek-xfv"
+      ]
     },
     {
       "id": "mil-mi-30",
@@ -1207,7 +1343,8 @@
       "corpus": "fictional",
       "ancestors": [],
       "descendants": [
-        "festo-smartbird"
+        "festo-smartbird",
+        "last-exile-vanship"
       ]
     },
     {
@@ -1290,6 +1427,7 @@
       "year": "1989",
       "corpus": "fictional",
       "ancestors": [
+        "appleseed-landmate",
         "bell-xv-15",
         "v-22-osprey"
       ],
@@ -1303,9 +1441,12 @@
       "year": "1989",
       "corpus": "fictional",
       "ancestors": [
+        "blish-cities-in-flight",
         "star-wars-repulsorlift"
       ],
-      "descendants": []
+      "descendants": [
+        "walle-axiom-hoverchair"
+      ]
     },
     {
       "id": "kaman-k-max",
@@ -1349,6 +1490,7 @@
       "year": "2001",
       "corpus": "private",
       "ancestors": [
+        "appleseed-landmate",
         "bell-rocket-belt",
         "hiller-vz-1-pawnee"
       ],
@@ -1395,6 +1537,27 @@
         "pivotal-blackfly",
         "volansi-vbat"
       ]
+    },
+    {
+      "id": "last-exile-vanship",
+      "name": "Vanship (Last Exile)",
+      "year": "2003",
+      "corpus": "fictional",
+      "ancestors": [
+        "jetsons-aerocar",
+        "laputa-flapter"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "dlr-superartis",
+      "name": "DLR ARTIS / SuperARTIS",
+      "year": "2005",
+      "corpus": "academic",
+      "ancestors": [
+        "sikorsky-vs-300"
+      ],
+      "descendants": []
     },
     {
       "id": "schiebel-camcopter-s-100",
@@ -1464,6 +1627,17 @@
         "hawker-siddeley-harrier",
         "short-sc-1",
         "yak-141"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "walle-axiom-hoverchair",
+      "name": "Axiom hover-chairs (WALL-E)",
+      "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [
+        "bttf-2-hoverboard",
+        "star-wars-repulsorlift"
       ],
       "descendants": []
     },
@@ -1659,6 +1833,7 @@
         "lift-aircraft-hexa",
         "skydrive-sd-05",
         "volocopter-volocity",
+        "volocopter-volodrone",
         "workhorse-surefly"
       ]
     },
@@ -1802,7 +1977,9 @@
       "ancestors": [
         "amsl-vertiia"
       ],
-      "descendants": []
+      "descendants": [
+        "maca-carcopter"
+      ]
     },
     {
       "id": "nasa-gl-10",
@@ -1822,6 +1999,7 @@
         "elroy-air-chaparral",
         "embraerx-evtol-concept",
         "eve-air-mobility",
+        "joby-s2",
         "joby-s4",
         "nasa-x-57-maxwell",
         "pyka-pelican",
@@ -1875,6 +2053,19 @@
       ],
       "descendants": [
         "sikorsky-boeing-defiant"
+      ]
+    },
+    {
+      "id": "joby-s2",
+      "name": "Joby S2",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [
+        "bell-xv-15",
+        "nasa-gl-10"
+      ],
+      "descendants": [
+        "joby-s4"
       ]
     },
     {
@@ -1940,7 +2131,9 @@
         "ehang-eh216",
         "volocopter-vc1"
       ],
-      "descendants": []
+      "descendants": [
+        "maca-carcopter"
+      ]
     },
     {
       "id": "orb-aerospace-nomad",
@@ -2124,6 +2317,17 @@
       ]
     },
     {
+      "id": "black-panther-royal-talon",
+      "name": "Royal Talon Fighter (Black Panther)",
+      "year": "2018",
+      "corpus": "fictional",
+      "ancestors": [
+        "bladerunner-spinner",
+        "thunderbird-2"
+      ],
+      "descendants": []
+    },
+    {
       "id": "wisk-cora",
       "name": "Wisk Aero Cora / Gen 6",
       "year": "2018",
@@ -2298,6 +2502,7 @@
       "corpus": "private",
       "ancestors": [
         "bell-xv-15",
+        "joby-s2",
         "leonardo-aw609",
         "nasa-gl-10",
         "nasa-x-57-maxwell",
@@ -2309,6 +2514,17 @@
         "hyundai-supernal-sa2",
         "tcab-tech-e20"
       ]
+    },
+    {
+      "id": "bellwether-volar",
+      "name": "Bellwether Industries Volar",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "bell-x-22",
+        "lilium-jet"
+      ],
+      "descendants": []
     },
     {
       "id": "tetra-mk-5",
@@ -2347,6 +2563,7 @@
         "honda-evtol",
         "manta-aircraft-ann2",
         "orb-aerospace-nomad",
+        "pipistrel-nuuva-v300",
         "plana-cp-01",
         "sabrewing-rhaegal-a",
         "zuri-evtol"
@@ -2400,6 +2617,7 @@
         "ryan-xv-5-vertifan"
       ],
       "descendants": [
+        "bellwether-volar",
         "horizon-aircraft-cavorite-x5"
       ]
     },
@@ -2422,7 +2640,9 @@
       "ancestors": [
         "volocopter-vc1"
       ],
-      "descendants": []
+      "descendants": [
+        "volocopter-volodrone"
+      ]
     },
     {
       "id": "lazareth-lmv-496",
@@ -2446,6 +2666,28 @@
       "descendants": []
     },
     {
+      "id": "pipistrel-nuuva-v300",
+      "name": "Pipistrel Nuuva V300",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "beta-alia-250",
+        "elroy-air-chaparral"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "volocopter-volodrone",
+      "name": "Volocopter VoloDrone",
+      "year": "2019",
+      "corpus": "private",
+      "ancestors": [
+        "volocopter-vc1",
+        "volocopter-volocity"
+      ],
+      "descendants": []
+    },
+    {
       "id": "beta-alia-250",
       "name": "Beta Technologies Alia-250",
       "year": "2020",
@@ -2465,6 +2707,7 @@
         "eve-air-mobility",
         "honda-evtol",
         "orb-aerospace-nomad",
+        "pipistrel-nuuva-v300",
         "plana-cp-01",
         "pyka-pelican",
         "wisk-cora",
@@ -2610,9 +2853,21 @@
       "year": "2021",
       "corpus": "private",
       "ancestors": [
+        "hg-wells-cavorite",
         "lilium-jet",
         "ryan-xv-5-vertifan",
         "vanguard-omniplane"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "maca-carcopter",
+      "name": "Maca Carcopter S11",
+      "year": "2021",
+      "corpus": "private",
+      "ancestors": [
+        "alauda-airspeeder",
+        "h3-dynamics-hyfly"
       ],
       "descendants": []
     },

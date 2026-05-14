@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `lift-vectored-thrust`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-vectored-thrust`  
-**Entries:** 35 (35 commons-grade, 0 draft)  
+**Entries:** 39 (39 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-11  
 **Most recent disclosure:** 2021-04
 
@@ -509,6 +509,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1985-02 — Landmate exoskeleton + VTOL transports (Appleseed)
+
+- **id:** `appleseed-landmate`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Masamune Shirow / Seishinsha / Bandai Visual
+- **disclosure citation:** Masamune Shirow. Appleseed (アップルシード) manga, first serialized 1985-02 in Seishinsha's Comic Gaia (later collected as four volumes 1985-1989). Subsequent anime adaptations (1988 OVA, 2004 film, 2007 Appleseed Ex Machina, 2014 Appleseed Alpha) develop the depictions of the Landmate powered exoskeleton (with VTOL-augmented jumps in later versions) and the various Olympus VTOL military transports. Documented in Shirow's published manga, the Appleseed Databook (Seishinsha, 1990), and successor anime production materials.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> Masamune Shirow's Appleseed (manga 1985, anime adaptations through 2014) is one of the foundational Japanese cyberpunk-mecha franchises — featuring the Landmate powered exoskeleton (with VTOL-augmented leaps in later depictions) and detailed VTOL military transports. Adds another Shirow-designed entry to the corpus (with the existing ghost-in-the-shell-tiltrotor 1989) — Shirow is among the most engineering-rigorous mecha designers in anime history. Together with iron-man-suit (1963) and SoloTrek XFV (2001 real), places powered-exoskeleton VTOL architecture in cross-decade fictional + real prior art.
+
+**Sources:**
+
+1. Shirow, Masamune. Appleseed (アップルシード) manga, Seishinsha Comic Gaia, 1985-1989 (4 volumes).
+2. Appleseed Databook. Seishinsha, 1990.
+3. Appleseed anime adaptations: 1988 OVA, 2004 film (Shinji Aramaki dir.), 2007 Appleseed Ex Machina, 2014 Appleseed Alpha.
+
+---
+
 ### 1986-07-18 — UD-4L Cheyenne dropship (Aliens)
 
 - **id:** `aliens-cheyenne-dropship`
@@ -570,6 +591,26 @@ cite, copy, or redistribute these contentions.
 1. Moller, Paul S. Multiple US patents 1965-2015, USPTO archive.
 2. Moller, Paul. Skycar: The Air Car of the Future. Davis, 1996 (self-published).
 3. Aviation Week and Popular Science coverage 1989-2010.
+
+---
+
+### 2003-04-07 — Vanship (Last Exile)
+
+- **id:** `last-exile-vanship`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Koichi Chigira / Range Murata (mecha design) / Gonzo (studio)
+- **disclosure citation:** Last Exile (ラスト エグザイル Rasuto Eguzairu), directed by Koichi Chigira, first broadcast 2003-04-07 on TV Tokyo (Japan). The Vanship — a small two-seat steampunk flying machine controlled by foot-pedals and a sidestick — is the series' iconic personal aircraft, designed by Range Murata. Documented in Last Exile production design books (Gonzo, 2003-2011) and Range Murata art books.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> Range Murata's Vanship design (Last Exile, 2003) is a canonical steampunk-aesthetic Japanese fictional personal-VTOL — small two-seat, foot-pedal-and-sidestick controlled, with Claudia anti-grav lift plus rear-exhaust propulsion. Murata's published design materials provide engineering-grade depictions. Adds another Japanese fictional anchor with a distinctive 1920s-30s racing-aircraft aesthetic, complementing the futuristic-mecha (Macross, Patlabor, Ghost in the Shell, Gundam) and the Miyazaki organic (Laputa, Nausicaä) Japanese fictional VTOL clusters.
+
+**Sources:**
+
+1. Chigira, Koichi (dir.). Last Exile (ラスト エグザイル). Gonzo, 2003.
+2. Murata, Range. Last Exile design materials and art books, Gonzo / Wani Books / Asuka Shinsha, 2003-2011.
 
 ---
 
@@ -700,6 +741,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-02-16 — Royal Talon Fighter (Black Panther)
+
+- **id:** `black-panther-royal-talon`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ryan Coogler / Marvel Studios / Disney / Hannah Beachler (production design)
+- **disclosure citation:** Black Panther, directed by Ryan Coogler, U.S. theatrical release 2018-02-16 — featuring the Royal Talon Fighter, the Wakandan flagship VTOL aircraft used by T'Challa and the Dora Milaje. Production design by Hannah Beachler (the first African American production designer to win an Academy Award, for this film). Documented in Marvel Studios Black Panther production design books and Beachler's design materials.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> The Royal Talon Fighter (Black Panther, Hannah Beachler production design, 2018) establishes a culturally-distinct US-cinema VTOL anchor — Wakandan/Afro-futurist visual-design aesthetics applied to a fictional combat VTOL. Adds to the global fictional VTOL prior-art base alongside the existing American (Aliens, Avatar, Iron Man, Bubbleship, BTTF, Fifth Element, Star Trek, Star Wars), Japanese (Macross, Patlabor, Ghost in the Shell, Gundam, Laputa, Nausicaä, Doraemon, Last Exile, Appleseed), British (Thunderbird 2), Soviet/Georgian (Kin-dza-dza), Argentinian (Eternauta), South African (District 9), Chinese (Wandering Earth), Indian (Krrish), and Korean (Space Sweepers) fictional anchors.
+
+**Sources:**
+
+1. Coogler, Ryan (dir.). Black Panther. Marvel Studios / Disney, 2018.
+2. Beachler, Hannah. Black Panther production design materials.
+3. The Art of Marvel Studios' Black Panther. Marvel, 2018.
+
+---
+
 ### 2018-11-08 — Pegasus Vertical Business Jet
 
 - **id:** `pegasus-universal-aerospace`
@@ -718,6 +780,25 @@ cite, copy, or redistribute these contentions.
 1. Pegasus Universal Aerospace press releases 2018–2024.
 2. South African Civil Aviation Authority engagement records.
 3. Aero South Africa exhibition materials 2018-11-08.
+
+---
+
+### 2019 — Bellwether Industries Volar
+
+- **id:** `bellwether-volar`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bellwether Industries (London, United Kingdom)
+- **disclosure citation:** Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `lift-vectored-thrust`, `propulsion-hybrid-series`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
+
+**Sources:**
+
+1. Bellwether Industries Volar / Antelope technical materials 2019-2024.
 
 ---
 
@@ -789,4 +870,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

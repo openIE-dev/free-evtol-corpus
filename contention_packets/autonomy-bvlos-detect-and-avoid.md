@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `autonomy-bvlos-detect-and-avoid`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `autonomy-bvlos-detect-and-avoid`  
-**Entries:** 11 (11 commons-grade, 0 draft)  
-**Earliest disclosure:** 2017  
+**Entries:** 12 (12 commons-grade, 0 draft)  
+**Earliest disclosure:** 2005  
 **Most recent disclosure:** 2023-08-16
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 2005 — DLR ARTIS / SuperARTIS
+
+- **id:** `dlr-superartis`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Deutsches Zentrum für Luft- und Raumfahrt (DLR) Institute of Flight Systems / Stephan Adolf / Florian-Michael Adolf
+- **disclosure citation:** DLR ARTIS (Autonomous Rotorcraft Testbed for Intelligent Systems) first flight 2005; SuperARTIS (larger 24 kg variant) entered service ~2010 at DLR Braunschweig. The German Aerospace Center's autonomous-rotorcraft research platform. Foundational reference paper: Adolf, F.M., Andert, F. 'Onboard mission management for a VTOL UAV using sequence and supervisory control.' AHS Forum, 2011. Subsequent papers through 2015-2020 expanded ARTIS / SuperARTIS capability.
+- **disclosed subsystems:** `autonomy-pilot-removed`, `autonomy-bvlos-detect-and-avoid`, `sensing-lidar-terrain`, `cert-experimental`
+
+**Prior art notes:**
+
+> DLR ARTIS / SuperARTIS (2005-) is the German Aerospace Center's autonomous-rotorcraft research platform — adds DLR (the German national aerospace research agency) to the academic aerial-robotics prior-art base alongside the existing US (UPenn GRASP, MIT, Harvard, NASA Langley/Ames/Armstrong), Swiss (ETH, EPFL, UZH), Japanese (Tokyo JSK), Dutch (TU Delft), Italian (Bologna), Austrian (IAT-21, CycloTech), Australian (ArduPilot), and Swiss-academic (Crazyflie at Bitcraze) anchors. The DLR ARTIS publications (F.M. Adolf, F. Andert, et al.) document mission-management, sense-and-avoid, and autonomous-rotorcraft control through 2005-2020.
+
+**Sources:**
+
+1. Adolf, F.M., Andert, F. 'Onboard mission management for a VTOL UAV using sequence and supervisory control.' AHS Forum, 2011.
+2. DLR Institute of Flight Systems publications archive (Braunschweig).
+3. Andert, F., Adolf, F.M. et al. ARTIS / SuperARTIS technical reports 2005-2020.
+
+---
 
 ### 2017 — Orb Aerospace Nomad
 
@@ -282,4 +303,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

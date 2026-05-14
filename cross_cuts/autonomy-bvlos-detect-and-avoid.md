@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `autonomy-bvlos-detect-and-avoid`
 
-**11 corpus entries disclose this subsystem.**
+**12 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2017
+Earliest disclosure: 2005
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## DLR ARTIS / SuperARTIS (2005)
+
+- **id**: `dlr-superartis`
+- **corpus**: academic
+- **creator**: Deutsches Zentrum für Luft- und Raumfahrt (DLR) Institute of Flight Systems / Stephan Adolf / Florian-Michael Adolf
+- **disclosure**: DLR ARTIS (Autonomous Rotorcraft Testbed for Intelligent Systems) first flight 2005; SuperARTIS (larger 24 kg variant) entered service ~2010 at DLR Braunschweig. The German Aerospace Center's autonomous-rotorcraft research platform. Foundational reference paper: Adolf, F.M., Andert, F. 'Onboard mission management for a VTOL UAV using sequence and supervisory control.' AHS Forum, 2011. Subsequent papers through 2015-2020 expanded ARTIS / SuperARTIS capability.
+- **ip status**: open-permissive
+- **prior art notes**: DLR ARTIS / SuperARTIS (2005-) is the German Aerospace Center's autonomous-rotorcraft research platform — adds DLR (the German national aerospace research agency) to the academic aerial-robotics prior-art base alongside the existing US (UPenn GRASP, MIT, Harvard, NASA Langley/Ames/Armstrong), Swiss (ETH, EPFL, UZH), Japanese (Tokyo JSK), Dutch (TU Delft), Italian (Bologna), Austrian (IAT-21, CycloTech), Australian (ArduPilot), and Swiss-academic (Crazyflie at Bitcraze) anchors. The DLR ARTIS publications (F.M. Adolf, F. Andert, et al.) document mission-management, sense-and-avoid, and autonomous-rotorcraft control through 2005-2020.
 
 ## Orb Aerospace Nomad (2017)
 

@@ -6,14 +6,41 @@ layout: default
 
 # Cross-cut: `lift-coaxial-rotor`
 
-**31 corpus entries disclose this subsystem.**
+**36 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1922
+Earliest disclosure: 1861
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Ponton d'Amécourt aerodynamic helicopter (1861)
+
+- **id**: `d-amecourt-helicopter`
+- **corpus**: academic
+- **creator**: Gustave de Ponton d'Amécourt
+- **disclosure**: Vicomte Gustave de Ponton d'Amécourt designed and built a series of model helicopters from 1861-1863 (clockwork-driven, later steam) — the first aluminium model 'hélicoptère' was demonstrated 1863 at the Académie des Sciences, Paris; d'Amécourt coined the modern French word 'hélicoptère' (from Greek helix + pteron). The earliest named-as-helicopter engineering disclosure. Documented in French Académie des Sciences papers and contemporary aeronautical press.
+- **ip status**: public-domain
+- **prior art notes**: Ponton d'Amécourt's 1861-1863 models are the earliest documented coaxial counter-rotating helicopter engineering disclosures — and the etymological origin of the word 'helicopter'. Establishes French prior art predating Cornu (1907 first manned free-flight rotorcraft, also French) by 44 years. The d'Amécourt → Cornu → Pescara → Oehmichen → SNECMA → Eurocopter → Airbus French helicopter lineage spans 160+ years. Comprehensively in the public domain.
+
+## Forlanini steam helicopter model (1877)
+
+- **id**: `forlanini-steam-helicopter`
+- **corpus**: academic
+- **creator**: Enrico Forlanini
+- **disclosure**: Enrico Forlanini's steam-powered helicopter model rose to ~13 m altitude and hovered for ~20 seconds in 1877 in Milan — the first powered heavier-than-air craft of any kind to rise vertically and stay aloft under its own power. Documented in Forlanini's papers, the Italian Aeronautical Society archives, and contemporary European technical press.
+- **ip status**: public-domain
+- **prior art notes**: Forlanini's 1877 steam helicopter model is the first powered heavier-than-air craft of any kind to rise vertically and sustain flight — 26 years before the Wright Flyer, 30 years before Cornu's first manned free-flight rotorcraft. Establishes Italian prior art for: (1) the first sustained powered vertical-takeoff flight of any kind, (2) coaxial counter-rotating rotor lift at model scale. Forlanini went on to design successful dirigible airships. Comprehensively in the public domain.
+
+## Ellehammer helicopter (1912-09-13)
+
+- **id**: `ellehammer-helicopter`
+- **corpus**: academic
+- **creator**: Jacob Christian Ellehammer
+- **disclosure**: Jacob Ellehammer's helicopter briefly lifted off in Copenhagen 1912-09-13 (some sources say 1912-08-13) — one of the earliest manned-craft brief lift-offs in Europe, predating the first Cornu free-flight reports by reinterpretation. Documented in Danish Aeronautical Society archives and Ellehammer's patent filings.
+- **ip status**: public-domain
+- **prior art notes**: Jacob Ellehammer's 1912 helicopter establishes Danish prior art in the foundational helicopter-pioneer era — one of the earliest manned VTOL craft to lift off, contemporaneous with Sikorsky's first Russian-Imperial helicopter attempts (1909-1910) and predating de Bothezat's 1922 first sustained manned multirotor hover by a decade. Adds Denmark (DK) to the global VTOL prior-art map. Ellehammer was also a pioneer of European powered aeroplane flight (first European powered hop, 1906).
 
 ## Pescara helicopter (1922)
 
@@ -23,6 +50,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Pescara helicopter No.3 (later 3F) developed at Issy-les-Moulineaux, France; set FAI distance world record 736 m on 1924-04-18 with Pescara at controls. Pescara holds Spanish patent ES86,124 (1920) and French patents covering biplane coaxial counter-rotating rotor design with cyclic and collective pitch control.
 - **ip status**: patented
 - **prior art notes**: Pescara is the foundational Argentine/Spanish disclosure of practical coaxial counter-rotating rotor lift with cyclic+collective pitch control. Contemporaneous with de Bothezat's quadrotor (1922) but in coaxial geometry rather than X-frame. Establishes prior art for: (1) coaxial counter-rotating rotor architecture for torque cancellation without tail rotor (foundational to modern Kamov Ka-line and to coaxial-pair lift modules in eVTOL such as Beta Alia, Wisk Cora, EHang EH216), (2) the cyclic + collective pitch control invention. Combined with verne-albatross (1886) and de-bothezat-quadrotor (1922), provides multi-architecture 1880–1922 prior art base. The Pescara patents (ES86,124 et seq.) have been expired for over 80 years.
+
+## Berliner helicopter (1922-06-16)
+
+- **id**: `berliner-helicopter`
+- **corpus**: academic
+- **creator**: Henry Berliner / Emile Berliner / Berliner Aircraft Company
+- **disclosure**: Henry Berliner (son of Emile Berliner, inventor of the gramophone) demonstrated his first practical helicopter to the U.S. Army at College Park MD on 1922-06-16 — the same year as the de Bothezat quadrotor and the Pescara coaxial helicopter. The Berliner machine made tethered hops and short free flights through 1925. Documented in U.S. Army Air Service reports, Smithsonian National Air and Space Museum collections (a Berliner is preserved at College Park), and Berliner family papers.
+- **ip status**: public-domain
+- **prior art notes**: Henry Berliner's 1922 helicopter is the parallel American disclosure to the de Bothezat quadrotor and Pescara coaxial — three independent 1922 manned-multirotor disclosures across the U.S., Argentina/France, and France. Establishes prior art for: (1) lateral side-by-side twin-rotor architecture in 1922 (predating Focke-Wulf Fa 61 by 14 years), (2) the parallel-track development of practical rotorcraft across multiple national prior-art bases. The U.S. Army Air Service evaluated the Berliner alongside the de Bothezat. Berliner's patents are long expired.
 
 ## Flettner Fl 282 Kolibri (1941-10-30)
 
@@ -275,6 +311,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: XPENG Voyager X2 publicly unveiled 2021-07-16 at XPENG Tech Day; first untethered manned flight 2022-10-10 at Dubai. AeroHT subsequently unveiled X3 (2023) and the modular Land Aircraft Carrier (2024). AeroHT holds Chinese patents on coaxial multirotor and modular drive+fly architecture.
 - **ip status**: patented
 - **prior art notes**: AeroHT (XPENG flying car subsidiary) is one of three lead Chinese passenger eVTOL programs (with EHang and AutoFlight). The X2 establishes Chinese prior art for coaxial-pair multirotor passenger eVTOL with autonomous + pilot-override flight management. AeroHT's subsequent X3 and modular Land Aircraft Carrier (2024) extend to drive+fly transformer geometry.
+
+## Maca Carcopter S11 (2021-09)
+
+- **id**: `maca-carcopter`
+- **corpus**: private
+- **creator**: MACA Industries (Toulouse, France) / Michaël Carchidi
+- **disclosure**: MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
+- **ip status**: patented
+- **prior art notes**: MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
 
 ## Crisalion Mobility Integrity (2022-09-08)
 

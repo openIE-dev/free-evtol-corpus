@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `autonomy-pilot-removed`
 
-**27 corpus entries disclose this subsystem.**
+**29 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1991-12-23
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AeroVironment SkyTote first untethered hover April 2003 at Edwards AFB; demonstrated transition flight 2004. AFRL Materiel Command Phase 2 SBIR contract. Documented in AFRL technical reports and AeroVironment publications.
 - **ip status**: patented
 - **prior art notes**: AeroVironment SkyTote is the foundational small-scale unmanned tail-sitter VTOL — establishes prior art for the tail-sitter architecture in modern UAV scale (2003) with autonomous flight control. Combined with convair-xfy-pogo (1954) and pivotal-blackfly (2018), comprehensively places tail-sitter VTOL in continuous prior-art coverage from 1954 through 2024.
+
+## DLR ARTIS / SuperARTIS (2005)
+
+- **id**: `dlr-superartis`
+- **corpus**: academic
+- **creator**: Deutsches Zentrum für Luft- und Raumfahrt (DLR) Institute of Flight Systems / Stephan Adolf / Florian-Michael Adolf
+- **disclosure**: DLR ARTIS (Autonomous Rotorcraft Testbed for Intelligent Systems) first flight 2005; SuperARTIS (larger 24 kg variant) entered service ~2010 at DLR Braunschweig. The German Aerospace Center's autonomous-rotorcraft research platform. Foundational reference paper: Adolf, F.M., Andert, F. 'Onboard mission management for a VTOL UAV using sequence and supervisory control.' AHS Forum, 2011. Subsequent papers through 2015-2020 expanded ARTIS / SuperARTIS capability.
+- **ip status**: open-permissive
+- **prior art notes**: DLR ARTIS / SuperARTIS (2005-) is the German Aerospace Center's autonomous-rotorcraft research platform — adds DLR (the German national aerospace research agency) to the academic aerial-robotics prior-art base alongside the existing US (UPenn GRASP, MIT, Harvard, NASA Langley/Ames/Armstrong), Swiss (ETH, EPFL, UZH), Japanese (Tokyo JSK), Dutch (TU Delft), Italian (Bologna), Austrian (IAT-21, CycloTech), Australian (ArduPilot), and Swiss-academic (Crazyflie at Bitcraze) anchors. The DLR ARTIS publications (F.M. Adolf, F. Andert, et al.) document mission-management, sense-and-avoid, and autonomous-rotorcraft control through 2005-2020.
 
 ## Schiebel Camcopter S-100 (2005-04)
 
@@ -230,6 +239,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sabrewing Aircraft Rhaegal-A unveiled April 2019; sub-scale prototype hover trials 2020. Designed for 4,500 lb (2,040 kg) cargo capacity in unmanned configuration. Documented in Sabrewing technical materials and FAA filings.
 - **ip status**: patented
 - **prior art notes**: Sabrewing Rhaegal-A establishes US prior art for heavy-cargo (2-ton class) hybrid-electric eVTOL with ducted-fan architecture. Distinct from Elroy Air Chaparral by larger payload and ducted-fan rather than open-rotor lift. Anticipates other heavy-cargo eVTOL claims filed post-2019.
+
+## Volocopter VoloDrone (2019-10-30)
+
+- **id**: `volocopter-volodrone`
+- **corpus**: private
+- **creator**: Volocopter GmbH (Bruchsal, Germany)
+- **disclosure**: Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **ip status**: patented
+- **prior art notes**: Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
 
 ## Manna Air Delivery drone (2020-09)
 

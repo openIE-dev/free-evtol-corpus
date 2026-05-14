@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `lift-coaxial-rotor`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-coaxial-rotor`  
-**Entries:** 31 (31 commons-grade, 0 draft)  
-**Earliest disclosure:** 1922  
+**Entries:** 36 (36 commons-grade, 0 draft)  
+**Earliest disclosure:** 1861  
 **Most recent disclosure:** 2023-08-16
 
 ---
@@ -42,6 +42,67 @@ cite, copy, or redistribute these contentions.
 
 ## Entries (chronological)
 
+### 1861 — Ponton d'Amécourt aerodynamic helicopter
+
+- **id:** `d-amecourt-helicopter`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Gustave de Ponton d'Amécourt
+- **disclosure citation:** Vicomte Gustave de Ponton d'Amécourt designed and built a series of model helicopters from 1861-1863 (clockwork-driven, later steam) — the first aluminium model 'hélicoptère' was demonstrated 1863 at the Académie des Sciences, Paris; d'Amécourt coined the modern French word 'hélicoptère' (from Greek helix + pteron). The earliest named-as-helicopter engineering disclosure. Documented in French Académie des Sciences papers and contemporary aeronautical press.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Ponton d'Amécourt's 1861-1863 models are the earliest documented coaxial counter-rotating helicopter engineering disclosures — and the etymological origin of the word 'helicopter'. Establishes French prior art predating Cornu (1907 first manned free-flight rotorcraft, also French) by 44 years. The d'Amécourt → Cornu → Pescara → Oehmichen → SNECMA → Eurocopter → Airbus French helicopter lineage spans 160+ years. Comprehensively in the public domain.
+
+**Sources:**
+
+1. Académie des Sciences (Paris) papers on d'Amécourt helicopter models, 1861-1863.
+2. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
+
+---
+
+### 1877 — Forlanini steam helicopter model
+
+- **id:** `forlanini-steam-helicopter`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Enrico Forlanini
+- **disclosure citation:** Enrico Forlanini's steam-powered helicopter model rose to ~13 m altitude and hovered for ~20 seconds in 1877 in Milan — the first powered heavier-than-air craft of any kind to rise vertically and stay aloft under its own power. Documented in Forlanini's papers, the Italian Aeronautical Society archives, and contemporary European technical press.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Forlanini's 1877 steam helicopter model is the first powered heavier-than-air craft of any kind to rise vertically and sustain flight — 26 years before the Wright Flyer, 30 years before Cornu's first manned free-flight rotorcraft. Establishes Italian prior art for: (1) the first sustained powered vertical-takeoff flight of any kind, (2) coaxial counter-rotating rotor lift at model scale. Forlanini went on to design successful dirigible airships. Comprehensively in the public domain.
+
+**Sources:**
+
+1. Forlanini, Enrico. Papers and reports on the steam helicopter, Italian Aeronautical Society archives, 1877-1885.
+2. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
+
+---
+
+### 1912-09-13 — Ellehammer helicopter
+
+- **id:** `ellehammer-helicopter`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Jacob Christian Ellehammer
+- **disclosure citation:** Jacob Ellehammer's helicopter briefly lifted off in Copenhagen 1912-09-13 (some sources say 1912-08-13) — one of the earliest manned-craft brief lift-offs in Europe, predating the first Cornu free-flight reports by reinterpretation. Documented in Danish Aeronautical Society archives and Ellehammer's patent filings.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `cert-experimental`
+
+**Prior art notes:**
+
+> Jacob Ellehammer's 1912 helicopter establishes Danish prior art in the foundational helicopter-pioneer era — one of the earliest manned VTOL craft to lift off, contemporaneous with Sikorsky's first Russian-Imperial helicopter attempts (1909-1910) and predating de Bothezat's 1922 first sustained manned multirotor hover by a decade. Adds Denmark (DK) to the global VTOL prior-art map. Ellehammer was also a pioneer of European powered aeroplane flight (first European powered hop, 1906).
+
+**Sources:**
+
+1. Ellehammer, Jacob. Helicopter patent and engineering filings, Danish/European, 1910s.
+2. Danish Aeronautical Society archives, Ellehammer collection.
+3. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
+
+---
+
 ### 1922 — Pescara helicopter
 
 - **id:** `pescara-helicopter`
@@ -61,6 +122,27 @@ cite, copy, or redistribute these contentions.
 2. Charnov, Bruce H. From Autogiro to Gyroplane: The Amazing Survival of an Aviation Technology. Praeger, 2003, chapter on Pescara.
 3. FAI archives, world record file 1924-04-18.
 4. Pescara, Raúl. Spanish Patent ES86,124, 1920.
+
+---
+
+### 1922-06-16 — Berliner helicopter
+
+- **id:** `berliner-helicopter`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Henry Berliner / Emile Berliner / Berliner Aircraft Company
+- **disclosure citation:** Henry Berliner (son of Emile Berliner, inventor of the gramophone) demonstrated his first practical helicopter to the U.S. Army at College Park MD on 1922-06-16 — the same year as the de Bothezat quadrotor and the Pescara coaxial helicopter. The Berliner machine made tethered hops and short free flights through 1925. Documented in U.S. Army Air Service reports, Smithsonian National Air and Space Museum collections (a Berliner is preserved at College Park), and Berliner family papers.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `lift-distributed-electric-propulsion`, `cert-experimental`
+
+**Prior art notes:**
+
+> Henry Berliner's 1922 helicopter is the parallel American disclosure to the de Bothezat quadrotor and Pescara coaxial — three independent 1922 manned-multirotor disclosures across the U.S., Argentina/France, and France. Establishes prior art for: (1) lateral side-by-side twin-rotor architecture in 1922 (predating Focke-Wulf Fa 61 by 14 years), (2) the parallel-track development of practical rotorcraft across multiple national prior-art bases. The U.S. Army Air Service evaluated the Berliner alongside the de Bothezat. Berliner's patents are long expired.
+
+**Sources:**
+
+1. U.S. Army Air Service Berliner helicopter test reports, College Park MD, 1922-1925.
+2. Smithsonian National Air and Space Museum, Berliner helicopter collection (Paul E. Garber facility, College Park).
+3. Berliner, Henry / Emile Berliner family papers, Library of Congress.
 
 ---
 
@@ -650,6 +732,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-09 — Maca Carcopter S11
+
+- **id:** `maca-carcopter`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** MACA Industries (Toulouse, France) / Michaël Carchidi
+- **disclosure citation:** MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-hydrogen-fuel-cell`, `propulsion-bldc-direct-drive`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
+
+**Sources:**
+
+1. MACA Industries S11 Carcopter technical materials and IAA Mobility 2021 unveiling.
+2. MACA Industries press materials 2021-2024.
+
+---
+
 ### 2022-09-08 — Crisalion Mobility Integrity
 
 - **id:** `crisalion-integrity`
@@ -698,4 +800,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

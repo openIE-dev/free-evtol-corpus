@@ -6,14 +6,41 @@ layout: default
 
 # Cross-cut: `cert-experimental`
 
-**70 corpus entries disclose this subsystem.**
+**79 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1907-11-13
+Earliest disclosure: 1843-04-08
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Cayley Aerial Carriage / Convertiplane sketch (1843-04-08)
+
+- **id**: `cayley-convertiplane-1843`
+- **corpus**: academic
+- **creator**: Sir George Cayley
+- **disclosure**: Sir George Cayley, 'On Aerial Navigation' — convertiplane / 'Aerial Carriage' sketch published in Mechanics' Magazine, London, 1843-04-08, showing a heavier-than-air craft with multiple horizontal lifting rotors that could be reconfigured into 'aeroplane' propellers for horizontal cruise. The earliest documented engineering proposal for a convertible-rotor VTOL aircraft in modern technical literature. Documented in Mechanics' Magazine archives and Cayley's collected papers.
+- **ip status**: public-domain
+- **prior art notes**: Sir George Cayley's 1843 'Aerial Carriage' sketch is the earliest documented engineering proposal for a convertiplane / transition-VTOL aircraft in modern technical literature — multiple horizontal lifting rotors for vertical takeoff that reconfigure into horizontal propellers for cruise. Establishes UK prior art predating all subsequent VTOL engineering disclosures by 64+ years (Cornu 1907, de Bothezat 1922, Pescara 1922). Published in Mechanics' Magazine 1843, comprehensively in the public domain. Filed against any patent claim asserting novelty over the basic convertiplane concept (rotors that change function between vertical and horizontal flight), this 1843 disclosure is foundational anticipating prior art. Cayley is recognized as the father of aerodynamics.
+
+## Ponton d'Amécourt aerodynamic helicopter (1861)
+
+- **id**: `d-amecourt-helicopter`
+- **corpus**: academic
+- **creator**: Gustave de Ponton d'Amécourt
+- **disclosure**: Vicomte Gustave de Ponton d'Amécourt designed and built a series of model helicopters from 1861-1863 (clockwork-driven, later steam) — the first aluminium model 'hélicoptère' was demonstrated 1863 at the Académie des Sciences, Paris; d'Amécourt coined the modern French word 'hélicoptère' (from Greek helix + pteron). The earliest named-as-helicopter engineering disclosure. Documented in French Académie des Sciences papers and contemporary aeronautical press.
+- **ip status**: public-domain
+- **prior art notes**: Ponton d'Amécourt's 1861-1863 models are the earliest documented coaxial counter-rotating helicopter engineering disclosures — and the etymological origin of the word 'helicopter'. Establishes French prior art predating Cornu (1907 first manned free-flight rotorcraft, also French) by 44 years. The d'Amécourt → Cornu → Pescara → Oehmichen → SNECMA → Eurocopter → Airbus French helicopter lineage spans 160+ years. Comprehensively in the public domain.
+
+## Forlanini steam helicopter model (1877)
+
+- **id**: `forlanini-steam-helicopter`
+- **corpus**: academic
+- **creator**: Enrico Forlanini
+- **disclosure**: Enrico Forlanini's steam-powered helicopter model rose to ~13 m altitude and hovered for ~20 seconds in 1877 in Milan — the first powered heavier-than-air craft of any kind to rise vertically and stay aloft under its own power. Documented in Forlanini's papers, the Italian Aeronautical Society archives, and contemporary European technical press.
+- **ip status**: public-domain
+- **prior art notes**: Forlanini's 1877 steam helicopter model is the first powered heavier-than-air craft of any kind to rise vertically and sustain flight — 26 years before the Wright Flyer, 30 years before Cornu's first manned free-flight rotorcraft. Establishes Italian prior art for: (1) the first sustained powered vertical-takeoff flight of any kind, (2) coaxial counter-rotating rotor lift at model scale. Forlanini went on to design successful dirigible airships. Comprehensively in the public domain.
 
 ## Cornu helicopter (1907-11-13)
 
@@ -23,6 +50,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cornu helicopter first untethered free flight 1907-11-13 at Coquainvilliers, Normandy, by Paul Cornu — 20 cm altitude for 20 seconds. The first manned heavier-than-air rotorcraft to leave the ground in free flight. Documented in Cornu's contemporary technical papers and FAI archives.
 - **ip status**: public-domain
 - **prior art notes**: Paul Cornu's 1907 helicopter is the first free-flying piloted heavier-than-air rotorcraft in human history — predating the de Bothezat quadrotor by 15 years. Establishes prior art for: (1) twin-rotor manned rotorcraft architecture with cross-belt single-engine drive, (2) the foundational concept of practical vertical lift via airfoil-type rotors. Cornu's design materials are in the French public domain (creator died 1944, copyright in design specifications long expired). Combined with verne-albatross (1886) and pescara-helicopter (1922), comprehensively places multi-rotor manned VTOL in pre-1925 prior art.
+
+## Ellehammer helicopter (1912-09-13)
+
+- **id**: `ellehammer-helicopter`
+- **corpus**: academic
+- **creator**: Jacob Christian Ellehammer
+- **disclosure**: Jacob Ellehammer's helicopter briefly lifted off in Copenhagen 1912-09-13 (some sources say 1912-08-13) — one of the earliest manned-craft brief lift-offs in Europe, predating the first Cornu free-flight reports by reinterpretation. Documented in Danish Aeronautical Society archives and Ellehammer's patent filings.
+- **ip status**: public-domain
+- **prior art notes**: Jacob Ellehammer's 1912 helicopter establishes Danish prior art in the foundational helicopter-pioneer era — one of the earliest manned VTOL craft to lift off, contemporaneous with Sikorsky's first Russian-Imperial helicopter attempts (1909-1910) and predating de Bothezat's 1922 first sustained manned multirotor hover by a decade. Adds Denmark (DK) to the global VTOL prior-art map. Ellehammer was also a pioneer of European powered aeroplane flight (first European powered hop, 1906).
 
 ## Curtiss Autoplane (1917-02)
 
@@ -50,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Frederick Kirsten (University of Washington, later consulting for Boeing) developed the cyclogiro — a cycloidal-rotor propulsion/lift device — from the early 1920s; a 1922-1933 program produced wind-tunnel models and design studies for a cyclogiro aircraft, with Boeing involvement. Kirsten holds foundational US cyclogiro patents. Documented in NACA technical reports and University of Washington / Boeing archives.
 - **ip status**: patented
 - **prior art notes**: The Kirsten-Boeing cyclogiro program (Frederick Kirsten, University of Washington / Boeing, 1922-1933) is the foundational US disclosure of the cyclogiro / cyclorotor lift architecture — barrel rotors with cyclically-pitched airfoil blades giving omnidirectional in-plane thrust. Kirsten's 1920s-1930s patents are long expired. Together with the Pescara cyclogiro patents (1928), d-dalus (2011), and cyclotech-cruiseup (2022), comprehensively places cyclorotor architecture in a century-spanning public-domain prior-art base from 1922 forward. Notably, Kirsten's work is contemporaneous with the de Bothezat quadrotor and Pescara helicopter — 1922 is a remarkably productive year for the foundational rotorcraft prior-art base.
+
+## Berliner helicopter (1922-06-16)
+
+- **id**: `berliner-helicopter`
+- **corpus**: academic
+- **creator**: Henry Berliner / Emile Berliner / Berliner Aircraft Company
+- **disclosure**: Henry Berliner (son of Emile Berliner, inventor of the gramophone) demonstrated his first practical helicopter to the U.S. Army at College Park MD on 1922-06-16 — the same year as the de Bothezat quadrotor and the Pescara coaxial helicopter. The Berliner machine made tethered hops and short free flights through 1925. Documented in U.S. Army Air Service reports, Smithsonian National Air and Space Museum collections (a Berliner is preserved at College Park), and Berliner family papers.
+- **ip status**: public-domain
+- **prior art notes**: Henry Berliner's 1922 helicopter is the parallel American disclosure to the de Bothezat quadrotor and Pescara coaxial — three independent 1922 manned-multirotor disclosures across the U.S., Argentina/France, and France. Establishes prior art for: (1) lateral side-by-side twin-rotor architecture in 1922 (predating Focke-Wulf Fa 61 by 14 years), (2) the parallel-track development of practical rotorcraft across multiple national prior-art bases. The U.S. Army Air Service evaluated the Berliner alongside the de Bothezat. Berliner's patents are long expired.
 
 ## de Bothezat helicopter (1922-12-18)
 
@@ -131,6 +176,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fairey FB-1 Gyrodyne first flight 1947-12-07; set an FAI helicopter speed record 1948-06-28 (124 mph). The Jet Gyrodyne (a modified Gyrodyne with tip-jet rotor drive, 1954) was the direct technology demonstrator for the Fairey Rotodyne. Documented in Fairey company archives and UK Ministry of Supply reports.
 - **ip status**: public-domain
 - **prior art notes**: The Fairey Gyrodyne (1947) and Jet Gyrodyne (1954) are the foundational UK compound-autogyro disclosures that led to the Fairey Rotodyne (1957). Establishes prior art for: (1) compound autogyro/helicopter with stub-wing tractor propeller providing both forward thrust and anti-torque (no tail rotor), (2) tip-jet rotor drive in a compound rotorcraft (the Jet Gyrodyne, 1954). UK Ministry of Supply public-domain disclosure. Together with cierva-autogyro (1923), fairey-rotodyne (1957), eurocopter-x3 (2010), and the modern compound-rotorcraft cluster, places compound-rotorcraft architecture in continuous prior art.
+
+## Cierva W.11 Air Horse (1948-12-08)
+
+- **id**: `cierva-air-horse`
+- **corpus**: academic
+- **creator**: Cierva Autogiro Company / Cunliffe-Owen Aircraft (UK)
+- **disclosure**: Cierva W.11 Air Horse first flight 1948-12-08 at Eastleigh, Hampshire. The largest helicopter in the world at the time — three large rotors arranged in tandem (forward, port-aft, starboard-aft) driven by a single Rolls-Royce Merlin engine via cross-shafting. Cancelled after a fatal crash 1950. Documented in Cierva / Cunliffe-Owen archives and UK Ministry of Supply reports.
+- **ip status**: public-domain
+- **prior art notes**: The Cierva W.11 Air Horse (1948) is the foundational disclosure of the three-rotor heavy-lift helicopter architecture — three large rotors arranged at the corners of a triangle, cross-shafted to a single engine. The largest helicopter in the world at the time, predating the Soviet Mil V-12 (1968, two-rotor lateral) and the Sikorsky CH-53E (1974). Establishes UK prior art for triangular-three-rotor lift architecture — a distinct multirotor configuration from the X-frame quadrotor (de Bothezat 1922), tandem (Piasecki 1945), lateral (Focke-Wulf Fa 61 1936, Berliner 1922), and coaxial (Pescara 1922) lineages. Cierva's post-Juan-de-la-Cierva company carried the Cierva-name autogyro/rotorcraft tradition into the post-war heavy-lift era.
 
 ## Bell ATV (Air Test Vehicle) (1954-11)
 
@@ -321,6 +375,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: SoloTrek XFV / Springtail establishes prior art for the back-worn ducted-fan exoskeleton flying vehicle — twin shoulder-mounted ducted lift fans on a wearable frame. Establishes prior art for: (1) exoskeleton-mounted ducted-fan personal VTOL, (2) the upright-pilot-in-wearable-frame architecture, (3) single-engine belt-driven dual-fan personal VTOL. Combined with hiller-vz-1-pawnee, williams-x-jet, gravity-industries-jet-suit, martin-aircraft-jetpack, and iron-man-suit (fictional), comprehensively places personal-VTOL exoskeleton/platform architecture in 1955-2017 prior art.
 
+## DLR ARTIS / SuperARTIS (2005)
+
+- **id**: `dlr-superartis`
+- **corpus**: academic
+- **creator**: Deutsches Zentrum für Luft- und Raumfahrt (DLR) Institute of Flight Systems / Stephan Adolf / Florian-Michael Adolf
+- **disclosure**: DLR ARTIS (Autonomous Rotorcraft Testbed for Intelligent Systems) first flight 2005; SuperARTIS (larger 24 kg variant) entered service ~2010 at DLR Braunschweig. The German Aerospace Center's autonomous-rotorcraft research platform. Foundational reference paper: Adolf, F.M., Andert, F. 'Onboard mission management for a VTOL UAV using sequence and supervisory control.' AHS Forum, 2011. Subsequent papers through 2015-2020 expanded ARTIS / SuperARTIS capability.
+- **ip status**: open-permissive
+- **prior art notes**: DLR ARTIS / SuperARTIS (2005-) is the German Aerospace Center's autonomous-rotorcraft research platform — adds DLR (the German national aerospace research agency) to the academic aerial-robotics prior-art base alongside the existing US (UPenn GRASP, MIT, Harvard, NASA Langley/Ames/Armstrong), Swiss (ETH, EPFL, UZH), Japanese (Tokyo JSK), Dutch (TU Delft), Italian (Bologna), Austrian (IAT-21, CycloTech), Australian (ArduPilot), and Swiss-academic (Crazyflie at Bitcraze) anchors. The DLR ARTIS publications (F.M. Adolf, F. Andert, et al.) document mission-management, sense-and-avoid, and autonomous-rotorcraft control through 2005-2020.
+
 ## TU Delft DelFly (2005-07)
 
 - **id**: `tu-delft-delfly`
@@ -501,6 +564,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: open-copyleft
 - **prior art notes**: ArduPilot QuadPlane is the GPL-licensed reference implementation of generic VTOL flight control. Establishes prior art (under GPL, but the architectural disclosure is unencumbered as prior art for patent purposes) for: (1) generic transition controller for lift+cruise, tilt-rotor, tilt-wing, and tail-sitter VTOLs, (2) rotor-failure detection and reconfiguration in multirotor lift, (3) Q_ASSIST transitional thrust assist algorithms. The git commit history provides timestamped disclosure of every subsystem-level innovation. Filed against any post-2015 patent claim on basic VTOL transition control or rotor-failure reconfiguration in multirotor lift, this is anticipating prior art.
 
+## Joby S2 (2015-08)
+
+- **id**: `joby-s2`
+- **corpus**: private
+- **creator**: Joby Aviation (Santa Cruz, California)
+- **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **ip status**: patented
+- **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
+
 ## ETH Omnicopter (2016-05)
 
 - **id**: `eth-omnicopter`
@@ -608,6 +680,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Lazareth Auto-Moto (a French custom-vehicle maker) unveiled the LMV 496 'La Moto Volante' — a motorcycle whose four wheels each contain a JetCat micro-turbojet that swivels downward for VTOL flight — in September 2019; tethered hover demonstrations 2021. A French jet-turbine flying motorcycle / hover-bike. Documented in Lazareth materials and motoring/aviation press.
 - **ip status**: patented
 - **prior art notes**: The Lazareth LMV 496 establishes French prior art for the four-micro-turbojet flying motorcycle — a road motorcycle whose four wheels each house a tilting micro-turbojet, swiveling downward for VTOL flight. Establishes prior art for: (1) wheel-integrated tilting-turbojet VTOL drive, (2) the jet-turbine flying-motorcycle / drive+fly hover-bike hybrid. Together with jetpack-aviation-speeder (2021, jet-turbine hover-bike), hoversurf-s3 (2017, open-rotor hover-bike), aerofex-aero-x (2008), and malloy-aeronautics-hoverbike (2014, ducted-rotor), comprehensively places hover-bike / flying-motorcycle architecture in cross-national prior art. Adds another French entry alongside the Eurocopter X3 / Airbus RACER / Flying Whales / SNECMA / Cyrano / Verne French VTOL heritage.
+
+## Maca Carcopter S11 (2021-09)
+
+- **id**: `maca-carcopter`
+- **corpus**: private
+- **creator**: MACA Industries (Toulouse, France) / Michaël Carchidi
+- **disclosure**: MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
+- **ip status**: patented
+- **prior art notes**: MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
 
 ## Doroni H1 / H1-X (2022-06)
 

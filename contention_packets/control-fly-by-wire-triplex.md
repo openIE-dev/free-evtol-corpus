@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `control-fly-by-wire-triplex`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `control-fly-by-wire-triplex`  
 **Entries:** 17 (17 commons-grade, 0 draft)  
 **Earliest disclosure:** 1957-04-02  
@@ -411,4 +411,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `lift-distributed-electric-propulsion`
 
-**Generated:** 2026-05-12  
+**Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-distributed-electric-propulsion`  
-**Entries:** 102 (102 commons-grade, 0 draft)  
+**Entries:** 109 (109 commons-grade, 0 draft)  
 **Earliest disclosure:** 1886  
 **Most recent disclosure:** 2024-04-04
 
@@ -81,6 +81,27 @@ cite, copy, or redistribute these contentions.
 1. Cornu, Paul. 'Hélicoptère.' L'Aérophile, December 1907.
 2. FAI archives, first free-flight rotorcraft record.
 3. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
+
+---
+
+### 1922-06-16 — Berliner helicopter
+
+- **id:** `berliner-helicopter`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Henry Berliner / Emile Berliner / Berliner Aircraft Company
+- **disclosure citation:** Henry Berliner (son of Emile Berliner, inventor of the gramophone) demonstrated his first practical helicopter to the U.S. Army at College Park MD on 1922-06-16 — the same year as the de Bothezat quadrotor and the Pescara coaxial helicopter. The Berliner machine made tethered hops and short free flights through 1925. Documented in U.S. Army Air Service reports, Smithsonian National Air and Space Museum collections (a Berliner is preserved at College Park), and Berliner family papers.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `lift-distributed-electric-propulsion`, `cert-experimental`
+
+**Prior art notes:**
+
+> Henry Berliner's 1922 helicopter is the parallel American disclosure to the de Bothezat quadrotor and Pescara coaxial — three independent 1922 manned-multirotor disclosures across the U.S., Argentina/France, and France. Establishes prior art for: (1) lateral side-by-side twin-rotor architecture in 1922 (predating Focke-Wulf Fa 61 by 14 years), (2) the parallel-track development of practical rotorcraft across multiple national prior-art bases. The U.S. Army Air Service evaluated the Berliner alongside the de Bothezat. Berliner's patents are long expired.
+
+**Sources:**
+
+1. U.S. Army Air Service Berliner helicopter test reports, College Park MD, 1922-1925.
+2. Smithsonian National Air and Space Museum, Berliner helicopter collection (Paul E. Garber facility, College Park).
+3. Berliner, Henry / Emile Berliner family papers, Library of Congress.
 
 ---
 
@@ -209,6 +230,27 @@ cite, copy, or redistribute these contentions.
 1. Piasecki, Frank. Tandem-rotor helicopter patents, USPTO, 1940s-1950s.
 2. U.S. Navy / U.S. Army H-21 technical orders.
 3. Spenser, Jay P. Whirlybirds: A History of the U.S. Helicopter Pioneers. University of Washington Press, 1998.
+
+---
+
+### 1948-12-08 — Cierva W.11 Air Horse
+
+- **id:** `cierva-air-horse`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Cierva Autogiro Company / Cunliffe-Owen Aircraft (UK)
+- **disclosure citation:** Cierva W.11 Air Horse first flight 1948-12-08 at Eastleigh, Hampshire. The largest helicopter in the world at the time — three large rotors arranged in tandem (forward, port-aft, starboard-aft) driven by a single Rolls-Royce Merlin engine via cross-shafting. Cancelled after a fatal crash 1950. Documented in Cierva / Cunliffe-Owen archives and UK Ministry of Supply reports.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Cierva W.11 Air Horse (1948) is the foundational disclosure of the three-rotor heavy-lift helicopter architecture — three large rotors arranged at the corners of a triangle, cross-shafted to a single engine. The largest helicopter in the world at the time, predating the Soviet Mil V-12 (1968, two-rotor lateral) and the Sikorsky CH-53E (1974). Establishes UK prior art for triangular-three-rotor lift architecture — a distinct multirotor configuration from the X-frame quadrotor (de Bothezat 1922), tandem (Piasecki 1945), lateral (Focke-Wulf Fa 61 1936, Berliner 1922), and coaxial (Pescara 1922) lineages. Cierva's post-Juan-de-la-Cierva company carried the Cierva-name autogyro/rotorcraft tradition into the post-war heavy-lift era.
+
+**Sources:**
+
+1. Cierva Autogiro Company / Cunliffe-Owen W.11 Air Horse program archives.
+2. UK Ministry of Supply Air Horse test reports.
+3. Brooks, Peter W. Cierva Autogiros. Smithsonian, 1988.
 
 ---
 
@@ -816,6 +858,27 @@ cite, copy, or redistribute these contentions.
 1. ArduPilot project, github.com/ArduPilot/ardupilot, ArduPlane git history.
 2. Tridgell, Andrew. 'ArduPilot QuadPlane' presentation, ArduPilot DevConf, multiple years.
 3. ArduPilot wiki: ardupilot.org/plane/docs/quadplane-overview.html.
+
+---
+
+### 2015-08 — Joby S2
+
+- **id:** `joby-s2`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Joby Aviation (Santa Cruz, California)
+- **disclosure citation:** Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
+- **disclosed subsystems:** `lift-tilt-rotor`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
+
+**Sources:**
+
+1. Bevirt, JoeBen et al. Joby S2 technical white paper, 2015.
+2. Joby Aviation S-1 SEC filing 2020 (history section).
+3. Vertical Flight Society Forum technical papers from Joby engineering 2015-2018.
 
 ---
 
@@ -1430,6 +1493,25 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2019 — Bellwether Industries Volar
+
+- **id:** `bellwether-volar`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bellwether Industries (London, United Kingdom)
+- **disclosure citation:** Bellwether Industries (founded 2019 in London by Kai-Hsiang Lin) publicly disclosed the Volar — a four-seat ducted-fan flying-car concept designed to look like a luxury car — through 2021-2024 design and sub-scale-prototype releases. The 'Antelope' 1/6-scale demonstrator made tethered flights 2021. Documented in Bellwether materials.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `lift-vectored-thrust`, `propulsion-hybrid-series`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Bellwether Industries' Volar concept (UK, 2019-) establishes prior art for the 'luxury-car-aesthetic flying car with internal ducted fans' — eight electric ducted lift fans buried inside a sleek closed-body vehicle with no exposed rotors, smooth aerodynamic surface in cruise. Distinct from Alef Model A (rotors under mesh skin, whole-body rotation) and from open-rotor multirotor eVTOLs. Adds UK depth to the flying-car / ducted-fan-array prior-art base alongside Lilium (DE), Aurora LightningStrike (US), Bell X-22 (US), Bell Nexus (US), Doak VZ-4 (US), Pegasus VBJ (ZA), Boeing Phantom Swift (US), and Horizon Aircraft Cavorite X5 (CA).
+
+**Sources:**
+
+1. Bellwether Industries Volar / Antelope technical materials 2019-2024.
+
+---
+
 ### 2019-01-07 — Bell Nexus 4EX
 
 - **id:** `bell-nexus-4ex`
@@ -1594,6 +1676,47 @@ cite, copy, or redistribute these contentions.
 1. Kitty Hawk Corporation press releases 2019-2022.
 2. Vertical Flight Society Forum 76 paper, 'Heaviside,' 2020.
 3. TED Talk archive, Page/Kitty Hawk presentations 2018-2020.
+
+---
+
+### 2019-10-15 — Pipistrel Nuuva V300
+
+- **id:** `pipistrel-nuuva-v300`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Pipistrel (Slovenia; acquired by Textron 2022)
+- **disclosure citation:** Pipistrel (a Slovenian light-aircraft maker, the manufacturer of the Velis Electro — the first type-certified electric aeroplane) unveiled the Nuuva V300 hybrid VTOL cargo aircraft 2019-10-15; Pipistrel acquired by Textron 2022-04. The Nuuva V300 is intended as a heavy-cargo lift+cruise hybrid-electric eVTOL. Documented in Pipistrel/Textron materials and EASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-hybrid-series`, `power-hybrid-genset`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Pipistrel Nuuva V300 establishes Slovenian prior art for the hybrid-electric heavy-cargo eVTOL — eight electric lift rotors plus a single combustion-driven cruise pusher, designed for ~460 kg cargo over ~2,500 km range. Adds Slovenia (SI) to the global eVTOL OEM map. Pipistrel's parent company is Textron (also owner of Bell Textron) — the Pipistrel-Textron-Bell axis creates an integrated tilt-rotor + hybrid-cargo + electric-fixed-wing eVTOL family. Together with elroy-air-chaparral, sabrewing-rhaegal-a, wingcopter-198, pyka-pelican, amsl-vertiia, autoflight-prosperity-i, dji-flycart-30, and orb-aerospace-nomad, comprehensively places hybrid-electric cargo eVTOL architecture in commercial prior art across nine national/regional lineages.
+
+**Sources:**
+
+1. Pipistrel Nuuva V300 technical materials 2019-2024.
+2. Textron acquisition of Pipistrel, 2022-04 disclosures.
+3. EASA SC-VTOL public docket (Pipistrel).
+
+---
+
+### 2019-10-30 — Volocopter VoloDrone
+
+- **id:** `volocopter-volodrone`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volocopter GmbH (Bruchsal, Germany)
+- **disclosure citation:** Volocopter VoloDrone publicly demonstrated 2019-10-30 at the Volocopter facility in Bruchsal, Germany — a heavy-cargo unmanned variant of the Volocopter 18-rotor multirotor architecture. Subsequently demonstrated for DB Schenker cargo logistics and at the Volocopter Hamburg test campaign. Documented in Volocopter press materials and EASA filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `autonomy-pilot-removed`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`, `safety-redundant-bus`
+
+**Prior art notes:**
+
+> Volocopter VoloDrone establishes German prior art for the cargo-variant-of-passenger-multirotor pattern — unmanned heavy-cargo operations on the same 18-rotor airframe as the VoloCity passenger eVTOL, with up to 200 kg payload. Establishes prior art for: (1) shared-airframe passenger/cargo eVTOL family architecture, (2) underslung cargo and swappable container variants of a multirotor passenger eVTOL. Adds the cargo dimension to the Volocopter prior-art lineage (alongside the passenger volocopter-vc1 / volocopter-volocity).
+
+**Sources:**
+
+1. Volocopter VoloDrone press materials and demonstrations 2019-2024.
+2. DB Schenker / Volocopter cargo logistics partnership records.
 
 ---
 
@@ -1804,6 +1927,26 @@ cite, copy, or redistribute these contentions.
 
 1. New Horizon Aircraft Cavorite X5 technical materials 2021-2024.
 2. New Horizon Aircraft SEC filings (NASDAQ: HOVR).
+
+---
+
+### 2021-09 — Maca Carcopter S11
+
+- **id:** `maca-carcopter`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** MACA Industries (Toulouse, France) / Michaël Carchidi
+- **disclosure citation:** MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `propulsion-hydrogen-fuel-cell`, `propulsion-bldc-direct-drive`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
+
+**Sources:**
+
+1. MACA Industries S11 Carcopter technical materials and IAA Mobility 2021 unveiling.
+2. MACA Industries press materials 2021-2024.
 
 ---
 
@@ -2188,4 +2331,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `3a3786e`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*

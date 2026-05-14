@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `transition-tail-sitter-pitch-up`
 
-**12 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1944-09
 
@@ -86,6 +86,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: PX4 VTOL framework first merged 2014-09 (canonical PX4 git history at github.com/PX4/PX4-Autopilot); foundational paper Meier, L. et al. 'PX4: A Node-Based Multithreaded Open Source Robotics Framework for Deeply Embedded Platforms,' ICRA 2015.
 - **ip status**: open-permissive
 - **prior art notes**: PX4 is the BSD-licensed reference flight stack for VTOL aircraft, used in commercial products and academic research worldwide. Establishes prior art for: (1) modular VTOL transition state machine with named airframe types (Standard, Tail-sitter, Tilt-rotor), (2) EKF2-based state estimation across regime transitions, (3) open-source rotor-failure handling. Like ArduPilot, the BSD license lets PX4 disclosures function unambiguously as prior art.
+
+## Northrop Grumman TERN (2015-12)
+
+- **id**: `northrop-grumman-tern`
+- **corpus**: academic
+- **creator**: Northrop Grumman / DARPA / U.S. Navy / Aurora Flight Sciences (predecessor work)
+- **disclosure**: DARPA TERN (Tactically Exploited Reconnaissance Node) Phase 3 prime contract awarded to Northrop Grumman December 2015; sub-scale demonstrator flights 2017-2018. A tail-sitter UAV designed to launch and recover vertically from the deck of small destroyer-class ships without a runway. Documented in DARPA TERN program reports (public DTIC) and Northrop Grumman technical materials.
+- **ip status**: patented
+- **prior art notes**: DARPA / Northrop Grumman TERN (2015-2018) is the modern disclosure of the medium-scale tail-sitter VTOL UAV for naval deployment — vertical launch and recovery from small destroyer-class ships, tail-sitter pitch-up transition to fixed-wing cruise, ~1,700 km range. Establishes prior art for: (1) medium-scale (~2.7 tonne) tail-sitter VTOL UAV, (2) ship-deck vertical-cradle launch/recovery architecture, (3) the naval-tail-sitter operational concept. Together with convair-xfy-pogo (1954, original tail-sitter), ryan-x-13-vertijet (1955), aerovironment-skytote (2003), volansi-vbat (2018), pivotal-blackfly (2018), bell-apt (2018), and orb-aerospace-nomad (2017), comprehensively places tail-sitter VTOL across scale from small UAS to medium UAV to manned aircraft.
 
 ## Volansi VBAT (2018-04)
 

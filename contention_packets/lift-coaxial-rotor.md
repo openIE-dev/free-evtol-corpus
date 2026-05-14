@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-coaxial-rotor`  
-**Entries:** 36 (36 commons-grade, 0 draft)  
+**Entries:** 40 (40 commons-grade, 0 draft)  
 **Earliest disclosure:** 1861  
 **Most recent disclosure:** 2023-08-16
 
@@ -357,6 +357,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1958-07-05 — Bristol Type 192 Belvedere
+
+- **id:** `bristol-belvedere`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Bristol Aeroplane Company / Westland Helicopters (production) / Royal Air Force
+- **disclosure citation:** Bristol Type 192 Belvedere first flight 1958-07-05; entered Royal Air Force service 1961 as the Belvedere HC.1 — the RAF's first twin-engine, twin-rotor helicopter and the first British tandem-rotor production helicopter. Documented in Bristol Aeroplane Company / Westland archives and RAF historical records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> The Bristol Belvedere (1958) is the British tandem-rotor production helicopter — completing the cross-national tandem-rotor prior-art set alongside the US (Piasecki H-21 1945, CH-47 Chinook 1961) and Soviet (Yakovlev Yak-24 1952) lineages. Establishes UK prior art for tandem-rotor heavy-lift architecture with cross-shafted twin-turboshaft drive.
+
+**Sources:**
+
+1. Bristol Aeroplane Company / Westland Belvedere program archives.
+2. RAF Belvedere HC.1 historical materials.
+
+---
+
 ### 1959-11-24 — Hiller X-18
 
 - **id:** `hiller-x-18`
@@ -419,6 +439,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1990 — Yamaha RMAX autonomous helicopter
+
+- **id:** `yamaha-rmax`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Yamaha Motor Co.
+- **disclosure citation:** Yamaha Motor Co. developed the R-50 unmanned helicopter (1987, the world's first commercial unmanned helicopter) and the production RMAX from 1990 — an autonomous helicopter primarily used for agricultural spraying. Used in Japan for crop dusting from 1990, now operating ~30% of all Japanese rice-paddy spraying. Foundational real-world deployment of autonomous rotorcraft. Documented in Yamaha Motor materials and Japanese MAFF (Ministry of Agriculture, Forestry and Fisheries) records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Yamaha Motor's RMAX (1990 production; R-50 predecessor 1987) is the world's first commercially-deployed unmanned rotorcraft and the foundational autonomous-rotorcraft for agricultural use — predating commercial multi-rotor drones by decades. Establishes Japanese industrial prior art for: (1) autonomous unmanned rotorcraft commercial operations, (2) agricultural-spray VTOL UAS, (3) the 30+-year deployment history of autonomous rotorcraft at scale. Yamaha is also the supplier of the powerplants for many other small aerial robotics platforms. Together with schiebel-camcopter-s-100 (AT, naval VTOL UAV), saab-skeldar-v-200 (SE, naval VTOL UAV), and pyka-pelican (US, agricultural eVTOL), places autonomous-rotorcraft commercial deployment in continuous prior art.
+
+**Sources:**
+
+1. Yamaha Motor Co. RMAX technical materials 1990-2020.
+2. Japanese MAFF (Ministry of Agriculture, Forestry and Fisheries) RMAX agricultural-spray records.
+3. Sato, A. 'Civil UAV applications in Japan and related safety issues.' AIAA, 2003.
+
+---
+
 ### 1991-12-23 — Kaman K-MAX
 
 - **id:** `kaman-k-max`
@@ -437,6 +478,26 @@ cite, copy, or redistribute these contentions.
 1. Kaman Aerospace press releases and FAA TC dossier 1994.
 2. U.S. Marine Corps K-MAX OPA mission reports, declassified excerpts.
 3. Lockheed Martin / Kaman OPA program technical materials.
+
+---
+
+### 1995-04 — Sikorsky Cypher
+
+- **id:** `sikorsky-cypher`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sikorsky Aircraft (Stratford, Connecticut)
+- **disclosure citation:** Sikorsky Cypher first flight April 1995; demonstrated to U.S. Army, Air Force, and Marine Corps 1995-2002; Cypher II (with stub-wings for fixed-wing cruise mode) followed late 1990s. The first practical ducted-fan VTOL UAV from a major rotorcraft manufacturer. Documented in Sikorsky technical papers and U.S. military evaluation records.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-coaxial-rotor`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Sikorsky Cypher (1995) is the foundational ducted-fan VTOL UAV from a major rotorcraft manufacturer — a donut-shaped airframe with coaxial counter-rotating ducted lift rotors. Cypher II (late 1990s) added stub-wings for fixed-wing cruise mode, anticipating the lift+cruise architectural pattern that modern eVTOL adopt. Establishes prior art for: (1) ducted-fan VTOL UAV with coaxial lift rotors, (2) the donut/disc airframe with internal lift rotors, (3) the stub-wing-augmented ducted-fan UAV (Cypher II). Together with the various tail-sitter VTOL UAVs (aerovironment-skytote, volansi-vbat) and modern cargo VTOL UAVs (wingcopter, pyka, etc), places military/commercial VTOL UAV architecture in continuous prior art from 1995.
+
+**Sources:**
+
+1. Sikorsky Aircraft Cypher / Cypher II technical materials and AHS Forum papers 1995-2005.
+2. U.S. Army / USMC / USAF Cypher evaluation records.
 
 ---
 
@@ -540,6 +601,27 @@ cite, copy, or redistribute these contentions.
 
 1. Sikorsky Aircraft press releases and technical papers 2015–2024.
 2. AHS / VFS Forum papers from Sikorsky engineering 2008–2024.
+
+---
+
+### 2015-12 — Northrop Grumman TERN
+
+- **id:** `northrop-grumman-tern`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Northrop Grumman / DARPA / U.S. Navy / Aurora Flight Sciences (predecessor work)
+- **disclosure citation:** DARPA TERN (Tactically Exploited Reconnaissance Node) Phase 3 prime contract awarded to Northrop Grumman December 2015; sub-scale demonstrator flights 2017-2018. A tail-sitter UAV designed to launch and recover vertically from the deck of small destroyer-class ships without a runway. Documented in DARPA TERN program reports (public DTIC) and Northrop Grumman technical materials.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-coaxial-rotor`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> DARPA / Northrop Grumman TERN (2015-2018) is the modern disclosure of the medium-scale tail-sitter VTOL UAV for naval deployment — vertical launch and recovery from small destroyer-class ships, tail-sitter pitch-up transition to fixed-wing cruise, ~1,700 km range. Establishes prior art for: (1) medium-scale (~2.7 tonne) tail-sitter VTOL UAV, (2) ship-deck vertical-cradle launch/recovery architecture, (3) the naval-tail-sitter operational concept. Together with convair-xfy-pogo (1954, original tail-sitter), ryan-x-13-vertijet (1955), aerovironment-skytote (2003), volansi-vbat (2018), pivotal-blackfly (2018), bell-apt (2018), and orb-aerospace-nomad (2017), comprehensively places tail-sitter VTOL across scale from small UAS to medium UAV to manned aircraft.
+
+**Sources:**
+
+1. DARPA TERN program reports, DTIC public records.
+2. Northrop Grumman TERN technical materials 2015-2018.
+3. Aurora Flight Sciences (Phase 1/2 predecessor) TERN materials.
 
 ---
 
@@ -800,4 +882,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-differential-thrust-attitude`
 
-**41 corpus entries disclose this subsystem.**
+**43 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1922
 
@@ -96,6 +96,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Aerofex Aero-X is the canonical disclosure of the modern hover-bike architecture: rider-straddle platform with twin large lift rotors fore and aft. Establishes prior art for: (1) personal hover-bike form factor, (2) intuitive lean-to-bank stability control mapping rider body input to differential rotor thrust, (3) the open-rotor straddle motorcycle-like operational paradigm. Anticipates Hoversurf S3, JetPack Aviation Speeder, and any subsequent hover-bike patent attempt.
 
+## MIT ACL aggressive quadrotor maneuvers (2009)
+
+- **id**: `mit-acl-aggressive-quadrotor`
+- **corpus**: academic
+- **creator**: MIT Aerospace Controls Laboratory (Jonathan How) / RAVEN testbed
+- **disclosure**: MIT Aerospace Controls Laboratory (Jonathan How) developed the RAVEN (Real-time indoor Autonomous Vehicle test ENvironment) testbed and a long series of aggressive-quadrotor-maneuver publications from 2009 onward. Foundational paper: Cutler, M. and How, J.P. 'Analysis and Control of a Variable-Pitch Quadrotor for Agile Flight.' ASME Journal of Dynamic Systems, Measurement, and Control 137(10), 2015. Subsequent papers through 2020 cover aerobatic maneuvers, variable-pitch propellers, and learning-based control.
+- **ip status**: open-permissive
+- **prior art notes**: MIT Aerospace Controls Lab (Jonathan How) RAVEN-platform aggressive-quadrotor maneuver work (2009-2020) establishes US academic prior art for variable-pitch quadrotor architecture and aerobatic-envelope control. Distinct from fixed-pitch BLDC commodity multirotor designs by adding per-rotor collective-pitch control — relevant prior art for any eVTOL claim involving variable-pitch lift rotors (Joby S4, Archer Midnight, Vahana, and other modern eVTOL all use variable-pitch on at least some rotors). Adds MIT to the US academic aerial-robotics anchor set alongside UPenn GRASP, Harvard Microrobotics, and the various NASA / DARPA programs.
+
 ## ETH Distributed Flight Array (2010-05-03)
 
 - **id**: `eth-distributed-flight-array`
@@ -176,6 +185,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ArduPilot QuadPlane functionality first merged into ArduPlane main branch 2015-04 (commit history available at github.com/ArduPilot/ardupilot); first general public release with QuadPlane support: ArduPlane 3.5.0, 2015-12-14.
 - **ip status**: open-copyleft
 - **prior art notes**: ArduPilot QuadPlane is the GPL-licensed reference implementation of generic VTOL flight control. Establishes prior art (under GPL, but the architectural disclosure is unencumbered as prior art for patent purposes) for: (1) generic transition controller for lift+cruise, tilt-rotor, tilt-wing, and tail-sitter VTOLs, (2) rotor-failure detection and reconfiguration in multirotor lift, (3) Q_ASSIST transitional thrust assist algorithms. The git commit history provides timestamped disclosure of every subsystem-level innovation. Filed against any post-2015 patent claim on basic VTOL transition control or rotor-failure reconfiguration in multirotor lift, this is anticipating prior art.
+
+## Caltech CAST drone autonomy / Neural-Fly (2016)
+
+- **id**: `caltech-cast-neural-fly`
+- **corpus**: academic
+- **creator**: Caltech Center for Autonomous Systems and Technologies / Soon-Jo Chung / Aaron Ames
+- **disclosure**: Caltech CAST (Center for Autonomous Systems and Technologies) established 2016 at Caltech. Key publications: O'Connell, M. et al. 'Neural-Fly enables rapid learning for agile flight in strong winds.' Science Robotics 7(66), 2022 (a paper demonstrating deep-learning-augmented quadrotor control in high-wind environments); plus a long series of multi-modal flying-robot papers from Soon-Jo Chung's group (LEONARDO, the bipedal-robot-with-multirotor hybrid, 2021).
+- **ip status**: open-permissive
+- **prior art notes**: Caltech CAST (Center for Autonomous Systems and Technologies, Soon-Jo Chung / Aaron Ames groups, 2016-) establishes US academic prior art for deep-learning-augmented quadrotor control (Neural-Fly, Science Robotics 2022) and for multi-modal walking/flying hybrid robots (LEONARDO, 2021). Relevant prior art for any eVTOL claim involving ML-augmented adaptive control or hybrid bipedal-flying robotic platforms. Adds Caltech to the US academic aerial-robotics anchor set alongside UPenn GRASP, MIT ACL, Harvard, Stanford, and the various NASA / DARPA programs.
 
 ## ETH Omnicopter (2016-05)
 

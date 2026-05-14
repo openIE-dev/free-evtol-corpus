@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-distributed-electric-propulsion`
 
-**109 corpus entries disclose this subsystem.**
+**113 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1886
 
@@ -159,6 +159,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The Chrysler VZ-6 (1958-1959) is the third of the three U.S. Army 'flying jeep' programs, completing the trio with the Curtiss-Wright VZ-7 (open quadrotor) and the Piasecki VZ-8 Airgeep (tandem open rotors). The VZ-6 used twin ducted lift fans fore and aft of the pilot with exhaust-vane attitude control. Establishes additional U.S. public-domain prior art for: (1) twin-ducted-fan personal/light flying-platform architecture, (2) exhaust-vane attitude control. Together with curtiss-wright-vz-7, piasecki-vz-8-airgeep, hiller-vz-1-pawnee, and de-lackner-hz-1-aerocycle, comprehensively places the 1955-1958 'flying jeep' / personal-platform design space in public-domain prior art.
 
+## Bristol Type 192 Belvedere (1958-07-05)
+
+- **id**: `bristol-belvedere`
+- **corpus**: academic
+- **creator**: Bristol Aeroplane Company / Westland Helicopters (production) / Royal Air Force
+- **disclosure**: Bristol Type 192 Belvedere first flight 1958-07-05; entered Royal Air Force service 1961 as the Belvedere HC.1 — the RAF's first twin-engine, twin-rotor helicopter and the first British tandem-rotor production helicopter. Documented in Bristol Aeroplane Company / Westland archives and RAF historical records.
+- **ip status**: public-domain
+- **prior art notes**: The Bristol Belvedere (1958) is the British tandem-rotor production helicopter — completing the cross-national tandem-rotor prior-art set alongside the US (Piasecki H-21 1945, CH-47 Chinook 1961) and Soviet (Yakovlev Yak-24 1952) lineages. Establishes UK prior art for tandem-rotor heavy-lift architecture with cross-shafted twin-turboshaft drive.
+
 ## Piasecki VZ-8 Airgeep (1958-10-12)
 
 - **id**: `piasecki-vz-8-airgeep`
@@ -221,6 +230,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Aerofex first concept demonstrator publicly unveiled October 2008; Aero-X full-scale prototype publicly demonstrated 2014-04-30. Founded by Mark De Roche, ex-Boeing/NASA; Aerofex hold patents on ducted-rotor stability augmentation.
 - **ip status**: patented
 - **prior art notes**: Aerofex Aero-X is the canonical disclosure of the modern hover-bike architecture: rider-straddle platform with twin large lift rotors fore and aft. Establishes prior art for: (1) personal hover-bike form factor, (2) intuitive lean-to-bank stability control mapping rider body input to differential rotor thrust, (3) the open-rotor straddle motorcycle-like operational paradigm. Anticipates Hoversurf S3, JetPack Aviation Speeder, and any subsequent hover-bike patent attempt.
+
+## MIT ACL aggressive quadrotor maneuvers (2009)
+
+- **id**: `mit-acl-aggressive-quadrotor`
+- **corpus**: academic
+- **creator**: MIT Aerospace Controls Laboratory (Jonathan How) / RAVEN testbed
+- **disclosure**: MIT Aerospace Controls Laboratory (Jonathan How) developed the RAVEN (Real-time indoor Autonomous Vehicle test ENvironment) testbed and a long series of aggressive-quadrotor-maneuver publications from 2009 onward. Foundational paper: Cutler, M. and How, J.P. 'Analysis and Control of a Variable-Pitch Quadrotor for Agile Flight.' ASME Journal of Dynamic Systems, Measurement, and Control 137(10), 2015. Subsequent papers through 2020 cover aerobatic maneuvers, variable-pitch propellers, and learning-based control.
+- **ip status**: open-permissive
+- **prior art notes**: MIT Aerospace Controls Lab (Jonathan How) RAVEN-platform aggressive-quadrotor maneuver work (2009-2020) establishes US academic prior art for variable-pitch quadrotor architecture and aerobatic-envelope control. Distinct from fixed-pitch BLDC commodity multirotor designs by adding per-rotor collective-pitch control — relevant prior art for any eVTOL claim involving variable-pitch lift rotors (Joby S4, Archer Midnight, Vahana, and other modern eVTOL all use variable-pitch on at least some rotors). Adds MIT to the US academic aerial-robotics anchor set alongside UPenn GRASP, Harvard Microrobotics, and the various NASA / DARPA programs.
 
 ## ETH Distributed Flight Array (2010-05-03)
 
@@ -375,6 +393,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
 
+## Caltech CAST drone autonomy / Neural-Fly (2016)
+
+- **id**: `caltech-cast-neural-fly`
+- **corpus**: academic
+- **creator**: Caltech Center for Autonomous Systems and Technologies / Soon-Jo Chung / Aaron Ames
+- **disclosure**: Caltech CAST (Center for Autonomous Systems and Technologies) established 2016 at Caltech. Key publications: O'Connell, M. et al. 'Neural-Fly enables rapid learning for agile flight in strong winds.' Science Robotics 7(66), 2022 (a paper demonstrating deep-learning-augmented quadrotor control in high-wind environments); plus a long series of multi-modal flying-robot papers from Soon-Jo Chung's group (LEONARDO, the bipedal-robot-with-multirotor hybrid, 2021).
+- **ip status**: open-permissive
+- **prior art notes**: Caltech CAST (Center for Autonomous Systems and Technologies, Soon-Jo Chung / Aaron Ames groups, 2016-) establishes US academic prior art for deep-learning-augmented quadrotor control (Neural-Fly, Science Robotics 2022) and for multi-modal walking/flying hybrid robots (LEONARDO, 2021). Relevant prior art for any eVTOL claim involving ML-augmented adaptive control or hybrid bipedal-flying robotic platforms. Adds Caltech to the US academic aerial-robotics anchor set alongside UPenn GRASP, MIT ACL, Harvard, Stanford, and the various NASA / DARPA programs.
+
 ## Aurora Flight Sciences LightningStrike XV-24A (2016-03-03)
 
 - **id**: `aurora-lightningstrike-xv-24a`
@@ -491,6 +518,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ASKA / NFT Inc founded 2018 by Guy Kaplinsky and Maki Kaplinsky; A5 production-design unveiled at CES 2023 (2023-01-04); FAA Special Airworthiness Certificate (Experimental) granted 2023-06-29 for flight testing. NHTSA-approved street-legal road operation pending.
 - **ip status**: patented
 - **prior art notes**: ASKA A5 is the leading drive+fly transformer eVTOL with documented FAA experimental-category certification. Establishes prior art for: (1) folding-wing tilt-rotor transformer architecture, (2) hybrid-electric powerplant for transformer range extension, (3) dual-certification basis (FAA + NHTSA road-legal). Anticipates: PAL-V Liberty, AeroMobil 4.0, Klein Vision AirCar, and any modern drive+fly patent claim.
+
+## Skygauge Robotics inspection drone (2018)
+
+- **id**: `skygauge-robotics`
+- **corpus**: private
+- **creator**: Skygauge Robotics (Toronto, Canada)
+- **disclosure**: Skygauge Robotics (founded 2018 in Toronto by Maks Zubko and Linar Ismagilov) developed a tilting-rotor industrial-inspection drone capable of stable contact with vertical surfaces; first commercial deployment 2021. Designed for ultrasonic-thickness inspection of tall industrial structures (oil storage tanks, refineries, pressure vessels). Documented in Skygauge materials and Canadian industrial-inspection records.
+- **ip status**: patented
+- **prior art notes**: Skygauge Robotics (CA 2018-) establishes Canadian prior art for the tilting-arm quadrotor industrial-inspection drone — independently-tilting rotor arms enabling controlled horizontal thrust during hover for contact-based surface inspection (ultrasonic thickness measurement on industrial structures). Smaller-scale industrial counterpart to Voliro (CH, omnidirectional hexrotor inspection). Adds Canadian depth alongside Jaunt Air Mobility (slowed-rotor compound eVTOL), Horizon Aircraft Cavorite X5 (fan-in-wing eVTOL), and the Avro Canada Avrocar heritage.
 
 ## Airbus A^3 Vahana (2018-01-31)
 

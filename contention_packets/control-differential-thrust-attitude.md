@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `control-differential-thrust-attitude`  
-**Entries:** 41 (41 commons-grade, 0 draft)  
+**Entries:** 43 (43 commons-grade, 0 draft)  
 **Earliest disclosure:** 1922  
 **Most recent disclosure:** 2024-04-04
 
@@ -232,6 +232,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2009 — MIT ACL aggressive quadrotor maneuvers
+
+- **id:** `mit-acl-aggressive-quadrotor`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** MIT Aerospace Controls Laboratory (Jonathan How) / RAVEN testbed
+- **disclosure citation:** MIT Aerospace Controls Laboratory (Jonathan How) developed the RAVEN (Real-time indoor Autonomous Vehicle test ENvironment) testbed and a long series of aggressive-quadrotor-maneuver publications from 2009 onward. Foundational paper: Cutler, M. and How, J.P. 'Analysis and Control of a Variable-Pitch Quadrotor for Agile Flight.' ASME Journal of Dynamic Systems, Measurement, and Control 137(10), 2015. Subsequent papers through 2020 cover aerobatic maneuvers, variable-pitch propellers, and learning-based control.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `cert-experimental`
+
+**Prior art notes:**
+
+> MIT Aerospace Controls Lab (Jonathan How) RAVEN-platform aggressive-quadrotor maneuver work (2009-2020) establishes US academic prior art for variable-pitch quadrotor architecture and aerobatic-envelope control. Distinct from fixed-pitch BLDC commodity multirotor designs by adding per-rotor collective-pitch control — relevant prior art for any eVTOL claim involving variable-pitch lift rotors (Joby S4, Archer Midnight, Vahana, and other modern eVTOL all use variable-pitch on at least some rotors). Adds MIT to the US academic aerial-robotics anchor set alongside UPenn GRASP, Harvard Microrobotics, and the various NASA / DARPA programs.
+
+**Sources:**
+
+1. Cutler, M., How, J.P. 'Analysis and Control of a Variable-Pitch Quadrotor for Agile Flight.' ASME JDSMC 137(10), 2015.
+2. MIT Aerospace Controls Lab publications archive (RAVEN testbed).
+3. How, J.P. et al. 'RAVEN: Indoor multi-vehicle UAV test environment.' AIAA GNC 2008.
+
+---
+
 ### 2010-05-03 — ETH Distributed Flight Array
 
 - **id:** `eth-distributed-flight-array`
@@ -416,6 +437,27 @@ cite, copy, or redistribute these contentions.
 1. ArduPilot project, github.com/ArduPilot/ardupilot, ArduPlane git history.
 2. Tridgell, Andrew. 'ArduPilot QuadPlane' presentation, ArduPilot DevConf, multiple years.
 3. ArduPilot wiki: ardupilot.org/plane/docs/quadplane-overview.html.
+
+---
+
+### 2016 — Caltech CAST drone autonomy / Neural-Fly
+
+- **id:** `caltech-cast-neural-fly`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Caltech Center for Autonomous Systems and Technologies / Soon-Jo Chung / Aaron Ames
+- **disclosure citation:** Caltech CAST (Center for Autonomous Systems and Technologies) established 2016 at Caltech. Key publications: O'Connell, M. et al. 'Neural-Fly enables rapid learning for agile flight in strong winds.' Science Robotics 7(66), 2022 (a paper demonstrating deep-learning-augmented quadrotor control in high-wind environments); plus a long series of multi-modal flying-robot papers from Soon-Jo Chung's group (LEONARDO, the bipedal-robot-with-multirotor hybrid, 2021).
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `cert-experimental`
+
+**Prior art notes:**
+
+> Caltech CAST (Center for Autonomous Systems and Technologies, Soon-Jo Chung / Aaron Ames groups, 2016-) establishes US academic prior art for deep-learning-augmented quadrotor control (Neural-Fly, Science Robotics 2022) and for multi-modal walking/flying hybrid robots (LEONARDO, 2021). Relevant prior art for any eVTOL claim involving ML-augmented adaptive control or hybrid bipedal-flying robotic platforms. Adds Caltech to the US academic aerial-robotics anchor set alongside UPenn GRASP, MIT ACL, Harvard, Stanford, and the various NASA / DARPA programs.
+
+**Sources:**
+
+1. O'Connell, M., Shi, G., Shi, X., Azizzadenesheli, K., Anandkumar, A., Yue, Y., Chung, S.-J. 'Neural-Fly enables rapid learning for agile flight in strong winds.' Science Robotics 7(66), 2022.
+2. Kim, K., Spieler, P., Lupu, E.-S., Ramezani, A., Chung, S.-J. 'A bipedal walking robot that can fly, slackline, and skateboard (LEONARDO).' Science Robotics 6(59), 2021.
+3. Caltech CAST publications archive.
 
 ---
 
@@ -905,4 +947,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

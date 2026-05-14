@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `cert-easa-special-condition-vtol`  
-**Entries:** 23 (23 commons-grade, 0 draft)  
+**Entries:** 24 (24 commons-grade, 0 draft)  
 **Earliest disclosure:** 2014-07  
 **Most recent disclosure:** 2024-04-04
 
@@ -122,6 +122,26 @@ cite, copy, or redistribute these contentions.
 1. Wingcopter GmbH press releases 2017–2024.
 2. Wingcopter Tilt-Rotor Mechanism patents EP3260370 / US10913529.
 3. UNICEF Pacific islands medical delivery program reports 2018.
+
+---
+
+### 2018 — Skygauge Robotics inspection drone
+
+- **id:** `skygauge-robotics`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Skygauge Robotics (Toronto, Canada)
+- **disclosure citation:** Skygauge Robotics (founded 2018 in Toronto by Maks Zubko and Linar Ismagilov) developed a tilting-rotor industrial-inspection drone capable of stable contact with vertical surfaces; first commercial deployment 2021. Designed for ultrasonic-thickness inspection of tall industrial structures (oil storage tanks, refineries, pressure vessels). Documented in Skygauge materials and Canadian industrial-inspection records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-fully-actuated-omnidirectional`, `lift-tilt-rotor`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> Skygauge Robotics (CA 2018-) establishes Canadian prior art for the tilting-arm quadrotor industrial-inspection drone — independently-tilting rotor arms enabling controlled horizontal thrust during hover for contact-based surface inspection (ultrasonic thickness measurement on industrial structures). Smaller-scale industrial counterpart to Voliro (CH, omnidirectional hexrotor inspection). Adds Canadian depth alongside Jaunt Air Mobility (slowed-rotor compound eVTOL), Horizon Aircraft Cavorite X5 (fan-in-wing eVTOL), and the Avro Canada Avrocar heritage.
+
+**Sources:**
+
+1. Skygauge Robotics technical materials 2018-2024.
+2. Skygauge Robotics patent filings, Canadian Intellectual Property Office and USPTO.
 
 ---
 
@@ -527,4 +547,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

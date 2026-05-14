@@ -1,6 +1,6 @@
 # Corpus Index
 
-235 entries total. Generated from corpus.jsonl.
+247 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -44,9 +44,12 @@
 | Bitcraze Crazyflie | `bitcraze-crazyflie` | 2013 | open | open-permissive |  |
 | Boeing Phantom Swift | `boeing-phantom-swift` | 2013 | academic | patented |  |
 | Boeing-Vertol VZ-2 | `boeing-vertol-vz-2` | 1957 | academic | public-domain |  |
+| Bristol Type 192 Belvedere | `bristol-belvedere` | 1958 | academic | public-domain |  |
 | Bubbleship (Oblivion) | `oblivion-bubbleship` | 2013 | fictional | fictional |  |
 | Cagliostro autogyro (Lupin III) | `cagliostro-autogyro` | 1979 | fictional | fictional |  |
+| Caltech CAST drone autonomy / Neural-Fly | `caltech-cast-neural-fly` | 2016 | academic | open-permissive |  |
 | Canadair CL-84 Dynavert | `canadair-cl-84` | 1965 | academic | public-domain |  |
+| Capitol hovercraft (The Hunger Games) | `hunger-games-hovercraft` | 2008 | fictional | fictional |  |
 | Cargo VTOL (Wandering Earth) | `wandering-earth-cargo-vtol` | 2019 | fictional | fictional |  |
 | CarterCopter / Carter PAV | `cartercopter` | 1998 | private | patented |  |
 | Cascarudo invasion craft (El Eternauta) | `eternauta-cascarudo` | 1957 | fictional | fictional |  |
@@ -127,6 +130,7 @@
 | Jetsons family aerocar | `jetsons-aerocar` | 1962 | fictional | fictional |  |
 | Joby Aviation S4 | `joby-s4` | 2018 | private | patented |  |
 | Joby S2 | `joby-s2` | 2015 | private | patented |  |
+| Johnny Cab / hover-cab (Total Recall) | `total-recall-hover-cab` | 1990 | fictional | fictional |  |
 | Kaman HH-43 Huskie | `kaman-hh-43-huskie` | 1953 | academic | patented |  |
 | Kaman K-MAX | `kaman-k-max` | 1991 | private | patented |  |
 | Kamov Ka-22 Vintokryl | `kamov-ka-22-vintokryl` | 1959 | academic | public-domain |  |
@@ -155,13 +159,17 @@
 | Manta Aircraft ANN2 | `manta-aircraft-ann2` | 2020 | private | patented |  |
 | Martin Aircraft Jetpack | `martin-aircraft-jetpack` | 2008 | private | patented |  |
 | McDonnell Douglas / BAe AV-8B Harrier II | `av-8b-harrier-ii` | 1978 | private | patented |  |
+| MCRN Drop Ship / UNN Marine Drop Ship (The Expanse) | `expanse-drop-ship` | 2015 | fictional | fictional |  |
 | Mil Mi-30 | `mil-mi-30` | 1985 | academic | public-domain |  |
 | Mil V-12 (Mi-12) | `mil-v-12` | 1968 | academic | public-domain |  |
 | Mil V-7 Tarakan | `mil-v-7-tarakan` | 1957 | academic | public-domain |  |
+| Military VTOL craft (Akira) | `akira-flying-craft` | 1988 | fictional | fictional |  |
+| MIT ACL aggressive quadrotor maneuvers | `mit-acl-aggressive-quadrotor` | 2009 | academic | open-permissive |  |
 | ModQuad (UPenn GRASP Laboratory) | `upenn-modquad` | 2018 | academic | open-permissive |  |
 | Moller Skycar M400 | `moller-skycar-m400` | 1989 | private | patented |  |
 | NASA GL-10 Greased Lightning | `nasa-gl-10` | 2014 | academic | public-domain |  |
 | NASA X-57 Maxwell | `nasa-x-57-maxwell` | 2016 | academic | public-domain |  |
+| Northrop Grumman TERN | `northrop-grumman-tern` | 2015 | academic | patented |  |
 | Oehmichen No.2 helicopter | `oehmichen-helicopter` | 1924 | academic | public-domain |  |
 | Orb Aerospace Nomad | `orb-aerospace-nomad` | 2017 | private | patented |  |
 | Ornithopter (Dune) | `dune-ornithopter` | 1965 | fictional | fictional |  |
@@ -179,6 +187,7 @@
 | Pushpaka Vimana (Ramayana) | `pushpaka-vimana` | -050 | fictional | public-domain |  |
 | PX4 VTOL flight stack | `px4-vtol` | 2014 | open | open-permissive |  |
 | Pyka Pelican Cargo | `pyka-pelican` | 2018 | private | patented |  |
+| Raptor (Battlestar Galactica) | `battlestar-galactica-raptor` | 2003 | fictional | fictional |  |
 | REGENT Viceroy seaglider | `regent-viceroy-seaglider` | 2021 | private | patented |  |
 | Repulsorlift vehicles (Star Wars) | `star-wars-repulsorlift` | 1977 | fictional | fictional |  |
 | Royal Talon Fighter (Black Panther) | `black-panther-royal-talon` | 2018 | fictional | fictional |  |
@@ -191,12 +200,14 @@
 | Schiebel Camcopter S-100 | `schiebel-camcopter-s-100` | 2005 | private | patented |  |
 | Section 9 Tilt-Rotor (Ghost in the Shell) | `ghost-in-the-shell-tiltrotor` | 1989 | fictional | fictional |  |
 | Short SC.1 | `short-sc-1` | 1957 | academic | public-domain |  |
+| Sikorsky Cypher | `sikorsky-cypher` | 1995 | private | patented |  |
 | Sikorsky S-72 RSRA | `sikorsky-s-72-rsra` | 1976 | academic | public-domain |  |
 | Sikorsky S-97 Raider | `sikorsky-s-97-raider` | 2015 | private | patented |  |
 | Sikorsky VS-300 | `sikorsky-vs-300` | 1939 | academic | patented |  |
 | Sikorsky-Boeing SB>1 Defiant | `sikorsky-boeing-defiant` | 2019 | private | patented |  |
 | Sikorsky/DARPA X-Wing | `sikorsky-x-wing` | 1986 | academic | public-domain |  |
 | SkyDrive SD-05 | `skydrive-sd-05` | 2018 | private | patented |  |
+| Skygauge Robotics inspection drone | `skygauge-robotics` | 2018 | private | patented |  |
 | SNECMA C.450 Coléoptère | `snecma-coleoptere` | 1959 | academic | public-domain |  |
 | SoloTrek XFV / Trek Aerospace Springtail | `solotrek-xfv` | 2001 | private | patented |  |
 | Spindizzy (Cities in Flight, James Blish) | `blish-cities-in-flight` | 1955 | fictional | public-domain |  |
@@ -238,4 +249,5 @@
 | Yakovlev Yak-141 | `yak-141` | 1987 | academic | patented |  |
 | Yakovlev Yak-24 | `yak-24` | 1952 | academic | public-domain |  |
 | Yakovlev Yak-36 | `yak-36-freehand` | 1964 | academic | public-domain |  |
+| Yamaha RMAX autonomous helicopter | `yamaha-rmax` | 1990 | private | patented |  |
 | Zuri eVTOL | `zuri-evtol` | 2017 | private | patented |  |

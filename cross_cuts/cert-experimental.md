@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-experimental`
 
-**79 corpus entries disclose this subsystem.**
+**81 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1843-04-08
 
@@ -402,6 +402,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Martin Jetpack is New Zealand's foundational disclosure of long-endurance personal-VTOL flight. Architecturally distinct from Bell Rocket Belt (rockets, 21 sec) and Gravity Industries (turbojets, 10 min) by using twin large ducted fans for ~30 min endurance. Establishes prior art for: (1) twin-ducted-fan personal-VTOL strap-on, (2) cyclic-pitch fan attitude control distinct from differential thrust, (3) FAA experimental-category personal jetpack certification basis. Glenn Martin's patents (NZ 539537, US 7,484,687) cover the architecture; some now expired.
 
+## MIT ACL aggressive quadrotor maneuvers (2009)
+
+- **id**: `mit-acl-aggressive-quadrotor`
+- **corpus**: academic
+- **creator**: MIT Aerospace Controls Laboratory (Jonathan How) / RAVEN testbed
+- **disclosure**: MIT Aerospace Controls Laboratory (Jonathan How) developed the RAVEN (Real-time indoor Autonomous Vehicle test ENvironment) testbed and a long series of aggressive-quadrotor-maneuver publications from 2009 onward. Foundational paper: Cutler, M. and How, J.P. 'Analysis and Control of a Variable-Pitch Quadrotor for Agile Flight.' ASME Journal of Dynamic Systems, Measurement, and Control 137(10), 2015. Subsequent papers through 2020 cover aerobatic maneuvers, variable-pitch propellers, and learning-based control.
+- **ip status**: open-permissive
+- **prior art notes**: MIT Aerospace Controls Lab (Jonathan How) RAVEN-platform aggressive-quadrotor maneuver work (2009-2020) establishes US academic prior art for variable-pitch quadrotor architecture and aerobatic-envelope control. Distinct from fixed-pitch BLDC commodity multirotor designs by adding per-rotor collective-pitch control — relevant prior art for any eVTOL claim involving variable-pitch lift rotors (Joby S4, Archer Midnight, Vahana, and other modern eVTOL all use variable-pitch on at least some rotors). Adds MIT to the US academic aerial-robotics anchor set alongside UPenn GRASP, Harvard Microrobotics, and the various NASA / DARPA programs.
+
 ## Urban Aeronautics CityHawk (2009-12-21)
 
 - **id**: `urban-aero-cityhawk`
@@ -572,6 +581,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
 - **ip status**: patented
 - **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
+
+## Caltech CAST drone autonomy / Neural-Fly (2016)
+
+- **id**: `caltech-cast-neural-fly`
+- **corpus**: academic
+- **creator**: Caltech Center for Autonomous Systems and Technologies / Soon-Jo Chung / Aaron Ames
+- **disclosure**: Caltech CAST (Center for Autonomous Systems and Technologies) established 2016 at Caltech. Key publications: O'Connell, M. et al. 'Neural-Fly enables rapid learning for agile flight in strong winds.' Science Robotics 7(66), 2022 (a paper demonstrating deep-learning-augmented quadrotor control in high-wind environments); plus a long series of multi-modal flying-robot papers from Soon-Jo Chung's group (LEONARDO, the bipedal-robot-with-multirotor hybrid, 2021).
+- **ip status**: open-permissive
+- **prior art notes**: Caltech CAST (Center for Autonomous Systems and Technologies, Soon-Jo Chung / Aaron Ames groups, 2016-) establishes US academic prior art for deep-learning-augmented quadrotor control (Neural-Fly, Science Robotics 2022) and for multi-modal walking/flying hybrid robots (LEONARDO, 2021). Relevant prior art for any eVTOL claim involving ML-augmented adaptive control or hybrid bipedal-flying robotic platforms. Adds Caltech to the US academic aerial-robotics anchor set alongside UPenn GRASP, MIT ACL, Harvard, Stanford, and the various NASA / DARPA programs.
 
 ## ETH Omnicopter (2016-05)
 

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `transition-tail-sitter-pitch-up`  
-**Entries:** 12 (12 commons-grade, 0 draft)  
+**Entries:** 13 (13 commons-grade, 0 draft)  
 **Earliest disclosure:** 1944-09  
 **Most recent disclosure:** 2022-10-19
 
@@ -211,6 +211,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2015-12 — Northrop Grumman TERN
+
+- **id:** `northrop-grumman-tern`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Northrop Grumman / DARPA / U.S. Navy / Aurora Flight Sciences (predecessor work)
+- **disclosure citation:** DARPA TERN (Tactically Exploited Reconnaissance Node) Phase 3 prime contract awarded to Northrop Grumman December 2015; sub-scale demonstrator flights 2017-2018. A tail-sitter UAV designed to launch and recover vertically from the deck of small destroyer-class ships without a runway. Documented in DARPA TERN program reports (public DTIC) and Northrop Grumman technical materials.
+- **disclosed subsystems:** `transition-tail-sitter-pitch-up`, `lift-coaxial-rotor`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> DARPA / Northrop Grumman TERN (2015-2018) is the modern disclosure of the medium-scale tail-sitter VTOL UAV for naval deployment — vertical launch and recovery from small destroyer-class ships, tail-sitter pitch-up transition to fixed-wing cruise, ~1,700 km range. Establishes prior art for: (1) medium-scale (~2.7 tonne) tail-sitter VTOL UAV, (2) ship-deck vertical-cradle launch/recovery architecture, (3) the naval-tail-sitter operational concept. Together with convair-xfy-pogo (1954, original tail-sitter), ryan-x-13-vertijet (1955), aerovironment-skytote (2003), volansi-vbat (2018), pivotal-blackfly (2018), bell-apt (2018), and orb-aerospace-nomad (2017), comprehensively places tail-sitter VTOL across scale from small UAS to medium UAV to manned aircraft.
+
+**Sources:**
+
+1. DARPA TERN program reports, DTIC public records.
+2. Northrop Grumman TERN technical materials 2015-2018.
+3. Aurora Flight Sciences (Phase 1/2 predecessor) TERN materials.
+
+---
+
 ### 2018-04 — Volansi VBAT
 
 - **id:** `volansi-vbat`
@@ -302,4 +323,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

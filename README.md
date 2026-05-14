@@ -9,7 +9,7 @@ personal VTOL, tilt-rotor and tilt-wing demonstrators, military VTOL,
 ducted-fan and vectored-thrust craft, drive+fly transformers, and the science
 fiction and academic literature that anticipated all of them.
 
-Coverage is global and deep: 235 entries spanning ~2,500 years from the
+Coverage is global and deep: 247 entries spanning ~2,500 years from the
 Pushpaka Vimana (Sanskrit Ramayana, ~5th c BCE) and the 1001 Nights flying
 carpet (~9th c CE) through Verne's *Albatross* (1886, 74 distributed lift
 airscrews — the foundational engineering anticipation of distributed-electric-

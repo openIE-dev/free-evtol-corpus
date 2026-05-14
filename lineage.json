@@ -359,7 +359,8 @@
         "bell-model-30",
         "dlr-superartis",
         "saab-skeldar-v-200",
-        "schiebel-camcopter-s-100"
+        "schiebel-camcopter-s-100",
+        "yamaha-rmax"
       ]
     },
     {
@@ -435,6 +436,7 @@
         "de-bothezat-quadrotor"
       ],
       "descendants": [
+        "bristol-belvedere",
         "yak-24"
       ]
     },
@@ -540,6 +542,7 @@
         "aerovironment-skytote",
         "alef-model-a",
         "bell-apt",
+        "northrop-grumman-tern",
         "pivotal-blackfly",
         "ryan-x-13-vertijet",
         "snecma-coleoptere",
@@ -759,9 +762,20 @@
         "curtiss-wright-x-19",
         "lilium-jet",
         "ltv-xc-142",
+        "sikorsky-cypher",
         "urban-aero-cityhawk",
         "vanguard-omniplane"
       ]
+    },
+    {
+      "id": "bristol-belvedere",
+      "name": "Bristol Type 192 Belvedere",
+      "year": "1958",
+      "corpus": "academic",
+      "ancestors": [
+        "piasecki-h-21"
+      ],
+      "descendants": []
     },
     {
       "id": "piasecki-vz-8-airgeep",
@@ -784,7 +798,9 @@
       "ancestors": [
         "de-bothezat-quadrotor"
       ],
-      "descendants": []
+      "descendants": [
+        "sikorsky-cypher"
+      ]
     },
     {
       "id": "vanguard-omniplane",
@@ -910,6 +926,7 @@
         "nausicaa-tolmekian-gunship",
         "star-trek-shuttlecraft",
         "thunderbird-2",
+        "total-recall-hover-cab",
         "xpeng-aeroht-modular"
       ]
     },
@@ -1277,7 +1294,8 @@
         "fifth-element-flying-taxi",
         "klein-vision-aircar",
         "oblivion-bubbleship",
-        "space-sweepers-victory"
+        "space-sweepers-victory",
+        "total-recall-hover-cab"
       ]
     },
     {
@@ -1288,7 +1306,9 @@
       "ancestors": [
         "jetsons-aerocar"
       ],
-      "descendants": []
+      "descendants": [
+        "akira-flying-craft"
+      ]
     },
     {
       "id": "nausicaa-tolmekian-gunship",
@@ -1333,7 +1353,10 @@
         "thunderbird-2"
       ],
       "descendants": [
-        "district-9-dropship"
+        "battlestar-galactica-raptor",
+        "district-9-dropship",
+        "expanse-drop-ship",
+        "hunger-games-hovercraft"
       ]
     },
     {
@@ -1379,6 +1402,16 @@
       "descendants": [
         "f-35b-lightning"
       ]
+    },
+    {
+      "id": "akira-flying-craft",
+      "name": "Military VTOL craft (Akira)",
+      "year": "1988",
+      "corpus": "fictional",
+      "ancestors": [
+        "macross-vf-1-veritech"
+      ],
+      "descendants": []
     },
     {
       "id": "v-22-osprey",
@@ -1449,12 +1482,44 @@
       ]
     },
     {
+      "id": "yamaha-rmax",
+      "name": "Yamaha RMAX autonomous helicopter",
+      "year": "1990",
+      "corpus": "private",
+      "ancestors": [
+        "sikorsky-vs-300"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "total-recall-hover-cab",
+      "name": "Johnny Cab / hover-cab (Total Recall)",
+      "year": "1990",
+      "corpus": "fictional",
+      "ancestors": [
+        "bladerunner-spinner",
+        "jetsons-aerocar"
+      ],
+      "descendants": []
+    },
+    {
       "id": "kaman-k-max",
       "name": "Kaman K-MAX",
       "year": "1991",
       "corpus": "private",
       "ancestors": [
         "kaman-hh-43-huskie"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sikorsky-cypher",
+      "name": "Sikorsky Cypher",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [
+        "avrocar-vz-9",
+        "doak-vz-4"
       ],
       "descendants": []
     },
@@ -1534,6 +1599,7 @@
       ],
       "descendants": [
         "bell-apt",
+        "northrop-grumman-tern",
         "pivotal-blackfly",
         "volansi-vbat"
       ]
@@ -1546,6 +1612,16 @@
       "ancestors": [
         "jetsons-aerocar",
         "laputa-flapter"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "battlestar-galactica-raptor",
+      "name": "Raptor (Battlestar Galactica)",
+      "year": "2003",
+      "corpus": "fictional",
+      "ancestors": [
+        "aliens-cheyenne-dropship"
       ],
       "descendants": []
     },
@@ -1655,6 +1731,16 @@
       ]
     },
     {
+      "id": "hunger-games-hovercraft",
+      "name": "Capitol hovercraft (The Hunger Games)",
+      "year": "2008",
+      "corpus": "fictional",
+      "ancestors": [
+        "aliens-cheyenne-dropship"
+      ],
+      "descendants": []
+    },
+    {
       "id": "aerofex-aero-x",
       "name": "Aerofex Aero-X",
       "year": "2008",
@@ -1670,6 +1756,18 @@
         "jetpack-aviation-speeder",
         "lazareth-lmv-496",
         "malloy-aeronautics-hoverbike"
+      ]
+    },
+    {
+      "id": "mit-acl-aggressive-quadrotor",
+      "name": "MIT ACL aggressive quadrotor maneuvers",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [
+        "upenn-cooperative-grasping"
+      ],
+      "descendants": [
+        "caltech-cast-neural-fly"
       ]
     },
     {
@@ -1768,6 +1866,7 @@
       "ancestors": [],
       "descendants": [
         "kmel-nano-quadrotor-swarm",
+        "mit-acl-aggressive-quadrotor",
         "univ-tokyo-dragon",
         "upenn-modquad"
       ]
@@ -1866,6 +1965,7 @@
         "upenn-cooperative-grasping"
       ],
       "descendants": [
+        "caltech-cast-neural-fly",
         "collmot-drone-show",
         "intel-shooting-star"
       ]
@@ -2067,6 +2167,38 @@
       "descendants": [
         "joby-s4"
       ]
+    },
+    {
+      "id": "expanse-drop-ship",
+      "name": "MCRN Drop Ship / UNN Marine Drop Ship (The Expanse)",
+      "year": "2015",
+      "corpus": "fictional",
+      "ancestors": [
+        "aliens-cheyenne-dropship"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "northrop-grumman-tern",
+      "name": "Northrop Grumman TERN",
+      "year": "2015",
+      "corpus": "academic",
+      "ancestors": [
+        "aerovironment-skytote",
+        "convair-xfy-pogo"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "caltech-cast-neural-fly",
+      "name": "Caltech CAST drone autonomy / Neural-Fly",
+      "year": "2016",
+      "corpus": "academic",
+      "ancestors": [
+        "kmel-nano-quadrotor-swarm",
+        "mit-acl-aggressive-quadrotor"
+      ],
+      "descendants": []
     },
     {
       "id": "aurora-lightningstrike-xv-24a",
@@ -2279,6 +2411,16 @@
       "descendants": []
     },
     {
+      "id": "skygauge-robotics",
+      "name": "Skygauge Robotics inspection drone",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [
+        "voliro"
+      ],
+      "descendants": []
+    },
+    {
       "id": "airbus-vahana",
       "name": "Airbus A^3 Vahana",
       "year": "2018",
@@ -2373,7 +2515,9 @@
       "ancestors": [
         "eth-omnicopter"
       ],
-      "descendants": []
+      "descendants": [
+        "skygauge-robotics"
+      ]
     },
     {
       "id": "embraerx-evtol-concept",

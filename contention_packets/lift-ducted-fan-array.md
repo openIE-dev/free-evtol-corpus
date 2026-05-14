@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-ducted-fan-array`  
-**Entries:** 15 (15 commons-grade, 0 draft)  
+**Entries:** 16 (16 commons-grade, 0 draft)  
 **Earliest disclosure:** 1959  
 **Most recent disclosure:** 2021-09
 
@@ -144,6 +144,26 @@ cite, copy, or redistribute these contentions.
 1. Moller, Paul S. Multiple US patents 1965-2015, USPTO archive.
 2. Moller, Paul. Skycar: The Air Car of the Future. Davis, 1996 (self-published).
 3. Aviation Week and Popular Science coverage 1989-2010.
+
+---
+
+### 1995-04 — Sikorsky Cypher
+
+- **id:** `sikorsky-cypher`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sikorsky Aircraft (Stratford, Connecticut)
+- **disclosure citation:** Sikorsky Cypher first flight April 1995; demonstrated to U.S. Army, Air Force, and Marine Corps 1995-2002; Cypher II (with stub-wings for fixed-wing cruise mode) followed late 1990s. The first practical ducted-fan VTOL UAV from a major rotorcraft manufacturer. Documented in Sikorsky technical papers and U.S. military evaluation records.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-coaxial-rotor`, `autonomy-pilot-removed`, `cert-military`
+
+**Prior art notes:**
+
+> Sikorsky Cypher (1995) is the foundational ducted-fan VTOL UAV from a major rotorcraft manufacturer — a donut-shaped airframe with coaxial counter-rotating ducted lift rotors. Cypher II (late 1990s) added stub-wings for fixed-wing cruise mode, anticipating the lift+cruise architectural pattern that modern eVTOL adopt. Establishes prior art for: (1) ducted-fan VTOL UAV with coaxial lift rotors, (2) the donut/disc airframe with internal lift rotors, (3) the stub-wing-augmented ducted-fan UAV (Cypher II). Together with the various tail-sitter VTOL UAVs (aerovironment-skytote, volansi-vbat) and modern cargo VTOL UAVs (wingcopter, pyka, etc), places military/commercial VTOL UAV architecture in continuous prior art from 1995.
+
+**Sources:**
+
+1. Sikorsky Aircraft Cypher / Cypher II technical materials and AHS Forum papers 1995-2005.
+2. U.S. Army / USMC / USAF Cypher evaluation records.
 
 ---
 
@@ -360,4 +380,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `propulsion-bldc-direct-drive`  
-**Entries:** 59 (59 commons-grade, 0 draft)  
+**Entries:** 60 (60 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-10-21  
 **Most recent disclosure:** 2024-04-04
 
@@ -355,6 +355,26 @@ cite, copy, or redistribute these contentions.
 1. Workhorse Group Form 10-K SEC filings 2017-2020.
 2. Workhorse press releases 2017-2019.
 3. AOPA SureFly unveiling materials 2017-10-09.
+
+---
+
+### 2018 — Skygauge Robotics inspection drone
+
+- **id:** `skygauge-robotics`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Skygauge Robotics (Toronto, Canada)
+- **disclosure citation:** Skygauge Robotics (founded 2018 in Toronto by Maks Zubko and Linar Ismagilov) developed a tilting-rotor industrial-inspection drone capable of stable contact with vertical surfaces; first commercial deployment 2021. Designed for ultrasonic-thickness inspection of tall industrial structures (oil storage tanks, refineries, pressure vessels). Documented in Skygauge materials and Canadian industrial-inspection records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-fully-actuated-omnidirectional`, `lift-tilt-rotor`, `propulsion-bldc-direct-drive`, `cert-easa-special-condition-vtol`
+
+**Prior art notes:**
+
+> Skygauge Robotics (CA 2018-) establishes Canadian prior art for the tilting-arm quadrotor industrial-inspection drone — independently-tilting rotor arms enabling controlled horizontal thrust during hover for contact-based surface inspection (ultrasonic thickness measurement on industrial structures). Smaller-scale industrial counterpart to Voliro (CH, omnidirectional hexrotor inspection). Adds Canadian depth alongside Jaunt Air Mobility (slowed-rotor compound eVTOL), Horizon Aircraft Cavorite X5 (fan-in-wing eVTOL), and the Avro Canada Avrocar heritage.
+
+**Sources:**
+
+1. Skygauge Robotics technical materials 2018-2024.
+2. Skygauge Robotics patent filings, Canadian Intellectual Property Office and USPTO.
 
 ---
 
@@ -1280,4 +1300,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

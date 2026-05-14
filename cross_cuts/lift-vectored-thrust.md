@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-vectored-thrust`
 
-**39 corpus entries disclose this subsystem.**
+**43 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-11
 
@@ -240,6 +240,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The Yak-141 is the foundational disclosure of the three-bearing swivel duct (3BSM/3BSD) for supersonic-capable vectored-thrust VTOL. Establishes prior art for: (1) the 3BSM aft-nozzle architecture, in which three rotating duct sections sequence to redirect main engine thrust from horizontal to vertical, (2) lift-jet augmentation forward of the main engine for hover trim and lift, (3) supersonic-capable VTOL airframe geometry. Lockheed Martin's F-35B, which uses an essentially identical 3BSM, descends directly from Yak-141 disclosure: documented technology transfer occurred c. 1995. The 3BSM patents have publicly known origins in Yakovlev work pre-1990.
 
+## Military VTOL craft (Akira) (1988-07-16)
+
+- **id**: `akira-flying-craft`
+- **corpus**: fictional
+- **creator**: Katsuhiro Otomo / Tokyo Movie Shinsha / Streamline Pictures
+- **disclosure**: Akira, directed by Katsuhiro Otomo (based on his 1982-1990 manga), theatrical release 1988-07-16 in Japan. Features numerous detailed military VTOL craft (gunships, surveillance drones, transport helicopters) in Neo-Tokyo 2019. Otomo's manga and the film's production materials provide engineering-detailed depictions. Akira is one of the most-cited anime works for its detailed futurist-Tokyo aesthetic and military hardware design.
+- **ip status**: fictional
+- **prior art notes**: Akira (Katsuhiro Otomo, manga 1982-1990, film 1988) is one of the most-influential Japanese cyberpunk works — featuring numerous detailed military VTOL craft (gunships, surveillance drones, transport helicopters) in Neo-Tokyo 2019. Otomo's industrial-bulk-and-visible-mechanical-detail design aesthetic is widely cited as visual reference. Adds another Japanese fictional anchor to the cyberpunk / mecha cluster (with Macross 1982, Patlabor 1989, Ghost in the Shell 1989, Appleseed 1985, Mobile Suit Gundam 1979). Notably depicts ubiquitous urban-airspace military traffic in 1988 — a precursor to the modern eVTOL urban-air-mobility vision.
+
 ## Moller Skycar M400 (1989-04)
 
 - **id**: `moller-skycar-m400`
@@ -258,6 +267,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: Range Murata's Vanship design (Last Exile, 2003) is a canonical steampunk-aesthetic Japanese fictional personal-VTOL — small two-seat, foot-pedal-and-sidestick controlled, with Claudia anti-grav lift plus rear-exhaust propulsion. Murata's published design materials provide engineering-grade depictions. Adds another Japanese fictional anchor with a distinctive 1920s-30s racing-aircraft aesthetic, complementing the futuristic-mecha (Macross, Patlabor, Ghost in the Shell, Gundam) and the Miyazaki organic (Laputa, Nausicaä) Japanese fictional VTOL clusters.
 
+## Raptor (Battlestar Galactica) (2003-12-08)
+
+- **id**: `battlestar-galactica-raptor`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore / NBCUniversal / Sci-Fi Channel
+- **disclosure**: Battlestar Galactica (re-imagined series), executive producer Ronald D. Moore, miniseries premiered 2003-12-08 on Sci-Fi Channel; the Raptor (a small twin-engine VTOL recon/transport ship) appears throughout the four-season run (2004-2009). Vehicle design by Eric Chu and Pierre Drolet (Zoic Studios VFX). Documented in BSG production design materials and Eric Chu's published portfolio.
+- **ip status**: fictional
+- **prior art notes**: The Battlestar Galactica Raptor (Ronald D. Moore series, 2003-2009) is among the most engineering-detailed fictional small-VTOL designs of the 2000s — a small twin-engine VTOL recon ship with vectored-thrust from twin nacelles, capable of both atmospheric VTOL and space operation. The Eric Chu / Pierre Drolet design is frequently cited as a visual reference for two-seat eVTOL concepts. Together with the Oblivion Bubbleship (2013), Aliens Cheyenne dropship (1986), Patlabor Helldiver (1989), and Macross VF-1 Veritech (1982), places small-to-medium fictional military-VTOL design in continuous prior art across decades.
+
 ## Lockheed Martin F-35B Lightning II (2008-06-11)
 
 - **id**: `f-35b-lightning`
@@ -275,6 +293,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Martin Jetpack publicly unveiled 2008-07-29 at AirVenture Oshkosh, US; FAA approved as 'experimental category' aircraft 2010-08-22; first untethered piloted free-flight 2011-04-29. Glenn Martin holds NZ and US patents on the ducted-fan dual-rotor jetpack architecture.
 - **ip status**: patented
 - **prior art notes**: Martin Jetpack is New Zealand's foundational disclosure of long-endurance personal-VTOL flight. Architecturally distinct from Bell Rocket Belt (rockets, 21 sec) and Gravity Industries (turbojets, 10 min) by using twin large ducted fans for ~30 min endurance. Establishes prior art for: (1) twin-ducted-fan personal-VTOL strap-on, (2) cyclic-pitch fan attitude control distinct from differential thrust, (3) FAA experimental-category personal jetpack certification basis. Glenn Martin's patents (NZ 539537, US 7,484,687) cover the architecture; some now expired.
+
+## Capitol hovercraft (The Hunger Games) (2008-09-14)
+
+- **id**: `hunger-games-hovercraft`
+- **corpus**: fictional
+- **creator**: Suzanne Collins / Gary Ross (2012 dir.) / Lionsgate Films
+- **disclosure**: Suzanne Collins. The Hunger Games (Scholastic Press, 2008-09-14) — first novel of the trilogy; followed by the 2012 film adaptation (directed by Gary Ross) and sequels. Features Capitol hovercraft — cloaking-capable VTOL military/transport craft used by the Panem Capitol to control its districts. Documented in the novels and the 2012-2015 film production materials.
+- **ip status**: fictional
+- **prior art notes**: Suzanne Collins's Hunger Games trilogy (2008-2010 novels; 2012-2015 films) features Capitol hovercraft — cloaking-capable VTOL military transport. Adds a young-adult-fiction anchor to the corpus and the specific architectural element of visually-cloaked VTOL operation (a recurring fictional concept). One of the most-widely-read depictions of VTOL transport in 2010s popular fiction.
 
 ## Alien dropship (District 9) (2009-08-14)
 
@@ -302,6 +329,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hybrid Air Vehicles HAV-304 (built for the cancelled U.S. Army LEMV programme) first flight 2012-08-07 at Lakehurst NJ; rebuilt as the Airlander 10 by HAV in the UK, first flight 2016-08-17 at Cardington. Hybrid Air Vehicles is developing the production Airlander 10 for passenger and cargo service (~2026-2028). Documented in HAV technical materials, U.S. Army LEMV reports, and UK CAA certification filings.
 - **ip status**: patented
 - **prior art notes**: Hybrid Air Vehicles Airlander 10 establishes UK prior art for the hybrid airship — a hull shaped to generate ~40% aerodynamic lift alongside ~60% buoyant helium lift, with vectored ducted propulsors for VTOL control, able to operate from unprepared sites (water, ice, sand, rough ground). Establishes prior art for: (1) hybrid aerodynamic-plus-buoyant lift architecture, (2) vectored-propulsor VTOL control on an airship, (3) infrastructure-free VTOL operation at large scale. Together with lta-research-pathfinder-1 (2023) and flying-whales-lca60t (2012), establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Also relevant to the Orb Aerospace / Skyways 'unprepared site operations' thesis at a much larger scale.
+
+## MCRN Drop Ship / UNN Marine Drop Ship (The Expanse) (2015-11-23)
+
+- **id**: `expanse-drop-ship`
+- **corpus**: fictional
+- **creator**: Daniel Abraham + Ty Franck (writing as James S.A. Corey) / Naren Shankar / Alcon Entertainment / Amazon Studios
+- **disclosure**: The Expanse, developed for television by Mark Fergus and Hawk Ostby (based on the novel series by James S.A. Corey, beginning Leviathan Wakes 2011), premiered 2015-11-23 on Syfy (later Amazon). Features various military drop ships used by the MCRN (Martian Congressional Republic Navy) and UNN (United Nations Navy) for atmospheric VTOL operations on Mars, Earth, and other settled worlds. Documented in The Expanse production design materials and the technical depictions in the novel series.
+- **ip status**: fictional
+- **prior art notes**: The Expanse (novels 2011-2021, television 2015-2022) is one of the most-cited 2010s hard-SF franchises for its grounded engineering aesthetics — featuring military drop ships using fusion-torch vectored thrust for atmospheric VTOL across multiple settled worlds. Notable for emphasis on realistic-feeling engineering tradeoffs (g-forces, fuel mass, atmospheric reentry heating) rather than soft-SF abstraction. Together with the 2010s-2020s fictional VTOL cluster (Oblivion Bubbleship 2013, Edge of Tomorrow drop ships 2014, Space Sweepers 2021), establishes modern hard-SF VTOL depiction prior art.
 
 ## Gravity Industries Jet Suit (2017-04-20)
 

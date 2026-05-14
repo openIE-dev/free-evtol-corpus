@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `transition-thrust-borne-to-wing-borne`  
-**Entries:** 61 (61 commons-grade, 0 draft)  
+**Entries:** 63 (63 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-11  
 **Most recent disclosure:** 2024-01-09
 
@@ -760,6 +760,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2003-12-08 — Raptor (Battlestar Galactica)
+
+- **id:** `battlestar-galactica-raptor`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ronald D. Moore / NBCUniversal / Sci-Fi Channel
+- **disclosure citation:** Battlestar Galactica (re-imagined series), executive producer Ronald D. Moore, miniseries premiered 2003-12-08 on Sci-Fi Channel; the Raptor (a small twin-engine VTOL recon/transport ship) appears throughout the four-season run (2004-2009). Vehicle design by Eric Chu and Pierre Drolet (Zoic Studios VFX). Documented in BSG production design materials and Eric Chu's published portfolio.
+- **disclosed subsystems:** `lift-vectored-thrust`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> The Battlestar Galactica Raptor (Ronald D. Moore series, 2003-2009) is among the most engineering-detailed fictional small-VTOL designs of the 2000s — a small twin-engine VTOL recon ship with vectored-thrust from twin nacelles, capable of both atmospheric VTOL and space operation. The Eric Chu / Pierre Drolet design is frequently cited as a visual reference for two-seat eVTOL concepts. Together with the Oblivion Bubbleship (2013), Aliens Cheyenne dropship (1986), Patlabor Helldiver (1989), and Macross VF-1 Veritech (1982), places small-to-medium fictional military-VTOL design in continuous prior art across decades.
+
+**Sources:**
+
+1. Moore, Ronald D. (creator). Battlestar Galactica re-imagined series. NBCUniversal / Sci-Fi Channel, 2003-2009.
+2. Chu, Eric (Zoic Studios). BSG production design materials.
+3. Bassom, Mike. Battlestar Galactica: The Official Companion. Titan Books, multiple volumes.
+
+---
+
 ### 2008 — Karem AR40 / Optimum Speed Tilt-Rotor
 
 - **id:** `karem-ar40`
@@ -946,6 +967,27 @@ cite, copy, or redistribute these contentions.
 1. Bevirt, JoeBen et al. Joby S2 technical white paper, 2015.
 2. Joby Aviation S-1 SEC filing 2020 (history section).
 3. Vertical Flight Society Forum technical papers from Joby engineering 2015-2018.
+
+---
+
+### 2015-11-23 — MCRN Drop Ship / UNN Marine Drop Ship (The Expanse)
+
+- **id:** `expanse-drop-ship`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Daniel Abraham + Ty Franck (writing as James S.A. Corey) / Naren Shankar / Alcon Entertainment / Amazon Studios
+- **disclosure citation:** The Expanse, developed for television by Mark Fergus and Hawk Ostby (based on the novel series by James S.A. Corey, beginning Leviathan Wakes 2011), premiered 2015-11-23 on Syfy (later Amazon). Features various military drop ships used by the MCRN (Martian Congressional Republic Navy) and UNN (United Nations Navy) for atmospheric VTOL operations on Mars, Earth, and other settled worlds. Documented in The Expanse production design materials and the technical depictions in the novel series.
+- **disclosed subsystems:** `lift-vectored-thrust`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> The Expanse (novels 2011-2021, television 2015-2022) is one of the most-cited 2010s hard-SF franchises for its grounded engineering aesthetics — featuring military drop ships using fusion-torch vectored thrust for atmospheric VTOL across multiple settled worlds. Notable for emphasis on realistic-feeling engineering tradeoffs (g-forces, fuel mass, atmospheric reentry heating) rather than soft-SF abstraction. Together with the 2010s-2020s fictional VTOL cluster (Oblivion Bubbleship 2013, Edge of Tomorrow drop ships 2014, Space Sweepers 2021), establishes modern hard-SF VTOL depiction prior art.
+
+**Sources:**
+
+1. Corey, James S.A. (Daniel Abraham + Ty Franck). The Expanse novel series. Orbit Books, 2011-2021 (9 novels + novellas).
+2. Fergus, Mark and Ostby, Hawk (developers). The Expanse television series. Syfy / Amazon, 2015-2022.
+3. The Expanse Roleplaying Game (Green Ronin Publishing, 2019) — semi-canonical technical materials.
 
 ---
 
@@ -1335,4 +1377,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

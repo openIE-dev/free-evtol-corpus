@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-ducted-fan-array`
 
-**15 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1959
 
@@ -59,6 +59,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Moller Skycar M200X (predecessor) first tethered hover 1989-04; M400 design publicly disclosed 1990 with continuous development through 2010s; first untethered M400 flight 2003-04 (limited tethered hover to 5 m). Moller holds the largest single inventor's portfolio of VTOL flying-car patents (>40 issued patents 1965-2015).
 - **ip status**: patented
 - **prior art notes**: Moller Skycar M400 is the foundational disclosure of the four-nacelle tilting-ducted-fan flying-car architecture. Although the M400 never achieved sustained free flight, Paul Moller's continuously-published patent portfolio (40+ issued US patents 1965-2015) constitutes the deepest single-inventor prior art base for VTOL flying-car designs. Establishes prior art for: (1) four-nacelle tilting-ducted-fan architecture, (2) Wankel rotary engine for VTOL propulsion, (3) clamshell thrust-vectoring deflectors. Most Moller patents have expired or are nearing expiration. Anticipates virtually every modern ducted-fan eVTOL (Lilium, AutoFlight, etc.) on architectural primitives.
+
+## Sikorsky Cypher (1995-04)
+
+- **id**: `sikorsky-cypher`
+- **corpus**: private
+- **creator**: Sikorsky Aircraft (Stratford, Connecticut)
+- **disclosure**: Sikorsky Cypher first flight April 1995; demonstrated to U.S. Army, Air Force, and Marine Corps 1995-2002; Cypher II (with stub-wings for fixed-wing cruise mode) followed late 1990s. The first practical ducted-fan VTOL UAV from a major rotorcraft manufacturer. Documented in Sikorsky technical papers and U.S. military evaluation records.
+- **ip status**: patented
+- **prior art notes**: Sikorsky Cypher (1995) is the foundational ducted-fan VTOL UAV from a major rotorcraft manufacturer — a donut-shaped airframe with coaxial counter-rotating ducted lift rotors. Cypher II (late 1990s) added stub-wings for fixed-wing cruise mode, anticipating the lift+cruise architectural pattern that modern eVTOL adopt. Establishes prior art for: (1) ducted-fan VTOL UAV with coaxial lift rotors, (2) the donut/disc airframe with internal lift rotors, (3) the stub-wing-augmented ducted-fan UAV (Cypher II). Together with the various tail-sitter VTOL UAVs (aerovironment-skytote, volansi-vbat) and modern cargo VTOL UAVs (wingcopter, pyka, etc), places military/commercial VTOL UAV architecture in continuous prior art from 1995.
 
 ## Martin Aircraft Jetpack (2008-07-29)
 

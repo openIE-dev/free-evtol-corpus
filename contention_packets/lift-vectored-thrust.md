@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-vectored-thrust`  
-**Entries:** 39 (39 commons-grade, 0 draft)  
+**Entries:** 43 (43 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-11  
 **Most recent disclosure:** 2021-04
 
@@ -573,6 +573,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1988-07-16 — Military VTOL craft (Akira)
+
+- **id:** `akira-flying-craft`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Katsuhiro Otomo / Tokyo Movie Shinsha / Streamline Pictures
+- **disclosure citation:** Akira, directed by Katsuhiro Otomo (based on his 1982-1990 manga), theatrical release 1988-07-16 in Japan. Features numerous detailed military VTOL craft (gunships, surveillance drones, transport helicopters) in Neo-Tokyo 2019. Otomo's manga and the film's production materials provide engineering-detailed depictions. Akira is one of the most-cited anime works for its detailed futurist-Tokyo aesthetic and military hardware design.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> Akira (Katsuhiro Otomo, manga 1982-1990, film 1988) is one of the most-influential Japanese cyberpunk works — featuring numerous detailed military VTOL craft (gunships, surveillance drones, transport helicopters) in Neo-Tokyo 2019. Otomo's industrial-bulk-and-visible-mechanical-detail design aesthetic is widely cited as visual reference. Adds another Japanese fictional anchor to the cyberpunk / mecha cluster (with Macross 1982, Patlabor 1989, Ghost in the Shell 1989, Appleseed 1985, Mobile Suit Gundam 1979). Notably depicts ubiquitous urban-airspace military traffic in 1988 — a precursor to the modern eVTOL urban-air-mobility vision.
+
+**Sources:**
+
+1. Otomo, Katsuhiro. Akira manga. Kodansha Young Magazine, 1982-1990 (6 volumes).
+2. Otomo, Katsuhiro (dir.). Akira film. Tokyo Movie Shinsha / Akira Committee, 1988.
+3. The Art of Akira. Glénat (French) / Kodansha, multiple volumes.
+
+---
+
 ### 1989-04 — Moller Skycar M400
 
 - **id:** `moller-skycar-m400`
@@ -611,6 +632,27 @@ cite, copy, or redistribute these contentions.
 
 1. Chigira, Koichi (dir.). Last Exile (ラスト エグザイル). Gonzo, 2003.
 2. Murata, Range. Last Exile design materials and art books, Gonzo / Wani Books / Asuka Shinsha, 2003-2011.
+
+---
+
+### 2003-12-08 — Raptor (Battlestar Galactica)
+
+- **id:** `battlestar-galactica-raptor`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Ronald D. Moore / NBCUniversal / Sci-Fi Channel
+- **disclosure citation:** Battlestar Galactica (re-imagined series), executive producer Ronald D. Moore, miniseries premiered 2003-12-08 on Sci-Fi Channel; the Raptor (a small twin-engine VTOL recon/transport ship) appears throughout the four-season run (2004-2009). Vehicle design by Eric Chu and Pierre Drolet (Zoic Studios VFX). Documented in BSG production design materials and Eric Chu's published portfolio.
+- **disclosed subsystems:** `lift-vectored-thrust`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> The Battlestar Galactica Raptor (Ronald D. Moore series, 2003-2009) is among the most engineering-detailed fictional small-VTOL designs of the 2000s — a small twin-engine VTOL recon ship with vectored-thrust from twin nacelles, capable of both atmospheric VTOL and space operation. The Eric Chu / Pierre Drolet design is frequently cited as a visual reference for two-seat eVTOL concepts. Together with the Oblivion Bubbleship (2013), Aliens Cheyenne dropship (1986), Patlabor Helldiver (1989), and Macross VF-1 Veritech (1982), places small-to-medium fictional military-VTOL design in continuous prior art across decades.
+
+**Sources:**
+
+1. Moore, Ronald D. (creator). Battlestar Galactica re-imagined series. NBCUniversal / Sci-Fi Channel, 2003-2009.
+2. Chu, Eric (Zoic Studios). BSG production design materials.
+3. Bassom, Mike. Battlestar Galactica: The Official Companion. Titan Books, multiple volumes.
 
 ---
 
@@ -654,6 +696,27 @@ cite, copy, or redistribute these contentions.
 1. Martin, Glenn. NZ Patent 539537, 2009.
 2. Martin, Glenn. US Patent 7,484,687, 2009.
 3. Martin Aircraft Company press releases and SEC filings (NZX, 2015 IPO).
+
+---
+
+### 2008-09-14 — Capitol hovercraft (The Hunger Games)
+
+- **id:** `hunger-games-hovercraft`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Suzanne Collins / Gary Ross (2012 dir.) / Lionsgate Films
+- **disclosure citation:** Suzanne Collins. The Hunger Games (Scholastic Press, 2008-09-14) — first novel of the trilogy; followed by the 2012 film adaptation (directed by Gary Ross) and sequels. Features Capitol hovercraft — cloaking-capable VTOL military/transport craft used by the Panem Capitol to control its districts. Documented in the novels and the 2012-2015 film production materials.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> Suzanne Collins's Hunger Games trilogy (2008-2010 novels; 2012-2015 films) features Capitol hovercraft — cloaking-capable VTOL military transport. Adds a young-adult-fiction anchor to the corpus and the specific architectural element of visually-cloaked VTOL operation (a recurring fictional concept). One of the most-widely-read depictions of VTOL transport in 2010s popular fiction.
+
+**Sources:**
+
+1. Collins, Suzanne. The Hunger Games trilogy (The Hunger Games 2008, Catching Fire 2009, Mockingjay 2010). Scholastic Press.
+2. Ross, Gary (dir.). The Hunger Games. Lionsgate Films, 2012.
+3. Lawrence, Francis (dir.). Catching Fire / Mockingjay Part 1 / Part 2. Lionsgate, 2013-2015.
 
 ---
 
@@ -716,6 +779,27 @@ cite, copy, or redistribute these contentions.
 1. Hybrid Air Vehicles technical materials and press releases 2012-2025.
 2. U.S. Army LEMV (Long Endurance Multi-intelligence Vehicle) programme reports.
 3. UK CAA Airlander 10 certification filings.
+
+---
+
+### 2015-11-23 — MCRN Drop Ship / UNN Marine Drop Ship (The Expanse)
+
+- **id:** `expanse-drop-ship`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Daniel Abraham + Ty Franck (writing as James S.A. Corey) / Naren Shankar / Alcon Entertainment / Amazon Studios
+- **disclosure citation:** The Expanse, developed for television by Mark Fergus and Hawk Ostby (based on the novel series by James S.A. Corey, beginning Leviathan Wakes 2011), premiered 2015-11-23 on Syfy (later Amazon). Features various military drop ships used by the MCRN (Martian Congressional Republic Navy) and UNN (United Nations Navy) for atmospheric VTOL operations on Mars, Earth, and other settled worlds. Documented in The Expanse production design materials and the technical depictions in the novel series.
+- **disclosed subsystems:** `lift-vectored-thrust`, `transition-thrust-borne-to-wing-borne`
+
+**Prior art notes:**
+
+> The Expanse (novels 2011-2021, television 2015-2022) is one of the most-cited 2010s hard-SF franchises for its grounded engineering aesthetics — featuring military drop ships using fusion-torch vectored thrust for atmospheric VTOL across multiple settled worlds. Notable for emphasis on realistic-feeling engineering tradeoffs (g-forces, fuel mass, atmospheric reentry heating) rather than soft-SF abstraction. Together with the 2010s-2020s fictional VTOL cluster (Oblivion Bubbleship 2013, Edge of Tomorrow drop ships 2014, Space Sweepers 2021), establishes modern hard-SF VTOL depiction prior art.
+
+**Sources:**
+
+1. Corey, James S.A. (Daniel Abraham + Ty Franck). The Expanse novel series. Orbit Books, 2011-2021 (9 novels + novellas).
+2. Fergus, Mark and Ostby, Hawk (developers). The Expanse television series. Syfy / Amazon, 2015-2022.
+3. The Expanse Roleplaying Game (Green Ronin Publishing, 2019) — semi-canonical technical materials.
 
 ---
 
@@ -870,4 +954,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

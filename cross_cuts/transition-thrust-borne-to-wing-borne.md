@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `transition-thrust-borne-to-wing-borne`
 
-**61 corpus entries disclose this subsystem.**
+**63 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-11
 
@@ -321,6 +321,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Bell Eagle Eye is the unmanned-scale tilt-rotor descended from the V-22 program — establishes prior art for: (1) tilt-rotor architecture in unmanned tactical UAV scale, (2) autonomous tilt-rotor mission operation. Together with bell-xv-15, v-22-osprey, bell-v-280-valor, and aerovironment-skytote, places tilt-rotor architecture across the full scale spectrum from small unmanned to large troop transport in comprehensive prior-art coverage.
 
+## Raptor (Battlestar Galactica) (2003-12-08)
+
+- **id**: `battlestar-galactica-raptor`
+- **corpus**: fictional
+- **creator**: Ronald D. Moore / NBCUniversal / Sci-Fi Channel
+- **disclosure**: Battlestar Galactica (re-imagined series), executive producer Ronald D. Moore, miniseries premiered 2003-12-08 on Sci-Fi Channel; the Raptor (a small twin-engine VTOL recon/transport ship) appears throughout the four-season run (2004-2009). Vehicle design by Eric Chu and Pierre Drolet (Zoic Studios VFX). Documented in BSG production design materials and Eric Chu's published portfolio.
+- **ip status**: fictional
+- **prior art notes**: The Battlestar Galactica Raptor (Ronald D. Moore series, 2003-2009) is among the most engineering-detailed fictional small-VTOL designs of the 2000s — a small twin-engine VTOL recon ship with vectored-thrust from twin nacelles, capable of both atmospheric VTOL and space operation. The Eric Chu / Pierre Drolet design is frequently cited as a visual reference for two-seat eVTOL concepts. Together with the Oblivion Bubbleship (2013), Aliens Cheyenne dropship (1986), Patlabor Helldiver (1989), and Macross VF-1 Veritech (1982), places small-to-medium fictional military-VTOL design in continuous prior art across decades.
+
 ## Karem AR40 / Optimum Speed Tilt-Rotor (2008)
 
 - **id**: `karem-ar40`
@@ -401,6 +410,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
 - **ip status**: patented
 - **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
+
+## MCRN Drop Ship / UNN Marine Drop Ship (The Expanse) (2015-11-23)
+
+- **id**: `expanse-drop-ship`
+- **corpus**: fictional
+- **creator**: Daniel Abraham + Ty Franck (writing as James S.A. Corey) / Naren Shankar / Alcon Entertainment / Amazon Studios
+- **disclosure**: The Expanse, developed for television by Mark Fergus and Hawk Ostby (based on the novel series by James S.A. Corey, beginning Leviathan Wakes 2011), premiered 2015-11-23 on Syfy (later Amazon). Features various military drop ships used by the MCRN (Martian Congressional Republic Navy) and UNN (United Nations Navy) for atmospheric VTOL operations on Mars, Earth, and other settled worlds. Documented in The Expanse production design materials and the technical depictions in the novel series.
+- **ip status**: fictional
+- **prior art notes**: The Expanse (novels 2011-2021, television 2015-2022) is one of the most-cited 2010s hard-SF franchises for its grounded engineering aesthetics — featuring military drop ships using fusion-torch vectored thrust for atmospheric VTOL across multiple settled worlds. Notable for emphasis on realistic-feeling engineering tradeoffs (g-forces, fuel mass, atmospheric reentry heating) rather than soft-SF abstraction. Together with the 2010s-2020s fictional VTOL cluster (Oblivion Bubbleship 2013, Edge of Tomorrow drop ships 2014, Space Sweepers 2021), establishes modern hard-SF VTOL depiction prior art.
 
 ## Aurora Flight Sciences LightningStrike XV-24A (2016-03-03)
 

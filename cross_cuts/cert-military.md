@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-military`
 
-**46 corpus entries disclose this subsystem.**
+**50 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941-10-30
 
@@ -140,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Doak VZ-4 first VTOL flight 1958-02-25 at Edwards AFB. Documented in U.S. Army Transportation Research Command test reports.
 - **ip status**: public-domain
 - **prior art notes**: First successful tilt-duct VTOL aircraft. Establishes prior art for: (1) wingtip-mounted tilting ducted fans for VTOL, (2) cross-shafted single-engine drive of dual lift fans (critical for engine-out continued lift), (3) the tilt-duct transition methodology with reaction-control supplementation in hover. Anticipates Bell X-22 (1966) tilt-duct claims, and provides foundational prior art for any modern ducted-fan VTOL claiming wingtip tilt-duct architecture (Lilium's ducted-fan-array architecture is a multiplicity extension of this). Combined with Bell X-22, this entry covers the tilt-duct design space for invalidity contention purposes from 1958 forward.
+
+## Bristol Type 192 Belvedere (1958-07-05)
+
+- **id**: `bristol-belvedere`
+- **corpus**: academic
+- **creator**: Bristol Aeroplane Company / Westland Helicopters (production) / Royal Air Force
+- **disclosure**: Bristol Type 192 Belvedere first flight 1958-07-05; entered Royal Air Force service 1961 as the Belvedere HC.1 — the RAF's first twin-engine, twin-rotor helicopter and the first British tandem-rotor production helicopter. Documented in Bristol Aeroplane Company / Westland archives and RAF historical records.
+- **ip status**: public-domain
+- **prior art notes**: The Bristol Belvedere (1958) is the British tandem-rotor production helicopter — completing the cross-national tandem-rotor prior-art set alongside the US (Piasecki H-21 1945, CH-47 Chinook 1961) and Soviet (Yakovlev Yak-24 1952) lineages. Establishes UK prior art for tandem-rotor heavy-lift architecture with cross-shafted twin-turboshaft drive.
 
 ## Piasecki VZ-8 Airgeep (1958-10-12)
 
@@ -312,6 +321,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The V-22 Osprey is the production tilt-rotor that brought XV-15 prior art into operational service. Establishes prior art for: (1) production-grade triplex fly-by-wire tilt-rotor flight control, (2) cross-shafted prop-rotor drive with single-engine emergency operation in hover, (3) the operational conversion corridor with explicit nacelle-angle commanded transition. Bell's V-22-era tilt-rotor patents are largely now expired (most filed 1985–1995, 20-year terms). Together with XV-15, comprehensively places production tilt-rotor architecture in the public domain. Joby, Archer, and Vertical Aerospace's tilt-rotor claims are anticipated by V-22 disclosures where they overlap on architecture rather than electric-specific actuation.
 
+## Yamaha RMAX autonomous helicopter (1990)
+
+- **id**: `yamaha-rmax`
+- **corpus**: private
+- **creator**: Yamaha Motor Co.
+- **disclosure**: Yamaha Motor Co. developed the R-50 unmanned helicopter (1987, the world's first commercial unmanned helicopter) and the production RMAX from 1990 — an autonomous helicopter primarily used for agricultural spraying. Used in Japan for crop dusting from 1990, now operating ~30% of all Japanese rice-paddy spraying. Foundational real-world deployment of autonomous rotorcraft. Documented in Yamaha Motor materials and Japanese MAFF (Ministry of Agriculture, Forestry and Fisheries) records.
+- **ip status**: patented
+- **prior art notes**: Yamaha Motor's RMAX (1990 production; R-50 predecessor 1987) is the world's first commercially-deployed unmanned rotorcraft and the foundational autonomous-rotorcraft for agricultural use — predating commercial multi-rotor drones by decades. Establishes Japanese industrial prior art for: (1) autonomous unmanned rotorcraft commercial operations, (2) agricultural-spray VTOL UAS, (3) the 30+-year deployment history of autonomous rotorcraft at scale. Yamaha is also the supplier of the powerplants for many other small aerial robotics platforms. Together with schiebel-camcopter-s-100 (AT, naval VTOL UAV), saab-skeldar-v-200 (SE, naval VTOL UAV), and pyka-pelican (US, agricultural eVTOL), places autonomous-rotorcraft commercial deployment in continuous prior art.
+
+## Sikorsky Cypher (1995-04)
+
+- **id**: `sikorsky-cypher`
+- **corpus**: private
+- **creator**: Sikorsky Aircraft (Stratford, Connecticut)
+- **disclosure**: Sikorsky Cypher first flight April 1995; demonstrated to U.S. Army, Air Force, and Marine Corps 1995-2002; Cypher II (with stub-wings for fixed-wing cruise mode) followed late 1990s. The first practical ducted-fan VTOL UAV from a major rotorcraft manufacturer. Documented in Sikorsky technical papers and U.S. military evaluation records.
+- **ip status**: patented
+- **prior art notes**: Sikorsky Cypher (1995) is the foundational ducted-fan VTOL UAV from a major rotorcraft manufacturer — a donut-shaped airframe with coaxial counter-rotating ducted lift rotors. Cypher II (late 1990s) added stub-wings for fixed-wing cruise mode, anticipating the lift+cruise architectural pattern that modern eVTOL adopt. Establishes prior art for: (1) ducted-fan VTOL UAV with coaxial lift rotors, (2) the donut/disc airframe with internal lift rotors, (3) the stub-wing-augmented ducted-fan UAV (Cypher II). Together with the various tail-sitter VTOL UAVs (aerovironment-skytote, volansi-vbat) and modern cargo VTOL UAVs (wingcopter, pyka, etc), places military/commercial VTOL UAV architecture in continuous prior art from 1995.
+
 ## Bell Eagle Eye TR918 (2003-03-06)
 
 - **id**: `bell-eagle-eye`
@@ -401,6 +428,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sikorsky S-97 Raider first flight 2015-05-22 at West Palm Beach FL. Production-track development of the X2 demonstrator (2008-08-27 first flight). Documented in Sikorsky technical papers and AHS / VFS Forum publications.
 - **ip status**: patented
 - **prior art notes**: Sikorsky S-97 Raider is the production-track sibling to the SB>1 Defiant — same X2 rigid-coaxial-rotor + rear-pusher architecture, smaller scale for armed-reconnaissance role. Together with sikorsky-boeing-defiant, comprehensively documents Sikorsky's modern coaxial rigid-rotor compound rotorcraft architecture in production-track form.
+
+## Northrop Grumman TERN (2015-12)
+
+- **id**: `northrop-grumman-tern`
+- **corpus**: academic
+- **creator**: Northrop Grumman / DARPA / U.S. Navy / Aurora Flight Sciences (predecessor work)
+- **disclosure**: DARPA TERN (Tactically Exploited Reconnaissance Node) Phase 3 prime contract awarded to Northrop Grumman December 2015; sub-scale demonstrator flights 2017-2018. A tail-sitter UAV designed to launch and recover vertically from the deck of small destroyer-class ships without a runway. Documented in DARPA TERN program reports (public DTIC) and Northrop Grumman technical materials.
+- **ip status**: patented
+- **prior art notes**: DARPA / Northrop Grumman TERN (2015-2018) is the modern disclosure of the medium-scale tail-sitter VTOL UAV for naval deployment — vertical launch and recovery from small destroyer-class ships, tail-sitter pitch-up transition to fixed-wing cruise, ~1,700 km range. Establishes prior art for: (1) medium-scale (~2.7 tonne) tail-sitter VTOL UAV, (2) ship-deck vertical-cradle launch/recovery architecture, (3) the naval-tail-sitter operational concept. Together with convair-xfy-pogo (1954, original tail-sitter), ryan-x-13-vertijet (1955), aerovironment-skytote (2003), volansi-vbat (2018), pivotal-blackfly (2018), bell-apt (2018), and orb-aerospace-nomad (2017), comprehensively places tail-sitter VTOL across scale from small UAS to medium UAV to manned aircraft.
 
 ## Aurora Flight Sciences LightningStrike XV-24A (2016-03-03)
 

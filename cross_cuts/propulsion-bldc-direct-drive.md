@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `propulsion-bldc-direct-drive`
 
-**59 corpus entries disclose this subsystem.**
+**60 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 2011-10-21
 
@@ -149,6 +149,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Workhorse SureFly publicly unveiled 2017-10-09 at AOPA Norman OK; first tethered hover 2018-05-09 at Wilmington OH. Workhorse spun off SureFly to Moog Aircraft Group 2019-10. Program effectively shelved 2020. Documented in Workhorse SEC filings (NASDAQ: WKHS) 2017-2020.
 - **ip status**: patented
 - **prior art notes**: Workhorse SureFly establishes US prior art for hybrid-electric octocopter with ballistic recovery parachute as integrated standard equipment (2017). Although the program effectively shelved by 2020, the public disclosures (2017-10-09 unveiling, 2018-05-09 hover, Workhorse SEC filings) establish the prior-art date. SureFly's coaxial-pair-on-cruciform geometry anticipates Honda eVTOL and other hybrid-electric multirotor configurations filed post-2017.
+
+## Skygauge Robotics inspection drone (2018)
+
+- **id**: `skygauge-robotics`
+- **corpus**: private
+- **creator**: Skygauge Robotics (Toronto, Canada)
+- **disclosure**: Skygauge Robotics (founded 2018 in Toronto by Maks Zubko and Linar Ismagilov) developed a tilting-rotor industrial-inspection drone capable of stable contact with vertical surfaces; first commercial deployment 2021. Designed for ultrasonic-thickness inspection of tall industrial structures (oil storage tanks, refineries, pressure vessels). Documented in Skygauge materials and Canadian industrial-inspection records.
+- **ip status**: patented
+- **prior art notes**: Skygauge Robotics (CA 2018-) establishes Canadian prior art for the tilting-arm quadrotor industrial-inspection drone — independently-tilting rotor arms enabling controlled horizontal thrust during hover for contact-based surface inspection (ultrasonic thickness measurement on industrial structures). Smaller-scale industrial counterpart to Voliro (CH, omnidirectional hexrotor inspection). Adds Canadian depth alongside Jaunt Air Mobility (slowed-rotor compound eVTOL), Horizon Aircraft Cavorite X5 (fan-in-wing eVTOL), and the Avro Canada Avrocar heritage.
 
 ## Airbus A^3 Vahana (2018-01-31)
 

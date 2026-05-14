@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `control-rotor-failure-reconfiguration`  
-**Entries:** 20 (20 commons-grade, 0 draft)  
+**Entries:** 21 (21 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
 **Most recent disclosure:** 2023-11
 
@@ -186,6 +186,27 @@ cite, copy, or redistribute these contentions.
 1. ArduPilot project, github.com/ArduPilot/ardupilot, ArduPlane git history.
 2. Tridgell, Andrew. 'ArduPilot QuadPlane' presentation, ArduPilot DevConf, multiple years.
 3. ArduPilot wiki: ardupilot.org/plane/docs/quadplane-overview.html.
+
+---
+
+### 2016 — Caltech CAST drone autonomy / Neural-Fly
+
+- **id:** `caltech-cast-neural-fly`
+- **corpus:** academic
+- **ip status:** open-permissive
+- **creator:** Caltech Center for Autonomous Systems and Technologies / Soon-Jo Chung / Aaron Ames
+- **disclosure citation:** Caltech CAST (Center for Autonomous Systems and Technologies) established 2016 at Caltech. Key publications: O'Connell, M. et al. 'Neural-Fly enables rapid learning for agile flight in strong winds.' Science Robotics 7(66), 2022 (a paper demonstrating deep-learning-augmented quadrotor control in high-wind environments); plus a long series of multi-modal flying-robot papers from Soon-Jo Chung's group (LEONARDO, the bipedal-robot-with-multirotor hybrid, 2021).
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `control-differential-thrust-attitude`, `control-rotor-failure-reconfiguration`, `cert-experimental`
+
+**Prior art notes:**
+
+> Caltech CAST (Center for Autonomous Systems and Technologies, Soon-Jo Chung / Aaron Ames groups, 2016-) establishes US academic prior art for deep-learning-augmented quadrotor control (Neural-Fly, Science Robotics 2022) and for multi-modal walking/flying hybrid robots (LEONARDO, 2021). Relevant prior art for any eVTOL claim involving ML-augmented adaptive control or hybrid bipedal-flying robotic platforms. Adds Caltech to the US academic aerial-robotics anchor set alongside UPenn GRASP, MIT ACL, Harvard, Stanford, and the various NASA / DARPA programs.
+
+**Sources:**
+
+1. O'Connell, M., Shi, G., Shi, X., Azizzadenesheli, K., Anandkumar, A., Yue, Y., Chung, S.-J. 'Neural-Fly enables rapid learning for agile flight in strong winds.' Science Robotics 7(66), 2022.
+2. Kim, K., Spieler, P., Lupu, E.-S., Ramezani, A., Chung, S.-J. 'A bipedal walking robot that can fly, slackline, and skateboard (LEONARDO).' Science Robotics 6(59), 2021.
+3. Caltech CAST publications archive.
 
 ---
 
@@ -466,4 +487,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `04cd8e0`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*

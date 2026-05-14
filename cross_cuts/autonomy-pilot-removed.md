@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `autonomy-pilot-removed`
 
-**29 corpus entries disclose this subsystem.**
+**32 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1991-12-23
+Earliest disclosure: 1990
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Yamaha RMAX autonomous helicopter (1990)
+
+- **id**: `yamaha-rmax`
+- **corpus**: private
+- **creator**: Yamaha Motor Co.
+- **disclosure**: Yamaha Motor Co. developed the R-50 unmanned helicopter (1987, the world's first commercial unmanned helicopter) and the production RMAX from 1990 — an autonomous helicopter primarily used for agricultural spraying. Used in Japan for crop dusting from 1990, now operating ~30% of all Japanese rice-paddy spraying. Foundational real-world deployment of autonomous rotorcraft. Documented in Yamaha Motor materials and Japanese MAFF (Ministry of Agriculture, Forestry and Fisheries) records.
+- **ip status**: patented
+- **prior art notes**: Yamaha Motor's RMAX (1990 production; R-50 predecessor 1987) is the world's first commercially-deployed unmanned rotorcraft and the foundational autonomous-rotorcraft for agricultural use — predating commercial multi-rotor drones by decades. Establishes Japanese industrial prior art for: (1) autonomous unmanned rotorcraft commercial operations, (2) agricultural-spray VTOL UAS, (3) the 30+-year deployment history of autonomous rotorcraft at scale. Yamaha is also the supplier of the powerplants for many other small aerial robotics platforms. Together with schiebel-camcopter-s-100 (AT, naval VTOL UAV), saab-skeldar-v-200 (SE, naval VTOL UAV), and pyka-pelican (US, agricultural eVTOL), places autonomous-rotorcraft commercial deployment in continuous prior art.
 
 ## Kaman K-MAX (1991-12-23)
 
@@ -23,6 +32,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaman K-MAX first flight 1991-12-23; FAA Type Certificate Part 27 (restricted category) granted 1994-08-30. Optionally-Piloted Aircraft (OPA) variant flown autonomously by U.S. Marine Corps in Afghanistan 2011-2014 (the first deployed unmanned heavy-lift helicopter).
 - **ip status**: patented
 - **prior art notes**: Kaman K-MAX is the modern descendant of HH-43 intermeshing-rotor architecture and the first heavy-lift helicopter deployed for unmanned cargo operations in combat (Afghanistan, 2011-2014). Establishes prior art for: (1) modern certified intermeshing-rotor helicopter (extends HH-43 prior art into the 1990s-2010s with documented operational performance), (2) optionally-piloted heavy-lift cargo VTOL (Lockheed Martin retrofit), (3) Part 27 certification basis for intermeshing rotor.
+
+## Sikorsky Cypher (1995-04)
+
+- **id**: `sikorsky-cypher`
+- **corpus**: private
+- **creator**: Sikorsky Aircraft (Stratford, Connecticut)
+- **disclosure**: Sikorsky Cypher first flight April 1995; demonstrated to U.S. Army, Air Force, and Marine Corps 1995-2002; Cypher II (with stub-wings for fixed-wing cruise mode) followed late 1990s. The first practical ducted-fan VTOL UAV from a major rotorcraft manufacturer. Documented in Sikorsky technical papers and U.S. military evaluation records.
+- **ip status**: patented
+- **prior art notes**: Sikorsky Cypher (1995) is the foundational ducted-fan VTOL UAV from a major rotorcraft manufacturer — a donut-shaped airframe with coaxial counter-rotating ducted lift rotors. Cypher II (late 1990s) added stub-wings for fixed-wing cruise mode, anticipating the lift+cruise architectural pattern that modern eVTOL adopt. Establishes prior art for: (1) ducted-fan VTOL UAV with coaxial lift rotors, (2) the donut/disc airframe with internal lift rotors, (3) the stub-wing-augmented ducted-fan UAV (Cypher II). Together with the various tail-sitter VTOL UAVs (aerovironment-skytote, volansi-vbat) and modern cargo VTOL UAVs (wingcopter, pyka, etc), places military/commercial VTOL UAV architecture in continuous prior art from 1995.
 
 ## Bell Eagle Eye TR918 (2003-03-06)
 
@@ -122,6 +140,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Malloy Aeronautics publicly unveiled the Hoverbike (a quadcopter straddle vehicle) at Paris Air Show 2014; partnered with SURVICE Engineering for the U.S. Army's Joint Tactical Aerial Resupply Vehicle (JTARV) programme 2015; the cargo variant became the TRV-150 Tactical Resupply UAS for the U.S. Marine Corps. Malloy Aeronautics acquired by BAE Systems 2024. Documented in Malloy materials and U.S. Army/USMC contract records.
 - **ip status**: patented
 - **prior art notes**: Malloy Aeronautics' Hoverbike / U.S. Army JTARV / USMC TRV-150 establishes prior art for the four-ducted-rotor hover-bike-and-cargo-quad family that reached U.S. military service — the crewed Hoverbike and the uncrewed TRV-150 cargo variant on a shared four-ducted-rotor airframe. Establishes prior art for: (1) ducted-rotor hover-bike architecture, (2) crewed-and-uncrewed variants on a common airframe, (3) operational military deployment of a hover-bike-class platform. Acquired by BAE Systems 2024. Together with aerofex-aero-x (2008), hoversurf-s3 (2017), jetpack-aviation-speeder (2021), and the historical personal-platform anchors, comprehensively places hover-bike architecture in commercial and military prior art. (Note: the Malloy TRV-150 is closely related to but distinct from the Skyways/Orb Aerospace TRV-150 lineage — both used the 'TRV-150' designation for USMC tactical-resupply VTOL.)
+
+## Northrop Grumman TERN (2015-12)
+
+- **id**: `northrop-grumman-tern`
+- **corpus**: academic
+- **creator**: Northrop Grumman / DARPA / U.S. Navy / Aurora Flight Sciences (predecessor work)
+- **disclosure**: DARPA TERN (Tactically Exploited Reconnaissance Node) Phase 3 prime contract awarded to Northrop Grumman December 2015; sub-scale demonstrator flights 2017-2018. A tail-sitter UAV designed to launch and recover vertically from the deck of small destroyer-class ships without a runway. Documented in DARPA TERN program reports (public DTIC) and Northrop Grumman technical materials.
+- **ip status**: patented
+- **prior art notes**: DARPA / Northrop Grumman TERN (2015-2018) is the modern disclosure of the medium-scale tail-sitter VTOL UAV for naval deployment — vertical launch and recovery from small destroyer-class ships, tail-sitter pitch-up transition to fixed-wing cruise, ~1,700 km range. Establishes prior art for: (1) medium-scale (~2.7 tonne) tail-sitter VTOL UAV, (2) ship-deck vertical-cradle launch/recovery architecture, (3) the naval-tail-sitter operational concept. Together with convair-xfy-pogo (1954, original tail-sitter), ryan-x-13-vertijet (1955), aerovironment-skytote (2003), volansi-vbat (2018), pivotal-blackfly (2018), bell-apt (2018), and orb-aerospace-nomad (2017), comprehensively places tail-sitter VTOL across scale from small UAS to medium UAV to manned aircraft.
 
 ## Intel Shooting Star drone-light-show system (2016-11-04)
 

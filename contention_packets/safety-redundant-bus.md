@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `safety-redundant-bus`  
-**Entries:** 29 (29 commons-grade, 0 draft)  
+**Entries:** 31 (31 commons-grade, 0 draft)  
 **Earliest disclosure:** 1989-03-19  
 **Most recent disclosure:** 2024-04-04
 
@@ -441,6 +441,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-05-17 — Volocopter VoloRegion / VoloConnect
+
+- **id:** `volocopter-voloregion`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volocopter GmbH
+- **disclosure citation:** Volocopter VoloConnect (later renamed VoloRegion) publicly unveiled 2021-05-17; first full-scale flight 2022-05. Lift+cruise variant of the Volocopter family — distinct from the multirotor VoloCity and the cargo VoloDrone. Documented in Volocopter materials and EASA SC-VTOL filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `safety-redundant-bus`, `safety-ballistic-parachute`, `control-fly-by-wire-triplex`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`, `autonomy-utm-integration`
+
+**Prior art notes:**
+
+> Volocopter VoloRegion / VoloConnect is the lift+cruise variant of the Volocopter family — Volocopter's pivot from pure-multirotor (VoloCity) to lift+cruise topology for regional range and higher cruise speed. Establishes prior art for: (1) lift+cruise variant shared across a multirotor platform's family, (2) Volocopter's platform extension into longer-range mission profiles. Together with volocopter-volocity (passenger multirotor), volocopter-volodrone (cargo multirotor), and volocopter-vc1 (foundational), comprehensively places the Volocopter platform family in prior art.
+
+**Sources:**
+
+1. Volocopter GmbH VoloRegion / VoloConnect technical materials and press releases 2021-2024.
+2. EASA SC-VTOL filings (Volocopter VoloRegion).
+
+---
+
 ### 2021-06-10 — Archer Aviation Midnight
 
 - **id:** `archer-midnight`
@@ -609,6 +629,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2024 — Beta Technologies CX300
+
+- **id:** `beta-cx300`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Beta Technologies, Inc.
+- **disclosure citation:** Beta Technologies CX300 — a conventional-takeoff (eCTOL, not VTOL) variant of the Alia airframe — first conventional-takeoff flights 2024; FAA certification target 2025. The CX300 strips out the four lift rotors of the Alia-250 / Alia VTOL, leaving the single pusher cruise propeller and a fixed wing — a deliberate simplification for faster certification and shorter-runway operation. Documented in Beta Technologies materials and FAA filings.
+- **disclosed subsystems:** `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-part-23`, `airframe-composite-monocoque`, `safety-redundant-bus`
+
+**Prior art notes:**
+
+> Beta Technologies CX300 is the conventional-takeoff (eCTOL) variant of the Alia eVTOL airframe — strip out the lift rotors, leaving single pusher + fixed wing. Establishes US prior art for the shared-airframe eCTOL/eVTOL strategy: the eCTOL variant certifies first (Part 23), then the eVTOL variant follows on the same airframe with the lift rotors added back. This is a pragmatic certification shortcut that other lift+cruise eVTOL OEMs (Joby, Archer, Wisk, Vertical) may adopt — Beta's 2024 disclosure makes it prior art. Together with beta-alia-250 (the eVTOL variant), establishes Beta's platform-family certification approach.
+
+**Sources:**
+
+1. Beta Technologies CX300 technical materials and press releases 2024.
+2. FAA Part 23 / Special Conditions filings (Beta CX300, Beta Alia).
+
+---
+
 ### 2024-01-09 — Hyundai Supernal S-A2
 
 - **id:** `hyundai-supernal-sa2`
@@ -658,4 +698,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

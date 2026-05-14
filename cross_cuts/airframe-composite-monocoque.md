@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `airframe-composite-monocoque`
 
-**62 corpus entries disclose this subsystem.**
+**66 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1978-11-09
 
@@ -113,6 +113,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AeroMobil 4.0 publicly unveiled 2017-04-20 at Top Marques Monaco; predecessor AeroMobil 3.0 first flew 2014-10-29 (with crash 2015-05-08, pilot Stefan Klein survived; Klein subsequently founded Klein Vision). AeroMobil holds patents on retractable-wing roadable aircraft.
 - **ip status**: patented
 - **prior art notes**: AeroMobil 4.0 is Slovakia's other major drive+fly transformer disclosure (Klein departed AeroMobil after the 3.0 crash and founded Klein Vision). Establishes parallel Slovak prior-art lineage with hybrid-parallel powerplant — distinct from Klein Vision's pure-combustion approach. Combined with klein-vision-aircar, places drive+fly transformer prior art comprehensively in Slovak hands. Anticipates ASKA A5 and all subsequent drive+fly transformer claims.
+
+## Lilium Phoenix 2 (2017-04-20)
+
+- **id**: `lilium-phoenix-2`
+- **corpus**: private
+- **creator**: Lilium GmbH
+- **disclosure**: Lilium GmbH (founded 2015 at TU Munich) unveiled the Phoenix 2 (a two-seat prototype eVTOL with 36 ducted electric fans) on 2017-04-20; first unmanned hover test 2017-04. The Phoenix 2 was the predecessor to the production Lilium Jet (5-seat, unveiled 2019); both used the embedded-tilting-ducted-fan-array architecture. Documented in Lilium materials and DLR / Bavarian aerospace press.
+- **ip status**: patented
+- **prior art notes**: The Lilium Phoenix 2 (2017) is the predecessor disclosure of the Lilium ducted-fan-array eVTOL architecture — 36 embedded tilting electric ducted fans in a two-seat configuration. Establishes Lilium's own prior art for: (1) the foundational embedded-tilting-ducted-fan-array eVTOL configuration, (2) the architectural concept that the production 5-seat Lilium Jet (2019) refined. Lilium GmbH filed for insolvency 2024-10; its patent estate was auctioned and acquired by various successor entities; this commons-grade entry preserves the Phoenix 2 prior-art date independent of any post-bankruptcy successor claims. Useful for invalidity contention against any successor entity attempting to assert post-2017 patents on Lilium-architecture eVTOL.
 
 ## Wingcopter 198 (2017-04-26)
 
@@ -375,6 +384,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AMSL Aero Vertiia is Australia's lead commercial eVTOL with a distinctive commitment to hydrogen-fuel-cell propulsion for 1,000 km range — addressing the energy-density limitation of pure-battery eVTOL. Establishes Australian prior-art lineage for hydrogen-eVTOL and for long-range regional eVTOL distinct from short-range urban air taxi. Anticipates other hydrogen-fuel-cell eVTOL claims (e.g., Joby's post-acquisition H2 program, Airbus ZEROe rotorcraft).
 
+## Volocopter VoloRegion / VoloConnect (2021-05-17)
+
+- **id**: `volocopter-voloregion`
+- **corpus**: private
+- **creator**: Volocopter GmbH
+- **disclosure**: Volocopter VoloConnect (later renamed VoloRegion) publicly unveiled 2021-05-17; first full-scale flight 2022-05. Lift+cruise variant of the Volocopter family — distinct from the multirotor VoloCity and the cargo VoloDrone. Documented in Volocopter materials and EASA SC-VTOL filings.
+- **ip status**: patented
+- **prior art notes**: Volocopter VoloRegion / VoloConnect is the lift+cruise variant of the Volocopter family — Volocopter's pivot from pure-multirotor (VoloCity) to lift+cruise topology for regional range and higher cruise speed. Establishes prior art for: (1) lift+cruise variant shared across a multirotor platform's family, (2) Volocopter's platform extension into longer-range mission profiles. Together with volocopter-volocity (passenger multirotor), volocopter-volodrone (cargo multirotor), and volocopter-vc1 (foundational), comprehensively places the Volocopter platform family in prior art.
+
 ## Archer Aviation Midnight (2021-06-10)
 
 - **id**: `archer-midnight`
@@ -483,6 +501,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AutoFlight Prosperity I is the leading Chinese lift+cruise eVTOL — architectural sibling to Beta Alia-250 with eight rather than four lift rotors. The 250 km Hong Kong-Macau demonstration flight (2024-04-29) is the longest eVTOL flight publicly documented as of mid-2024. Establishes Chinese prior-art lineage for lift+cruise architecture and supports EASA SC-VTOL certification basis dual-track with EHang's CAAC certification.
 
+## Skyfly Axe (2022-05)
+
+- **id**: `skyfly-axe`
+- **corpus**: private
+- **creator**: Skyfly Technologies Ltd (Oxfordshire, United Kingdom)
+- **disclosure**: Skyfly Technologies (UK, founded 2018 by Michael Thompson, William Bryceson, and Rachel Pearson) unveiled the Axe kit-built tilting eVTOL in May 2022; first untethered hover 2023-04-28. A two-seat tilting eVTOL designed for the kit-built / homebuilt (Light UAV / Sub-115 kg) market under UK CAA Permit to Fly. Documented in Skyfly materials and UK CAA filings.
+- **ip status**: patented
+- **prior art notes**: Skyfly Axe establishes UK prior art for the kit-built / homebuilt tilt-wing eVTOL — a four-rotor tandem-tilting-wing two-seat eVTOL targeting the UK light-aircraft market under kit-built rules. Establishes prior art for: (1) kit-built / homebuilt eVTOL business model, (2) the tandem-tilting-wing four-rotor light-aircraft configuration. Together with vertical-vx4, bellwether-volar, malloy-aeronautics-hoverbike, gravity-industries-jet-suit, hawker-siddeley-hs-141, and the deep UK rotorcraft heritage, deepens the UK eVTOL footprint.
+
 ## Doroni H1 / H1-X (2022-06)
 
 - **id**: `doroni-h1`
@@ -554,6 +581,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sarla Aviation (founded 2023 in Bangalore by Adrian Schmidt, Rakesh Gaonkar, and Shivam Chauhan; named after Sarla Thakral, India's first woman pilot) unveiled the Shunya eVTOL air taxi in November 2023, with production targeted for ~2028 in Indian cities (Bangalore, Mumbai, Delhi, Pune); sub-scale prototype work 2024. Documented in Sarla materials and Indian DGCA engagement records.
 - **ip status**: patented
 - **prior art notes**: Sarla Aviation Shunya establishes additional Indian prior art for the urban-air-taxi multirotor eVTOL — a five-seat eVTOL designed for short hops in dense Indian cities, the second major Indian eVTOL OEM after ePlane. Establishes Indian depth alongside eplane-company-e200 (IN, lift+cruise) and the Indian fictional flight anchor (Krrish). Together with ehang-eh216 (CN), volocopter-volocity (DE), and the global multirotor air-taxi cluster, places urban-air-taxi multirotor eVTOL architecture in prior art across US, EU, China, India, Japan, Korea, and Brazil lineages.
+
+## Beta Technologies CX300 (2024)
+
+- **id**: `beta-cx300`
+- **corpus**: private
+- **creator**: Beta Technologies, Inc.
+- **disclosure**: Beta Technologies CX300 — a conventional-takeoff (eCTOL, not VTOL) variant of the Alia airframe — first conventional-takeoff flights 2024; FAA certification target 2025. The CX300 strips out the four lift rotors of the Alia-250 / Alia VTOL, leaving the single pusher cruise propeller and a fixed wing — a deliberate simplification for faster certification and shorter-runway operation. Documented in Beta Technologies materials and FAA filings.
+- **ip status**: patented
+- **prior art notes**: Beta Technologies CX300 is the conventional-takeoff (eCTOL) variant of the Alia eVTOL airframe — strip out the lift rotors, leaving single pusher + fixed wing. Establishes US prior art for the shared-airframe eCTOL/eVTOL strategy: the eCTOL variant certifies first (Part 23), then the eVTOL variant follows on the same airframe with the lift rotors added back. This is a pragmatic certification shortcut that other lift+cruise eVTOL OEMs (Joby, Archer, Wisk, Vertical) may adopt — Beta's 2024 disclosure makes it prior art. Together with beta-alia-250 (the eVTOL variant), establishes Beta's platform-family certification approach.
 
 ## Hyundai Supernal S-A2 (2024-01-09)
 

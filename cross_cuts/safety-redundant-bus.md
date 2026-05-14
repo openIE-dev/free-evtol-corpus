@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `safety-redundant-bus`
 
-**29 corpus entries disclose this subsystem.**
+**31 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1989-03-19
 
@@ -186,6 +186,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AMSL Aero Vertiia is Australia's lead commercial eVTOL with a distinctive commitment to hydrogen-fuel-cell propulsion for 1,000 km range — addressing the energy-density limitation of pure-battery eVTOL. Establishes Australian prior-art lineage for hydrogen-eVTOL and for long-range regional eVTOL distinct from short-range urban air taxi. Anticipates other hydrogen-fuel-cell eVTOL claims (e.g., Joby's post-acquisition H2 program, Airbus ZEROe rotorcraft).
 
+## Volocopter VoloRegion / VoloConnect (2021-05-17)
+
+- **id**: `volocopter-voloregion`
+- **corpus**: private
+- **creator**: Volocopter GmbH
+- **disclosure**: Volocopter VoloConnect (later renamed VoloRegion) publicly unveiled 2021-05-17; first full-scale flight 2022-05. Lift+cruise variant of the Volocopter family — distinct from the multirotor VoloCity and the cargo VoloDrone. Documented in Volocopter materials and EASA SC-VTOL filings.
+- **ip status**: patented
+- **prior art notes**: Volocopter VoloRegion / VoloConnect is the lift+cruise variant of the Volocopter family — Volocopter's pivot from pure-multirotor (VoloCity) to lift+cruise topology for regional range and higher cruise speed. Establishes prior art for: (1) lift+cruise variant shared across a multirotor platform's family, (2) Volocopter's platform extension into longer-range mission profiles. Together with volocopter-volocity (passenger multirotor), volocopter-volodrone (cargo multirotor), and volocopter-vc1 (foundational), comprehensively places the Volocopter platform family in prior art.
+
 ## Archer Aviation Midnight (2021-06-10)
 
 - **id**: `archer-midnight`
@@ -257,6 +266,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: TCab Tech E20 sub-scale technology demonstrator first transition flight 2022-12-07 at Tianjin; full-scale E20 prototype unveiled 2023-09-13. TCab founded 2021 in Shanghai by Yon Wui Ng; technical leadership from former Volocopter and Lilium engineers.
 - **ip status**: patented
 - **prior art notes**: TCab Tech E20 is China's lead tilt-rotor passenger eVTOL — architectural sibling to Joby S4 with the same 4+2 tilt-rotor configuration. Establishes Chinese-lineage prior art for the tilt-rotor electric eVTOL category, ensuring the architectural pattern is disclosed across at least four geographic prior-art bases (US, EU, China, Italy).
+
+## Beta Technologies CX300 (2024)
+
+- **id**: `beta-cx300`
+- **corpus**: private
+- **creator**: Beta Technologies, Inc.
+- **disclosure**: Beta Technologies CX300 — a conventional-takeoff (eCTOL, not VTOL) variant of the Alia airframe — first conventional-takeoff flights 2024; FAA certification target 2025. The CX300 strips out the four lift rotors of the Alia-250 / Alia VTOL, leaving the single pusher cruise propeller and a fixed wing — a deliberate simplification for faster certification and shorter-runway operation. Documented in Beta Technologies materials and FAA filings.
+- **ip status**: patented
+- **prior art notes**: Beta Technologies CX300 is the conventional-takeoff (eCTOL) variant of the Alia eVTOL airframe — strip out the lift rotors, leaving single pusher + fixed wing. Establishes US prior art for the shared-airframe eCTOL/eVTOL strategy: the eCTOL variant certifies first (Part 23), then the eVTOL variant follows on the same airframe with the lift rotors added back. This is a pragmatic certification shortcut that other lift+cruise eVTOL OEMs (Joby, Archer, Wisk, Vertical) may adopt — Beta's 2024 disclosure makes it prior art. Together with beta-alia-250 (the eVTOL variant), establishes Beta's platform-family certification approach.
 
 ## Hyundai Supernal S-A2 (2024-01-09)
 

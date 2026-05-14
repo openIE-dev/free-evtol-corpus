@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-tilt-wing`  
-**Entries:** 7 (7 commons-grade, 0 draft)  
+**Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 1957-08-13  
-**Most recent disclosure:** 2018-01-31
+**Most recent disclosure:** 2022-05
 
 ---
 
@@ -189,6 +189,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-05 — Skyfly Axe
+
+- **id:** `skyfly-axe`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Skyfly Technologies Ltd (Oxfordshire, United Kingdom)
+- **disclosure citation:** Skyfly Technologies (UK, founded 2018 by Michael Thompson, William Bryceson, and Rachel Pearson) unveiled the Axe kit-built tilting eVTOL in May 2022; first untethered hover 2023-04-28. A two-seat tilting eVTOL designed for the kit-built / homebuilt (Light UAV / Sub-115 kg) market under UK CAA Permit to Fly. Documented in Skyfly materials and UK CAA filings.
+- **disclosed subsystems:** `lift-tilt-wing`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Skyfly Axe establishes UK prior art for the kit-built / homebuilt tilt-wing eVTOL — a four-rotor tandem-tilting-wing two-seat eVTOL targeting the UK light-aircraft market under kit-built rules. Establishes prior art for: (1) kit-built / homebuilt eVTOL business model, (2) the tandem-tilting-wing four-rotor light-aircraft configuration. Together with vertical-vx4, bellwether-volar, malloy-aeronautics-hoverbike, gravity-industries-jet-suit, hawker-siddeley-hs-141, and the deep UK rotorcraft heritage, deepens the UK eVTOL footprint.
+
+**Sources:**
+
+1. Skyfly Technologies Axe technical materials 2022-2024.
+2. UK CAA Permit to Fly filings (Skyfly Axe).
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -196,4 +216,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

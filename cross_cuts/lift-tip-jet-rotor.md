@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-tip-jet-rotor`
 
-**5 corpus entries disclose this subsystem.**
+**7 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1943-05
 
@@ -41,6 +41,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fairey FB-1 Gyrodyne first flight 1947-12-07; set an FAI helicopter speed record 1948-06-28 (124 mph). The Jet Gyrodyne (a modified Gyrodyne with tip-jet rotor drive, 1954) was the direct technology demonstrator for the Fairey Rotodyne. Documented in Fairey company archives and UK Ministry of Supply reports.
 - **ip status**: public-domain
 - **prior art notes**: The Fairey Gyrodyne (1947) and Jet Gyrodyne (1954) are the foundational UK compound-autogyro disclosures that led to the Fairey Rotodyne (1957). Establishes prior art for: (1) compound autogyro/helicopter with stub-wing tractor propeller providing both forward thrust and anti-torque (no tail rotor), (2) tip-jet rotor drive in a compound rotorcraft (the Jet Gyrodyne, 1954). UK Ministry of Supply public-domain disclosure. Together with cierva-autogyro (1923), fairey-rotodyne (1957), eurocopter-x3 (2010), and the modern compound-rotorcraft cluster, places compound-rotorcraft architecture in continuous prior art.
+
+## Hughes XH-17 Flying Crane (1952-10-23)
+
+- **id**: `hughes-xh-17`
+- **corpus**: academic
+- **creator**: Hughes Aircraft Company / U.S. Air Force
+- **disclosure**: Hughes XH-17 first flight 1952-10-23 at Culver City CA; with a rotor diameter of 41 m it was the largest-rotor helicopter ever built; tip-jet rotor drive (compressed air ducted through hollow blades to tip-mounted ramjet burners). Program cancelled 1955 — the design proved aerodynamically excessive. Documented in U.S. Air Force / Hughes Aircraft archives.
+- **ip status**: public-domain
+- **prior art notes**: The Hughes XH-17 'Flying Crane' (1952) is the largest tip-jet helicopter ever built — a single 41 m two-blade rotor driven by tip-mounted ramjet burners fed by compressed air from twin turbojet compressors. Establishes prior art for: (1) very-large-scale tip-jet rotor drive, (2) the heavy-lift 'flying crane' concept with no anti-torque tail rotor (tip-jet is torque-free). U.S. Air Force / Hughes public-record prior art. Comprehensively in the public domain. Together with doblhoff-wnf-342 (DE 1943), focke-wulf-triebflugel (DE 1944), mil-v-7-tarakan (RU 1957), and fairey-rotodyne (UK 1957), comprehensively places tip-jet rotor architecture in cross-national prior art.
+
+## McDonnell XV-1 Convertiplane (1954-02-11)
+
+- **id**: `mcdonnell-xv-1`
+- **corpus**: academic
+- **creator**: McDonnell Aircraft / U.S. Air Force / U.S. Army / Friedrich Doblhoff (consulting)
+- **disclosure**: McDonnell XV-1 first flight 1954-02-11 at Lambert Field, St. Louis; first complete transition from helicopter to autorotation cruise 1955-04-29. A compound rotorcraft with tip-jet rotor drive in hover and a pusher propeller in cruise — McDonnell built it under contract with Friedrich Doblhoff (of Doblhoff WNF 342 fame) consulting after his post-war U.S. emigration. Documented in U.S. military test reports and NASA archives.
+- **ip status**: public-domain
+- **prior art notes**: The McDonnell XV-1 (1954) is the direct American successor to Doblhoff's WNF 342 (1943, DE/AT) — Friedrich Doblhoff consulted for McDonnell on this tip-jet compound rotorcraft after his post-war emigration to the U.S. Establishes prior art for: (1) tip-jet rotor compound rotorcraft at production-prototype scale in U.S., (2) the rotor-powered-in-hover, rotor-autorotates-in-cruise mode-shutdown transition for compound rotorcraft. Comprehensively in the public domain. Together with doblhoff-wnf-342 (1943), fairey-rotodyne (1957), hughes-xh-17 (1952), mil-v-7-tarakan (1957), fairey-gyrodyne (1947), comprehensively places tip-jet compound rotorcraft architecture in cross-national 1943-1957 prior art.
 
 ## Fairey Rotodyne (1957-11-06)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-tilt-wing`
 
-**7 corpus entries disclose this subsystem.**
+**8 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1957-08-13
 
@@ -77,3 +77,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Airbus A^3 Vahana sub-scale demonstrator first untethered hover 2018-01-31 at Pendleton OR (Acubed test site); first transition flight 2018-05-15. Vahana flight-test program completed 2019-11 with 138 successful flights. Acubed published Vahana technical papers and design data openly.
 - **ip status**: patented
 - **prior art notes**: Airbus Vahana is the first fully-autonomous tilt-wing eVTOL to achieve transition flight (2018) — a distinct architectural achievement combining tilt-wing geometry with BLDC distributed electric propulsion and full-autonomy control, all flying 138+ missions in 2018-2019. Establishes prior art for: (1) tilt-wing passenger eVTOL with eight-rotor configuration, (2) full-autonomy transition control across the conversion corridor, (3) production-ready electric tilt-wing flight-control architecture. Acubed published Vahana data openly, putting comprehensive engineering disclosure in the public domain.
+
+## Skyfly Axe (2022-05)
+
+- **id**: `skyfly-axe`
+- **corpus**: private
+- **creator**: Skyfly Technologies Ltd (Oxfordshire, United Kingdom)
+- **disclosure**: Skyfly Technologies (UK, founded 2018 by Michael Thompson, William Bryceson, and Rachel Pearson) unveiled the Axe kit-built tilting eVTOL in May 2022; first untethered hover 2023-04-28. A two-seat tilting eVTOL designed for the kit-built / homebuilt (Light UAV / Sub-115 kg) market under UK CAA Permit to Fly. Documented in Skyfly materials and UK CAA filings.
+- **ip status**: patented
+- **prior art notes**: Skyfly Axe establishes UK prior art for the kit-built / homebuilt tilt-wing eVTOL — a four-rotor tandem-tilting-wing two-seat eVTOL targeting the UK light-aircraft market under kit-built rules. Establishes prior art for: (1) kit-built / homebuilt eVTOL business model, (2) the tandem-tilting-wing four-rotor light-aircraft configuration. Together with vertical-vx4, bellwether-volar, malloy-aeronautics-hoverbike, gravity-industries-jet-suit, hawker-siddeley-hs-141, and the deep UK rotorcraft heritage, deepens the UK eVTOL footprint.

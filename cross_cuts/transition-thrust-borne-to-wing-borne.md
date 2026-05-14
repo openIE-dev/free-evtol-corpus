@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `transition-thrust-borne-to-wing-borne`
 
-**63 corpus entries disclose this subsystem.**
+**65 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-11
 
@@ -429,6 +429,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Aurora LightningStrike XV-24A is the most architecturally similar prior art to Lilium Jet's 36-fan ducted-fan-array eVTOL — also a tilt-wing distributed-electric-propulsion configuration with embedded ducted lift fans. The XV-24A's 24 ducted fans (2016) anticipate Lilium's 36 (2019) configuration by 3 years and DARPA-funded design publication is fully in the public domain. Establishes US prior-art lineage for: (1) high-multiplicity tilt-wing ducted-fan-array, (2) turbine-electric hybrid powerplant for VTOL, (3) the very-high-rotor-count distributed-electric-propulsion architecture. Filed against any post-2016 patent claim on similar ducted-fan-array tilt-wing configurations, this is anticipating prior art.
 
+## Lilium Phoenix 2 (2017-04-20)
+
+- **id**: `lilium-phoenix-2`
+- **corpus**: private
+- **creator**: Lilium GmbH
+- **disclosure**: Lilium GmbH (founded 2015 at TU Munich) unveiled the Phoenix 2 (a two-seat prototype eVTOL with 36 ducted electric fans) on 2017-04-20; first unmanned hover test 2017-04. The Phoenix 2 was the predecessor to the production Lilium Jet (5-seat, unveiled 2019); both used the embedded-tilting-ducted-fan-array architecture. Documented in Lilium materials and DLR / Bavarian aerospace press.
+- **ip status**: patented
+- **prior art notes**: The Lilium Phoenix 2 (2017) is the predecessor disclosure of the Lilium ducted-fan-array eVTOL architecture — 36 embedded tilting electric ducted fans in a two-seat configuration. Establishes Lilium's own prior art for: (1) the foundational embedded-tilting-ducted-fan-array eVTOL configuration, (2) the architectural concept that the production 5-seat Lilium Jet (2019) refined. Lilium GmbH filed for insolvency 2024-10; its patent estate was auctioned and acquired by various successor entities; this commons-grade entry preserves the Phoenix 2 prior-art date independent of any post-bankruptcy successor claims. Useful for invalidity contention against any successor entity attempting to assert post-2017 patents on Lilium-architecture eVTOL.
+
 ## Wingcopter 198 (2017-04-26)
 
 - **id**: `wingcopter-198`
@@ -554,6 +563,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Vertical Aerospace VX4 unveiled 2021-09-29 at SPAC announcement / investor presentation; first tethered hover 2022-09-26; first untethered transition 2024-12. SPAC merger with Broadstone Acquisition (NYSE: EVTL) completed 2021-12. Lead investors include Microsoft / Avolon / American Airlines / Honeywell / Rolls-Royce.
 - **ip status**: patented
 - **prior art notes**: Vertical Aerospace VX4 is the United Kingdom's lead commercial eVTOL — the post-Hawker British vectored/tilt VTOL inheritance translated into electric propulsion. The 4+4 tilt-and-lift hybrid is architecturally between Joby S4 (6 tilt) and Archer Midnight (6+6 hybrid). Establishes UK prior-art lineage for commercial tilt-rotor eVTOL; Rolls-Royce propulsion subsystem involvement provides direct industrial-scale supplier coverage.
+
+## Skyfly Axe (2022-05)
+
+- **id**: `skyfly-axe`
+- **corpus**: private
+- **creator**: Skyfly Technologies Ltd (Oxfordshire, United Kingdom)
+- **disclosure**: Skyfly Technologies (UK, founded 2018 by Michael Thompson, William Bryceson, and Rachel Pearson) unveiled the Axe kit-built tilting eVTOL in May 2022; first untethered hover 2023-04-28. A two-seat tilting eVTOL designed for the kit-built / homebuilt (Light UAV / Sub-115 kg) market under UK CAA Permit to Fly. Documented in Skyfly materials and UK CAA filings.
+- **ip status**: patented
+- **prior art notes**: Skyfly Axe establishes UK prior art for the kit-built / homebuilt tilt-wing eVTOL — a four-rotor tandem-tilting-wing two-seat eVTOL targeting the UK light-aircraft market under kit-built rules. Establishes prior art for: (1) kit-built / homebuilt eVTOL business model, (2) the tandem-tilting-wing four-rotor light-aircraft configuration. Together with vertical-vx4, bellwether-volar, malloy-aeronautics-hoverbike, gravity-industries-jet-suit, hawker-siddeley-hs-141, and the deep UK rotorcraft heritage, deepens the UK eVTOL footprint.
 
 ## Crisalion Mobility Integrity (2022-09-08)
 

@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `cert-experimental`  
-**Entries:** 81 (81 commons-grade, 0 draft)  
+**Entries:** 85 (85 commons-grade, 0 draft)  
 **Earliest disclosure:** 1843-04-08  
 **Most recent disclosure:** 2024-04-25
 
@@ -100,6 +100,27 @@ cite, copy, or redistribute these contentions.
 
 1. Forlanini, Enrico. Papers and reports on the steam helicopter, Italian Aeronautical Society archives, 1877-1885.
 2. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
+
+---
+
+### 1907-09-29 — Breguet-Richet Gyroplane No.1
+
+- **id:** `breguet-richet-gyroplane`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Louis Breguet / Jacques Bichon / Professor Charles Richet
+- **disclosure citation:** Louis Breguet, his brother Jacques, and Professor Charles Richet lifted the Breguet-Richet Gyroplane No.1 off the ground at Douai, France, 1907-09-29 — a tethered hop with the pilot 1.5 m off the ground for ~1 minute, by some accounts the first time a manned heavier-than-air rotorcraft lifted free of the ground (predating Cornu's free flight by ~5 weeks, though tethered). Documented in the Aero Club de France 1907 records.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `cert-experimental`
+
+**Prior art notes:**
+
+> The Breguet-Richet Gyroplane No.1 (1907-09-29) is by some accounts the first manned heavier-than-air rotorcraft to lift free of the ground in any form (tethered hop, predating Cornu's free flight by ~5 weeks). Establishes the foundational French / European manned-multi-rotor prior art — four-rotor cross-frame with cross-belt single-engine drive, 15 years before de Bothezat (1922). Louis Breguet would later found Breguet Aviation and remain a major figure in French aerospace. Comprehensively in the public domain (Breguet died 1955). Together with cornu-helicopter (FR 1907-11-13, first free flight), ellehammer-helicopter (DK 1912), and the 1922 cluster (de Bothezat, Pescara, Kirsten-Boeing, Berliner), establishes the deep early-rotorcraft prior-art base from 1907 forward.
+
+**Sources:**
+
+1. Aero Club de France 1907 archives, Paris.
+2. Liberatore, E.K. Helicopters Before Helicopters. Krieger, 1998.
+3. Boulet, Jean. History of the Helicopter as Told by its Pioneers 1907-1956. France-Empire, 1991.
 
 ---
 
@@ -627,6 +648,27 @@ cite, copy, or redistribute these contentions.
 
 1. Mikheyev, Vadim. Mil M.L.: Helicopter Pioneer. Polygon, multiple editions.
 2. Gunston, Bill. The Osprey Encyclopedia of Russian Aircraft. Osprey, 1995.
+
+---
+
+### 1958-06-15 — Westland Westminster
+
+- **id:** `westland-westminster`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Westland Aircraft / UK Ministry of Supply
+- **disclosure citation:** Westland Westminster first flight 1958-06-15; ~the largest British helicopter project of its era. Built as a heavy-lift transport with an exposed steel-tube frame ('flying skeleton' aesthetic) for rapid development. Program cancelled 1960 in favour of the Bristol Belvedere. Documented in Westland Aircraft / Ministry of Supply archives.
+- **disclosed subsystems:** `cert-experimental`
+
+**Prior art notes:**
+
+> The Westland Westminster (1958) is the largest British helicopter project of its era — a heavy-lift transport with an exposed steel-tube 'flying skeleton' frame, powered by Napier Eland turboshafts (sister engines to the Fairey Rotodyne). Program cancelled 1960. Establishes UK prior art for: (1) heavy-lift turboshaft helicopter at production-prototype scale, (2) the exposed-frame rapid-prototyping approach to rotorcraft development. Comprehensively in the public domain. Together with fairey-rotodyne (1957), bristol-belvedere (1958, the program that replaced Westminster), and cierva-air-horse (1948), establishes the British heavy-lift rotorcraft prior-art base of the late 1940s-1950s.
+
+**Sources:**
+
+1. Westland Aircraft / UK Ministry of Supply Westminster archives.
+2. James, Derek N. Westland: A History. Tempus, 2002.
+3. RAF Museum / Yeovilton Westland Westminster materials.
 
 ---
 
@@ -1491,6 +1533,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-04-20 — Lilium Phoenix 2
+
+- **id:** `lilium-phoenix-2`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Lilium GmbH
+- **disclosure citation:** Lilium GmbH (founded 2015 at TU Munich) unveiled the Phoenix 2 (a two-seat prototype eVTOL with 36 ducted electric fans) on 2017-04-20; first unmanned hover test 2017-04. The Phoenix 2 was the predecessor to the production Lilium Jet (5-seat, unveiled 2019); both used the embedded-tilting-ducted-fan-array architecture. Documented in Lilium materials and DLR / Bavarian aerospace press.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `transition-tilt-wing`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> The Lilium Phoenix 2 (2017) is the predecessor disclosure of the Lilium ducted-fan-array eVTOL architecture — 36 embedded tilting electric ducted fans in a two-seat configuration. Establishes Lilium's own prior art for: (1) the foundational embedded-tilting-ducted-fan-array eVTOL configuration, (2) the architectural concept that the production 5-seat Lilium Jet (2019) refined. Lilium GmbH filed for insolvency 2024-10; its patent estate was auctioned and acquired by various successor entities; this commons-grade entry preserves the Phoenix 2 prior-art date independent of any post-bankruptcy successor claims. Useful for invalidity contention against any successor entity attempting to assert post-2017 patents on Lilium-architecture eVTOL.
+
+**Sources:**
+
+1. Lilium GmbH press releases and technical materials 2015-2024.
+2. Phoenix 2 unveiling materials, Munich 2017-04-20.
+3. TU Munich / DLR Bavarian aerospace press 2015-2024.
+
+---
+
 ### 2017-08 — EPFL origami folding drone
 
 - **id:** `epfl-folding-drone`
@@ -1658,6 +1721,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2022-05 — Skyfly Axe
+
+- **id:** `skyfly-axe`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Skyfly Technologies Ltd (Oxfordshire, United Kingdom)
+- **disclosure citation:** Skyfly Technologies (UK, founded 2018 by Michael Thompson, William Bryceson, and Rachel Pearson) unveiled the Axe kit-built tilting eVTOL in May 2022; first untethered hover 2023-04-28. A two-seat tilting eVTOL designed for the kit-built / homebuilt (Light UAV / Sub-115 kg) market under UK CAA Permit to Fly. Documented in Skyfly materials and UK CAA filings.
+- **disclosed subsystems:** `lift-tilt-wing`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> Skyfly Axe establishes UK prior art for the kit-built / homebuilt tilt-wing eVTOL — a four-rotor tandem-tilting-wing two-seat eVTOL targeting the UK light-aircraft market under kit-built rules. Establishes prior art for: (1) kit-built / homebuilt eVTOL business model, (2) the tandem-tilting-wing four-rotor light-aircraft configuration. Together with vertical-vx4, bellwether-volar, malloy-aeronautics-hoverbike, gravity-industries-jet-suit, hawker-siddeley-hs-141, and the deep UK rotorcraft heritage, deepens the UK eVTOL footprint.
+
+**Sources:**
+
+1. Skyfly Technologies Axe technical materials 2022-2024.
+2. UK CAA Permit to Fly filings (Skyfly Axe).
+
+---
+
 ### 2022-06 — Doroni H1 / H1-X
 
 - **id:** `doroni-h1`
@@ -1747,4 +1830,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

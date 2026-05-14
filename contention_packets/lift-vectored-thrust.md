@@ -9,9 +9,9 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-vectored-thrust`  
-**Entries:** 43 (43 commons-grade, 0 draft)  
+**Entries:** 47 (47 commons-grade, 0 draft)  
 **Earliest disclosure:** 1954-11  
-**Most recent disclosure:** 2021-04
+**Most recent disclosure:** 2021-09-24
 
 ---
 
@@ -466,6 +466,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1982-07-09 — Recognizer (Tron / Tron: Legacy)
+
+- **id:** `tron-legacy-recognizer`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Steven Lisberger (original Tron 1982) / Joseph Kosinski (Tron: Legacy 2010) / Daniel Simon (Tron: Legacy vehicle design) / Disney
+- **disclosure citation:** Tron, directed by Steven Lisberger, U.S. theatrical release 1982-07-09 — featuring the Recognizer, a large four-legged VTOL flying machine with a distinctive inverted-U silhouette and rectangular thrust pods below each 'leg'. The redesigned Recognizers of Tron: Legacy (2010, Joseph Kosinski director, Daniel Simon vehicle designer) refine the original design with more detailed engineering. Documented in The Art of Tron and The Art of Tron: Legacy.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> The Tron Recognizer (1982, redesigned 2010) is the foundational fictional disclosure of the inverted-U gantry-style vectored-thrust VTOL — a unique four-thrust-pod-on-an-arch geometry that has been referenced by many subsequent sci-fi vehicle designers. The Daniel Simon (Cosmic Motors / Oblivion Bubbleship) redesign for Tron: Legacy (2010) added detailed engineering depiction. Together with bladerunner-spinner (1982), oblivion-bubbleship (2013), and the other Daniel Simon-designed fictional VTOL, places engineering-design-quality fictional VTOL in prior art.
+
+**Sources:**
+
+1. Lisberger, Steven (dir.). Tron. Walt Disney Productions, 1982.
+2. Kosinski, Joseph (dir.). Tron: Legacy. Walt Disney Studios, 2010.
+3. Simon, Daniel. The Art of Tron: Legacy. Disney Editions, 2010.
+
+---
+
 ### 1982-10-03 — VF-1 Valkyrie / Veritech (Super Dimension Fortress Macross)
 
 - **id:** `macross-vf-1-veritech`
@@ -656,6 +677,28 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2008-05 — Trisolaran and human VTOL craft (Three-Body Problem)
+
+- **id:** `three-body-problem-aircraft`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Liu Cixin (novels 2006-2010) / David Benioff & D.B. Weiss / Alexander Woo (Netflix series) / Yang Lei (Tencent Three-Body 2023)
+- **disclosure citation:** Liu Cixin's The Three-Body Problem (三体) was published in serialized form in Science Fiction World (科幻世界) starting 2006-05, then as a novel May 2008; the trilogy (Three-Body, The Dark Forest, Death's End) was completed 2010. Adapted as Tencent's Three-Body live-action TV series 2023, and as Netflix's 3 Body Problem 2024-03-21 (showrun by Benioff & Weiss). Features various spacecraft and atmospheric VTOL military craft. Documented in the novels and both TV adaptations.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> Liu Cixin's The Three-Body Problem trilogy (CN 2006-2010 literary; Tencent 2023 / Netflix 2024 TV adaptations) is the most-influential Chinese science-fiction work of the modern era and establishes a major Chinese literary + cinematic fictional prior-art anchor for advanced VTOL and spacecraft technology — including atmospheric military VTOL craft, fusion-rocket interplanetary spacecraft, and alien probes. Together with wandering-earth-cargo-vtol (CN 2019 cinematic) and the deep Chinese real-world eVTOL OEM cluster (EHang, AutoFlight, AeroHT XPENG, TCab, Aerofugia), comprehensively places Chinese fictional and real VTOL prior art across the past two decades.
+
+**Sources:**
+
+1. Liu, Cixin. The Three-Body Problem (三体). Chongqing Press, 2008.
+2. Liu, Cixin. Trilogy: The Three-Body Problem / The Dark Forest / Death's End. Translated by Ken Liu / Joel Martinsen, Tor Books, 2014-2016.
+3. Yang, Lei (showrunner). Three-Body (三体). Tencent Video, 2023.
+4. Benioff, Weiss, Woo (showrunners). 3 Body Problem. Netflix, 2024.
+
+---
+
 ### 2008-06-11 — Lockheed Martin F-35B Lightning II
 
 - **id:** `f-35b-lightning`
@@ -779,6 +822,26 @@ cite, copy, or redistribute these contentions.
 1. Hybrid Air Vehicles technical materials and press releases 2012-2025.
 2. U.S. Army LEMV (Long Endurance Multi-intelligence Vehicle) programme reports.
 3. UK CAA Airlander 10 certification filings.
+
+---
+
+### 2014-05-30 — Drop ship (Edge of Tomorrow)
+
+- **id:** `edge-of-tomorrow-dropship`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** Doug Liman / Warner Bros. / Production designer Oliver Scholl
+- **disclosure citation:** Edge of Tomorrow (Live Die Repeat), directed by Doug Liman, U.S. theatrical release 2014-05-30 — featuring large vectored-thrust drop ships of the United Defense Force (UDF) carrying powered exosuit infantry to a beach invasion. Production design by Oliver Scholl. Documented in the Edge of Tomorrow art-of-the-film materials.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> Edge of Tomorrow's drop ships (2014) establish additional US fictional prior art for the heavy vectored-thrust military VTOL transport — a more grounded / D-Day-pastiche depiction than the more aggressive designs of Aliens / Avatar / Black Panther. Production design by Oliver Scholl includes detailed engineering reference work. Together with aliens-cheyenne-dropship (1986), avatar-samson-scorpion (2009), wakanda-royal-talon (2018), district-9-dropship (2009), thunderbird-2 (1965), and the global fictional VTOL-transport cluster, comprehensively places military-VTOL-transport in fictional prior art.
+
+**Sources:**
+
+1. Liman, Doug (dir.). Edge of Tomorrow / Live Die Repeat. Warner Bros., 2014.
+2. The Art of Edge of Tomorrow. Insight Editions, 2014.
 
 ---
 
@@ -947,6 +1010,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-09-24 — Imperial and Foundation flying craft (Foundation, Apple TV+)
+
+- **id:** `foundation-flying-craft`
+- **corpus:** fictional
+- **ip status:** fictional
+- **creator:** David S. Goyer / Apple TV+ / Skydance Television / Isaac Asimov (source novels)
+- **disclosure citation:** Foundation, developed by David S. Goyer for Apple TV+, premiered 2021-09-24 — featuring numerous VTOL craft of the Galactic Empire (imperial transports, hover gunships) and of the Foundation (planetary transports). Based on Isaac Asimov's Foundation novels (1942-1953) which depicted various spacecraft. The Apple TV adaptation includes detailed CGI-modelled engineering depictions. Documented in production design materials for the series.
+- **disclosed subsystems:** `lift-vectored-thrust`
+
+**Prior art notes:**
+
+> Foundation (Apple TV+, 2021-, adapting Asimov's 1942-1953 novels) establishes modern fictional prior art for the Asimov-rooted galactic-empire VTOL transport — vertical takeoff, atmospheric hover, orbital transit. The literary roots in Asimov's 1942-1953 Foundation series extend the prior-art date back 80 years. Together with the other asimov-rooted fictional anchors (asimov-positronic-robots covered in the free-humanoid-corpus, asimov-aircar implicit), and the modern cinematic fictional VTOL cluster, deepens the Asimov-rooted fictional prior-art base across both robotics (humanoid corpus) and VTOL (this corpus).
+
+**Sources:**
+
+1. Goyer, David S. (showrunner). Foundation. Apple TV+ / Skydance Television, 2021-.
+2. Asimov, Isaac. Foundation. Gnome Press, 1951 (collecting 1942-1949 magazine stories).
+3. Foundation Apple TV+ production design materials.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -954,4 +1038,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

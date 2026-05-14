@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `autonomy-utm-integration`  
-**Entries:** 27 (27 commons-grade, 0 draft)  
+**Entries:** 28 (28 commons-grade, 0 draft)  
 **Earliest disclosure:** 2017-03  
 **Most recent disclosure:** 2024-01-09
 
@@ -379,6 +379,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-05-17 — Volocopter VoloRegion / VoloConnect
+
+- **id:** `volocopter-voloregion`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volocopter GmbH
+- **disclosure citation:** Volocopter VoloConnect (later renamed VoloRegion) publicly unveiled 2021-05-17; first full-scale flight 2022-05. Lift+cruise variant of the Volocopter family — distinct from the multirotor VoloCity and the cargo VoloDrone. Documented in Volocopter materials and EASA SC-VTOL filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `safety-redundant-bus`, `safety-ballistic-parachute`, `control-fly-by-wire-triplex`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`, `autonomy-utm-integration`
+
+**Prior art notes:**
+
+> Volocopter VoloRegion / VoloConnect is the lift+cruise variant of the Volocopter family — Volocopter's pivot from pure-multirotor (VoloCity) to lift+cruise topology for regional range and higher cruise speed. Establishes prior art for: (1) lift+cruise variant shared across a multirotor platform's family, (2) Volocopter's platform extension into longer-range mission profiles. Together with volocopter-volocity (passenger multirotor), volocopter-volodrone (cargo multirotor), and volocopter-vc1 (foundational), comprehensively places the Volocopter platform family in prior art.
+
+**Sources:**
+
+1. Volocopter GmbH VoloRegion / VoloConnect technical materials and press releases 2021-2024.
+2. EASA SC-VTOL filings (Volocopter VoloRegion).
+
+---
+
 ### 2021-06-10 — Archer Aviation Midnight
 
 - **id:** `archer-midnight`
@@ -617,4 +637,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

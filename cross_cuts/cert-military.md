@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-military`
 
-**50 corpus entries disclose this subsystem.**
+**54 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941-10-30
 
@@ -23,6 +23,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Flettner Fl 282 Kolibri first flight 1941-10-30 (some sources say 1941-08); production order from Kriegsmarine 1942 for 1,000 aircraft; only ~24 completed before Allied strategic bombing of Flettner factory 1944. The first production-ordered intermeshing-rotor helicopter in history. Documented in Allied CIOS reports and Smithsonian collections.
 - **ip status**: public-domain
 - **prior art notes**: Flettner Fl 282 Kolibri establishes the foundational intermeshing-rotor (synchropter) architecture. Anton Flettner's design directly inspired Charles H. Kaman's post-war intermeshing-rotor work; Kaman acknowledged Flettner as a primary technical influence. Establishes prior art for: (1) intermeshing-rotor architecture in production form, (2) torque-cancellation without anti-torque tail rotor via two-rotor synchronization. Combined with kaman-hh-43-huskie (1953) and kaman-k-max (1991), provides 50+ years of intermeshing-rotor prior art continuously in the public domain.
+
+## Sikorsky R-4 Hoverfly (1942-01-13)
+
+- **id**: `sikorsky-r-4`
+- **corpus**: academic
+- **creator**: Igor Sikorsky / Vought-Sikorsky / U.S. Army Air Forces / Royal Navy / Royal Air Force
+- **disclosure**: Sikorsky R-4 (VS-316) first flight 1942-01-13 at Stratford CT; entered U.S. Army Air Forces service 1944 — the first production helicopter in history. ~131 produced 1942-1944, used operationally by U.S. forces and Royal Navy/Air Force in WWII (the first combat rescue by helicopter was an R-4 in Burma, April 1944). Documented in Sikorsky / U.S. military archives and Smithsonian collections.
+- **ip status**: patented
+- **prior art notes**: Sikorsky R-4 Hoverfly (1942) is the first production helicopter in history — the direct production successor to VS-300, validating the single-main-rotor + anti-torque-tail-rotor architecture at production scale. Establishes prior art for: (1) the canonical single-main-rotor helicopter architecture in production form, (2) the first operational combat use of a helicopter (Burma rescue 1944), (3) production validation of the Sikorsky helicopter design methodology that subsequent decades of helicopters followed. Sikorsky 1940s patents are long expired. Although not eVTOL, R-4 is foundational vertical-lift prior art that anticipates the entire production-helicopter lineage.
+
+## Hafner Rotachute and Rotabuggy (1942-04)
+
+- **id**: `hafner-rotachute-rotabuggy`
+- **corpus**: academic
+- **creator**: Raoul Hafner / UK Airborne Forces Establishment
+- **disclosure**: Raoul Hafner (Austrian-British rotorcraft pioneer) developed the Rotachute (April 1942) — a rotary-wing parachute substitute for paratroopers; rotor autorotation allowed slow, controlled descent — and the Rotabuggy (1943) — a Jeep with a strapped-on autogyro rotor so it could be air-dropped via towed glide; tested at Sherburn-in-Elmet 1943-11-16. UK Airborne Forces Establishment programs. Documented in UK military aviation archives.
+- **ip status**: public-domain
+- **prior art notes**: Raoul Hafner's Rotachute (1942) and Rotabuggy (1943) are the foundational British wartime disclosures of: (1) rotary-wing parachute substitute for personnel (Rotachute), (2) the air-droppable autogyro-rotor-on-a-ground-vehicle concept (Rotabuggy) — the earliest known autogyro-roadable-aircraft. Hafner later became the head of Bristol's helicopter design office and was responsible for the Bristol Belvedere. Comprehensively in the UK public domain. The Rotabuggy specifically anticipates: (1) PAL-V Liberty (autogyro flying car), (2) other autogyro-based drive+fly transformer designs.
 
 ## Doblhoff WNF 342 (1943-05)
 
@@ -69,6 +87,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The Yakovlev Yak-24 (1952) is the Soviet tandem-rotor heavy helicopter — the Soviet counterpart to the Piasecki H-21, demonstrating the tandem-rotor architecture in an independently-developed lineage. Soviet government work, fully in the public domain post-1991. Together with piasecki-h-21 (1945), places tandem-rotor lift architecture in cross-national prior art. Adds another Russian/Soviet entry to the deep Soviet rotorcraft heritage (TsAGI 1-EA, de Bothezat, Mil V-12, Kamov lineage, Yak VTOL fighters, Mil tip-jet, Mil Mi-30 tilt-rotor).
 
+## Hughes XH-17 Flying Crane (1952-10-23)
+
+- **id**: `hughes-xh-17`
+- **corpus**: academic
+- **creator**: Hughes Aircraft Company / U.S. Air Force
+- **disclosure**: Hughes XH-17 first flight 1952-10-23 at Culver City CA; with a rotor diameter of 41 m it was the largest-rotor helicopter ever built; tip-jet rotor drive (compressed air ducted through hollow blades to tip-mounted ramjet burners). Program cancelled 1955 — the design proved aerodynamically excessive. Documented in U.S. Air Force / Hughes Aircraft archives.
+- **ip status**: public-domain
+- **prior art notes**: The Hughes XH-17 'Flying Crane' (1952) is the largest tip-jet helicopter ever built — a single 41 m two-blade rotor driven by tip-mounted ramjet burners fed by compressed air from twin turbojet compressors. Establishes prior art for: (1) very-large-scale tip-jet rotor drive, (2) the heavy-lift 'flying crane' concept with no anti-torque tail rotor (tip-jet is torque-free). U.S. Air Force / Hughes public-record prior art. Comprehensively in the public domain. Together with doblhoff-wnf-342 (DE 1943), focke-wulf-triebflugel (DE 1944), mil-v-7-tarakan (RU 1957), and fairey-rotodyne (UK 1957), comprehensively places tip-jet rotor architecture in cross-national prior art.
+
 ## Kaman HH-43 Huskie (1953-09-13)
 
 - **id**: `kaman-hh-43-huskie`
@@ -77,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaman HH-43 Huskie (originally HOK-1 for U.S. Marine Corps) first flight 1953-09-13; entered USAF service 1958 as primary base-rescue helicopter. Kaman holds the founding patents on intermeshing-rotor (synchropter) architecture (US Patent 2,496,857 'Helicopter rotor construction', 1950 — Charles H. Kaman). Documented in U.S. Air Force technical orders and Kaman Aircraft archives.
 - **ip status**: patented
 - **prior art notes**: Kaman HH-43 Huskie is the foundational disclosure of intermeshing-rotor (synchropter) architecture in production form. Establishes prior art for: (1) two-rotor intermeshing geometry with blade-collision prevention via phased rotation, (2) torque-cancellation without anti-torque tail rotor (a fundamental architecture decision shared with coaxial counter-rotating designs), (3) full-scale operational intermeshing helicopter (300+ HH-43 produced). Kaman's original patent (US 2,496,857, 1950) has been expired for over 50 years. Anticipates: Kaman K-MAX (descendant), and any modern eVTOL claiming novelty over intermeshing-rotor lift architecture.
+
+## McDonnell XV-1 Convertiplane (1954-02-11)
+
+- **id**: `mcdonnell-xv-1`
+- **corpus**: academic
+- **creator**: McDonnell Aircraft / U.S. Air Force / U.S. Army / Friedrich Doblhoff (consulting)
+- **disclosure**: McDonnell XV-1 first flight 1954-02-11 at Lambert Field, St. Louis; first complete transition from helicopter to autorotation cruise 1955-04-29. A compound rotorcraft with tip-jet rotor drive in hover and a pusher propeller in cruise — McDonnell built it under contract with Friedrich Doblhoff (of Doblhoff WNF 342 fame) consulting after his post-war U.S. emigration. Documented in U.S. military test reports and NASA archives.
+- **ip status**: public-domain
+- **prior art notes**: The McDonnell XV-1 (1954) is the direct American successor to Doblhoff's WNF 342 (1943, DE/AT) — Friedrich Doblhoff consulted for McDonnell on this tip-jet compound rotorcraft after his post-war emigration to the U.S. Establishes prior art for: (1) tip-jet rotor compound rotorcraft at production-prototype scale in U.S., (2) the rotor-powered-in-hover, rotor-autorotates-in-cruise mode-shutdown transition for compound rotorcraft. Comprehensively in the public domain. Together with doblhoff-wnf-342 (1943), fairey-rotodyne (1957), hughes-xh-17 (1952), mil-v-7-tarakan (1957), fairey-gyrodyne (1947), comprehensively places tip-jet compound rotorcraft architecture in cross-national 1943-1957 prior art.
 
 ## Lockheed XFV-1 Salmon (1954-03-23)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-vectored-thrust`
 
-**43 corpus entries disclose this subsystem.**
+**47 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1954-11
 
@@ -195,6 +195,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Blade Runner spinner establishes the canonical fictional design for a vectored-thrust drive+fly urban VTOL. Syd Mead's design notes (published in The Movie Art of Syd Mead and the Blade Runner Souvenir Magazine) explicitly describe ducted-fan thrust vectoring as the lift principle, with nacelles rotating from vertical for hover to horizontal for cruise. This anticipates: ducted-fan vectored-thrust transition control, drive+fly transformer architectures (cf. ASKA A5, PAL-V Liberty, AeroMobil, Klein Vision AirCar), and dense urban airspace operation for personal VTOL. Filed against post-1982 patent claims on vectored-thrust transition or transformer drive+fly configurations, this is a specific, dated, primary-source disclosure with documented engineering intent.
 
+## Recognizer (Tron / Tron: Legacy) (1982-07-09)
+
+- **id**: `tron-legacy-recognizer`
+- **corpus**: fictional
+- **creator**: Steven Lisberger (original Tron 1982) / Joseph Kosinski (Tron: Legacy 2010) / Daniel Simon (Tron: Legacy vehicle design) / Disney
+- **disclosure**: Tron, directed by Steven Lisberger, U.S. theatrical release 1982-07-09 — featuring the Recognizer, a large four-legged VTOL flying machine with a distinctive inverted-U silhouette and rectangular thrust pods below each 'leg'. The redesigned Recognizers of Tron: Legacy (2010, Joseph Kosinski director, Daniel Simon vehicle designer) refine the original design with more detailed engineering. Documented in The Art of Tron and The Art of Tron: Legacy.
+- **ip status**: fictional
+- **prior art notes**: The Tron Recognizer (1982, redesigned 2010) is the foundational fictional disclosure of the inverted-U gantry-style vectored-thrust VTOL — a unique four-thrust-pod-on-an-arch geometry that has been referenced by many subsequent sci-fi vehicle designers. The Daniel Simon (Cosmic Motors / Oblivion Bubbleship) redesign for Tron: Legacy (2010) added detailed engineering depiction. Together with bladerunner-spinner (1982), oblivion-bubbleship (2013), and the other Daniel Simon-designed fictional VTOL, places engineering-design-quality fictional VTOL in prior art.
+
 ## VF-1 Valkyrie / Veritech (Super Dimension Fortress Macross) (1982-10-03)
 
 - **id**: `macross-vf-1-veritech`
@@ -276,6 +285,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: fictional
 - **prior art notes**: The Battlestar Galactica Raptor (Ronald D. Moore series, 2003-2009) is among the most engineering-detailed fictional small-VTOL designs of the 2000s — a small twin-engine VTOL recon ship with vectored-thrust from twin nacelles, capable of both atmospheric VTOL and space operation. The Eric Chu / Pierre Drolet design is frequently cited as a visual reference for two-seat eVTOL concepts. Together with the Oblivion Bubbleship (2013), Aliens Cheyenne dropship (1986), Patlabor Helldiver (1989), and Macross VF-1 Veritech (1982), places small-to-medium fictional military-VTOL design in continuous prior art across decades.
 
+## Trisolaran and human VTOL craft (Three-Body Problem) (2008-05)
+
+- **id**: `three-body-problem-aircraft`
+- **corpus**: fictional
+- **creator**: Liu Cixin (novels 2006-2010) / David Benioff & D.B. Weiss / Alexander Woo (Netflix series) / Yang Lei (Tencent Three-Body 2023)
+- **disclosure**: Liu Cixin's The Three-Body Problem (三体) was published in serialized form in Science Fiction World (科幻世界) starting 2006-05, then as a novel May 2008; the trilogy (Three-Body, The Dark Forest, Death's End) was completed 2010. Adapted as Tencent's Three-Body live-action TV series 2023, and as Netflix's 3 Body Problem 2024-03-21 (showrun by Benioff & Weiss). Features various spacecraft and atmospheric VTOL military craft. Documented in the novels and both TV adaptations.
+- **ip status**: fictional
+- **prior art notes**: Liu Cixin's The Three-Body Problem trilogy (CN 2006-2010 literary; Tencent 2023 / Netflix 2024 TV adaptations) is the most-influential Chinese science-fiction work of the modern era and establishes a major Chinese literary + cinematic fictional prior-art anchor for advanced VTOL and spacecraft technology — including atmospheric military VTOL craft, fusion-rocket interplanetary spacecraft, and alien probes. Together with wandering-earth-cargo-vtol (CN 2019 cinematic) and the deep Chinese real-world eVTOL OEM cluster (EHang, AutoFlight, AeroHT XPENG, TCab, Aerofugia), comprehensively places Chinese fictional and real VTOL prior art across the past two decades.
+
 ## Lockheed Martin F-35B Lightning II (2008-06-11)
 
 - **id**: `f-35b-lightning`
@@ -329,6 +347,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Hybrid Air Vehicles HAV-304 (built for the cancelled U.S. Army LEMV programme) first flight 2012-08-07 at Lakehurst NJ; rebuilt as the Airlander 10 by HAV in the UK, first flight 2016-08-17 at Cardington. Hybrid Air Vehicles is developing the production Airlander 10 for passenger and cargo service (~2026-2028). Documented in HAV technical materials, U.S. Army LEMV reports, and UK CAA certification filings.
 - **ip status**: patented
 - **prior art notes**: Hybrid Air Vehicles Airlander 10 establishes UK prior art for the hybrid airship — a hull shaped to generate ~40% aerodynamic lift alongside ~60% buoyant helium lift, with vectored ducted propulsors for VTOL control, able to operate from unprepared sites (water, ice, sand, rough ground). Establishes prior art for: (1) hybrid aerodynamic-plus-buoyant lift architecture, (2) vectored-propulsor VTOL control on an airship, (3) infrastructure-free VTOL operation at large scale. Together with lta-research-pathfinder-1 (2023) and flying-whales-lca60t (2012), establishes the modern hybrid-airship / buoyant-VTOL prior-art base. Also relevant to the Orb Aerospace / Skyways 'unprepared site operations' thesis at a much larger scale.
+
+## Drop ship (Edge of Tomorrow) (2014-05-30)
+
+- **id**: `edge-of-tomorrow-dropship`
+- **corpus**: fictional
+- **creator**: Doug Liman / Warner Bros. / Production designer Oliver Scholl
+- **disclosure**: Edge of Tomorrow (Live Die Repeat), directed by Doug Liman, U.S. theatrical release 2014-05-30 — featuring large vectored-thrust drop ships of the United Defense Force (UDF) carrying powered exosuit infantry to a beach invasion. Production design by Oliver Scholl. Documented in the Edge of Tomorrow art-of-the-film materials.
+- **ip status**: fictional
+- **prior art notes**: Edge of Tomorrow's drop ships (2014) establish additional US fictional prior art for the heavy vectored-thrust military VTOL transport — a more grounded / D-Day-pastiche depiction than the more aggressive designs of Aliens / Avatar / Black Panther. Production design by Oliver Scholl includes detailed engineering reference work. Together with aliens-cheyenne-dropship (1986), avatar-samson-scorpion (2009), wakanda-royal-talon (2018), district-9-dropship (2009), thunderbird-2 (1965), and the global fictional VTOL-transport cluster, comprehensively places military-VTOL-transport in fictional prior art.
 
 ## MCRN Drop Ship / UNN Marine Drop Ship (The Expanse) (2015-11-23)
 
@@ -401,3 +428,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: JetPack Aviation (founded by David Mayman, who also developed the JB-series jetpacks worn over the Statue of Liberty in 2015) unveiled the Speeder — a turbine-powered VTOL flying motorcycle — in April 2021; P1.5 prototype flight tests 2022-2024; awarded U.S. Air Force AFWERX and U.S. Army contracts. Documented in JetPack Aviation materials and AFWERX contract records.
 - **ip status**: patented
 - **prior art notes**: The JetPack Aviation Speeder establishes US prior art for the jet-turbine hover-bike — a motorcycle-style straddle VTOL with four vectored jet turbines and fly-by-wire stabilization, no exposed rotors. Establishes prior art for: (1) jet-turbine-powered hover-bike (distinct from open-rotor hover bikes), (2) vectored-turbine lift and translation control for a personal VTOL, (3) heavy-fuel turbine personal VTOL. JetPack Aviation also developed the JB-series jetpacks (turbojet jetpacks flown 2015-2024) — together with bell-rocket-belt (1961), williams-x-jet (1982), gravity-industries-jet-suit (2017), martin-aircraft-jetpack (2008), solotrek-xfv (2001), aerofex-aero-x (2008), hoversurf-s3 (2017), and the historical personal-platform anchors (Hiller VZ-1, de Lackner HZ-1, Chrysler VZ-6), comprehensively places personal-VTOL platform and hover-bike architecture in deep prior art across rocket / ducted-fan / turbofan / turbojet / open-rotor / jet-turbine variants.
+
+## Imperial and Foundation flying craft (Foundation, Apple TV+) (2021-09-24)
+
+- **id**: `foundation-flying-craft`
+- **corpus**: fictional
+- **creator**: David S. Goyer / Apple TV+ / Skydance Television / Isaac Asimov (source novels)
+- **disclosure**: Foundation, developed by David S. Goyer for Apple TV+, premiered 2021-09-24 — featuring numerous VTOL craft of the Galactic Empire (imperial transports, hover gunships) and of the Foundation (planetary transports). Based on Isaac Asimov's Foundation novels (1942-1953) which depicted various spacecraft. The Apple TV adaptation includes detailed CGI-modelled engineering depictions. Documented in production design materials for the series.
+- **ip status**: fictional
+- **prior art notes**: Foundation (Apple TV+, 2021-, adapting Asimov's 1942-1953 novels) establishes modern fictional prior art for the Asimov-rooted galactic-empire VTOL transport — vertical takeoff, atmospheric hover, orbital transit. The literary roots in Asimov's 1942-1953 Foundation series extend the prior-art date back 80 years. Together with the other asimov-rooted fictional anchors (asimov-positronic-robots covered in the free-humanoid-corpus, asimov-aircar implicit), and the modern cinematic fictional VTOL cluster, deepens the Asimov-rooted fictional prior-art base across both robotics (humanoid corpus) and VTOL (this corpus).

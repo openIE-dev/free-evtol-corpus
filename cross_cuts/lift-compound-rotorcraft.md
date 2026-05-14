@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-compound-rotorcraft`
 
-**15 corpus entries disclose this subsystem.**
+**17 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1923-01-09
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Cierva C.4 first sustained autorotation flight 1923-01-09 at Getafe airfield, Madrid, by Lieutenant Alejandro Gómez Spencer. Cierva published design in Spanish Royal Academy of Sciences proceedings (1923) and held Spanish and British patents covering articulated rotor blade architecture.
 - **ip status**: patented
 - **prior art notes**: Cierva's C.4 is the foundational disclosure of articulated rotor blades with flapping hinges — the fundamental enabling invention without which modern rotorcraft (and any eVTOL with articulated blade roots) would not function. Establishes prior art for: (1) flapping-hinge articulated rotor blade design (the patent that made all subsequent rotorcraft possible), (2) compound rotorcraft architecture (forward thrust separate from rotor lift, anticipating modern compound rotorcraft like Fairey Rotodyne, Jaunt Journey, and Sikorsky Raider/Defiant). Cierva patents are long expired; the architectural disclosure is in the public domain.
+
+## Hafner Rotachute and Rotabuggy (1942-04)
+
+- **id**: `hafner-rotachute-rotabuggy`
+- **corpus**: academic
+- **creator**: Raoul Hafner / UK Airborne Forces Establishment
+- **disclosure**: Raoul Hafner (Austrian-British rotorcraft pioneer) developed the Rotachute (April 1942) — a rotary-wing parachute substitute for paratroopers; rotor autorotation allowed slow, controlled descent — and the Rotabuggy (1943) — a Jeep with a strapped-on autogyro rotor so it could be air-dropped via towed glide; tested at Sherburn-in-Elmet 1943-11-16. UK Airborne Forces Establishment programs. Documented in UK military aviation archives.
+- **ip status**: public-domain
+- **prior art notes**: Raoul Hafner's Rotachute (1942) and Rotabuggy (1943) are the foundational British wartime disclosures of: (1) rotary-wing parachute substitute for personnel (Rotachute), (2) the air-droppable autogyro-rotor-on-a-ground-vehicle concept (Rotabuggy) — the earliest known autogyro-roadable-aircraft. Hafner later became the head of Bristol's helicopter design office and was responsible for the Bristol Belvedere. Comprehensively in the UK public domain. The Rotabuggy specifically anticipates: (1) PAL-V Liberty (autogyro flying car), (2) other autogyro-based drive+fly transformer designs.
 
 ## Doblhoff WNF 342 (1943-05)
 
@@ -41,6 +50,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Fairey FB-1 Gyrodyne first flight 1947-12-07; set an FAI helicopter speed record 1948-06-28 (124 mph). The Jet Gyrodyne (a modified Gyrodyne with tip-jet rotor drive, 1954) was the direct technology demonstrator for the Fairey Rotodyne. Documented in Fairey company archives and UK Ministry of Supply reports.
 - **ip status**: public-domain
 - **prior art notes**: The Fairey Gyrodyne (1947) and Jet Gyrodyne (1954) are the foundational UK compound-autogyro disclosures that led to the Fairey Rotodyne (1957). Establishes prior art for: (1) compound autogyro/helicopter with stub-wing tractor propeller providing both forward thrust and anti-torque (no tail rotor), (2) tip-jet rotor drive in a compound rotorcraft (the Jet Gyrodyne, 1954). UK Ministry of Supply public-domain disclosure. Together with cierva-autogyro (1923), fairey-rotodyne (1957), eurocopter-x3 (2010), and the modern compound-rotorcraft cluster, places compound-rotorcraft architecture in continuous prior art.
+
+## McDonnell XV-1 Convertiplane (1954-02-11)
+
+- **id**: `mcdonnell-xv-1`
+- **corpus**: academic
+- **creator**: McDonnell Aircraft / U.S. Air Force / U.S. Army / Friedrich Doblhoff (consulting)
+- **disclosure**: McDonnell XV-1 first flight 1954-02-11 at Lambert Field, St. Louis; first complete transition from helicopter to autorotation cruise 1955-04-29. A compound rotorcraft with tip-jet rotor drive in hover and a pusher propeller in cruise — McDonnell built it under contract with Friedrich Doblhoff (of Doblhoff WNF 342 fame) consulting after his post-war U.S. emigration. Documented in U.S. military test reports and NASA archives.
+- **ip status**: public-domain
+- **prior art notes**: The McDonnell XV-1 (1954) is the direct American successor to Doblhoff's WNF 342 (1943, DE/AT) — Friedrich Doblhoff consulted for McDonnell on this tip-jet compound rotorcraft after his post-war emigration to the U.S. Establishes prior art for: (1) tip-jet rotor compound rotorcraft at production-prototype scale in U.S., (2) the rotor-powered-in-hover, rotor-autorotates-in-cruise mode-shutdown transition for compound rotorcraft. Comprehensively in the public domain. Together with doblhoff-wnf-342 (1943), fairey-rotodyne (1957), hughes-xh-17 (1952), mil-v-7-tarakan (1957), fairey-gyrodyne (1947), comprehensively places tip-jet compound rotorcraft architecture in cross-national 1943-1957 prior art.
 
 ## Fairey Rotodyne (1957-11-06)
 

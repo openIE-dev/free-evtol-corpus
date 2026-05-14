@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-coaxial-rotor`
 
-**40 corpus entries disclose this subsystem.**
+**41 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1861
 
@@ -68,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Flettner Fl 282 Kolibri first flight 1941-10-30 (some sources say 1941-08); production order from Kriegsmarine 1942 for 1,000 aircraft; only ~24 completed before Allied strategic bombing of Flettner factory 1944. The first production-ordered intermeshing-rotor helicopter in history. Documented in Allied CIOS reports and Smithsonian collections.
 - **ip status**: public-domain
 - **prior art notes**: Flettner Fl 282 Kolibri establishes the foundational intermeshing-rotor (synchropter) architecture. Anton Flettner's design directly inspired Charles H. Kaman's post-war intermeshing-rotor work; Kaman acknowledged Flettner as a primary technical influence. Establishes prior art for: (1) intermeshing-rotor architecture in production form, (2) torque-cancellation without anti-torque tail rotor via two-rotor synchronization. Combined with kaman-hh-43-huskie (1953) and kaman-k-max (1991), provides 50+ years of intermeshing-rotor prior art continuously in the public domain.
+
+## Sikorsky R-4 Hoverfly (1942-01-13)
+
+- **id**: `sikorsky-r-4`
+- **corpus**: academic
+- **creator**: Igor Sikorsky / Vought-Sikorsky / U.S. Army Air Forces / Royal Navy / Royal Air Force
+- **disclosure**: Sikorsky R-4 (VS-316) first flight 1942-01-13 at Stratford CT; entered U.S. Army Air Forces service 1944 — the first production helicopter in history. ~131 produced 1942-1944, used operationally by U.S. forces and Royal Navy/Air Force in WWII (the first combat rescue by helicopter was an R-4 in Burma, April 1944). Documented in Sikorsky / U.S. military archives and Smithsonian collections.
+- **ip status**: patented
+- **prior art notes**: Sikorsky R-4 Hoverfly (1942) is the first production helicopter in history — the direct production successor to VS-300, validating the single-main-rotor + anti-torque-tail-rotor architecture at production scale. Establishes prior art for: (1) the canonical single-main-rotor helicopter architecture in production form, (2) the first operational combat use of a helicopter (Burma rescue 1944), (3) production validation of the Sikorsky helicopter design methodology that subsequent decades of helicopters followed. Sikorsky 1940s patents are long expired. Although not eVTOL, R-4 is foundational vertical-lift prior art that anticipates the entire production-helicopter lineage.
 
 ## Bell Model 30 (1942-12)
 

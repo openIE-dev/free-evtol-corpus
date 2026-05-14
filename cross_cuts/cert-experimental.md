@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-experimental`
 
-**81 corpus entries disclose this subsystem.**
+**85 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1843-04-08
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Enrico Forlanini's steam-powered helicopter model rose to ~13 m altitude and hovered for ~20 seconds in 1877 in Milan — the first powered heavier-than-air craft of any kind to rise vertically and stay aloft under its own power. Documented in Forlanini's papers, the Italian Aeronautical Society archives, and contemporary European technical press.
 - **ip status**: public-domain
 - **prior art notes**: Forlanini's 1877 steam helicopter model is the first powered heavier-than-air craft of any kind to rise vertically and sustain flight — 26 years before the Wright Flyer, 30 years before Cornu's first manned free-flight rotorcraft. Establishes Italian prior art for: (1) the first sustained powered vertical-takeoff flight of any kind, (2) coaxial counter-rotating rotor lift at model scale. Forlanini went on to design successful dirigible airships. Comprehensively in the public domain.
+
+## Breguet-Richet Gyroplane No.1 (1907-09-29)
+
+- **id**: `breguet-richet-gyroplane`
+- **corpus**: academic
+- **creator**: Louis Breguet / Jacques Bichon / Professor Charles Richet
+- **disclosure**: Louis Breguet, his brother Jacques, and Professor Charles Richet lifted the Breguet-Richet Gyroplane No.1 off the ground at Douai, France, 1907-09-29 — a tethered hop with the pilot 1.5 m off the ground for ~1 minute, by some accounts the first time a manned heavier-than-air rotorcraft lifted free of the ground (predating Cornu's free flight by ~5 weeks, though tethered). Documented in the Aero Club de France 1907 records.
+- **ip status**: public-domain
+- **prior art notes**: The Breguet-Richet Gyroplane No.1 (1907-09-29) is by some accounts the first manned heavier-than-air rotorcraft to lift free of the ground in any form (tethered hop, predating Cornu's free flight by ~5 weeks). Establishes the foundational French / European manned-multi-rotor prior art — four-rotor cross-frame with cross-belt single-engine drive, 15 years before de Bothezat (1922). Louis Breguet would later found Breguet Aviation and remain a major figure in French aerospace. Comprehensively in the public domain (Breguet died 1955). Together with cornu-helicopter (FR 1907-11-13, first free flight), ellehammer-helicopter (DK 1912), and the 1922 cluster (de Bothezat, Pescara, Kirsten-Boeing, Berliner), establishes the deep early-rotorcraft prior-art base from 1907 forward.
 
 ## Cornu helicopter (1907-11-13)
 
@@ -266,6 +275,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mil V-7 first ground-test 1957-12-20; first piloted hover trials 1959-04. Cancelled after instabilities discovered. Documented in Mil OKB declassified archives, RGAE collections, and Gunston's Soviet aviation references.
 - **ip status**: public-domain
 - **prior art notes**: Mil V-7 is the Soviet contemporary tip-jet helicopter — a parallel-track development to Doblhoff/McDonnell tip-jet programs in the West. Establishes Soviet prior-art lineage (1957–1959) for tip-jet rotor architecture in passenger-transport configuration. Soviet government work, fully in the public domain.
+
+## Westland Westminster (1958-06-15)
+
+- **id**: `westland-westminster`
+- **corpus**: academic
+- **creator**: Westland Aircraft / UK Ministry of Supply
+- **disclosure**: Westland Westminster first flight 1958-06-15; ~the largest British helicopter project of its era. Built as a heavy-lift transport with an exposed steel-tube frame ('flying skeleton' aesthetic) for rapid development. Program cancelled 1960 in favour of the Bristol Belvedere. Documented in Westland Aircraft / Ministry of Supply archives.
+- **ip status**: public-domain
+- **prior art notes**: The Westland Westminster (1958) is the largest British helicopter project of its era — a heavy-lift transport with an exposed steel-tube 'flying skeleton' frame, powered by Napier Eland turboshafts (sister engines to the Fairey Rotodyne). Program cancelled 1960. Establishes UK prior art for: (1) heavy-lift turboshaft helicopter at production-prototype scale, (2) the exposed-frame rapid-prototyping approach to rotorcraft development. Comprehensively in the public domain. Together with fairey-rotodyne (1957), bristol-belvedere (1958, the program that replaced Westminster), and cierva-air-horse (1948), establishes the British heavy-lift rotorcraft prior-art base of the late 1940s-1950s.
 
 ## Vanguard Omniplane (1959)
 
@@ -636,6 +654,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Gravity Industries Daedalus jet suit establishes the modern British iteration of Bell Rocket Belt prior art — the multi-turbojet body-mounted personal-flight architecture. Adds 50+ years of incremental disclosure to the personal-VTOL design space, with arm-mounted thrust effectors as primary control distinguishing from Bell's hand-throttle. Filed against any modern personal-flight patent attempt asserting novelty over body-mounted multi-turbojet architecture, this entry combined with bell-rocket-belt is anticipating prior art.
 
+## Lilium Phoenix 2 (2017-04-20)
+
+- **id**: `lilium-phoenix-2`
+- **corpus**: private
+- **creator**: Lilium GmbH
+- **disclosure**: Lilium GmbH (founded 2015 at TU Munich) unveiled the Phoenix 2 (a two-seat prototype eVTOL with 36 ducted electric fans) on 2017-04-20; first unmanned hover test 2017-04. The Phoenix 2 was the predecessor to the production Lilium Jet (5-seat, unveiled 2019); both used the embedded-tilting-ducted-fan-array architecture. Documented in Lilium materials and DLR / Bavarian aerospace press.
+- **ip status**: patented
+- **prior art notes**: The Lilium Phoenix 2 (2017) is the predecessor disclosure of the Lilium ducted-fan-array eVTOL architecture — 36 embedded tilting electric ducted fans in a two-seat configuration. Establishes Lilium's own prior art for: (1) the foundational embedded-tilting-ducted-fan-array eVTOL configuration, (2) the architectural concept that the production 5-seat Lilium Jet (2019) refined. Lilium GmbH filed for insolvency 2024-10; its patent estate was auctioned and acquired by various successor entities; this commons-grade entry preserves the Phoenix 2 prior-art date independent of any post-bankruptcy successor claims. Useful for invalidity contention against any successor entity attempting to assert post-2017 patents on Lilium-architecture eVTOL.
+
 ## EPFL origami folding drone (2017-08)
 
 - **id**: `epfl-folding-drone`
@@ -707,6 +734,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: MACA Industries (founded 2019 in Toulouse, France) unveiled the S11 Carcopter — a hydrogen-fuel-cell racing eVTOL — at the September 2021 Munich IAA Mobility show. Designed for an envisioned hydrogen racing league. Documented in MACA materials and aerospace press.
 - **ip status**: patented
 - **prior art notes**: MACA Carcopter establishes French prior art for the hydrogen-fuel-cell racing eVTOL — distinct from Alauda Airspeeder (AU, battery-electric racing) by the hydrogen powertrain. Together with airspeeder (AU) and amsl-vertiia (AU, hydrogen passenger), places hydrogen and racing eVTOL architecture in cross-national prior art. Adds another French entry to the deep French VTOL heritage (SNECMA Coléoptère, Eurocopter X3, Airbus RACER, Flying Whales, Cornu, Oehmichen, d'Amécourt, Lazareth, Airbus Vahana, Airbus Pop.Up, Verne).
+
+## Skyfly Axe (2022-05)
+
+- **id**: `skyfly-axe`
+- **corpus**: private
+- **creator**: Skyfly Technologies Ltd (Oxfordshire, United Kingdom)
+- **disclosure**: Skyfly Technologies (UK, founded 2018 by Michael Thompson, William Bryceson, and Rachel Pearson) unveiled the Axe kit-built tilting eVTOL in May 2022; first untethered hover 2023-04-28. A two-seat tilting eVTOL designed for the kit-built / homebuilt (Light UAV / Sub-115 kg) market under UK CAA Permit to Fly. Documented in Skyfly materials and UK CAA filings.
+- **ip status**: patented
+- **prior art notes**: Skyfly Axe establishes UK prior art for the kit-built / homebuilt tilt-wing eVTOL — a four-rotor tandem-tilting-wing two-seat eVTOL targeting the UK light-aircraft market under kit-built rules. Establishes prior art for: (1) kit-built / homebuilt eVTOL business model, (2) the tandem-tilting-wing four-rotor light-aircraft configuration. Together with vertical-vx4, bellwether-volar, malloy-aeronautics-hoverbike, gravity-industries-jet-suit, hawker-siddeley-hs-141, and the deep UK rotorcraft heritage, deepens the UK eVTOL footprint.
 
 ## Doroni H1 / H1-X (2022-06)
 

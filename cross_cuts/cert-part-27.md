@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `cert-part-27`
 
-**2 corpus entries disclose this subsystem.**
+**3 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1991-12-23
+Earliest disclosure: 1945-12-08
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Bell Model 47 (1945-12-08)
+
+- **id**: `bell-47`
+- **corpus**: private
+- **creator**: Arthur Young / Bell Aircraft Corporation
+- **disclosure**: Bell Model 47 first flight 1945-12-08; received CAA Type Certificate H-1 on 1946-03-08 — the first helicopter in the world to receive a civil type certificate. Over 5,600 built 1946-1973; iconic 'goldfish-bowl' canopy. Used as the H-13 Sioux in U.S. military service 1947-1969; immortalized in the M*A*S*H TV series. Documented in CAA / FAA type certificate records and Bell company archives.
+- **ip status**: patented
+- **prior art notes**: Bell Model 47 (1946) is the first helicopter in the world to receive a civil type certificate (CAA TC H-1, 1946-03-08) — the foundational certified civil rotorcraft prior art and the production validation of Arthur Young's two-blade teetering rotor + stabilizer bar architecture (from bell-model-30 1942). Establishes prior art for: (1) certified civil helicopter operation, (2) Part 27-class rotorcraft type certification basis, (3) production scale deployment of the two-blade teetering rotor architecture. Arthur Young's 1940s-50s patents are long expired. Bell 47 / H-13 Sioux served extensively in Korea and Vietnam as a medevac helicopter, establishing the operational paradigm of small-helicopter rescue operations that the modern eVTOL air-ambulance market is targeting.
 
 ## Kaman K-MAX (1991-12-23)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-part-23`
 
-**31 corpus entries disclose this subsystem.**
+**32 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1946-11-07
 
@@ -284,6 +284,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sarla Aviation (founded 2023 in Bangalore by Adrian Schmidt, Rakesh Gaonkar, and Shivam Chauhan; named after Sarla Thakral, India's first woman pilot) unveiled the Shunya eVTOL air taxi in November 2023, with production targeted for ~2028 in Indian cities (Bangalore, Mumbai, Delhi, Pune); sub-scale prototype work 2024. Documented in Sarla materials and Indian DGCA engagement records.
 - **ip status**: patented
 - **prior art notes**: Sarla Aviation Shunya establishes additional Indian prior art for the urban-air-taxi multirotor eVTOL — a five-seat eVTOL designed for short hops in dense Indian cities, the second major Indian eVTOL OEM after ePlane. Establishes Indian depth alongside eplane-company-e200 (IN, lift+cruise) and the Indian fictional flight anchor (Krrish). Together with ehang-eh216 (CN), volocopter-volocity (DE), and the global multirotor air-taxi cluster, places urban-air-taxi multirotor eVTOL architecture in prior art across US, EU, China, India, Japan, Korea, and Brazil lineages.
+
+## Beta Technologies CX300 (2024)
+
+- **id**: `beta-cx300`
+- **corpus**: private
+- **creator**: Beta Technologies, Inc.
+- **disclosure**: Beta Technologies CX300 — a conventional-takeoff (eCTOL, not VTOL) variant of the Alia airframe — first conventional-takeoff flights 2024; FAA certification target 2025. The CX300 strips out the four lift rotors of the Alia-250 / Alia VTOL, leaving the single pusher cruise propeller and a fixed wing — a deliberate simplification for faster certification and shorter-runway operation. Documented in Beta Technologies materials and FAA filings.
+- **ip status**: patented
+- **prior art notes**: Beta Technologies CX300 is the conventional-takeoff (eCTOL) variant of the Alia eVTOL airframe — strip out the lift rotors, leaving single pusher + fixed wing. Establishes US prior art for the shared-airframe eCTOL/eVTOL strategy: the eCTOL variant certifies first (Part 23), then the eVTOL variant follows on the same airframe with the lift rotors added back. This is a pragmatic certification shortcut that other lift+cruise eVTOL OEMs (Joby, Archer, Wisk, Vertical) may adopt — Beta's 2024 disclosure makes it prior art. Together with beta-alia-250 (the eVTOL variant), establishes Beta's platform-family certification approach.
 
 ## Hyundai Supernal S-A2 (2024-01-09)
 

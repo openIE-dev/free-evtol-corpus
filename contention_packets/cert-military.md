@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `cert-military`  
-**Entries:** 50 (50 commons-grade, 0 draft)  
+**Entries:** 54 (54 commons-grade, 0 draft)  
 **Earliest disclosure:** 1941-10-30  
 **Most recent disclosure:** 2019-03-21
 
@@ -60,6 +60,48 @@ cite, copy, or redistribute these contentions.
 1. Flettner, Anton. Mein Weg zum Hubschrauber. Verlag der Luftfahrtforschung, 1949.
 2. Allied CIOS reports on Flettner Fl 282, post-1945.
 3. Smith and Kay. German Aircraft of the Second World War. Putnam, 1972.
+
+---
+
+### 1942-01-13 — Sikorsky R-4 Hoverfly
+
+- **id:** `sikorsky-r-4`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Igor Sikorsky / Vought-Sikorsky / U.S. Army Air Forces / Royal Navy / Royal Air Force
+- **disclosure citation:** Sikorsky R-4 (VS-316) first flight 1942-01-13 at Stratford CT; entered U.S. Army Air Forces service 1944 — the first production helicopter in history. ~131 produced 1942-1944, used operationally by U.S. forces and Royal Navy/Air Force in WWII (the first combat rescue by helicopter was an R-4 in Burma, April 1944). Documented in Sikorsky / U.S. military archives and Smithsonian collections.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> Sikorsky R-4 Hoverfly (1942) is the first production helicopter in history — the direct production successor to VS-300, validating the single-main-rotor + anti-torque-tail-rotor architecture at production scale. Establishes prior art for: (1) the canonical single-main-rotor helicopter architecture in production form, (2) the first operational combat use of a helicopter (Burma rescue 1944), (3) production validation of the Sikorsky helicopter design methodology that subsequent decades of helicopters followed. Sikorsky 1940s patents are long expired. Although not eVTOL, R-4 is foundational vertical-lift prior art that anticipates the entire production-helicopter lineage.
+
+**Sources:**
+
+1. Sikorsky Aircraft / Vought-Sikorsky R-4 program archives.
+2. U.S. Army Air Forces / Royal Navy R-4 operational records.
+3. Spenser, Jay P. Whirlybirds: A History of the U.S. Helicopter Pioneers. University of Washington Press, 1998.
+
+---
+
+### 1942-04 — Hafner Rotachute and Rotabuggy
+
+- **id:** `hafner-rotachute-rotabuggy`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Raoul Hafner / UK Airborne Forces Establishment
+- **disclosure citation:** Raoul Hafner (Austrian-British rotorcraft pioneer) developed the Rotachute (April 1942) — a rotary-wing parachute substitute for paratroopers; rotor autorotation allowed slow, controlled descent — and the Rotabuggy (1943) — a Jeep with a strapped-on autogyro rotor so it could be air-dropped via towed glide; tested at Sherburn-in-Elmet 1943-11-16. UK Airborne Forces Establishment programs. Documented in UK military aviation archives.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `cert-military`
+
+**Prior art notes:**
+
+> Raoul Hafner's Rotachute (1942) and Rotabuggy (1943) are the foundational British wartime disclosures of: (1) rotary-wing parachute substitute for personnel (Rotachute), (2) the air-droppable autogyro-rotor-on-a-ground-vehicle concept (Rotabuggy) — the earliest known autogyro-roadable-aircraft. Hafner later became the head of Bristol's helicopter design office and was responsible for the Bristol Belvedere. Comprehensively in the UK public domain. The Rotabuggy specifically anticipates: (1) PAL-V Liberty (autogyro flying car), (2) other autogyro-based drive+fly transformer designs.
+
+**Sources:**
+
+1. UK Airborne Forces Establishment Rotachute / Rotabuggy reports, 1942-1944.
+2. Reay, D.A. The History of Man-Powered Flight. Pergamon, 1977.
+3. RAF Museum Hafner Rotachute / Rotabuggy materials.
 
 ---
 
@@ -168,6 +210,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1952-10-23 — Hughes XH-17 Flying Crane
+
+- **id:** `hughes-xh-17`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** Hughes Aircraft Company / U.S. Air Force
+- **disclosure citation:** Hughes XH-17 first flight 1952-10-23 at Culver City CA; with a rotor diameter of 41 m it was the largest-rotor helicopter ever built; tip-jet rotor drive (compressed air ducted through hollow blades to tip-mounted ramjet burners). Program cancelled 1955 — the design proved aerodynamically excessive. Documented in U.S. Air Force / Hughes Aircraft archives.
+- **disclosed subsystems:** `lift-tip-jet-rotor`, `propulsion-tip-jet`, `cert-military`
+
+**Prior art notes:**
+
+> The Hughes XH-17 'Flying Crane' (1952) is the largest tip-jet helicopter ever built — a single 41 m two-blade rotor driven by tip-mounted ramjet burners fed by compressed air from twin turbojet compressors. Establishes prior art for: (1) very-large-scale tip-jet rotor drive, (2) the heavy-lift 'flying crane' concept with no anti-torque tail rotor (tip-jet is torque-free). U.S. Air Force / Hughes public-record prior art. Comprehensively in the public domain. Together with doblhoff-wnf-342 (DE 1943), focke-wulf-triebflugel (DE 1944), mil-v-7-tarakan (RU 1957), and fairey-rotodyne (UK 1957), comprehensively places tip-jet rotor architecture in cross-national prior art.
+
+**Sources:**
+
+1. U.S. Air Force XH-17 program reports.
+2. Hughes Aircraft Company XH-17 archives.
+3. Spenser, Jay P. Whirlybirds. UW Press, 1998.
+
+---
+
 ### 1953-09-13 — Kaman HH-43 Huskie
 
 - **id:** `kaman-hh-43-huskie`
@@ -186,6 +249,27 @@ cite, copy, or redistribute these contentions.
 1. Kaman, Charles H. US Patent 2,496,857, 1950.
 2. U.S. Air Force HH-43 Huskie technical orders, AFTO archives.
 3. Kaman Aircraft Corporation 50th Anniversary History, 1995.
+
+---
+
+### 1954-02-11 — McDonnell XV-1 Convertiplane
+
+- **id:** `mcdonnell-xv-1`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** McDonnell Aircraft / U.S. Air Force / U.S. Army / Friedrich Doblhoff (consulting)
+- **disclosure citation:** McDonnell XV-1 first flight 1954-02-11 at Lambert Field, St. Louis; first complete transition from helicopter to autorotation cruise 1955-04-29. A compound rotorcraft with tip-jet rotor drive in hover and a pusher propeller in cruise — McDonnell built it under contract with Friedrich Doblhoff (of Doblhoff WNF 342 fame) consulting after his post-war U.S. emigration. Documented in U.S. military test reports and NASA archives.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `lift-tip-jet-rotor`, `propulsion-tip-jet`, `transition-mode-shutdown`, `cert-military`
+
+**Prior art notes:**
+
+> The McDonnell XV-1 (1954) is the direct American successor to Doblhoff's WNF 342 (1943, DE/AT) — Friedrich Doblhoff consulted for McDonnell on this tip-jet compound rotorcraft after his post-war emigration to the U.S. Establishes prior art for: (1) tip-jet rotor compound rotorcraft at production-prototype scale in U.S., (2) the rotor-powered-in-hover, rotor-autorotates-in-cruise mode-shutdown transition for compound rotorcraft. Comprehensively in the public domain. Together with doblhoff-wnf-342 (1943), fairey-rotodyne (1957), hughes-xh-17 (1952), mil-v-7-tarakan (1957), fairey-gyrodyne (1947), comprehensively places tip-jet compound rotorcraft architecture in cross-national 1943-1957 prior art.
+
+**Sources:**
+
+1. U.S. Air Force / U.S. Army XV-1 program reports.
+2. NASA Technical Memoranda on XV-1, 1950s-60s.
+3. McDonnell Aircraft Convertiplane program archives.
 
 ---
 
@@ -1099,4 +1183,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `transition-mode-shutdown`  
-**Entries:** 27 (27 commons-grade, 0 draft)  
-**Earliest disclosure:** 1959  
+**Entries:** 29 (29 commons-grade, 0 draft)  
+**Earliest disclosure:** 1954-02-11  
 **Most recent disclosure:** 2022-08
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1954-02-11 — McDonnell XV-1 Convertiplane
+
+- **id:** `mcdonnell-xv-1`
+- **corpus:** academic
+- **ip status:** public-domain
+- **creator:** McDonnell Aircraft / U.S. Air Force / U.S. Army / Friedrich Doblhoff (consulting)
+- **disclosure citation:** McDonnell XV-1 first flight 1954-02-11 at Lambert Field, St. Louis; first complete transition from helicopter to autorotation cruise 1955-04-29. A compound rotorcraft with tip-jet rotor drive in hover and a pusher propeller in cruise — McDonnell built it under contract with Friedrich Doblhoff (of Doblhoff WNF 342 fame) consulting after his post-war U.S. emigration. Documented in U.S. military test reports and NASA archives.
+- **disclosed subsystems:** `lift-compound-rotorcraft`, `lift-tip-jet-rotor`, `propulsion-tip-jet`, `transition-mode-shutdown`, `cert-military`
+
+**Prior art notes:**
+
+> The McDonnell XV-1 (1954) is the direct American successor to Doblhoff's WNF 342 (1943, DE/AT) — Friedrich Doblhoff consulted for McDonnell on this tip-jet compound rotorcraft after his post-war emigration to the U.S. Establishes prior art for: (1) tip-jet rotor compound rotorcraft at production-prototype scale in U.S., (2) the rotor-powered-in-hover, rotor-autorotates-in-cruise mode-shutdown transition for compound rotorcraft. Comprehensively in the public domain. Together with doblhoff-wnf-342 (1943), fairey-rotodyne (1957), hughes-xh-17 (1952), mil-v-7-tarakan (1957), fairey-gyrodyne (1947), comprehensively places tip-jet compound rotorcraft architecture in cross-national 1943-1957 prior art.
+
+**Sources:**
+
+1. U.S. Air Force / U.S. Army XV-1 program reports.
+2. NASA Technical Memoranda on XV-1, 1950s-60s.
+3. McDonnell Aircraft Convertiplane program archives.
+
+---
 
 ### 1959 — Vanguard Omniplane
 
@@ -441,6 +462,26 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2021-05-17 — Volocopter VoloRegion / VoloConnect
+
+- **id:** `volocopter-voloregion`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Volocopter GmbH
+- **disclosure citation:** Volocopter VoloConnect (later renamed VoloRegion) publicly unveiled 2021-05-17; first full-scale flight 2022-05. Lift+cruise variant of the Volocopter family — distinct from the multirotor VoloCity and the cargo VoloDrone. Documented in Volocopter materials and EASA SC-VTOL filings.
+- **disclosed subsystems:** `lift-distributed-electric-propulsion`, `transition-mode-shutdown`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `safety-redundant-bus`, `safety-ballistic-parachute`, `control-fly-by-wire-triplex`, `cert-easa-special-condition-vtol`, `airframe-composite-monocoque`, `autonomy-utm-integration`
+
+**Prior art notes:**
+
+> Volocopter VoloRegion / VoloConnect is the lift+cruise variant of the Volocopter family — Volocopter's pivot from pure-multirotor (VoloCity) to lift+cruise topology for regional range and higher cruise speed. Establishes prior art for: (1) lift+cruise variant shared across a multirotor platform's family, (2) Volocopter's platform extension into longer-range mission profiles. Together with volocopter-volocity (passenger multirotor), volocopter-volodrone (cargo multirotor), and volocopter-vc1 (foundational), comprehensively places the Volocopter platform family in prior art.
+
+**Sources:**
+
+1. Volocopter GmbH VoloRegion / VoloConnect technical materials and press releases 2021-2024.
+2. EASA SC-VTOL filings (Volocopter VoloRegion).
+
+---
+
 ### 2021-09 — Horizon Aircraft Cavorite X5
 
 - **id:** `horizon-aircraft-cavorite-x5`
@@ -614,4 +655,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

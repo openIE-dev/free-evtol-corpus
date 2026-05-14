@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-ducted-fan-array`  
-**Entries:** 16 (16 commons-grade, 0 draft)  
+**Entries:** 17 (17 commons-grade, 0 draft)  
 **Earliest disclosure:** 1959  
 **Most recent disclosure:** 2021-09
 
@@ -251,6 +251,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2017-04-20 — Lilium Phoenix 2
+
+- **id:** `lilium-phoenix-2`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Lilium GmbH
+- **disclosure citation:** Lilium GmbH (founded 2015 at TU Munich) unveiled the Phoenix 2 (a two-seat prototype eVTOL with 36 ducted electric fans) on 2017-04-20; first unmanned hover test 2017-04. The Phoenix 2 was the predecessor to the production Lilium Jet (5-seat, unveiled 2019); both used the embedded-tilting-ducted-fan-array architecture. Documented in Lilium materials and DLR / Bavarian aerospace press.
+- **disclosed subsystems:** `lift-ducted-fan-array`, `lift-distributed-electric-propulsion`, `transition-thrust-borne-to-wing-borne`, `transition-tilt-wing`, `propulsion-bldc-direct-drive`, `power-li-ion-pouch`, `cert-experimental`, `airframe-composite-monocoque`
+
+**Prior art notes:**
+
+> The Lilium Phoenix 2 (2017) is the predecessor disclosure of the Lilium ducted-fan-array eVTOL architecture — 36 embedded tilting electric ducted fans in a two-seat configuration. Establishes Lilium's own prior art for: (1) the foundational embedded-tilting-ducted-fan-array eVTOL configuration, (2) the architectural concept that the production 5-seat Lilium Jet (2019) refined. Lilium GmbH filed for insolvency 2024-10; its patent estate was auctioned and acquired by various successor entities; this commons-grade entry preserves the Phoenix 2 prior-art date independent of any post-bankruptcy successor claims. Useful for invalidity contention against any successor entity attempting to assert post-2017 patents on Lilium-architecture eVTOL.
+
+**Sources:**
+
+1. Lilium GmbH press releases and technical materials 2015-2024.
+2. Phoenix 2 unveiling materials, Munich 2017-04-20.
+3. TU Munich / DLR Bavarian aerospace press 2015-2024.
+
+---
+
 ### 2018-04 — Volansi VBAT
 
 - **id:** `volansi-vbat`
@@ -380,4 +401,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

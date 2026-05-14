@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `cert-part-27`  
-**Entries:** 2 (2 commons-grade, 0 draft)  
-**Earliest disclosure:** 1991-12-23  
+**Entries:** 3 (3 commons-grade, 0 draft)  
+**Earliest disclosure:** 1945-12-08  
 **Most recent disclosure:** 2012-04-01
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1945-12-08 — Bell Model 47
+
+- **id:** `bell-47`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Arthur Young / Bell Aircraft Corporation
+- **disclosure citation:** Bell Model 47 first flight 1945-12-08; received CAA Type Certificate H-1 on 1946-03-08 — the first helicopter in the world to receive a civil type certificate. Over 5,600 built 1946-1973; iconic 'goldfish-bowl' canopy. Used as the H-13 Sioux in U.S. military service 1947-1969; immortalized in the M*A*S*H TV series. Documented in CAA / FAA type certificate records and Bell company archives.
+- **disclosed subsystems:** `cert-part-27`
+
+**Prior art notes:**
+
+> Bell Model 47 (1946) is the first helicopter in the world to receive a civil type certificate (CAA TC H-1, 1946-03-08) — the foundational certified civil rotorcraft prior art and the production validation of Arthur Young's two-blade teetering rotor + stabilizer bar architecture (from bell-model-30 1942). Establishes prior art for: (1) certified civil helicopter operation, (2) Part 27-class rotorcraft type certification basis, (3) production scale deployment of the two-blade teetering rotor architecture. Arthur Young's 1940s-50s patents are long expired. Bell 47 / H-13 Sioux served extensively in Korea and Vietnam as a medevac helicopter, establishing the operational paradigm of small-helicopter rescue operations that the modern eVTOL air-ambulance market is targeting.
+
+**Sources:**
+
+1. CAA / FAA Type Certificate H-1 (Bell Model 47) records.
+2. Spenser, Jay P. Whirlybirds: A History of the U.S. Helicopter Pioneers. University of Washington Press, 1998.
+3. Bell Helicopter / Textron archives.
+
+---
 
 ### 1991-12-23 — Kaman K-MAX
 
@@ -91,4 +112,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

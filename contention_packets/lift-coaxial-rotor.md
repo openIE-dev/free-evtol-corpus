@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-14  
 **Cross-cut tag:** `lift-coaxial-rotor`  
-**Entries:** 40 (40 commons-grade, 0 draft)  
+**Entries:** 41 (41 commons-grade, 0 draft)  
 **Earliest disclosure:** 1861  
 **Most recent disclosure:** 2023-08-16
 
@@ -164,6 +164,27 @@ cite, copy, or redistribute these contentions.
 1. Flettner, Anton. Mein Weg zum Hubschrauber. Verlag der Luftfahrtforschung, 1949.
 2. Allied CIOS reports on Flettner Fl 282, post-1945.
 3. Smith and Kay. German Aircraft of the Second World War. Putnam, 1972.
+
+---
+
+### 1942-01-13 — Sikorsky R-4 Hoverfly
+
+- **id:** `sikorsky-r-4`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Igor Sikorsky / Vought-Sikorsky / U.S. Army Air Forces / Royal Navy / Royal Air Force
+- **disclosure citation:** Sikorsky R-4 (VS-316) first flight 1942-01-13 at Stratford CT; entered U.S. Army Air Forces service 1944 — the first production helicopter in history. ~131 produced 1942-1944, used operationally by U.S. forces and Royal Navy/Air Force in WWII (the first combat rescue by helicopter was an R-4 in Burma, April 1944). Documented in Sikorsky / U.S. military archives and Smithsonian collections.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> Sikorsky R-4 Hoverfly (1942) is the first production helicopter in history — the direct production successor to VS-300, validating the single-main-rotor + anti-torque-tail-rotor architecture at production scale. Establishes prior art for: (1) the canonical single-main-rotor helicopter architecture in production form, (2) the first operational combat use of a helicopter (Burma rescue 1944), (3) production validation of the Sikorsky helicopter design methodology that subsequent decades of helicopters followed. Sikorsky 1940s patents are long expired. Although not eVTOL, R-4 is foundational vertical-lift prior art that anticipates the entire production-helicopter lineage.
+
+**Sources:**
+
+1. Sikorsky Aircraft / Vought-Sikorsky R-4 program archives.
+2. U.S. Army Air Forces / Royal Navy R-4 operational records.
+3. Spenser, Jay P. Whirlybirds: A History of the U.S. Helicopter Pioneers. University of Washington Press, 1998.
 
 ---
 
@@ -882,4 +903,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `7ec5755`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*

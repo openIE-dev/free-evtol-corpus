@@ -1,13 +1,13 @@
 ---
 title: "lift-modular-docking"
 parent: "Invalidity Contentions"
-nav_order: 28
+nav_order: 29
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-modular-docking`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `lift-modular-docking`  
 **Entries:** 8 (8 commons-grade, 0 draft)  
 **Earliest disclosure:** 2010-05-03  
@@ -219,4 +219,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

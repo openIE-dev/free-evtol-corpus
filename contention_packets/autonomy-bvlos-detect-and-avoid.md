@@ -1,13 +1,13 @@
 ---
 title: "autonomy-bvlos-detect-and-avoid"
 parent: "Invalidity Contentions"
-nav_order: 4
+nav_order: 5
 layout: default
 ---
 
 # Invalidity Contention Packet — `autonomy-bvlos-detect-and-avoid`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `autonomy-bvlos-detect-and-avoid`  
 **Entries:** 12 (12 commons-grade, 0 draft)  
 **Earliest disclosure:** 2005  
@@ -303,4 +303,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

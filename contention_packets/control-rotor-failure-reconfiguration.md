@@ -1,13 +1,13 @@
 ---
 title: "control-rotor-failure-reconfiguration"
 parent: "Invalidity Contentions"
-nav_order: 18
+nav_order: 19
 layout: default
 ---
 
 # Invalidity Contention Packet — `control-rotor-failure-reconfiguration`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `control-rotor-failure-reconfiguration`  
 **Entries:** 21 (21 commons-grade, 0 draft)  
 **Earliest disclosure:** 1991-12-23  
@@ -487,4 +487,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

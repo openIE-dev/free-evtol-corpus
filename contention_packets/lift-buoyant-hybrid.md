@@ -1,13 +1,13 @@
 ---
 title: "lift-buoyant-hybrid"
 parent: "Invalidity Contentions"
-nav_order: 21
+nav_order: 22
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-buoyant-hybrid`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `lift-buoyant-hybrid`  
 **Entries:** 4 (4 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012  
@@ -134,4 +134,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

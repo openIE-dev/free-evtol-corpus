@@ -1,13 +1,13 @@
 ---
 title: "propulsion-tip-jet"
 parent: "Invalidity Contentions"
-nav_order: 41
+nav_order: 42
 layout: default
 ---
 
 # Invalidity Contention Packet — `propulsion-tip-jet`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `propulsion-tip-jet`  
 **Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 1943-05  
@@ -238,4 +238,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

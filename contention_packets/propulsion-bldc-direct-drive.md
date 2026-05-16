@@ -1,13 +1,13 @@
 ---
 title: "propulsion-bldc-direct-drive"
 parent: "Invalidity Contentions"
-nav_order: 38
+nav_order: 39
 layout: default
 ---
 
 # Invalidity Contention Packet — `propulsion-bldc-direct-drive`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `propulsion-bldc-direct-drive`  
 **Entries:** 64 (64 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-10-21  
@@ -1381,4 +1381,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

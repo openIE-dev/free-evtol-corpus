@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `sensing-radar-altimeter`
 
-**12 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 2003-03-06
+Earliest disclosure: 1975-09-30
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Boeing AH-64 Apache (1975-09-30)
+
+- **id**: `boeing-ah-64-apache`
+- **corpus**: academic
+- **creator**: Hughes Helicopters / McDonnell Douglas / Boeing / U.S. Army
+- **disclosure**: Hughes YAH-64 prototype first flight 1975-09-30; entered U.S. Army service as AH-64A in 1986. AH-64D Longbow first flight 1992-04-15; AH-64E Guardian 2010-10-26. Over 2,800 produced across all variants. Documented in Boeing / U.S. Army TM 1-1520-251 series and extensive published analysis.
+- **ip status**: patented
+- **prior art notes**: Boeing AH-64 Apache (1975) is the foundational production disclosure of the modern integrated attack-helicopter — combining advanced articulated main rotor, asymmetric-scissors tail rotor, integrated target acquisition / fire-control system, helmet-mounted slew-to-cue weapons, and (in AH-64D) mast-mounted millimeter-wave radar. Establishes prior art for: (1) asymmetric scissors tail-rotor configuration as an acoustic-signature reduction technique (later widely cited in eVTOL low-noise claims), (2) mast-mounted sensor pod above the rotor hub on a production rotorcraft (the Longbow), (3) helmet-mounted-display slew-to-cue weapon-system integration in rotorcraft, (4) integrated targeting/sensor turret slaved to a helmet-tracked head-aim. Hughes/Boeing 1975-1985 patents are long expired. Critical prior-art anchor for eVTOL acoustic-signature claims, mast-mounted sensor claims, and crew-station integration claims.
 
 ## Leonardo AW609 (2003-03-06)
 

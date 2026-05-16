@@ -1,13 +1,13 @@
 ---
 title: "power-li-po"
 parent: "Invalidity Contentions"
-nav_order: 36
+nav_order: 37
 layout: default
 ---
 
 # Invalidity Contention Packet — `power-li-po`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `power-li-po`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2011-10-21  
@@ -91,4 +91,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

@@ -1,13 +1,13 @@
 ---
 title: "power-solid-state"
 parent: "Invalidity Contentions"
-nav_order: 37
+nav_order: 38
 layout: default
 ---
 
 # Invalidity Contention Packet — `power-solid-state`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `power-solid-state`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 2021-09-14  
@@ -91,4 +91,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

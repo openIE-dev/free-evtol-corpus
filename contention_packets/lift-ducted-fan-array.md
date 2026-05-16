@@ -1,15 +1,15 @@
 ---
 title: "lift-ducted-fan-array"
 parent: "Invalidity Contentions"
-nav_order: 27
+nav_order: 28
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-ducted-fan-array`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `lift-ducted-fan-array`  
-**Entries:** 17 (17 commons-grade, 0 draft)  
+**Entries:** 18 (18 commons-grade, 0 draft)  
 **Earliest disclosure:** 1959  
 **Most recent disclosure:** 2021-09
 
@@ -102,6 +102,27 @@ cite, copy, or redistribute these contentions.
 1. NASA TN D-7095, 'Flight Test Results of the X-22A V/STOL Aircraft,' 1972.
 2. Bell Aerospace / Textron X-22 program archives.
 3. Markman and Holder. Straight Up. Schiffer, 2000.
+
+---
+
+### 1967-04-07 — Aérospatiale SA 341/342 Gazelle
+
+- **id:** `aerospatiale-sa-341-gazelle`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Sud Aviation / Aérospatiale (now Airbus Helicopters) / Westland Helicopters
+- **disclosure citation:** Sud Aviation SA 340 prototype first flight 1967-04-07 (with a conventional tail rotor); SA 341 Gazelle production prototype with fenestron first flight 1968-04-12; entered French Army (ALAT) service 1971, British Army Air Corps service 1973. ~1,775 produced. The fenestron was first patented by Sud Aviation engineer Paul Fabre in the mid-1960s. Documented in Aérospatiale / Eurocopter technical publications and U.S. Army Foreign Aircraft technical reports.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-fenestron`, `lift-ducted-fan-array`, `cert-part-27`, `cert-military`
+
+**Prior art notes:**
+
+> Aérospatiale SA 341 Gazelle (1967) is the foundational disclosure of the fenestron (ducted-fan anti-torque) system in a production helicopter. Establishes prior art for: (1) ducted-fan-in-fin anti-torque architecture in place of an exposed tail rotor — a critical prior-art anchor for any modern eVTOL claim invoking 'ducted-fan tail rotor', 'shrouded anti-torque', or 'integrated fan-in-fin yaw control', (2) noise reduction and ground-strike-hazard reduction as design drivers for shrouded anti-torque, (3) shroud-aerodynamic lift contribution to anti-torque thrust (the duct itself carries ~30-50% of the total side-force). Sud Aviation/Aérospatiale fenestron patents are long expired. The fenestron is the canonical prior-art reference for all ducted anti-torque rotorcraft and anticipates the same architecture used in many modern eVTOL configurations.
+
+**Sources:**
+
+1. Aérospatiale SA 341/342 Gazelle technical description, Aérospatiale Hélicoptères, 1972.
+2. Vuillet, A. and F. Morelli. New Aerodynamic Design of the Fenestron for Improved Performance. 12th European Rotorcraft Forum, 1986.
+3. Mowforth, E. (ed.) Westland Gazelle: Britain's Workhorse Light Helicopter. Crécy, 2002.
 
 ---
 
@@ -401,4 +422,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

@@ -1,6 +1,6 @@
 # Corpus Index
 
-262 entries total. Generated from corpus.jsonl.
+277 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -27,6 +27,9 @@
 | AutoFlight Prosperity I | `autoflight-prosperity-i` | 2021 | private | patented |  |
 | Avrocar VZ-9 | `avrocar-vz-9` | 1958 | academic | public-domain |  |
 | Axiom hover-chairs (WALL-E) | `walle-axiom-hoverchair` | 2008 | fictional | fictional |  |
+| Aérospatiale SA 341/342 Gazelle | `aerospatiale-sa-341-gazelle` | 1967 | academic | patented |  |
+| Bell 206 JetRanger / LongRanger | `bell-206-jetranger` | 1962 | academic | patented |  |
+| Bell AH-1 Cobra / SuperCobra / Viper | `bell-ah-1-cobra` | 1965 | academic | patented |  |
 | Bell APT (Autonomous Pod Transport) | `bell-apt` | 2018 | private | patented |  |
 | Bell ATV (Air Test Vehicle) | `bell-atv` | 1954 | academic | public-domain |  |
 | Bell Eagle Eye TR918 | `bell-eagle-eye` | 2003 | private | patented |  |
@@ -34,6 +37,7 @@
 | Bell Model 47 | `bell-47` | 1945 | private | patented |  |
 | Bell Nexus 4EX | `bell-nexus-4ex` | 2019 | private | patented |  |
 | Bell Rocket Belt | `bell-rocket-belt` | 1961 | private | patented |  |
+| Bell UH-1 Iroquois (Huey) | `bell-uh-1-iroquois` | 1956 | academic | patented |  |
 | Bell V-280 Valor | `bell-v-280-valor` | 2017 | private | patented |  |
 | Bell X-14 | `bell-x-14` | 1957 | academic | public-domain |  |
 | Bell X-22A | `bell-x-22` | 1966 | academic | public-domain |  |
@@ -44,6 +48,8 @@
 | Beta Technologies Alia-250 | `beta-alia-250` | 2020 | private | patented |  |
 | Beta Technologies CX300 | `beta-cx300` | 2024 | private | patented |  |
 | Bitcraze Crazyflie | `bitcraze-crazyflie` | 2013 | open | open-permissive |  |
+| Boeing AH-64 Apache | `boeing-ah-64-apache` | 1975 | academic | patented |  |
+| Boeing CH-47 Chinook | `boeing-ch-47-chinook` | 1961 | academic | patented |  |
 | Boeing Phantom Swift | `boeing-phantom-swift` | 2013 | academic | patented |  |
 | Boeing-Vertol VZ-2 | `boeing-vertol-vz-2` | 1957 | academic | public-domain |  |
 | Breguet-Richet Gyroplane No.1 | `breguet-richet-gyroplane` | 1907 | academic | public-domain |  |
@@ -126,6 +132,7 @@
 | Hoverboard and flying DeLorean (Back to the Future Part II) | `bttf-2-hoverboard` | 1989 | fictional | fictional |  |
 | Hoversurf Scorpion-3 | `hoversurf-s3` | 2017 | private | patented |  |
 | Hughes XH-17 Flying Crane | `hughes-xh-17` | 1952 | academic | public-domain |  |
+| Hughes/MD 500 (and MD 520N NOTAR) | `md-500-defender` | 1963 | academic | patented |  |
 | Hybrid Air Vehicles Airlander 10 | `hybrid-air-vehicles-airlander-10` | 2012 | private | patented |  |
 | Hyundai Supernal S-A2 | `hyundai-supernal-sa2` | 2024 | private | patented |  |
 | Imperial and Foundation flying craft (Foundation, Apple TV+) | `foundation-flying-craft` | 2021 | fictional | fictional |  |
@@ -142,6 +149,7 @@
 | Kaman K-MAX | `kaman-k-max` | 1991 | private | patented |  |
 | Kamov Ka-22 Vintokryl | `kamov-ka-22-vintokryl` | 1959 | academic | public-domain |  |
 | Kamov Ka-26 Hoodlum | `kamov-ka-26` | 1965 | academic | public-domain |  |
+| Kamov Ka-50 Black Shark / Ka-52 Alligator | `kamov-ka-50-ka-52` | 1982 | academic | patented |  |
 | Karem AR40 / Optimum Speed Tilt-Rotor | `karem-ar40` | 2008 | private | patented |  |
 | Kirsten-Boeing cyclogiro | `kirsten-boeing-cyclogiro` | 1922 | academic | patented |  |
 | Kitty Hawk Heaviside | `kittyhawk-heaviside` | 2019 | private | patented |  |
@@ -166,10 +174,14 @@
 | Manna Air Delivery drone | `manna-air-delivery` | 2020 | private | patented |  |
 | Manta Aircraft ANN2 | `manta-aircraft-ann2` | 2020 | private | patented |  |
 | Martin Aircraft Jetpack | `martin-aircraft-jetpack` | 2008 | private | patented |  |
+| MBB Bo 105 | `mbb-bo-105` | 1967 | academic | patented |  |
 | McDonnell Douglas / BAe AV-8B Harrier II | `av-8b-harrier-ii` | 1978 | private | patented |  |
 | McDonnell XV-1 Convertiplane | `mcdonnell-xv-1` | 1954 | academic | public-domain |  |
 | MCRN Drop Ship / UNN Marine Drop Ship (The Expanse) | `expanse-drop-ship` | 2015 | fictional | fictional |  |
+| Mil Mi-24 Hind | `mil-mi-24-hind` | 1969 | academic | patented |  |
+| Mil Mi-26 Halo | `mil-mi-26-halo` | 1977 | academic | patented |  |
 | Mil Mi-30 | `mil-mi-30` | 1985 | academic | public-domain |  |
+| Mil Mi-8 / Mi-17 (Hip) | `mil-mi-8-hip` | 1961 | academic | patented |  |
 | Mil V-12 (Mi-12) | `mil-v-12` | 1968 | academic | public-domain |  |
 | Mil V-7 Tarakan | `mil-v-7-tarakan` | 1957 | academic | public-domain |  |
 | Military VTOL craft (Akira) | `akira-flying-craft` | 1988 | fictional | fictional |  |
@@ -210,10 +222,12 @@
 | Schiebel Camcopter S-100 | `schiebel-camcopter-s-100` | 2005 | private | patented |  |
 | Section 9 Tilt-Rotor (Ghost in the Shell) | `ghost-in-the-shell-tiltrotor` | 1989 | fictional | fictional |  |
 | Short SC.1 | `short-sc-1` | 1957 | academic | public-domain |  |
+| Sikorsky CH-53K King Stallion | `sikorsky-ch-53k-king-stallion` | 2015 | private | patented |  |
 | Sikorsky Cypher | `sikorsky-cypher` | 1995 | private | patented |  |
 | Sikorsky R-4 Hoverfly | `sikorsky-r-4` | 1942 | academic | patented |  |
 | Sikorsky S-72 RSRA | `sikorsky-s-72-rsra` | 1976 | academic | public-domain |  |
 | Sikorsky S-97 Raider | `sikorsky-s-97-raider` | 2015 | private | patented |  |
+| Sikorsky UH-60 Black Hawk / S-70 | `sikorsky-uh-60-black-hawk` | 1974 | academic | patented |  |
 | Sikorsky VS-300 | `sikorsky-vs-300` | 1939 | academic | patented |  |
 | Sikorsky-Boeing SB>1 Defiant | `sikorsky-boeing-defiant` | 2019 | private | patented |  |
 | Sikorsky/DARPA X-Wing | `sikorsky-x-wing` | 1986 | academic | public-domain |  |
@@ -253,6 +267,7 @@
 | Volocopter VoloDrone | `volocopter-volodrone` | 2019 | private | patented |  |
 | Volocopter VoloRegion / VoloConnect | `volocopter-voloregion` | 2021 | private | patented |  |
 | Waterman Arrowbile / Aerobile | `waterman-aerobile` | 1937 | academic | public-domain |  |
+| Westland Lynx | `westland-lynx` | 1971 | academic | patented |  |
 | Westland Westminster | `westland-westminster` | 1958 | academic | public-domain |  |
 | Wigetworks AirFish 8 | `wigetworks-airfish-8` | 2010 | private | patented |  |
 | Williams X-Jet | `williams-x-jet` | 1982 | private | patented |  |

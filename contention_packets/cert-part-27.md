@@ -1,15 +1,15 @@
 ---
 title: "cert-part-27"
 parent: "Invalidity Contentions"
-nav_order: 13
+nav_order: 14
 layout: default
 ---
 
 # Invalidity Contention Packet — `cert-part-27`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `cert-part-27`  
-**Entries:** 3 (3 commons-grade, 0 draft)  
+**Entries:** 7 (7 commons-grade, 0 draft)  
 **Earliest disclosure:** 1945-12-08  
 **Most recent disclosure:** 2012-04-01
 
@@ -63,6 +63,91 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1962-12-08 — Bell 206 JetRanger / LongRanger
+
+- **id:** `bell-206-jetranger`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Bell Helicopter / Bell Textron / U.S. Army
+- **disclosure citation:** Bell Model 206A JetRanger first flight 1962-12-08 (as YOH-4A Sioux Scout); civil JetRanger redesign first flight 1966-01-10, FAA type-certificated 1966-10-20. OH-58A Kiowa entered U.S. Army service 1969; LongRanger 1974; 206L-4 still in production through Bell's restart. ~7,300 produced across all variants. Documented in Bell Helicopter / Bell Textron type certificate data sheets and U.S. Army TM 55-1520-228 series.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-semi-rigid-teetering`, `anti-torque-tail-rotor`, `cert-part-27`, `cert-military`
+
+**Prior art notes:**
+
+> Bell 206 JetRanger (1962) is the foundational disclosure of the production single-turbine light-helicopter configuration that became the workhorse of civil and military light-rotorcraft operations for six decades. Establishes prior art for: (1) production single-turbine + single-tail-rotor light-helicopter architecture under 1,500 kg MTOW, (2) Bell two-blade semi-rigid teetering main rotor scaled down to light-helicopter category, (3) the canonical Part 27 small-helicopter design baseline. Bell teetering-rotor patents are long expired. With 7,300+ produced over six decades, the 206 family establishes the production-scale civil-certification path that modern Part 27 eVTOL must engage with.
+
+**Sources:**
+
+1. Bell Helicopter Model 206 type certificate H2SW (FAA), Bell type certificate data sheet.
+2. Spenser, Jay P. Whirlybirds: A History of the U.S. Helicopter Pioneers. University of Washington Press, 1998.
+3. Pelletier, Alain J. Bell Aircraft Since 1935. Naval Institute Press, 1992.
+
+---
+
+### 1963-02-27 — Hughes/MD 500 (and MD 520N NOTAR)
+
+- **id:** `md-500-defender`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Hughes Helicopters / McDonnell Douglas Helicopter Systems / MD Helicopters
+- **disclosure citation:** Hughes 369 (OH-6 Cayuse) first flight 1963-02-27, entered U.S. Army service 1966. Civil/export derivatives Hughes 500 / MD 500 produced under license worldwide. The NOTAR (No Tail Rotor) variant MD 520N first flight 1989-05-01, FAA certified 1991-09-13 — the first and (with the MD 600N) the only NOTAR helicopter to reach civil certification and production. Documented in Hughes / McDonnell Douglas / MD Helicopters technical manuals and U.S. Army TM 55-1520-214 series.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `anti-torque-tail-rotor`, `anti-torque-notar`, `cert-part-27`, `cert-military`
+
+**Prior art notes:**
+
+> Hughes/MD 500 (1963) plus MD 520N NOTAR (1989) is the foundational disclosure of (a) the lightweight five-blade-main-rotor light-utility helicopter and (b) circulation-control / Coanda-effect anti-torque without a tail rotor at production scale. Establishes prior art for: (1) NOTAR circulation-controlled anti-torque architecture in a certified production helicopter — a critical prior-art anchor for any modern eVTOL claim invoking 'tail-rotor-replaced-by-blown-tail-boom', circulation-control anti-torque, Coanda-effect yaw control, or any 'tailless' yaw architecture using boom-blowing, (2) thrust-vectoring nozzle at the boom tip for fine yaw trim and directional control, (3) noise reduction and ground-handling safety as design drivers for eliminating the tail rotor. McDonnell Douglas NOTAR patents (US 4,200,252 and successors) are long expired. NOTAR is the canonical prior-art reference for circulation-controlled rotorcraft anti-torque and is essential anticipation of multiple modern eVTOL anti-torque claims.
+
+**Sources:**
+
+1. MD Helicopters MD 500 / MD 520N / MD 600N type certificate data sheet and flight manuals.
+2. McDonnell Douglas Helicopter Systems. NOTAR Anti-Torque System Technical Description. 1991.
+3. U.S. Army TM 55-1520-214 series (OH-6 Cayuse maintenance manuals).
+4. Sampatacos, E.P. et al. NOTAR Fundamentals: A Study of Circulation-Control Aerodynamics. AHS Forum, 1983.
+
+---
+
+### 1967-02-16 — MBB Bo 105
+
+- **id:** `mbb-bo-105`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Bölkow / Messerschmitt-Bölkow-Blohm (MBB) (now Airbus Helicopters)
+- **disclosure citation:** MBB Bo 105 V1 prototype first flight 1967-02-16 with a hingeless main rotor; production Bo 105 entered service 1970. ~1,400 produced through 2001. The first production helicopter in the world with a hingeless main rotor — extensively documented in MBB / Eurocopter / Airbus Helicopters technical publications, in the AHS Journal, and in West German Bundeswehr (PAH-1 anti-tank variant) records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-hingeless`, `anti-torque-tail-rotor`, `cert-part-27`, `cert-military`
+
+**Prior art notes:**
+
+> MBB Bo 105 (1967) is the foundational disclosure of the production hingeless main rotor in a certified rotorcraft. Establishes prior art for: (1) hingeless titanium-hub main rotor — blades bolted rigidly to the hub, flapping/lead-lag accommodated by elastic root deformation; the foundation of all subsequent 'rigid' and 'bearingless' rotor systems, (2) full-aerobatic-envelope rotorcraft including sustained negative-g and inverted flight under power (the Bo 105 was famously aerobatic), (3) elastomeric pitch bearings in place of conventional lubricated bearings (reduced maintenance). MBB hingeless-rotor patents are long expired. The hingeless rotor is the direct ancestor of the bearingless rotors on the EC135/EC145/H135/H145 family and is the canonical prior-art reference for any modern eVTOL claim invoking 'rigid main rotor', 'hingeless rotor hub', or 'flexbeam rotor' architectures.
+
+**Sources:**
+
+1. MBB Bo 105 type-certificate data sheet (LBA / FAA).
+2. Reichert, G. Hingeless Rotor Technology — A New Way for Helicopters. AHS Journal, 1973.
+3. Eurocopter / Airbus Helicopters Bo 105 service publications.
+
+---
+
+### 1967-04-07 — Aérospatiale SA 341/342 Gazelle
+
+- **id:** `aerospatiale-sa-341-gazelle`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Sud Aviation / Aérospatiale (now Airbus Helicopters) / Westland Helicopters
+- **disclosure citation:** Sud Aviation SA 340 prototype first flight 1967-04-07 (with a conventional tail rotor); SA 341 Gazelle production prototype with fenestron first flight 1968-04-12; entered French Army (ALAT) service 1971, British Army Air Corps service 1973. ~1,775 produced. The fenestron was first patented by Sud Aviation engineer Paul Fabre in the mid-1960s. Documented in Aérospatiale / Eurocopter technical publications and U.S. Army Foreign Aircraft technical reports.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-fenestron`, `lift-ducted-fan-array`, `cert-part-27`, `cert-military`
+
+**Prior art notes:**
+
+> Aérospatiale SA 341 Gazelle (1967) is the foundational disclosure of the fenestron (ducted-fan anti-torque) system in a production helicopter. Establishes prior art for: (1) ducted-fan-in-fin anti-torque architecture in place of an exposed tail rotor — a critical prior-art anchor for any modern eVTOL claim invoking 'ducted-fan tail rotor', 'shrouded anti-torque', or 'integrated fan-in-fin yaw control', (2) noise reduction and ground-strike-hazard reduction as design drivers for shrouded anti-torque, (3) shroud-aerodynamic lift contribution to anti-torque thrust (the duct itself carries ~30-50% of the total side-force). Sud Aviation/Aérospatiale fenestron patents are long expired. The fenestron is the canonical prior-art reference for all ducted anti-torque rotorcraft and anticipates the same architecture used in many modern eVTOL configurations.
+
+**Sources:**
+
+1. Aérospatiale SA 341/342 Gazelle technical description, Aérospatiale Hélicoptères, 1972.
+2. Vuillet, A. and F. Morelli. New Aerodynamic Design of the Fenestron for Improved Performance. 12th European Rotorcraft Forum, 1986.
+3. Mowforth, E. (ed.) Westland Gazelle: Britain's Workhorse Light Helicopter. Crécy, 2002.
+
+---
+
 ### 1991-12-23 — Kaman K-MAX
 
 - **id:** `kaman-k-max`
@@ -112,4 +197,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

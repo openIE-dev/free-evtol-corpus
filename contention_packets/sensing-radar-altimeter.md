@@ -1,16 +1,16 @@
 ---
 title: "sensing-radar-altimeter"
 parent: "Invalidity Contentions"
-nav_order: 45
+nav_order: 49
 layout: default
 ---
 
 # Invalidity Contention Packet — `sensing-radar-altimeter`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `sensing-radar-altimeter`  
-**Entries:** 12 (12 commons-grade, 0 draft)  
-**Earliest disclosure:** 2003-03-06  
+**Entries:** 13 (13 commons-grade, 0 draft)  
+**Earliest disclosure:** 1975-09-30  
 **Most recent disclosure:** 2024-01-09
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1975-09-30 — Boeing AH-64 Apache
+
+- **id:** `boeing-ah-64-apache`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Hughes Helicopters / McDonnell Douglas / Boeing / U.S. Army
+- **disclosure citation:** Hughes YAH-64 prototype first flight 1975-09-30; entered U.S. Army service as AH-64A in 1986. AH-64D Longbow first flight 1992-04-15; AH-64E Guardian 2010-10-26. Over 2,800 produced across all variants. Documented in Boeing / U.S. Army TM 1-1520-251 series and extensive published analysis.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `sensing-radar-altimeter`, `cert-military`
+
+**Prior art notes:**
+
+> Boeing AH-64 Apache (1975) is the foundational production disclosure of the modern integrated attack-helicopter — combining advanced articulated main rotor, asymmetric-scissors tail rotor, integrated target acquisition / fire-control system, helmet-mounted slew-to-cue weapons, and (in AH-64D) mast-mounted millimeter-wave radar. Establishes prior art for: (1) asymmetric scissors tail-rotor configuration as an acoustic-signature reduction technique (later widely cited in eVTOL low-noise claims), (2) mast-mounted sensor pod above the rotor hub on a production rotorcraft (the Longbow), (3) helmet-mounted-display slew-to-cue weapon-system integration in rotorcraft, (4) integrated targeting/sensor turret slaved to a helmet-tracked head-aim. Hughes/Boeing 1975-1985 patents are long expired. Critical prior-art anchor for eVTOL acoustic-signature claims, mast-mounted sensor claims, and crew-station integration claims.
+
+**Sources:**
+
+1. Boeing AH-64 Apache service publications and Apache Pilots' Handbook.
+2. U.S. Army TM 1-1520-251 / TM 1-1520-238 AH-64 technical manuals.
+3. Jenkins, Dennis R. Boeing Aircraft Since 1916. Putnam, 1989.
+
+---
 
 ### 2003-03-06 — Leonardo AW609
 
@@ -302,4 +323,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

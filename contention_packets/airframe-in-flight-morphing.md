@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `airframe-in-flight-morphing`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `airframe-in-flight-morphing`  
 **Entries:** 3 (3 commons-grade, 0 draft)  
 **Earliest disclosure:** 2017-08  
@@ -111,4 +111,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

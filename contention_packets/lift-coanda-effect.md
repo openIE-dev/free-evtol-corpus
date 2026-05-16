@@ -1,13 +1,13 @@
 ---
 title: "lift-coanda-effect"
 parent: "Invalidity Contentions"
-nav_order: 22
+nav_order: 23
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-coanda-effect`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `lift-coanda-effect`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1945-02  
@@ -92,4 +92,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

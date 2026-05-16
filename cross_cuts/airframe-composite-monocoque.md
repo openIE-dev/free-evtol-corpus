@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `airframe-composite-monocoque`
 
-**66 corpus entries disclose this subsystem.**
+**67 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1978-11-09
 
@@ -68,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Joby S2 design publicly disclosed by JoeBen Bevirt and Joby Aviation August 2015 (technical white paper and Vertical Flight Society Forum presentation); first untethered transition flight 2017-08. The single-pilot predecessor that established Joby Aviation's six-rotor tilt-rotor architecture later scaled up for the S4 production design. Documented in Joby technical white papers and AHS/VFS Forum presentations 2015-2018.
 - **ip status**: patented
 - **prior art notes**: Joby Aviation's S2 (2015) is the architectural prototype for Joby's six-tilt-rotor distributed-electric-propulsion eVTOL — establishing the 4-wing + 2-stabilator tilt-rotor configuration two years before the public S4 unveil (joby-s4, 2018) and anchoring the Joby Aviation patent estate priority chain. The 2015 disclosure makes Joby's architectural choices public prior art before any patent dates that depend on the S4 disclosure date. Important for invalidity-contention purposes: any Joby patent claiming priority later than 2015 against S2-disclosed elements has prior art from Joby's own earlier disclosure.
+
+## Sikorsky CH-53K King Stallion (2015-10-27)
+
+- **id**: `sikorsky-ch-53k-king-stallion`
+- **corpus**: private
+- **creator**: Sikorsky Aircraft / Lockheed Martin / U.S. Marine Corps
+- **disclosure**: Sikorsky CH-53K Engineering Development Model 1 first flight 2015-10-27 at Sikorsky's West Palm Beach test facility; entered U.S. Marine Corps service 2022; full operational capability targeted 2029. Sikorsky publicly discloses the seven-blade composite rotor, triplex fly-by-wire controls, and composite airframe construction in U.S. Navy / Marine Corps program documentation and at AHS Forum / Vertical Flight Society technical conferences.
+- **ip status**: patented
+- **prior art notes**: Sikorsky CH-53K King Stallion (2015) is the foundational production disclosure of the seven-blade composite main rotor with triplex fly-by-wire controls in a heavy-lift helicopter. Establishes prior art for: (1) seven-blade composite carbon-fiber main rotor in production at >30-ton MTOW, (2) triplex fly-by-wire flight controls on a heavy-lift production rotorcraft — directly relevant to any eVTOL invoking fly-by-wire triplex flight controls, (3) elastomeric main-rotor-head bearings at heavy-lift scale, (4) composite airframe monocoque at heavy-lift scale. Sikorsky's CH-53K patents are recent and partially active, but the disclosed-and-published architecture is comprehensive prior art for the configuration as a whole. Critical anticipation of any heavy-lift eVTOL claim invoking 'composite rotor blade construction', 'triplex FBW', or 'composite airframe at heavy-lift scale'.
 
 ## Orb Aerospace Nomad (2017)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-ducted-fan-array`
 
-**17 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1959
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bell X-22A first flight 1966-03-17 at Niagara Falls; first transition from hover to cruise 1966-08-22. NASA, Air Force, and Navy joint test reports widely available.
 - **ip status**: public-domain
 - **prior art notes**: The X-22A is the most thoroughly tested tilt-duct VTOL aircraft. Establishes prior art for: (1) four-corner tilt-duct architecture, (2) ducted fans as primary lift with cross-shafted multi-engine drive, (3) variable-stability flight research providing 800+ flight hours of transition envelope data published in NASA reports. The X-22's combination of tilt and ducting anticipates modern ducted-fan-array concepts (Lilium Jet's 36 ducted fans is a multiplicity extension of this 4-fan arrangement). Combined with Doak VZ-4 (1958), places tilt-duct architectures comprehensively in the public domain by 1966.
+
+## Aérospatiale SA 341/342 Gazelle (1967-04-07)
+
+- **id**: `aerospatiale-sa-341-gazelle`
+- **corpus**: academic
+- **creator**: Sud Aviation / Aérospatiale (now Airbus Helicopters) / Westland Helicopters
+- **disclosure**: Sud Aviation SA 340 prototype first flight 1967-04-07 (with a conventional tail rotor); SA 341 Gazelle production prototype with fenestron first flight 1968-04-12; entered French Army (ALAT) service 1971, British Army Air Corps service 1973. ~1,775 produced. The fenestron was first patented by Sud Aviation engineer Paul Fabre in the mid-1960s. Documented in Aérospatiale / Eurocopter technical publications and U.S. Army Foreign Aircraft technical reports.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale SA 341 Gazelle (1967) is the foundational disclosure of the fenestron (ducted-fan anti-torque) system in a production helicopter. Establishes prior art for: (1) ducted-fan-in-fin anti-torque architecture in place of an exposed tail rotor — a critical prior-art anchor for any modern eVTOL claim invoking 'ducted-fan tail rotor', 'shrouded anti-torque', or 'integrated fan-in-fin yaw control', (2) noise reduction and ground-strike-hazard reduction as design drivers for shrouded anti-torque, (3) shroud-aerodynamic lift contribution to anti-torque thrust (the duct itself carries ~30-50% of the total side-force). Sud Aviation/Aérospatiale fenestron patents are long expired. The fenestron is the canonical prior-art reference for all ducted anti-torque rotorcraft and anticipates the same architecture used in many modern eVTOL configurations.
 
 ## Tolmekian Gunship (Nausicaä of the Valley of the Wind) (1984-03-11)
 

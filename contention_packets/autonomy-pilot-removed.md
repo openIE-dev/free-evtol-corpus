@@ -1,13 +1,13 @@
 ---
 title: "autonomy-pilot-removed"
 parent: "Invalidity Contentions"
-nav_order: 5
+nav_order: 6
 layout: default
 ---
 
 # Invalidity Contention Packet — `autonomy-pilot-removed`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `autonomy-pilot-removed`  
 **Entries:** 32 (32 commons-grade, 0 draft)  
 **Earliest disclosure:** 1990  
@@ -718,4 +718,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `airframe-composite-monocoque`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `airframe-composite-monocoque`  
-**Entries:** 66 (66 commons-grade, 0 draft)  
+**Entries:** 67 (67 commons-grade, 0 draft)  
 **Earliest disclosure:** 1978-11-09  
 **Most recent disclosure:** 2024-04-04
 
@@ -166,6 +166,27 @@ cite, copy, or redistribute these contentions.
 1. Bevirt, JoeBen et al. Joby S2 technical white paper, 2015.
 2. Joby Aviation S-1 SEC filing 2020 (history section).
 3. Vertical Flight Society Forum technical papers from Joby engineering 2015-2018.
+
+---
+
+### 2015-10-27 — Sikorsky CH-53K King Stallion
+
+- **id:** `sikorsky-ch-53k-king-stallion`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sikorsky Aircraft / Lockheed Martin / U.S. Marine Corps
+- **disclosure citation:** Sikorsky CH-53K Engineering Development Model 1 first flight 2015-10-27 at Sikorsky's West Palm Beach test facility; entered U.S. Marine Corps service 2022; full operational capability targeted 2029. Sikorsky publicly discloses the seven-blade composite rotor, triplex fly-by-wire controls, and composite airframe construction in U.S. Navy / Marine Corps program documentation and at AHS Forum / Vertical Flight Society technical conferences.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-military`
+
+**Prior art notes:**
+
+> Sikorsky CH-53K King Stallion (2015) is the foundational production disclosure of the seven-blade composite main rotor with triplex fly-by-wire controls in a heavy-lift helicopter. Establishes prior art for: (1) seven-blade composite carbon-fiber main rotor in production at >30-ton MTOW, (2) triplex fly-by-wire flight controls on a heavy-lift production rotorcraft — directly relevant to any eVTOL invoking fly-by-wire triplex flight controls, (3) elastomeric main-rotor-head bearings at heavy-lift scale, (4) composite airframe monocoque at heavy-lift scale. Sikorsky's CH-53K patents are recent and partially active, but the disclosed-and-published architecture is comprehensive prior art for the configuration as a whole. Critical anticipation of any heavy-lift eVTOL claim invoking 'composite rotor blade construction', 'triplex FBW', or 'composite airframe at heavy-lift scale'.
+
+**Sources:**
+
+1. Sikorsky Aircraft CH-53K King Stallion technical publications (Sikorsky press releases, 2015-2023).
+2. Naval Air Systems Command CH-53K program of record documentation.
+3. Vertical Flight Society / AHS Forum technical papers on CH-53K rotor and FBW system.
 
 ---
 
@@ -1427,4 +1448,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

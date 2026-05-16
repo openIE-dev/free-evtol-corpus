@@ -351,6 +351,7 @@
       ],
       "descendants": [
         "flettner-fl-282-kolibri",
+        "mbb-bo-105",
         "mil-v-12",
         "sikorsky-vs-300"
       ]
@@ -408,7 +409,13 @@
       "ancestors": [
         "sikorsky-vs-300"
       ],
-      "descendants": []
+      "descendants": [
+        "bell-uh-1-iroquois",
+        "mbb-bo-105",
+        "md-500-defender",
+        "mil-mi-8-hip",
+        "sikorsky-uh-60-black-hawk"
+      ]
     },
     {
       "id": "hafner-rotachute-rotabuggy",
@@ -431,7 +438,8 @@
         "sikorsky-vs-300"
       ],
       "descendants": [
-        "bell-47"
+        "bell-47",
+        "bell-uh-1-iroquois"
       ]
     },
     {
@@ -487,6 +495,7 @@
         "de-bothezat-quadrotor"
       ],
       "descendants": [
+        "boeing-ch-47-chinook",
         "bristol-belvedere",
         "yak-24"
       ]
@@ -499,7 +508,10 @@
       "ancestors": [
         "bell-model-30"
       ],
-      "descendants": []
+      "descendants": [
+        "bell-206-jetranger",
+        "bell-uh-1-iroquois"
+      ]
     },
     {
       "id": "fulton-airphibian",
@@ -728,6 +740,21 @@
       ]
     },
     {
+      "id": "bell-uh-1-iroquois",
+      "name": "Bell UH-1 Iroquois (Huey)",
+      "year": "1956",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-47",
+        "bell-model-30",
+        "sikorsky-r-4"
+      ],
+      "descendants": [
+        "bell-206-jetranger",
+        "bell-ah-1-cobra"
+      ]
+    },
+    {
       "id": "bell-x-14",
       "name": "Bell X-14",
       "year": "1957",
@@ -941,6 +968,7 @@
       "descendants": [
         "bell-xv-15",
         "bell-xv-3",
+        "kamov-ka-50-ka-52",
         "mil-mi-30"
       ]
     },
@@ -996,6 +1024,29 @@
       ]
     },
     {
+      "id": "mil-mi-8-hip",
+      "name": "Mil Mi-8 / Mi-17 (Hip)",
+      "year": "1961",
+      "corpus": "academic",
+      "ancestors": [
+        "sikorsky-r-4"
+      ],
+      "descendants": [
+        "mil-mi-24-hind",
+        "mil-mi-26-halo"
+      ]
+    },
+    {
+      "id": "boeing-ch-47-chinook",
+      "name": "Boeing CH-47 Chinook",
+      "year": "1961",
+      "corpus": "academic",
+      "ancestors": [
+        "piasecki-h-21"
+      ],
+      "descendants": []
+    },
+    {
       "id": "lockheed-xv-4-hummingbird",
       "name": "Lockheed XV-4 Hummingbird",
       "year": "1962",
@@ -1031,6 +1082,27 @@
         "total-recall-hover-cab",
         "xpeng-aeroht-modular"
       ]
+    },
+    {
+      "id": "bell-206-jetranger",
+      "name": "Bell 206 JetRanger / LongRanger",
+      "year": "1962",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-47",
+        "bell-uh-1-iroquois"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "md-500-defender",
+      "name": "Hughes/MD 500 (and MD 520N NOTAR)",
+      "year": "1963",
+      "corpus": "academic",
+      "ancestors": [
+        "sikorsky-r-4"
+      ],
+      "descendants": []
     },
     {
       "id": "iron-man-suit",
@@ -1138,8 +1210,22 @@
       "descendants": [
         "beta-alia-250",
         "ehang-eh216",
+        "kamov-ka-50-ka-52",
         "sikorsky-boeing-defiant",
         "sikorsky-s-97-raider"
+      ]
+    },
+    {
+      "id": "bell-ah-1-cobra",
+      "name": "Bell AH-1 Cobra / SuperCobra / Viper",
+      "year": "1965",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-uh-1-iroquois"
+      ],
+      "descendants": [
+        "boeing-ah-64-apache",
+        "mil-mi-24-hind"
       ]
     },
     {
@@ -1218,6 +1304,27 @@
       ]
     },
     {
+      "id": "mbb-bo-105",
+      "name": "MBB Bo 105",
+      "year": "1967",
+      "corpus": "academic",
+      "ancestors": [
+        "focke-wulf-fa-61",
+        "sikorsky-r-4"
+      ],
+      "descendants": [
+        "westland-lynx"
+      ]
+    },
+    {
+      "id": "aerospatiale-sa-341-gazelle",
+      "name": "Aérospatiale SA 341/342 Gazelle",
+      "year": "1967",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": []
+    },
+    {
       "id": "hawker-siddeley-harrier",
       "name": "Hawker Siddeley Harrier GR.1",
       "year": "1967",
@@ -1243,6 +1350,17 @@
       "descendants": []
     },
     {
+      "id": "mil-mi-24-hind",
+      "name": "Mil Mi-24 Hind",
+      "year": "1969",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-ah-1-cobra",
+        "mil-mi-8-hip"
+      ],
+      "descendants": []
+    },
+    {
       "id": "doraemon-takecopter",
       "name": "Take-copter (Doraemon)",
       "year": "1969",
@@ -1252,6 +1370,16 @@
         "pescara-helicopter",
         "pushpaka-vimana",
         "verne-albatross"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "westland-lynx",
+      "name": "Westland Lynx",
+      "year": "1971",
+      "corpus": "academic",
+      "ancestors": [
+        "mbb-bo-105"
       ],
       "descendants": []
     },
@@ -1274,6 +1402,28 @@
       "ancestors": [
         "dornier-do-31",
         "hawker-p-1127"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sikorsky-uh-60-black-hawk",
+      "name": "Sikorsky UH-60 Black Hawk / S-70",
+      "year": "1974",
+      "corpus": "academic",
+      "ancestors": [
+        "sikorsky-r-4"
+      ],
+      "descendants": [
+        "sikorsky-ch-53k-king-stallion"
+      ]
+    },
+    {
+      "id": "boeing-ah-64-apache",
+      "name": "Boeing AH-64 Apache",
+      "year": "1975",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-ah-1-cobra"
       ],
       "descendants": []
     },
@@ -1340,6 +1490,16 @@
         "tron-legacy-recognizer",
         "walle-axiom-hoverchair"
       ]
+    },
+    {
+      "id": "mil-mi-26-halo",
+      "name": "Mil Mi-26 Halo",
+      "year": "1977",
+      "corpus": "academic",
+      "ancestors": [
+        "mil-mi-8-hip"
+      ],
+      "descendants": []
     },
     {
       "id": "av-8b-harrier-ii",
@@ -1416,6 +1576,20 @@
       ],
       "descendants": [
         "oblivion-bubbleship"
+      ]
+    },
+    {
+      "id": "kamov-ka-50-ka-52",
+      "name": "Kamov Ka-50 Black Shark / Ka-52 Alligator",
+      "year": "1982",
+      "corpus": "academic",
+      "ancestors": [
+        "kamov-ka-22-vintokryl",
+        "kamov-ka-26"
+      ],
+      "descendants": [
+        "sikorsky-boeing-defiant",
+        "sikorsky-s-97-raider"
       ]
     },
     {
@@ -2292,6 +2466,7 @@
       "corpus": "private",
       "ancestors": [
         "kamov-ka-26",
+        "kamov-ka-50-ka-52",
         "pescara-helicopter",
         "sikorsky-s-72-rsra"
       ],
@@ -2311,6 +2486,16 @@
       "descendants": [
         "joby-s4"
       ]
+    },
+    {
+      "id": "sikorsky-ch-53k-king-stallion",
+      "name": "Sikorsky CH-53K King Stallion",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [
+        "sikorsky-uh-60-black-hawk"
+      ],
+      "descendants": []
     },
     {
       "id": "expanse-drop-ship",
@@ -2891,6 +3076,7 @@
       "corpus": "private",
       "ancestors": [
         "kamov-ka-26",
+        "kamov-ka-50-ka-52",
         "pescara-helicopter",
         "sikorsky-s-72-rsra",
         "sikorsky-s-97-raider"

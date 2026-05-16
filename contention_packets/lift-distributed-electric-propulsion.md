@@ -1,13 +1,13 @@
 ---
 title: "lift-distributed-electric-propulsion"
 parent: "Invalidity Contentions"
-nav_order: 26
+nav_order: 27
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-distributed-electric-propulsion`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `lift-distributed-electric-propulsion`  
 **Entries:** 117 (117 commons-grade, 0 draft)  
 **Earliest disclosure:** 1886  
@@ -2495,4 +2495,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

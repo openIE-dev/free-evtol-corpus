@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `lift-compound-rotorcraft`
 
-**17 corpus entries disclose this subsystem.**
+**18 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1923-01-09
 
@@ -77,6 +77,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Ka-22 Vintokryl first hover 1959-06-15; first transition flight 1961-08-12. Set FAI world records 1961-11-07 (speed 356.3 km/h, payload-to-altitude 16,485 kg). Documented in Mikheyev's history of Kamov design bureau and in FAI record archives.
 - **ip status**: public-domain
 - **prior art notes**: The Ka-22 Vintokryl is the Soviet contemporaneous answer to U.S. tilt-rotor demonstrators. Establishes Soviet-bloc prior art (1959–1961) for: (1) wingtip-mounted lift-rotor + cruise-propeller architecture (parallel to but predating Bell XV-3 and XV-15 in some configurations), (2) record-setting heavy-payload VTOL operation. Soviet design documentation, declassified in the post-1991 era, is in the public domain by virtue of being USSR state work. Provides invalidity anchor for tilt-rotor-with-cruise-propeller hybrid claims that try to assert novelty over the basic split-propulsion approach.
+
+## Boeing CH-47 Chinook (1961-09-21)
+
+- **id**: `boeing-ch-47-chinook`
+- **corpus**: academic
+- **creator**: Vertol Aircraft Corporation / Boeing Vertol / Boeing / U.S. Army
+- **disclosure**: Boeing-Vertol YHC-1B (Model 114) prototype first flight 1961-09-21; entered U.S. Army service as CH-47A Chinook in 1962; still in production and active service in 2026 across CH-47F/MH-47G/CH-47F Block II variants. Documented in Boeing-Vertol / Boeing and U.S. Army technical orders, RAND historical analyses, and Smithsonian collections.
+- **ip status**: patented
+- **prior art notes**: Boeing CH-47 Chinook (1961) is the foundational production disclosure of the tandem-rotor heavy-lift helicopter at airliner-class payload capacity. Establishes prior art for: (1) production tandem-rotor lift architecture at >20-ton MTOW, (2) two-engine cross-drive synchronized rotor system (single-engine-failure survivability via shared drivetrain), (3) overlapping fore-and-aft rotor disks as torque-canceling lift architecture, (4) ramp-loaded cargo VTOL configuration. Boeing-Vertol tandem-rotor patents are long expired. Direct descendant of Piasecki H-21 (1945). Anticipates: any eVTOL using fore-and-aft lift-rotor pairs or cross-shafted twin-rotor architectures, including multiple modern cargo-eVTOL configurations.
 
 ## Sikorsky S-72 RSRA (1976-10-12)
 

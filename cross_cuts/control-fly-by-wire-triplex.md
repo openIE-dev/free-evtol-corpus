@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-fly-by-wire-triplex`
 
-**18 corpus entries disclose this subsystem.**
+**19 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1957-04-02
 
@@ -104,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ArduPilot QuadPlane functionality first merged into ArduPlane main branch 2015-04 (commit history available at github.com/ArduPilot/ardupilot); first general public release with QuadPlane support: ArduPlane 3.5.0, 2015-12-14.
 - **ip status**: open-copyleft
 - **prior art notes**: ArduPilot QuadPlane is the GPL-licensed reference implementation of generic VTOL flight control. Establishes prior art (under GPL, but the architectural disclosure is unencumbered as prior art for patent purposes) for: (1) generic transition controller for lift+cruise, tilt-rotor, tilt-wing, and tail-sitter VTOLs, (2) rotor-failure detection and reconfiguration in multirotor lift, (3) Q_ASSIST transitional thrust assist algorithms. The git commit history provides timestamped disclosure of every subsystem-level innovation. Filed against any post-2015 patent claim on basic VTOL transition control or rotor-failure reconfiguration in multirotor lift, this is anticipating prior art.
+
+## Sikorsky CH-53K King Stallion (2015-10-27)
+
+- **id**: `sikorsky-ch-53k-king-stallion`
+- **corpus**: private
+- **creator**: Sikorsky Aircraft / Lockheed Martin / U.S. Marine Corps
+- **disclosure**: Sikorsky CH-53K Engineering Development Model 1 first flight 2015-10-27 at Sikorsky's West Palm Beach test facility; entered U.S. Marine Corps service 2022; full operational capability targeted 2029. Sikorsky publicly discloses the seven-blade composite rotor, triplex fly-by-wire controls, and composite airframe construction in U.S. Navy / Marine Corps program documentation and at AHS Forum / Vertical Flight Society technical conferences.
+- **ip status**: patented
+- **prior art notes**: Sikorsky CH-53K King Stallion (2015) is the foundational production disclosure of the seven-blade composite main rotor with triplex fly-by-wire controls in a heavy-lift helicopter. Establishes prior art for: (1) seven-blade composite carbon-fiber main rotor in production at >30-ton MTOW, (2) triplex fly-by-wire flight controls on a heavy-lift production rotorcraft — directly relevant to any eVTOL invoking fly-by-wire triplex flight controls, (3) elastomeric main-rotor-head bearings at heavy-lift scale, (4) composite airframe monocoque at heavy-lift scale. Sikorsky's CH-53K patents are recent and partially active, but the disclosed-and-published architecture is comprehensive prior art for the configuration as a whole. Critical anticipation of any heavy-lift eVTOL claim invoking 'composite rotor blade construction', 'triplex FBW', or 'composite airframe at heavy-lift scale'.
 
 ## Bell V-280 Valor (2017-12-18)
 

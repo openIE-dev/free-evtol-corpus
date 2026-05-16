@@ -1,13 +1,13 @@
 ---
 title: "lift-tilt-duct"
 parent: "Invalidity Contentions"
-nav_order: 29
+nav_order: 30
 layout: default
 ---
 
 # Invalidity Contention Packet — `lift-tilt-duct`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `lift-tilt-duct`  
 **Entries:** 5 (5 commons-grade, 0 draft)  
 **Earliest disclosure:** 1958-02-25  
@@ -154,4 +154,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

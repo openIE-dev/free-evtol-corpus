@@ -1,13 +1,13 @@
 ---
 title: "propulsion-hybrid-series"
 parent: "Invalidity Contentions"
-nav_order: 39
+nav_order: 40
 layout: default
 ---
 
 # Invalidity Contention Packet — `propulsion-hybrid-series`
 
-**Generated:** 2026-05-14  
+**Generated:** 2026-05-15  
 **Cross-cut tag:** `propulsion-hybrid-series`  
 **Entries:** 18 (18 commons-grade, 0 draft)  
 **Earliest disclosure:** 2012  
@@ -425,4 +425,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `674103d`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*

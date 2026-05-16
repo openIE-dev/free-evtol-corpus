@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `control-fly-by-wire-triplex`
 
-**19 corpus entries disclose this subsystem.**
+**22 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1957-04-02
 
@@ -60,6 +60,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AV-8B Harrier II is the production-definitive vectored-thrust VTOL fighter — second-generation development of the P.1127/Harrier lineage with supercritical wing and lift-improvement devices that nearly doubled payload over Harrier GR.1. The U.S. Marine Corps operated AV-8B from 1985 through 2014 (replaced by F-35B), and the RAF operated GR.5/7/9 variants 1989-2010 — comprehensive multi-decade operational disclosure of the production-scale Pegasus four-poster vectored-thrust architecture. Most McDonnell Douglas / Boeing AV-8B-era patents have now expired (filed 1975-2000). Combined with hawker-p-1127 (1960), hawker-siddeley-harrier (1967), and f-35b-lightning (2008), comprehensively places vectored-thrust VTOL fighter architecture in 50+ years of public-domain prior art.
 
+## AgustaWestland AW101 Merlin (1987-10-09)
+
+- **id**: `agustawestland-aw101`
+- **corpus**: academic
+- **creator**: EH Industries (Agusta / Westland) / AgustaWestland / Leonardo Helicopters
+- **disclosure**: EH Industries EH101 (now AgustaWestland AW101) prototype first flight 1987-10-09; entered Royal Navy service as Merlin HM.1 in 1998. Selected for U.S. Marine One in 2005 (VH-71 Kestrel program, subsequently cancelled). ~280 produced through 2026. Documented in AgustaWestland / Leonardo Helicopters service publications and Royal Navy / Royal Air Force operational records.
+- **ip status**: patented
+- **prior art notes**: AgustaWestland AW101 Merlin (1987) is the foundational disclosure of the three-engine production helicopter and of BERP-derived composite five-blade rotor at heavy-twin scale. Establishes prior art for: (1) three-engine configuration in a production rotorcraft (rare prior art for any multi-engine-redundancy claim above 2 engines), (2) BERP swept-tip paddle composite rotor blades adapted from Lynx experiments into production scale, (3) full-mission systems integration (anti-icing, maritime sensors, mission computers) on a heavy-twin civil-and-military airframe. AgustaWestland AW101 patents are largely expired. Critical anticipation for any eVTOL claim invoking 3+ engine configurations or advanced composite rotor blade aerodynamics at heavy-payload scale.
+
 ## V-22 Osprey (1989-03-19)
 
 - **id**: `v-22-osprey`
@@ -68,6 +77,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: V-22 Osprey first flight 1989-03-19 at Bell Flight Research Center, Arlington TX; full operational capability declared 2007. Aircraft and engineering disclosures published exhaustively in NAVAIR / Marine Corps reports and in Norton's Bell-Boeing V-22 Osprey volume.
 - **ip status**: patented
 - **prior art notes**: The V-22 Osprey is the production tilt-rotor that brought XV-15 prior art into operational service. Establishes prior art for: (1) production-grade triplex fly-by-wire tilt-rotor flight control, (2) cross-shafted prop-rotor drive with single-engine emergency operation in hover, (3) the operational conversion corridor with explicit nacelle-angle commanded transition. Bell's V-22-era tilt-rotor patents are largely now expired (most filed 1985–1995, 20-year terms). Together with XV-15, comprehensively places production tilt-rotor architecture in the public domain. Joby, Archer, and Vertical Aerospace's tilt-rotor claims are anticipated by V-22 disclosures where they overlap on architecture rather than electric-specific actuation.
+
+## Eurocopter Tiger / Airbus Tiger (1991-04-27)
+
+- **id**: `eurocopter-tiger`
+- **corpus**: academic
+- **creator**: Eurocopter / Airbus Helicopters (France/Germany joint program)
+- **disclosure**: Eurocopter Tiger prototype PT1 first flight 1991-04-27 (Marignane, France); entered French Army (ALAT) and German Army (Heer) service 2003. Variants: Tiger HAP (French Anti-Personnel), Tiger HAD (Hélicoptère Appui Destruction), Tiger UHT (German Unterstützungshubschrauber Tiger), Tiger ARH (Australian Armed Reconnaissance). ~190 produced. Documented in Eurocopter / Airbus Helicopters publications.
+- **ip status**: patented
+- **prior art notes**: Eurocopter Tiger (1991) is the foundational disclosure of the production composite-airframe attack helicopter with fenestron anti-torque and fly-by-wire flight controls. Establishes prior art for: (1) 80%+ composite airframe at attack-helicopter scale (a critical prior-art anchor for any composite-airframe eVTOL claim), (2) production fenestron anti-torque on a combat rotorcraft (Tiger's fenestron is much larger than the Gazelle's, demonstrating scaling of the architecture), (3) hingeless four-blade composite main rotor with elastomeric bearings on a combat-class helicopter, (4) full fly-by-wire combat-rotorcraft flight controls. Tiger patents are largely expired or near-expiry. Critical anticipation for eVTOL composite-airframe + fenestron + FBW integrated-claim families.
 
 ## Leonardo AW609 (2003-03-06)
 
@@ -104,6 +122,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: ArduPilot QuadPlane functionality first merged into ArduPlane main branch 2015-04 (commit history available at github.com/ArduPilot/ardupilot); first general public release with QuadPlane support: ArduPlane 3.5.0, 2015-12-14.
 - **ip status**: open-copyleft
 - **prior art notes**: ArduPilot QuadPlane is the GPL-licensed reference implementation of generic VTOL flight control. Establishes prior art (under GPL, but the architectural disclosure is unencumbered as prior art for patent purposes) for: (1) generic transition controller for lift+cruise, tilt-rotor, tilt-wing, and tail-sitter VTOLs, (2) rotor-failure detection and reconfiguration in multirotor lift, (3) Q_ASSIST transitional thrust assist algorithms. The git commit history provides timestamped disclosure of every subsystem-level innovation. Filed against any post-2015 patent claim on basic VTOL transition control or rotor-failure reconfiguration in multirotor lift, this is anticipating prior art.
+
+## Bell 525 Relentless (2015-07-01)
+
+- **id**: `bell-525-relentless`
+- **corpus**: private
+- **creator**: Bell Textron
+- **disclosure**: Bell 525 Relentless prototype first flight 2015-07-01; second-prototype fatal accident 2016-07-06 paused the program; certification flight tests resumed 2018-09-13. FAA Part 29 type certification still ongoing in 2026. The first civil helicopter ever designed for full fly-by-wire flight controls. Documented in Bell Textron press releases and NTSB accident report ERA16FA262.
+- **ip status**: patented
+- **prior art notes**: Bell 525 Relentless (2015) is the foundational disclosure of the first civil-helicopter fly-by-wire flight-control system in a clean-sheet design. Establishes prior art for: (1) civil-helicopter triplex fly-by-wire flight controls (the first civil rotorcraft so designed; previous FBW in V-22 / CH-53K / Tiger was all military) — directly relevant to any civil eVTOL invoking 'fly-by-wire flight controls' or 'side-stick rotorcraft flight control', (2) ARINC-664 deterministic-network flight-control bus on a production civil rotorcraft, (3) full envelope-protection automation in a rotorcraft. Bell 525 patents are active.
 
 ## Sikorsky CH-53K King Stallion (2015-10-27)
 

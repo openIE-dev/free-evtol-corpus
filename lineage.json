@@ -414,6 +414,7 @@
         "mbb-bo-105",
         "md-500-defender",
         "mil-mi-8-hip",
+        "sikorsky-s-61-sea-king",
         "sikorsky-uh-60-black-hawk"
       ]
     },
@@ -496,6 +497,7 @@
       ],
       "descendants": [
         "boeing-ch-47-chinook",
+        "boeing-vertol-ch-46-sea-knight",
         "bristol-belvedere",
         "yak-24"
       ]
@@ -751,6 +753,7 @@
       ],
       "descendants": [
         "bell-206-jetranger",
+        "bell-412",
         "bell-ah-1-cobra"
       ]
     },
@@ -887,6 +890,18 @@
       ]
     },
     {
+      "id": "boeing-vertol-ch-46-sea-knight",
+      "name": "Boeing-Vertol CH-46 Sea Knight",
+      "year": "1958",
+      "corpus": "academic",
+      "ancestors": [
+        "piasecki-h-21"
+      ],
+      "descendants": [
+        "boeing-ch-47-chinook"
+      ]
+    },
+    {
       "id": "westland-westminster",
       "name": "Westland Westminster",
       "year": "1958",
@@ -942,6 +957,18 @@
       "descendants": [
         "horizon-aircraft-cavorite-x5",
         "ryan-xv-5-vertifan"
+      ]
+    },
+    {
+      "id": "sikorsky-s-61-sea-king",
+      "name": "Sikorsky S-61 / SH-3 Sea King",
+      "year": "1959",
+      "corpus": "academic",
+      "ancestors": [
+        "sikorsky-r-4"
+      ],
+      "descendants": [
+        "sikorsky-uh-60-black-hawk"
       ]
     },
     {
@@ -1033,7 +1060,8 @@
       ],
       "descendants": [
         "mil-mi-24-hind",
-        "mil-mi-26-halo"
+        "mil-mi-26-halo",
+        "mil-mi-38"
       ]
     },
     {
@@ -1042,6 +1070,7 @@
       "year": "1961",
       "corpus": "academic",
       "ancestors": [
+        "boeing-vertol-ch-46-sea-knight",
         "piasecki-h-21"
       ],
       "descendants": []
@@ -1313,6 +1342,10 @@
         "sikorsky-r-4"
       ],
       "descendants": [
+        "eurocopter-ec135",
+        "eurocopter-ec145",
+        "eurocopter-tiger",
+        "hal-dhruv",
         "westland-lynx"
       ]
     },
@@ -1322,7 +1355,11 @@
       "year": "1967",
       "corpus": "academic",
       "ancestors": [],
-      "descendants": []
+      "descendants": [
+        "airbus-h160",
+        "eurocopter-ec135",
+        "eurocopter-tiger"
+      ]
     },
     {
       "id": "hawker-siddeley-harrier",
@@ -1381,7 +1418,9 @@
       "ancestors": [
         "mbb-bo-105"
       ],
-      "descendants": []
+      "descendants": [
+        "agustawestland-aw101"
+      ]
     },
     {
       "id": "vfw-fokker-vak-191b",
@@ -1411,10 +1450,13 @@
       "year": "1974",
       "corpus": "academic",
       "ancestors": [
-        "sikorsky-r-4"
+        "sikorsky-r-4",
+        "sikorsky-s-61-sea-king"
       ],
       "descendants": [
-        "sikorsky-ch-53k-king-stallion"
+        "sikorsky-ch-53k-king-stallion",
+        "sikorsky-s-76",
+        "sikorsky-s-92"
       ]
     },
     {
@@ -1439,6 +1481,18 @@
         "sikorsky-boeing-defiant",
         "sikorsky-s-97-raider",
         "sikorsky-x-wing"
+      ]
+    },
+    {
+      "id": "sikorsky-s-76",
+      "name": "Sikorsky S-76",
+      "year": "1977",
+      "corpus": "academic",
+      "ancestors": [
+        "sikorsky-uh-60-black-hawk"
+      ],
+      "descendants": [
+        "sikorsky-s-92"
       ]
     },
     {
@@ -1523,6 +1577,18 @@
         "thunderbird-2"
       ],
       "descendants": []
+    },
+    {
+      "id": "bell-412",
+      "name": "Bell 412",
+      "year": "1979",
+      "corpus": "academic",
+      "ancestors": [
+        "bell-uh-1-iroquois"
+      ],
+      "descendants": [
+        "bell-525-relentless"
+      ]
     },
     {
       "id": "cagliostro-autogyro",
@@ -1699,6 +1765,16 @@
       ]
     },
     {
+      "id": "agustawestland-aw101",
+      "name": "AgustaWestland AW101 Merlin",
+      "year": "1987",
+      "corpus": "academic",
+      "ancestors": [
+        "westland-lynx"
+      ],
+      "descendants": []
+    },
+    {
       "id": "akira-flying-craft",
       "name": "Military VTOL craft (Akira)",
       "year": "1988",
@@ -1798,6 +1874,17 @@
       "descendants": []
     },
     {
+      "id": "eurocopter-tiger",
+      "name": "Eurocopter Tiger / Airbus Tiger",
+      "year": "1991",
+      "corpus": "academic",
+      "ancestors": [
+        "aerospatiale-sa-341-gazelle",
+        "mbb-bo-105"
+      ],
+      "descendants": []
+    },
+    {
       "id": "kaman-k-max",
       "name": "Kaman K-MAX",
       "year": "1991",
@@ -1808,6 +1895,29 @@
       "descendants": []
     },
     {
+      "id": "hal-dhruv",
+      "name": "HAL Dhruv (Advanced Light Helicopter)",
+      "year": "1992",
+      "corpus": "academic",
+      "ancestors": [
+        "mbb-bo-105"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "eurocopter-ec135",
+      "name": "Eurocopter EC135 / Airbus H135",
+      "year": "1994",
+      "corpus": "academic",
+      "ancestors": [
+        "aerospatiale-sa-341-gazelle",
+        "mbb-bo-105"
+      ],
+      "descendants": [
+        "airbus-h160"
+      ]
+    },
+    {
       "id": "sikorsky-cypher",
       "name": "Sikorsky Cypher",
       "year": "1995",
@@ -1815,6 +1925,17 @@
       "ancestors": [
         "avrocar-vz-9",
         "doak-vz-4"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "sikorsky-s-92",
+      "name": "Sikorsky S-92 / CH-148 Cyclone",
+      "year": "1995",
+      "corpus": "private",
+      "ancestors": [
+        "sikorsky-s-76",
+        "sikorsky-uh-60-black-hawk"
       ],
       "descendants": []
     },
@@ -1843,6 +1964,24 @@
       "descendants": [
         "jaunt-air-mobility"
       ]
+    },
+    {
+      "id": "eurocopter-ec145",
+      "name": "Eurocopter EC145 / Airbus H145",
+      "year": "1999",
+      "corpus": "private",
+      "ancestors": [
+        "mbb-bo-105"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "agustawestland-aw139",
+      "name": "AgustaWestland AW139",
+      "year": "2001",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": []
     },
     {
       "id": "solotrek-xfv",
@@ -1917,6 +2056,16 @@
       "corpus": "fictional",
       "ancestors": [
         "aliens-cheyenne-dropship"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "mil-mi-38",
+      "name": "Mil Mi-38",
+      "year": "2003",
+      "corpus": "private",
+      "ancestors": [
+        "mil-mi-8-hip"
       ],
       "descendants": []
     },
@@ -2136,6 +2285,14 @@
       "ancestors": [
         "alexeyev-ekranoplan-km"
       ],
+      "descendants": []
+    },
+    {
+      "id": "kai-surion",
+      "name": "KAI Surion / KUH-1",
+      "year": "2010",
+      "corpus": "private",
+      "ancestors": [],
       "descendants": []
     },
     {
@@ -2473,6 +2630,27 @@
       "descendants": [
         "sikorsky-boeing-defiant"
       ]
+    },
+    {
+      "id": "airbus-h160",
+      "name": "Airbus H160",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [
+        "aerospatiale-sa-341-gazelle",
+        "eurocopter-ec135"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "bell-525-relentless",
+      "name": "Bell 525 Relentless",
+      "year": "2015",
+      "corpus": "private",
+      "ancestors": [
+        "bell-412"
+      ],
+      "descendants": []
     },
     {
       "id": "joby-s2",

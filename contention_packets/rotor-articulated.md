@@ -1,7 +1,7 @@
 ---
 title: "rotor-articulated"
 parent: "Invalidity Contentions"
-nav_order: 43
+nav_order: 45
 layout: default
 ---
 
@@ -9,8 +9,8 @@ layout: default
 
 **Generated:** 2026-05-15  
 **Cross-cut tag:** `rotor-articulated`  
-**Entries:** 9 (9 commons-grade, 0 draft)  
-**Earliest disclosure:** 1961-07-09  
+**Entries:** 19 (19 commons-grade, 0 draft)  
+**Earliest disclosure:** 1958-04-22  
 **Most recent disclosure:** 2015-10-27
 
 ---
@@ -41,6 +41,48 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1958-04-22 — Boeing-Vertol CH-46 Sea Knight
+
+- **id:** `boeing-vertol-ch-46-sea-knight`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Vertol Aircraft Corporation / Boeing-Vertol / Boeing / U.S. Navy / U.S. Marine Corps
+- **disclosure citation:** Vertol Model 107 prototype first flight 1958-04-22; entered U.S. Marine Corps service as CH-46A Sea Knight in 1964; retired from active U.S. military service 2015 but continues in Japanese / civilian service through 2026. ~620 produced. Documented in Vertol / Boeing-Vertol / Boeing and U.S. Navy / Marine Corps technical publications (NAVAIR 01-250HBB series).
+- **disclosed subsystems:** `lift-tandem-rotor`, `rotor-articulated`, `cert-military`
+
+**Prior art notes:**
+
+> Boeing-Vertol CH-46 Sea Knight (1958) is the foundational disclosure of the medium-twin tandem-rotor helicopter optimized for naval shipboard operations. Establishes prior art for: (1) production tandem-rotor architecture at medium-weight scale (sibling to the heavy-lift CH-47), (2) automatic blade-folding for shipboard parking and hangar stowage of tandem-rotor helicopters, (3) cross-shafted twin-engine architecture in a medium-class tandem-rotor airframe. Vertol 1950s patents are long expired. With CH-47 Chinook (1961), establishes the tandem-rotor configuration as comprehensive prior art across the full helicopter weight spectrum from medium-utility to heavy-lift.
+
+**Sources:**
+
+1. Boeing-Vertol / Boeing CH-46 Sea Knight technical publications.
+2. U.S. Navy NAVAIR 01-250HBB Sea Knight maintenance manuals.
+3. Spenser, Jay P. Whirlybirds: A History of the U.S. Helicopter Pioneers. University of Washington Press, 1998.
+
+---
+
+### 1959-03-11 — Sikorsky S-61 / SH-3 Sea King
+
+- **id:** `sikorsky-s-61-sea-king`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Sikorsky Aircraft / Westland Helicopters / Agusta / U.S. Navy
+- **disclosure citation:** Sikorsky XHSS-2 prototype first flight 1959-03-11; entered U.S. Navy service as SH-3A Sea King in 1961; Westland-produced variants in British, Indian, Australian service through 2018. Famously used for Apollo capsule recovery (Apollo 7 through Apollo 17, 1968-1972) and for U.S. Marine One presidential transport (1962-2010). Documented in Sikorsky / Westland / Agusta / U.S. Navy publications.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `airframe-amphibious-hull`, `cert-military`, `cert-part-29`
+
+**Prior art notes:**
+
+> Sikorsky S-61 Sea King (1959) is the foundational disclosure of the production amphibious-hull helicopter and the medium-twin single-rotor anti-submarine warfare configuration. Establishes prior art for: (1) production amphibious helicopter capable of routine on-water operations — relevant to any modern eVTOL invoking water-landing or maritime-recovery capability, (2) five-blade main + five-blade tail rotor architecture at medium-twin scale, (3) twin-engine reliability standards for over-water flight that established the modern Cat A certification environment. Sikorsky 1959-era patents are long expired. Critical anticipation for any amphibious or maritime eVTOL claim family.
+
+**Sources:**
+
+1. Sikorsky Aircraft / Westland Helicopters S-61 / Sea King service publications.
+2. U.S. Navy NAVAIR 01-230HMA Sea King manuals.
+3. Apostolo, Giorgio. The Illustrated Encyclopedia of Helicopters. Bonanza, 1984.
+
+---
 
 ### 1961-07-09 — Mil Mi-8 / Mi-17 (Hip)
 
@@ -168,6 +210,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1977-03-13 — Sikorsky S-76
+
+- **id:** `sikorsky-s-76`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Sikorsky Aircraft / Lockheed Martin
+- **disclosure citation:** Sikorsky S-76 prototype first flight 1977-03-13; FAA type-certificated under FAR Part 29 in 1978; ~875 produced through 2022 across S-76A/A++/C/C+/C++/D variants. Defining executive / EMS / oil-and-gas medium twin for four decades. Documented in Sikorsky Aircraft technical publications, FAA type certificate data sheet H1NE.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `cert-part-29`
+
+**Prior art notes:**
+
+> Sikorsky S-76 (1977) is the foundational disclosure of the production clean-sheet civil medium-twin helicopter designed specifically for the corporate / EMS / oil-and-gas markets. Establishes prior art for: (1) FAR Part 29 medium-twin civil-helicopter design baseline — directly relevant to any eVTOL claim invoking Part 29 transport-category certification, (2) Category A twin-engine performance at medium-weight class (engine-failure continued takeoff envelope), (3) the canonical executive / corporate / EMS medium-twin layout that the eVTOL industry is explicitly targeting. Sikorsky S-76 patents are long expired.
+
+**Sources:**
+
+1. Sikorsky Aircraft S-76 type-certificate data sheet H1NE (FAA).
+2. Sikorsky Aircraft S-76 technical publications.
+3. Pelletier, Alain J. Bell, Sikorsky and Other American Helicopters. Putnam, 2010.
+
+---
+
 ### 1977-12-14 — Mil Mi-26 Halo
 
 - **id:** `mil-mi-26-halo`
@@ -189,6 +252,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1979-08-01 — Bell 412
+
+- **id:** `bell-412`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Bell Helicopter / Bell Textron / Subaru-Bell
+- **disclosure citation:** Bell 412 first flight 1979-08-01 (Bell 212 with four-blade rotor); FAA type-certificated 1981-01-09. Currently produced as Bell 412EPX (Subaru-Bell joint venture) for Japanese / U.S. / international markets. ~900 produced. Documented in Bell Helicopter / Bell Textron / Subaru-Bell publications and FAA type certificate data sheet H4SW.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> Bell 412 (1979) is the foundational disclosure of the production four-blade soft-in-plane main rotor at medium-twin civil scale — Bell's transition from two-blade teetering to four-blade articulated rotors. Establishes prior art for: (1) four-blade soft-in-plane main rotor at medium-twin scale, (2) Twin-Pac engine architecture (two engines feeding a single combining gearbox — a foundational prior-art reference for multi-engine multirotor eVTOL invoking shared-gearbox or combining-drivetrain claims), (3) twin-engine derivative of single-engine utility platform (the 212→412 lineage). Bell 412 patents are long expired.
+
+**Sources:**
+
+1. Bell Helicopter / Bell Textron Model 412 technical publications.
+2. FAA type certificate data sheet H4SW.
+3. Pelletier, Alain J. Bell Aircraft Since 1935. Naval Institute Press, 1992.
+
+---
+
 ### 1982-07-27 — Kamov Ka-50 Black Shark / Ka-52 Alligator
 
 - **id:** `kamov-ka-50-ka-52`
@@ -207,6 +291,132 @@ cite, copy, or redistribute these contentions.
 1. Kamov Design Bureau / Russian Helicopters Ka-50 / Ka-52 service publications.
 2. Gordon, Yefim. Kamov Ka-50 Hokum / Werewolf. Aerofax, 2000.
 3. Jane's All The World's Aircraft, multiple editions — Kamov Ka-50 / Ka-52 entries.
+
+---
+
+### 1987-10-09 — AgustaWestland AW101 Merlin
+
+- **id:** `agustawestland-aw101`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** EH Industries (Agusta / Westland) / AgustaWestland / Leonardo Helicopters
+- **disclosure citation:** EH Industries EH101 (now AgustaWestland AW101) prototype first flight 1987-10-09; entered Royal Navy service as Merlin HM.1 in 1998. Selected for U.S. Marine One in 2005 (VH-71 Kestrel program, subsequently cancelled). ~280 produced through 2026. Documented in AgustaWestland / Leonardo Helicopters service publications and Royal Navy / Royal Air Force operational records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> AgustaWestland AW101 Merlin (1987) is the foundational disclosure of the three-engine production helicopter and of BERP-derived composite five-blade rotor at heavy-twin scale. Establishes prior art for: (1) three-engine configuration in a production rotorcraft (rare prior art for any multi-engine-redundancy claim above 2 engines), (2) BERP swept-tip paddle composite rotor blades adapted from Lynx experiments into production scale, (3) full-mission systems integration (anti-icing, maritime sensors, mission computers) on a heavy-twin civil-and-military airframe. AgustaWestland AW101 patents are largely expired. Critical anticipation for any eVTOL claim invoking 3+ engine configurations or advanced composite rotor blade aerodynamics at heavy-payload scale.
+
+**Sources:**
+
+1. AgustaWestland / Leonardo Helicopters AW101 service publications.
+2. EH Industries EH101 program documentation, 1985-1995.
+3. Polmar, Norman. The Naval Institute Guide to the Ships and Aircraft of the U.S. Fleet. Naval Institute Press, 2013.
+
+---
+
+### 1995-12-23 — Sikorsky S-92 / CH-148 Cyclone
+
+- **id:** `sikorsky-s-92`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sikorsky Aircraft / Lockheed Martin
+- **disclosure citation:** Sikorsky S-92 prototype first flight 1995-12-23; FAA type-certificated under Part 29 in 2002. Selected as U.S. Marine One (VH-92A) in 2014; replaced VH-3D Sea King in 2022. Over 300 produced through 2026 across S-92A, CH-148, VH-92A variants. Documented in Sikorsky / Lockheed Martin publications and FAA type certificate data sheet H4NE.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `airframe-composite-monocoque`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> Sikorsky S-92 (1995) is the foundational disclosure of the modern offshore-oil medium-twin helicopter with active vibration suppression, full Cat A engine-failure envelope, and integrated avionics. Establishes prior art for: (1) Part 29 transport-category medium-twin civil-helicopter design that directly competes with eVTOL in offshore and VIP markets, (2) active vibration control system at medium-twin scale (relevant to any eVTOL claim invoking active vibration suppression), (3) modern composite-airframe + composite-rotor medium twin operating in routine offshore-oil service. S-92 patents are generally near-expiry; the configurational disclosure is comprehensive prior art.
+
+**Sources:**
+
+1. Sikorsky Aircraft / Lockheed Martin S-92 / CH-148 / VH-92A publications.
+2. FAA type certificate data sheet H4NE.
+3. Royal Canadian Air Force CH-148 Cyclone program records.
+
+---
+
+### 2001-02-03 — AgustaWestland AW139
+
+- **id:** `agustawestland-aw139`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bell-Agusta Aerospace Company / AgustaWestland / Leonardo Helicopters
+- **disclosure citation:** Bell-Agusta AB139 prototype first flight 2001-02-03; FAA type-certificated 2004-06-25 under FAR Part 29. Bell exited the program in 2005; renamed AW139 under AgustaWestland. Over 1,200 produced through 2026 — the dominant offshore-oil medium-twin globally. Documented in Leonardo Helicopters publications and FAA type certificate data sheet H6RN.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `airframe-composite-monocoque`, `cert-part-29`
+
+**Prior art notes:**
+
+> AgustaWestland AW139 (2001) is the foundational disclosure of the modern five-blade composite medium-twin offshore-oil helicopter. Establishes prior art for: (1) five-blade fully-articulated composite main rotor at 7-ton-class medium-twin scale (unusual — most medium twins use four-blade rotors), (2) Part 29 transport-category certification baseline for offshore operations (directly competing with eVTOL offshore claims), (3) modern integrated glass-cockpit + Cat A + extensive-composite construction at medium-twin scale. AW139 patents are active.
+
+**Sources:**
+
+1. Leonardo Helicopters AW139 technical publications.
+2. FAA type certificate data sheet H6RN.
+3. Bell-Agusta Aerospace Company press releases, 2000-2005.
+
+---
+
+### 2003-12-22 — Mil Mi-38
+
+- **id:** `mil-mi-38`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Mil Moscow Helicopter Plant / Kazan Helicopters / Russian Helicopters
+- **disclosure citation:** Mil Mi-38 OP-1 prototype first flight 2003-12-22; Russian AR MAK type-certificated 2015-12-30. Limited production at Kazan Helicopters; entered Russian state-customer service 2018. Documented in Mil / Russian Helicopters publications and AR MAK type certificate.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> Mil Mi-38 (2003) is the foundational disclosure of the modern Russian medium-twin transport helicopter — the intended Mi-8 successor. Establishes prior art for: (1) six-blade fully-articulated main rotor at 15-ton MTOW class, (2) X-configuration four-blade tail rotor for acoustic-signature reduction at medium-twin scale (paralleling the AH-64 Apache's earlier scissors layout in a civil/utility application), (3) Russian-jurisdiction medium-twin design baseline. Mi-38 patents are recent but configurational disclosure is comprehensive.
+
+**Sources:**
+
+1. Mil Moscow Helicopter Plant / Russian Helicopters Mi-38 publications.
+2. AR MAK type certificate documentation.
+3. Jane's All The World's Aircraft — Mil Mi-38 entries.
+
+---
+
+### 2010-03-10 — KAI Surion / KUH-1
+
+- **id:** `kai-surion`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Korea Aerospace Industries (KAI) / Eurocopter (technical partner) / Republic of Korea government
+- **disclosure citation:** KAI KUH-1 Surion prototype first flight 2010-03-10 at Sacheon; entered Republic of Korea Army service 2012. Civil derivative LCH (Light Civil Helicopter) first flight 2018-07-05. ~190 produced through 2026. Documented in KAI / Korea Aerospace Industries publications and Korean Ministry of National Defence procurement records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `cert-military`
+
+**Prior art notes:**
+
+> KAI Surion / KUH-1 (2010) is the foundational disclosure of South Korea's indigenous medium-twin helicopter program. Establishes prior art for: (1) Korean-jurisdiction medium-twin design and certification (critical for Korean-jurisdiction patent invalidity defense, particularly against Hyundai Supernal SA2 and other Korean eVTOL programs), (2) Eurocopter-technology-licensed indigenous program extending the Dauphin lineage into Asia, (3) modern medium-twin design baseline in the Korean civil and military aviation environments.
+
+**Sources:**
+
+1. Korea Aerospace Industries (KAI) Surion / KUH-1 / LCH publications.
+2. Republic of Korea Ministry of National Defense KHP program documentation.
+3. Korea Aerospace Research Institute (KARI) technical reports.
+
+---
+
+### 2015-07-01 — Bell 525 Relentless
+
+- **id:** `bell-525-relentless`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bell Textron
+- **disclosure citation:** Bell 525 Relentless prototype first flight 2015-07-01; second-prototype fatal accident 2016-07-06 paused the program; certification flight tests resumed 2018-09-13. FAA Part 29 type certification still ongoing in 2026. The first civil helicopter ever designed for full fly-by-wire flight controls. Documented in Bell Textron press releases and NTSB accident report ERA16FA262.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-part-29`
+
+**Prior art notes:**
+
+> Bell 525 Relentless (2015) is the foundational disclosure of the first civil-helicopter fly-by-wire flight-control system in a clean-sheet design. Establishes prior art for: (1) civil-helicopter triplex fly-by-wire flight controls (the first civil rotorcraft so designed; previous FBW in V-22 / CH-53K / Tiger was all military) — directly relevant to any civil eVTOL invoking 'fly-by-wire flight controls' or 'side-stick rotorcraft flight control', (2) ARINC-664 deterministic-network flight-control bus on a production civil rotorcraft, (3) full envelope-protection automation in a rotorcraft. Bell 525 patents are active.
+
+**Sources:**
+
+1. Bell Textron 525 Relentless technical publications and press releases.
+2. NTSB Aircraft Accident Report ERA16FA262 (Bell 525 prototype loss, 2016).
+3. AHS / Vertical Flight Society technical papers on Bell 525 fly-by-wire system.
 
 ---
 
@@ -238,4 +448,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*

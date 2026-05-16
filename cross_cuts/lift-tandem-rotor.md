@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `lift-tandem-rotor`
 
-**1 corpus entries disclose this subsystem.**
+**2 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1961-09-21
+Earliest disclosure: 1958-04-22
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Boeing-Vertol CH-46 Sea Knight (1958-04-22)
+
+- **id**: `boeing-vertol-ch-46-sea-knight`
+- **corpus**: academic
+- **creator**: Vertol Aircraft Corporation / Boeing-Vertol / Boeing / U.S. Navy / U.S. Marine Corps
+- **disclosure**: Vertol Model 107 prototype first flight 1958-04-22; entered U.S. Marine Corps service as CH-46A Sea Knight in 1964; retired from active U.S. military service 2015 but continues in Japanese / civilian service through 2026. ~620 produced. Documented in Vertol / Boeing-Vertol / Boeing and U.S. Navy / Marine Corps technical publications (NAVAIR 01-250HBB series).
+- **ip status**: patented
+- **prior art notes**: Boeing-Vertol CH-46 Sea Knight (1958) is the foundational disclosure of the medium-twin tandem-rotor helicopter optimized for naval shipboard operations. Establishes prior art for: (1) production tandem-rotor architecture at medium-weight scale (sibling to the heavy-lift CH-47), (2) automatic blade-folding for shipboard parking and hangar stowage of tandem-rotor helicopters, (3) cross-shafted twin-engine architecture in a medium-class tandem-rotor airframe. Vertol 1950s patents are long expired. With CH-47 Chinook (1961), establishes the tandem-rotor configuration as comprehensive prior art across the full helicopter weight spectrum from medium-utility to heavy-lift.
 
 ## Boeing CH-47 Chinook (1961-09-21)
 

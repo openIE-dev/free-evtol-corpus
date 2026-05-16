@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-15  
 **Cross-cut tag:** `airframe-composite-monocoque`  
-**Entries:** 67 (67 commons-grade, 0 draft)  
+**Entries:** 73 (73 commons-grade, 0 draft)  
 **Earliest disclosure:** 1978-11-09  
 **Most recent disclosure:** 2024-04-04
 
@@ -61,6 +61,90 @@ cite, copy, or redistribute these contentions.
 2. Markman and Holder. Straight Up. Schiffer, 2000.
 3. U.S. Navy / U.S. Marine Corps AV-8B technical orders.
 4. RAF Harrier GR.5/7/9 historical archives, RAF Museum.
+
+---
+
+### 1987-10-09 — AgustaWestland AW101 Merlin
+
+- **id:** `agustawestland-aw101`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** EH Industries (Agusta / Westland) / AgustaWestland / Leonardo Helicopters
+- **disclosure citation:** EH Industries EH101 (now AgustaWestland AW101) prototype first flight 1987-10-09; entered Royal Navy service as Merlin HM.1 in 1998. Selected for U.S. Marine One in 2005 (VH-71 Kestrel program, subsequently cancelled). ~280 produced through 2026. Documented in AgustaWestland / Leonardo Helicopters service publications and Royal Navy / Royal Air Force operational records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> AgustaWestland AW101 Merlin (1987) is the foundational disclosure of the three-engine production helicopter and of BERP-derived composite five-blade rotor at heavy-twin scale. Establishes prior art for: (1) three-engine configuration in a production rotorcraft (rare prior art for any multi-engine-redundancy claim above 2 engines), (2) BERP swept-tip paddle composite rotor blades adapted from Lynx experiments into production scale, (3) full-mission systems integration (anti-icing, maritime sensors, mission computers) on a heavy-twin civil-and-military airframe. AgustaWestland AW101 patents are largely expired. Critical anticipation for any eVTOL claim invoking 3+ engine configurations or advanced composite rotor blade aerodynamics at heavy-payload scale.
+
+**Sources:**
+
+1. AgustaWestland / Leonardo Helicopters AW101 service publications.
+2. EH Industries EH101 program documentation, 1985-1995.
+3. Polmar, Norman. The Naval Institute Guide to the Ships and Aircraft of the U.S. Fleet. Naval Institute Press, 2013.
+
+---
+
+### 1991-04-27 — Eurocopter Tiger / Airbus Tiger
+
+- **id:** `eurocopter-tiger`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Eurocopter / Airbus Helicopters (France/Germany joint program)
+- **disclosure citation:** Eurocopter Tiger prototype PT1 first flight 1991-04-27 (Marignane, France); entered French Army (ALAT) and German Army (Heer) service 2003. Variants: Tiger HAP (French Anti-Personnel), Tiger HAD (Hélicoptère Appui Destruction), Tiger UHT (German Unterstützungshubschrauber Tiger), Tiger ARH (Australian Armed Reconnaissance). ~190 produced. Documented in Eurocopter / Airbus Helicopters publications.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-hingeless`, `anti-torque-fenestron`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-military`
+
+**Prior art notes:**
+
+> Eurocopter Tiger (1991) is the foundational disclosure of the production composite-airframe attack helicopter with fenestron anti-torque and fly-by-wire flight controls. Establishes prior art for: (1) 80%+ composite airframe at attack-helicopter scale (a critical prior-art anchor for any composite-airframe eVTOL claim), (2) production fenestron anti-torque on a combat rotorcraft (Tiger's fenestron is much larger than the Gazelle's, demonstrating scaling of the architecture), (3) hingeless four-blade composite main rotor with elastomeric bearings on a combat-class helicopter, (4) full fly-by-wire combat-rotorcraft flight controls. Tiger patents are largely expired or near-expiry. Critical anticipation for eVTOL composite-airframe + fenestron + FBW integrated-claim families.
+
+**Sources:**
+
+1. Eurocopter / Airbus Helicopters Tiger / EC-665 publications.
+2. French Army / DGA / German Army Tiger service documentation.
+3. Jane's All The World's Aircraft, multiple editions — Eurocopter Tiger entries.
+
+---
+
+### 1995-12-23 — Sikorsky S-92 / CH-148 Cyclone
+
+- **id:** `sikorsky-s-92`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Sikorsky Aircraft / Lockheed Martin
+- **disclosure citation:** Sikorsky S-92 prototype first flight 1995-12-23; FAA type-certificated under Part 29 in 2002. Selected as U.S. Marine One (VH-92A) in 2014; replaced VH-3D Sea King in 2022. Over 300 produced through 2026 across S-92A, CH-148, VH-92A variants. Documented in Sikorsky / Lockheed Martin publications and FAA type certificate data sheet H4NE.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `airframe-composite-monocoque`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> Sikorsky S-92 (1995) is the foundational disclosure of the modern offshore-oil medium-twin helicopter with active vibration suppression, full Cat A engine-failure envelope, and integrated avionics. Establishes prior art for: (1) Part 29 transport-category medium-twin civil-helicopter design that directly competes with eVTOL in offshore and VIP markets, (2) active vibration control system at medium-twin scale (relevant to any eVTOL claim invoking active vibration suppression), (3) modern composite-airframe + composite-rotor medium twin operating in routine offshore-oil service. S-92 patents are generally near-expiry; the configurational disclosure is comprehensive prior art.
+
+**Sources:**
+
+1. Sikorsky Aircraft / Lockheed Martin S-92 / CH-148 / VH-92A publications.
+2. FAA type certificate data sheet H4NE.
+3. Royal Canadian Air Force CH-148 Cyclone program records.
+
+---
+
+### 2001-02-03 — AgustaWestland AW139
+
+- **id:** `agustawestland-aw139`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bell-Agusta Aerospace Company / AgustaWestland / Leonardo Helicopters
+- **disclosure citation:** Bell-Agusta AB139 prototype first flight 2001-02-03; FAA type-certificated 2004-06-25 under FAR Part 29. Bell exited the program in 2005; renamed AW139 under AgustaWestland. Over 1,200 produced through 2026 — the dominant offshore-oil medium-twin globally. Documented in Leonardo Helicopters publications and FAA type certificate data sheet H6RN.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `airframe-composite-monocoque`, `cert-part-29`
+
+**Prior art notes:**
+
+> AgustaWestland AW139 (2001) is the foundational disclosure of the modern five-blade composite medium-twin offshore-oil helicopter. Establishes prior art for: (1) five-blade fully-articulated composite main rotor at 7-ton-class medium-twin scale (unusual — most medium twins use four-blade rotors), (2) Part 29 transport-category certification baseline for offshore operations (directly competing with eVTOL offshore claims), (3) modern integrated glass-cockpit + Cat A + extensive-composite construction at medium-twin scale. AW139 patents are active.
+
+**Sources:**
+
+1. Leonardo Helicopters AW139 technical publications.
+2. FAA type certificate data sheet H6RN.
+3. Bell-Agusta Aerospace Company press releases, 2000-2005.
 
 ---
 
@@ -145,6 +229,48 @@ cite, copy, or redistribute these contentions.
 1. PAL-V press releases 2008–2024.
 2. EASA Type Certificate Part 27, 2024-04-29 (PAL-V Liberty).
 3. PAL-V technical white papers and patent filings.
+
+---
+
+### 2015-06-13 — Airbus H160
+
+- **id:** `airbus-h160`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Airbus Helicopters (formerly Eurocopter)
+- **disclosure citation:** Airbus Helicopters H160 prototype first flight 2015-06-13 at Marignane; EASA type-certificated 2020-07-01; FAA type-certificated 2022-08-09. H160M Guépard selected as French Joint Forces light helicopter (HIL program), first flight 2025-12-19, entry to service 2027. ~30 produced through 2026 (early production). Documented in Airbus Helicopters publications and EASA / FAA type certificates.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-bearingless`, `rotor-hingeless`, `anti-torque-fenestron`, `airframe-composite-monocoque`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> Airbus H160 (2015) is the foundational disclosure of the modern fully-integrated composite medium-twin civil helicopter with Blue Edge double-swept rotor blades, canted fenestron, and biplane horizontal stabilizer. Establishes prior art for: (1) Blue Edge double-swept (forward-then-aft) rotor blade planform — a distinctive acoustic-and-aerodynamic refinement that may be cited as prior art for any eVTOL claim invoking complex rotor blade sweep patterns, (2) canted (non-vertical) fenestron orientation as a noise- and lift-contribution refinement, (3) biplane horizontal stabilizer configuration on a production helicopter (rare; cited as crashworthiness improvement), (4) 100% composite airframe construction at medium-twin scale. H160 patents are active.
+
+**Sources:**
+
+1. Airbus Helicopters H160 / H160M technical publications.
+2. EASA type certificate R.521 and FAA type certificate data sheet H10NE.
+3. Airbus Helicopters Blue Edge rotor blade public technical communications, 2010-2020.
+
+---
+
+### 2015-07-01 — Bell 525 Relentless
+
+- **id:** `bell-525-relentless`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bell Textron
+- **disclosure citation:** Bell 525 Relentless prototype first flight 2015-07-01; second-prototype fatal accident 2016-07-06 paused the program; certification flight tests resumed 2018-09-13. FAA Part 29 type certification still ongoing in 2026. The first civil helicopter ever designed for full fly-by-wire flight controls. Documented in Bell Textron press releases and NTSB accident report ERA16FA262.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-part-29`
+
+**Prior art notes:**
+
+> Bell 525 Relentless (2015) is the foundational disclosure of the first civil-helicopter fly-by-wire flight-control system in a clean-sheet design. Establishes prior art for: (1) civil-helicopter triplex fly-by-wire flight controls (the first civil rotorcraft so designed; previous FBW in V-22 / CH-53K / Tiger was all military) — directly relevant to any civil eVTOL invoking 'fly-by-wire flight controls' or 'side-stick rotorcraft flight control', (2) ARINC-664 deterministic-network flight-control bus on a production civil rotorcraft, (3) full envelope-protection automation in a rotorcraft. Bell 525 patents are active.
+
+**Sources:**
+
+1. Bell Textron 525 Relentless technical publications and press releases.
+2. NTSB Aircraft Accident Report ERA16FA262 (Bell 525 prototype loss, 2016).
+3. AHS / Vertical Flight Society technical papers on Bell 525 fly-by-wire system.
 
 ---
 
@@ -1448,4 +1574,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*

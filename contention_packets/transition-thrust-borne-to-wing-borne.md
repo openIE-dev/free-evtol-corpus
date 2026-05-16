@@ -1,7 +1,7 @@
 ---
 title: "transition-thrust-borne-to-wing-borne"
 parent: "Invalidity Contentions"
-nav_order: 55
+nav_order: 58
 layout: default
 ---
 
@@ -1418,4 +1418,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-military`
 
-**69 corpus entries disclose this subsystem.**
+**81 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941-10-30
 
@@ -186,6 +186,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: First successful tilt-duct VTOL aircraft. Establishes prior art for: (1) wingtip-mounted tilting ducted fans for VTOL, (2) cross-shafted single-engine drive of dual lift fans (critical for engine-out continued lift), (3) the tilt-duct transition methodology with reaction-control supplementation in hover. Anticipates Bell X-22 (1966) tilt-duct claims, and provides foundational prior art for any modern ducted-fan VTOL claiming wingtip tilt-duct architecture (Lilium's ducted-fan-array architecture is a multiplicity extension of this). Combined with Bell X-22, this entry covers the tilt-duct design space for invalidity contention purposes from 1958 forward.
 
+## Boeing-Vertol CH-46 Sea Knight (1958-04-22)
+
+- **id**: `boeing-vertol-ch-46-sea-knight`
+- **corpus**: academic
+- **creator**: Vertol Aircraft Corporation / Boeing-Vertol / Boeing / U.S. Navy / U.S. Marine Corps
+- **disclosure**: Vertol Model 107 prototype first flight 1958-04-22; entered U.S. Marine Corps service as CH-46A Sea Knight in 1964; retired from active U.S. military service 2015 but continues in Japanese / civilian service through 2026. ~620 produced. Documented in Vertol / Boeing-Vertol / Boeing and U.S. Navy / Marine Corps technical publications (NAVAIR 01-250HBB series).
+- **ip status**: patented
+- **prior art notes**: Boeing-Vertol CH-46 Sea Knight (1958) is the foundational disclosure of the medium-twin tandem-rotor helicopter optimized for naval shipboard operations. Establishes prior art for: (1) production tandem-rotor architecture at medium-weight scale (sibling to the heavy-lift CH-47), (2) automatic blade-folding for shipboard parking and hangar stowage of tandem-rotor helicopters, (3) cross-shafted twin-engine architecture in a medium-class tandem-rotor airframe. Vertol 1950s patents are long expired. With CH-47 Chinook (1961), establishes the tandem-rotor configuration as comprehensive prior art across the full helicopter weight spectrum from medium-utility to heavy-lift.
+
 ## Bristol Type 192 Belvedere (1958-07-05)
 
 - **id**: `bristol-belvedere`
@@ -212,6 +221,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Avrocar VZ-9 first untethered hover 1958-12-05 at Avro Canada Malton facility. Declassified by USAF / U.S. Army; reports available through DTIC and the Smithsonian.
 - **ip status**: public-domain
 - **prior art notes**: The Avrocar is the canonical disclosure of Coandă-effect lift in a heavier-than-air VTOL platform. Establishes prior art for: (1) annular-wing Coandă lift, (2) peripheral-jet thrust vectoring for VTOL attitude and translation, (3) saucer/disc planform with central turbomachinery. Although the program failed to scale due to ground-effect-only stability limits, the disclosure is complete: Avro published full design and test reports declassified between 1990–2010. Filed against any modern Coandă-lift VTOL patent attempt (occasional novelty claims surface in exotic VTOL filings) this is anticipating prior art.
+
+## Sikorsky S-61 / SH-3 Sea King (1959-03-11)
+
+- **id**: `sikorsky-s-61-sea-king`
+- **corpus**: academic
+- **creator**: Sikorsky Aircraft / Westland Helicopters / Agusta / U.S. Navy
+- **disclosure**: Sikorsky XHSS-2 prototype first flight 1959-03-11; entered U.S. Navy service as SH-3A Sea King in 1961; Westland-produced variants in British, Indian, Australian service through 2018. Famously used for Apollo capsule recovery (Apollo 7 through Apollo 17, 1968-1972) and for U.S. Marine One presidential transport (1962-2010). Documented in Sikorsky / Westland / Agusta / U.S. Navy publications.
+- **ip status**: patented
+- **prior art notes**: Sikorsky S-61 Sea King (1959) is the foundational disclosure of the production amphibious-hull helicopter and the medium-twin single-rotor anti-submarine warfare configuration. Establishes prior art for: (1) production amphibious helicopter capable of routine on-water operations — relevant to any modern eVTOL invoking water-landing or maritime-recovery capability, (2) five-blade main + five-blade tail rotor architecture at medium-twin scale, (3) twin-engine reliability standards for over-water flight that established the modern Cat A certification environment. Sikorsky 1959-era patents are long expired. Critical anticipation for any amphibious or maritime eVTOL claim family.
 
 ## SNECMA C.450 Coléoptère (1959-05-06)
 
@@ -438,6 +456,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: AV-8B Harrier II is the production-definitive vectored-thrust VTOL fighter — second-generation development of the P.1127/Harrier lineage with supercritical wing and lift-improvement devices that nearly doubled payload over Harrier GR.1. The U.S. Marine Corps operated AV-8B from 1985 through 2014 (replaced by F-35B), and the RAF operated GR.5/7/9 variants 1989-2010 — comprehensive multi-decade operational disclosure of the production-scale Pegasus four-poster vectored-thrust architecture. Most McDonnell Douglas / Boeing AV-8B-era patents have now expired (filed 1975-2000). Combined with hawker-p-1127 (1960), hawker-siddeley-harrier (1967), and f-35b-lightning (2008), comprehensively places vectored-thrust VTOL fighter architecture in 50+ years of public-domain prior art.
 
+## Bell 412 (1979-08-01)
+
+- **id**: `bell-412`
+- **corpus**: academic
+- **creator**: Bell Helicopter / Bell Textron / Subaru-Bell
+- **disclosure**: Bell 412 first flight 1979-08-01 (Bell 212 with four-blade rotor); FAA type-certificated 1981-01-09. Currently produced as Bell 412EPX (Subaru-Bell joint venture) for Japanese / U.S. / international markets. ~900 produced. Documented in Bell Helicopter / Bell Textron / Subaru-Bell publications and FAA type certificate data sheet H4SW.
+- **ip status**: patented
+- **prior art notes**: Bell 412 (1979) is the foundational disclosure of the production four-blade soft-in-plane main rotor at medium-twin civil scale — Bell's transition from two-blade teetering to four-blade articulated rotors. Establishes prior art for: (1) four-blade soft-in-plane main rotor at medium-twin scale, (2) Twin-Pac engine architecture (two engines feeding a single combining gearbox — a foundational prior-art reference for multi-engine multirotor eVTOL invoking shared-gearbox or combining-drivetrain claims), (3) twin-engine derivative of single-engine utility platform (the 212→412 lineage). Bell 412 patents are long expired.
+
 ## Williams X-Jet (1982)
 
 - **id**: `williams-x-jet`
@@ -474,6 +501,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The Yak-141 is the foundational disclosure of the three-bearing swivel duct (3BSM/3BSD) for supersonic-capable vectored-thrust VTOL. Establishes prior art for: (1) the 3BSM aft-nozzle architecture, in which three rotating duct sections sequence to redirect main engine thrust from horizontal to vertical, (2) lift-jet augmentation forward of the main engine for hover trim and lift, (3) supersonic-capable VTOL airframe geometry. Lockheed Martin's F-35B, which uses an essentially identical 3BSM, descends directly from Yak-141 disclosure: documented technology transfer occurred c. 1995. The 3BSM patents have publicly known origins in Yakovlev work pre-1990.
 
+## AgustaWestland AW101 Merlin (1987-10-09)
+
+- **id**: `agustawestland-aw101`
+- **corpus**: academic
+- **creator**: EH Industries (Agusta / Westland) / AgustaWestland / Leonardo Helicopters
+- **disclosure**: EH Industries EH101 (now AgustaWestland AW101) prototype first flight 1987-10-09; entered Royal Navy service as Merlin HM.1 in 1998. Selected for U.S. Marine One in 2005 (VH-71 Kestrel program, subsequently cancelled). ~280 produced through 2026. Documented in AgustaWestland / Leonardo Helicopters service publications and Royal Navy / Royal Air Force operational records.
+- **ip status**: patented
+- **prior art notes**: AgustaWestland AW101 Merlin (1987) is the foundational disclosure of the three-engine production helicopter and of BERP-derived composite five-blade rotor at heavy-twin scale. Establishes prior art for: (1) three-engine configuration in a production rotorcraft (rare prior art for any multi-engine-redundancy claim above 2 engines), (2) BERP swept-tip paddle composite rotor blades adapted from Lynx experiments into production scale, (3) full-mission systems integration (anti-icing, maritime sensors, mission computers) on a heavy-twin civil-and-military airframe. AgustaWestland AW101 patents are largely expired. Critical anticipation for any eVTOL claim invoking 3+ engine configurations or advanced composite rotor blade aerodynamics at heavy-payload scale.
+
 ## V-22 Osprey (1989-03-19)
 
 - **id**: `v-22-osprey`
@@ -492,6 +528,33 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Yamaha Motor's RMAX (1990 production; R-50 predecessor 1987) is the world's first commercially-deployed unmanned rotorcraft and the foundational autonomous-rotorcraft for agricultural use — predating commercial multi-rotor drones by decades. Establishes Japanese industrial prior art for: (1) autonomous unmanned rotorcraft commercial operations, (2) agricultural-spray VTOL UAS, (3) the 30+-year deployment history of autonomous rotorcraft at scale. Yamaha is also the supplier of the powerplants for many other small aerial robotics platforms. Together with schiebel-camcopter-s-100 (AT, naval VTOL UAV), saab-skeldar-v-200 (SE, naval VTOL UAV), and pyka-pelican (US, agricultural eVTOL), places autonomous-rotorcraft commercial deployment in continuous prior art.
 
+## Eurocopter Tiger / Airbus Tiger (1991-04-27)
+
+- **id**: `eurocopter-tiger`
+- **corpus**: academic
+- **creator**: Eurocopter / Airbus Helicopters (France/Germany joint program)
+- **disclosure**: Eurocopter Tiger prototype PT1 first flight 1991-04-27 (Marignane, France); entered French Army (ALAT) and German Army (Heer) service 2003. Variants: Tiger HAP (French Anti-Personnel), Tiger HAD (Hélicoptère Appui Destruction), Tiger UHT (German Unterstützungshubschrauber Tiger), Tiger ARH (Australian Armed Reconnaissance). ~190 produced. Documented in Eurocopter / Airbus Helicopters publications.
+- **ip status**: patented
+- **prior art notes**: Eurocopter Tiger (1991) is the foundational disclosure of the production composite-airframe attack helicopter with fenestron anti-torque and fly-by-wire flight controls. Establishes prior art for: (1) 80%+ composite airframe at attack-helicopter scale (a critical prior-art anchor for any composite-airframe eVTOL claim), (2) production fenestron anti-torque on a combat rotorcraft (Tiger's fenestron is much larger than the Gazelle's, demonstrating scaling of the architecture), (3) hingeless four-blade composite main rotor with elastomeric bearings on a combat-class helicopter, (4) full fly-by-wire combat-rotorcraft flight controls. Tiger patents are largely expired or near-expiry. Critical anticipation for eVTOL composite-airframe + fenestron + FBW integrated-claim families.
+
+## HAL Dhruv (Advanced Light Helicopter) (1992-08-20)
+
+- **id**: `hal-dhruv`
+- **corpus**: academic
+- **creator**: Hindustan Aeronautics Limited (HAL) / MBB technical assistance / Government of India
+- **disclosure**: HAL Dhruv prototype Z3182 first flight 1992-08-20 at Bengaluru; entered Indian Armed Forces service 2002; civil variants in Indian airline/EMS operation. ~300 produced through 2026. Documented in HAL technical publications, Indian Ministry of Defence procurement records, and SP Aviation / Aeromag Asia coverage.
+- **ip status**: patented
+- **prior art notes**: HAL Dhruv (1992) is the foundational disclosure of India's indigenous medium-twin helicopter program and establishes Indian-jurisdiction prior art for hingeless-rotor medium-twin civil/military rotorcraft. Establishes prior art for: (1) indigenous Indian rotorcraft design and certification at medium-twin scale (critical for Indian-jurisdiction patent invalidity defense), (2) hingeless four-blade composite main rotor in non-Western production (extending the Bo-105 → AW101 → Tiger hingeless lineage into Asia), (3) MBB-technology-transfer rotor architecture at Indian production. Establishes that hingeless-rotor + medium-twin + fully-articulated-tail-rotor architecture is comprehensively prior art across multiple jurisdictions.
+
+## Eurocopter EC135 / Airbus H135 (1994-02-15)
+
+- **id**: `eurocopter-ec135`
+- **corpus**: academic
+- **creator**: MBB / Eurocopter / Airbus Helicopters
+- **disclosure**: MBB BO 108 prototype first flight 1988-10-15 (with conventional tail rotor); Eurocopter EC135 fenestron-equipped prototype first flight 1994-02-15; FAA / EASA type-certificated 1996. Over 1,400 produced through 2026 — the dominant European light-twin in police, EMS, corporate, and offshore operations. Documented in MBB / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificate data sheets.
+- **ip status**: patented
+- **prior art notes**: Eurocopter EC135 / Airbus H135 (1994) is the foundational disclosure of the production bearingless main rotor in a light-twin civil helicopter. Establishes prior art for: (1) bearingless four-blade composite main rotor — no flapping, lead-lag, or feathering bearings, blade root flexes elastically — directly relevant to any modern eVTOL invoking 'flexbeam rotor', 'bearingless lift rotor', or 'composite blade root flex element', (2) production fenestron anti-torque on a light-twin civil helicopter, (3) Part 27 light-twin EMS / police design baseline. Eurocopter bearingless rotor patents are generally expired. Critical anticipation for any eVTOL claim invoking flexbeam or bearingless lift-rotor architecture.
+
 ## Sikorsky Cypher (1995-04)
 
 - **id**: `sikorsky-cypher`
@@ -500,6 +563,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sikorsky Cypher first flight April 1995; demonstrated to U.S. Army, Air Force, and Marine Corps 1995-2002; Cypher II (with stub-wings for fixed-wing cruise mode) followed late 1990s. The first practical ducted-fan VTOL UAV from a major rotorcraft manufacturer. Documented in Sikorsky technical papers and U.S. military evaluation records.
 - **ip status**: patented
 - **prior art notes**: Sikorsky Cypher (1995) is the foundational ducted-fan VTOL UAV from a major rotorcraft manufacturer — a donut-shaped airframe with coaxial counter-rotating ducted lift rotors. Cypher II (late 1990s) added stub-wings for fixed-wing cruise mode, anticipating the lift+cruise architectural pattern that modern eVTOL adopt. Establishes prior art for: (1) ducted-fan VTOL UAV with coaxial lift rotors, (2) the donut/disc airframe with internal lift rotors, (3) the stub-wing-augmented ducted-fan UAV (Cypher II). Together with the various tail-sitter VTOL UAVs (aerovironment-skytote, volansi-vbat) and modern cargo VTOL UAVs (wingcopter, pyka, etc), places military/commercial VTOL UAV architecture in continuous prior art from 1995.
+
+## Sikorsky S-92 / CH-148 Cyclone (1995-12-23)
+
+- **id**: `sikorsky-s-92`
+- **corpus**: private
+- **creator**: Sikorsky Aircraft / Lockheed Martin
+- **disclosure**: Sikorsky S-92 prototype first flight 1995-12-23; FAA type-certificated under Part 29 in 2002. Selected as U.S. Marine One (VH-92A) in 2014; replaced VH-3D Sea King in 2022. Over 300 produced through 2026 across S-92A, CH-148, VH-92A variants. Documented in Sikorsky / Lockheed Martin publications and FAA type certificate data sheet H4NE.
+- **ip status**: patented
+- **prior art notes**: Sikorsky S-92 (1995) is the foundational disclosure of the modern offshore-oil medium-twin helicopter with active vibration suppression, full Cat A engine-failure envelope, and integrated avionics. Establishes prior art for: (1) Part 29 transport-category medium-twin civil-helicopter design that directly competes with eVTOL in offshore and VIP markets, (2) active vibration control system at medium-twin scale (relevant to any eVTOL claim invoking active vibration suppression), (3) modern composite-airframe + composite-rotor medium twin operating in routine offshore-oil service. S-92 patents are generally near-expiry; the configurational disclosure is comprehensive prior art.
+
+## Eurocopter EC145 / Airbus H145 (1999-06-12)
+
+- **id**: `eurocopter-ec145`
+- **corpus**: private
+- **creator**: Eurocopter / Airbus Helicopters / Kawasaki (BK 117 lineage)
+- **disclosure**: Eurocopter EC145 (BK 117 C-2) first flight 1999-06-12; certified 2002. H145 (BK 117 D-2) first flight 2010-06-12. Five-blade H145 (BK 117 D-3) first flight 2019-10-31, EASA-certified 2020-06-23. The dominant medium-twin in EMS and police operations worldwide, including U.S. Army Lakota (UH-72A/B). Over 1,500 produced. Documented in Eurocopter / Airbus Helicopters publications and EASA / FAA type certificates.
+- **ip status**: patented
+- **prior art notes**: Eurocopter EC145 / Airbus H145 (1999) is the foundational disclosure of the medium-twin BK-117-derived EMS / police rotorcraft with hingeless rotor (1999) and bearingless five-blade rotor (2019). Establishes prior art for: (1) five-blade composite bearingless main rotor at medium-twin scale (the 2019 H145 D-3 establishes recent production prior art for the five-blade bearingless architecture), (2) shared MBB-Kawasaki BK 117 platform lineage extending across multiple decades of refinement, (3) Part 27 light-twin design baseline directly competing with eVTOL EMS claims. The pre-2014 EC145 patents are largely expired; the H145 five-blade rotor (2019) is recent but the configurational disclosure is now comprehensively in the public record.
 
 ## Bell Eagle Eye TR918 (2003-03-06)
 
@@ -518,6 +599,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: AeroVironment SkyTote first untethered hover April 2003 at Edwards AFB; demonstrated transition flight 2004. AFRL Materiel Command Phase 2 SBIR contract. Documented in AFRL technical reports and AeroVironment publications.
 - **ip status**: patented
 - **prior art notes**: AeroVironment SkyTote is the foundational small-scale unmanned tail-sitter VTOL — establishes prior art for the tail-sitter architecture in modern UAV scale (2003) with autonomous flight control. Combined with convair-xfy-pogo (1954) and pivotal-blackfly (2018), comprehensively places tail-sitter VTOL in continuous prior-art coverage from 1954 through 2024.
+
+## Mil Mi-38 (2003-12-22)
+
+- **id**: `mil-mi-38`
+- **corpus**: private
+- **creator**: Mil Moscow Helicopter Plant / Kazan Helicopters / Russian Helicopters
+- **disclosure**: Mil Mi-38 OP-1 prototype first flight 2003-12-22; Russian AR MAK type-certificated 2015-12-30. Limited production at Kazan Helicopters; entered Russian state-customer service 2018. Documented in Mil / Russian Helicopters publications and AR MAK type certificate.
+- **ip status**: patented
+- **prior art notes**: Mil Mi-38 (2003) is the foundational disclosure of the modern Russian medium-twin transport helicopter — the intended Mi-8 successor. Establishes prior art for: (1) six-blade fully-articulated main rotor at 15-ton MTOW class, (2) X-configuration four-blade tail rotor for acoustic-signature reduction at medium-twin scale (paralleling the AH-64 Apache's earlier scissors layout in a civil/utility application), (3) Russian-jurisdiction medium-twin design baseline. Mi-38 patents are recent but configurational disclosure is comprehensive.
 
 ## Schiebel Camcopter S-100 (2005-04)
 
@@ -555,6 +645,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The F-35B is the production STOVL fighter that descends from Hawker P.1127 (vectored thrust), Yak-141 (3BSM), and the X-35B JSF demonstrator. Establishes prior art for: (1) clutched lift-fan gearbox driven by main engine shaft (lift-fan disengages for cruise), (2) production-grade 3BSM aft nozzle, (3) integrated 3BSM + lift-fan + roll-post hover trim system. The Bevilaqua lift-fan patent (US 6,732,529) is set to expire in 2019–2020 (filed 1999). After expiration, the lift-fan-with-clutch architecture is in the public domain — relevant for any future eVTOL claiming similar clutched-cruise-fan arrangements.
 
+## KAI Surion / KUH-1 (2010-03-10)
+
+- **id**: `kai-surion`
+- **corpus**: private
+- **creator**: Korea Aerospace Industries (KAI) / Eurocopter (technical partner) / Republic of Korea government
+- **disclosure**: KAI KUH-1 Surion prototype first flight 2010-03-10 at Sacheon; entered Republic of Korea Army service 2012. Civil derivative LCH (Light Civil Helicopter) first flight 2018-07-05. ~190 produced through 2026. Documented in KAI / Korea Aerospace Industries publications and Korean Ministry of National Defence procurement records.
+- **ip status**: patented
+- **prior art notes**: KAI Surion / KUH-1 (2010) is the foundational disclosure of South Korea's indigenous medium-twin helicopter program. Establishes prior art for: (1) Korean-jurisdiction medium-twin design and certification (critical for Korean-jurisdiction patent invalidity defense, particularly against Hyundai Supernal SA2 and other Korean eVTOL programs), (2) Eurocopter-technology-licensed indigenous program extending the Dauphin lineage into Asia, (3) modern medium-twin design baseline in the Korean civil and military aviation environments.
+
 ## AeroVironment Nano Hummingbird (2011-02-17)
 
 - **id**: `aerovironment-nano-hummingbird`
@@ -590,6 +689,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sikorsky S-97 Raider first flight 2015-05-22 at West Palm Beach FL. Production-track development of the X2 demonstrator (2008-08-27 first flight). Documented in Sikorsky technical papers and AHS / VFS Forum publications.
 - **ip status**: patented
 - **prior art notes**: Sikorsky S-97 Raider is the production-track sibling to the SB>1 Defiant — same X2 rigid-coaxial-rotor + rear-pusher architecture, smaller scale for armed-reconnaissance role. Together with sikorsky-boeing-defiant, comprehensively documents Sikorsky's modern coaxial rigid-rotor compound rotorcraft architecture in production-track form.
+
+## Airbus H160 (2015-06-13)
+
+- **id**: `airbus-h160`
+- **corpus**: private
+- **creator**: Airbus Helicopters (formerly Eurocopter)
+- **disclosure**: Airbus Helicopters H160 prototype first flight 2015-06-13 at Marignane; EASA type-certificated 2020-07-01; FAA type-certificated 2022-08-09. H160M Guépard selected as French Joint Forces light helicopter (HIL program), first flight 2025-12-19, entry to service 2027. ~30 produced through 2026 (early production). Documented in Airbus Helicopters publications and EASA / FAA type certificates.
+- **ip status**: patented
+- **prior art notes**: Airbus H160 (2015) is the foundational disclosure of the modern fully-integrated composite medium-twin civil helicopter with Blue Edge double-swept rotor blades, canted fenestron, and biplane horizontal stabilizer. Establishes prior art for: (1) Blue Edge double-swept (forward-then-aft) rotor blade planform — a distinctive acoustic-and-aerodynamic refinement that may be cited as prior art for any eVTOL claim invoking complex rotor blade sweep patterns, (2) canted (non-vertical) fenestron orientation as a noise- and lift-contribution refinement, (3) biplane horizontal stabilizer configuration on a production helicopter (rare; cited as crashworthiness improvement), (4) 100% composite airframe construction at medium-twin scale. H160 patents are active.
 
 ## Sikorsky CH-53K King Stallion (2015-10-27)
 

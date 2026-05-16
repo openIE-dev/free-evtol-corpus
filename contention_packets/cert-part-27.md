@@ -1,7 +1,7 @@
 ---
 title: "cert-part-27"
 parent: "Invalidity Contentions"
-nav_order: 14
+nav_order: 15
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-15  
 **Cross-cut tag:** `cert-part-27`  
-**Entries:** 7 (7 commons-grade, 0 draft)  
+**Entries:** 9 (9 commons-grade, 0 draft)  
 **Earliest disclosure:** 1945-12-08  
 **Most recent disclosure:** 2012-04-01
 
@@ -169,6 +169,48 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1994-02-15 — Eurocopter EC135 / Airbus H135
+
+- **id:** `eurocopter-ec135`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** MBB / Eurocopter / Airbus Helicopters
+- **disclosure citation:** MBB BO 108 prototype first flight 1988-10-15 (with conventional tail rotor); Eurocopter EC135 fenestron-equipped prototype first flight 1994-02-15; FAA / EASA type-certificated 1996. Over 1,400 produced through 2026 — the dominant European light-twin in police, EMS, corporate, and offshore operations. Documented in MBB / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificate data sheets.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-bearingless`, `rotor-hingeless`, `anti-torque-fenestron`, `cert-part-27`, `cert-military`
+
+**Prior art notes:**
+
+> Eurocopter EC135 / Airbus H135 (1994) is the foundational disclosure of the production bearingless main rotor in a light-twin civil helicopter. Establishes prior art for: (1) bearingless four-blade composite main rotor — no flapping, lead-lag, or feathering bearings, blade root flexes elastically — directly relevant to any modern eVTOL invoking 'flexbeam rotor', 'bearingless lift rotor', or 'composite blade root flex element', (2) production fenestron anti-torque on a light-twin civil helicopter, (3) Part 27 light-twin EMS / police design baseline. Eurocopter bearingless rotor patents are generally expired. Critical anticipation for any eVTOL claim invoking flexbeam or bearingless lift-rotor architecture.
+
+**Sources:**
+
+1. Eurocopter / Airbus Helicopters EC135 / H135 service publications.
+2. EASA type certificate R.009 and FAA type certificate data sheets.
+3. Schimke, Dietmar et al. The Bearingless Main Rotor — Service Experience and Future Development. European Rotorcraft Forum, 2002.
+
+---
+
+### 1999-06-12 — Eurocopter EC145 / Airbus H145
+
+- **id:** `eurocopter-ec145`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Eurocopter / Airbus Helicopters / Kawasaki (BK 117 lineage)
+- **disclosure citation:** Eurocopter EC145 (BK 117 C-2) first flight 1999-06-12; certified 2002. H145 (BK 117 D-2) first flight 2010-06-12. Five-blade H145 (BK 117 D-3) first flight 2019-10-31, EASA-certified 2020-06-23. The dominant medium-twin in EMS and police operations worldwide, including U.S. Army Lakota (UH-72A/B). Over 1,500 produced. Documented in Eurocopter / Airbus Helicopters publications and EASA / FAA type certificates.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-hingeless`, `rotor-bearingless`, `anti-torque-fenestron`, `cert-part-27`, `cert-military`
+
+**Prior art notes:**
+
+> Eurocopter EC145 / Airbus H145 (1999) is the foundational disclosure of the medium-twin BK-117-derived EMS / police rotorcraft with hingeless rotor (1999) and bearingless five-blade rotor (2019). Establishes prior art for: (1) five-blade composite bearingless main rotor at medium-twin scale (the 2019 H145 D-3 establishes recent production prior art for the five-blade bearingless architecture), (2) shared MBB-Kawasaki BK 117 platform lineage extending across multiple decades of refinement, (3) Part 27 light-twin design baseline directly competing with eVTOL EMS claims. The pre-2014 EC145 patents are largely expired; the H145 five-blade rotor (2019) is recent but the configurational disclosure is now comprehensively in the public record.
+
+**Sources:**
+
+1. Eurocopter / Airbus Helicopters EC145 / H145 service publications.
+2. EASA type certificates R.012 / R.502 and FAA type certificate data sheets.
+3. U.S. Army UH-72 Lakota program documentation.
+
+---
+
 ### 2012-04-01 — PAL-V Liberty
 
 - **id:** `pal-v-liberty`
@@ -197,4 +239,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*

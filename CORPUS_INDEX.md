@@ -1,6 +1,6 @@
 # Corpus Index
 
-277 entries total. Generated from corpus.jsonl.
+292 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -9,9 +9,12 @@
 | Aeros Aeroscraft / Dragon Dream | `aeros-aeroscraft-dragon-dream` | 2013 | private | patented |  |
 | AeroVironment Nano Hummingbird | `aerovironment-nano-hummingbird` | 2011 | academic | patented |  |
 | AeroVironment SkyTote | `aerovironment-skytote` | 2003 | academic | patented |  |
+| AgustaWestland AW101 Merlin | `agustawestland-aw101` | 1987 | academic | patented |  |
+| AgustaWestland AW139 | `agustawestland-aw139` | 2001 | private | patented |  |
 | AIR ONE (eVTOL) | `air-one` | 2021 | private | patented |  |
 | Airbus A^3 Vahana | `airbus-vahana` | 2018 | private | patented |  |
 | Airbus CityAirbus NextGen | `airbus-cityairbus-nextgen` | 2021 | private | patented |  |
+| Airbus H160 | `airbus-h160` | 2015 | private | patented |  |
 | Airbus Pop.Up / Pop.Up Next | `airbus-popup` | 2017 | private | patented |  |
 | Airbus RACER | `airbus-racer` | 2024 | private | patented |  |
 | Alauda Aeronautics Airspeeder (Mk3 / Mk4) | `alauda-airspeeder` | 2017 | private | patented |  |
@@ -29,6 +32,8 @@
 | Axiom hover-chairs (WALL-E) | `walle-axiom-hoverchair` | 2008 | fictional | fictional |  |
 | Aérospatiale SA 341/342 Gazelle | `aerospatiale-sa-341-gazelle` | 1967 | academic | patented |  |
 | Bell 206 JetRanger / LongRanger | `bell-206-jetranger` | 1962 | academic | patented |  |
+| Bell 412 | `bell-412` | 1979 | academic | patented |  |
+| Bell 525 Relentless | `bell-525-relentless` | 2015 | private | patented |  |
 | Bell AH-1 Cobra / SuperCobra / Viper | `bell-ah-1-cobra` | 1965 | academic | patented |  |
 | Bell APT (Autonomous Pod Transport) | `bell-apt` | 2018 | private | patented |  |
 | Bell ATV (Air Test Vehicle) | `bell-atv` | 1954 | academic | public-domain |  |
@@ -51,6 +56,7 @@
 | Boeing AH-64 Apache | `boeing-ah-64-apache` | 1975 | academic | patented |  |
 | Boeing CH-47 Chinook | `boeing-ch-47-chinook` | 1961 | academic | patented |  |
 | Boeing Phantom Swift | `boeing-phantom-swift` | 2013 | academic | patented |  |
+| Boeing-Vertol CH-46 Sea Knight | `boeing-vertol-ch-46-sea-knight` | 1958 | academic | patented |  |
 | Boeing-Vertol VZ-2 | `boeing-vertol-vz-2` | 1957 | academic | public-domain |  |
 | Breguet-Richet Gyroplane No.1 | `breguet-richet-gyroplane` | 1907 | academic | public-domain |  |
 | Bristol Type 192 Belvedere | `bristol-belvedere` | 1958 | academic | public-domain |  |
@@ -99,6 +105,9 @@
 | ETH Distributed Flight Array | `eth-distributed-flight-array` | 2010 | academic | open-permissive |  |
 | ETH Flight Assembled Architecture | `eth-flight-assembled-architecture` | 2011 | academic | open-permissive |  |
 | ETH Omnicopter | `eth-omnicopter` | 2016 | academic | patented |  |
+| Eurocopter EC135 / Airbus H135 | `eurocopter-ec135` | 1994 | academic | patented |  |
+| Eurocopter EC145 / Airbus H145 | `eurocopter-ec145` | 1999 | private | patented |  |
+| Eurocopter Tiger / Airbus Tiger | `eurocopter-tiger` | 1991 | academic | patented |  |
 | Eurocopter X3 | `eurocopter-x3` | 2010 | private | patented |  |
 | Eve Air Mobility eVTOL | `eve-air-mobility` | 2020 | private | patented |  |
 | Fairey Gyrodyne / Jet Gyrodyne | `fairey-gyrodyne` | 1947 | academic | public-domain |  |
@@ -119,6 +128,7 @@
 | Gravity Industries Jet Suit | `gravity-industries-jet-suit` | 2017 | private | patented |  |
 | H3 Dynamics HyFly hydrogen-electric eVTOL | `h3-dynamics-hyfly` | 2014 | private | patented |  |
 | Hafner Rotachute and Rotabuggy | `hafner-rotachute-rotabuggy` | 1942 | academic | public-domain |  |
+| HAL Dhruv (Advanced Light Helicopter) | `hal-dhruv` | 1992 | academic | patented |  |
 | Harvard RoboBee | `harvard-robobee` | 2013 | academic | patented |  |
 | Hawker P.1127 | `hawker-p-1127` | 1960 | academic | patented |  |
 | Hawker Siddeley Harrier GR.1 | `hawker-siddeley-harrier` | 1967 | private | patented |  |
@@ -145,6 +155,7 @@
 | Joby Aviation S4 | `joby-s4` | 2018 | private | patented |  |
 | Joby S2 | `joby-s2` | 2015 | private | patented |  |
 | Johnny Cab / hover-cab (Total Recall) | `total-recall-hover-cab` | 1990 | fictional | fictional |  |
+| KAI Surion / KUH-1 | `kai-surion` | 2010 | private | patented |  |
 | Kaman HH-43 Huskie | `kaman-hh-43-huskie` | 1953 | academic | patented |  |
 | Kaman K-MAX | `kaman-k-max` | 1991 | private | patented |  |
 | Kamov Ka-22 Vintokryl | `kamov-ka-22-vintokryl` | 1959 | academic | public-domain |  |
@@ -181,6 +192,7 @@
 | Mil Mi-24 Hind | `mil-mi-24-hind` | 1969 | academic | patented |  |
 | Mil Mi-26 Halo | `mil-mi-26-halo` | 1977 | academic | patented |  |
 | Mil Mi-30 | `mil-mi-30` | 1985 | academic | public-domain |  |
+| Mil Mi-38 | `mil-mi-38` | 2003 | private | patented |  |
 | Mil Mi-8 / Mi-17 (Hip) | `mil-mi-8-hip` | 1961 | academic | patented |  |
 | Mil V-12 (Mi-12) | `mil-v-12` | 1968 | academic | public-domain |  |
 | Mil V-7 Tarakan | `mil-v-7-tarakan` | 1957 | academic | public-domain |  |
@@ -225,7 +237,10 @@
 | Sikorsky CH-53K King Stallion | `sikorsky-ch-53k-king-stallion` | 2015 | private | patented |  |
 | Sikorsky Cypher | `sikorsky-cypher` | 1995 | private | patented |  |
 | Sikorsky R-4 Hoverfly | `sikorsky-r-4` | 1942 | academic | patented |  |
+| Sikorsky S-61 / SH-3 Sea King | `sikorsky-s-61-sea-king` | 1959 | academic | patented |  |
 | Sikorsky S-72 RSRA | `sikorsky-s-72-rsra` | 1976 | academic | public-domain |  |
+| Sikorsky S-76 | `sikorsky-s-76` | 1977 | academic | patented |  |
+| Sikorsky S-92 / CH-148 Cyclone | `sikorsky-s-92` | 1995 | private | patented |  |
 | Sikorsky S-97 Raider | `sikorsky-s-97-raider` | 2015 | private | patented |  |
 | Sikorsky UH-60 Black Hawk / S-70 | `sikorsky-uh-60-black-hawk` | 1974 | academic | patented |  |
 | Sikorsky VS-300 | `sikorsky-vs-300` | 1939 | academic | patented |  |

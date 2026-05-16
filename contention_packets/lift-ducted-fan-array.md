@@ -1,7 +1,7 @@
 ---
 title: "lift-ducted-fan-array"
 parent: "Invalidity Contentions"
-nav_order: 28
+nav_order: 29
 layout: default
 ---
 
@@ -422,4 +422,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*

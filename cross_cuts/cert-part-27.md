@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-part-27`
 
-**7 corpus entries disclose this subsystem.**
+**9 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1945-12-08
 
@@ -68,6 +68,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Kaman K-MAX first flight 1991-12-23; FAA Type Certificate Part 27 (restricted category) granted 1994-08-30. Optionally-Piloted Aircraft (OPA) variant flown autonomously by U.S. Marine Corps in Afghanistan 2011-2014 (the first deployed unmanned heavy-lift helicopter).
 - **ip status**: patented
 - **prior art notes**: Kaman K-MAX is the modern descendant of HH-43 intermeshing-rotor architecture and the first heavy-lift helicopter deployed for unmanned cargo operations in combat (Afghanistan, 2011-2014). Establishes prior art for: (1) modern certified intermeshing-rotor helicopter (extends HH-43 prior art into the 1990s-2010s with documented operational performance), (2) optionally-piloted heavy-lift cargo VTOL (Lockheed Martin retrofit), (3) Part 27 certification basis for intermeshing rotor.
+
+## Eurocopter EC135 / Airbus H135 (1994-02-15)
+
+- **id**: `eurocopter-ec135`
+- **corpus**: academic
+- **creator**: MBB / Eurocopter / Airbus Helicopters
+- **disclosure**: MBB BO 108 prototype first flight 1988-10-15 (with conventional tail rotor); Eurocopter EC135 fenestron-equipped prototype first flight 1994-02-15; FAA / EASA type-certificated 1996. Over 1,400 produced through 2026 — the dominant European light-twin in police, EMS, corporate, and offshore operations. Documented in MBB / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificate data sheets.
+- **ip status**: patented
+- **prior art notes**: Eurocopter EC135 / Airbus H135 (1994) is the foundational disclosure of the production bearingless main rotor in a light-twin civil helicopter. Establishes prior art for: (1) bearingless four-blade composite main rotor — no flapping, lead-lag, or feathering bearings, blade root flexes elastically — directly relevant to any modern eVTOL invoking 'flexbeam rotor', 'bearingless lift rotor', or 'composite blade root flex element', (2) production fenestron anti-torque on a light-twin civil helicopter, (3) Part 27 light-twin EMS / police design baseline. Eurocopter bearingless rotor patents are generally expired. Critical anticipation for any eVTOL claim invoking flexbeam or bearingless lift-rotor architecture.
+
+## Eurocopter EC145 / Airbus H145 (1999-06-12)
+
+- **id**: `eurocopter-ec145`
+- **corpus**: private
+- **creator**: Eurocopter / Airbus Helicopters / Kawasaki (BK 117 lineage)
+- **disclosure**: Eurocopter EC145 (BK 117 C-2) first flight 1999-06-12; certified 2002. H145 (BK 117 D-2) first flight 2010-06-12. Five-blade H145 (BK 117 D-3) first flight 2019-10-31, EASA-certified 2020-06-23. The dominant medium-twin in EMS and police operations worldwide, including U.S. Army Lakota (UH-72A/B). Over 1,500 produced. Documented in Eurocopter / Airbus Helicopters publications and EASA / FAA type certificates.
+- **ip status**: patented
+- **prior art notes**: Eurocopter EC145 / Airbus H145 (1999) is the foundational disclosure of the medium-twin BK-117-derived EMS / police rotorcraft with hingeless rotor (1999) and bearingless five-blade rotor (2019). Establishes prior art for: (1) five-blade composite bearingless main rotor at medium-twin scale (the 2019 H145 D-3 establishes recent production prior art for the five-blade bearingless architecture), (2) shared MBB-Kawasaki BK 117 platform lineage extending across multiple decades of refinement, (3) Part 27 light-twin design baseline directly competing with eVTOL EMS claims. The pre-2014 EC145 patents are largely expired; the H145 five-blade rotor (2019) is recent but the configurational disclosure is now comprehensively in the public record.
 
 ## PAL-V Liberty (2012-04-01)
 

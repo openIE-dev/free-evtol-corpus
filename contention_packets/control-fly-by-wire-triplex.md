@@ -1,7 +1,7 @@
 ---
 title: "control-fly-by-wire-triplex"
 parent: "Invalidity Contentions"
-nav_order: 17
+nav_order: 18
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 **Generated:** 2026-05-15  
 **Cross-cut tag:** `control-fly-by-wire-triplex`  
-**Entries:** 19 (19 commons-grade, 0 draft)  
+**Entries:** 22 (22 commons-grade, 0 draft)  
 **Earliest disclosure:** 1957-04-02  
 **Most recent disclosure:** 2021-09-29
 
@@ -150,6 +150,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1987-10-09 — AgustaWestland AW101 Merlin
+
+- **id:** `agustawestland-aw101`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** EH Industries (Agusta / Westland) / AgustaWestland / Leonardo Helicopters
+- **disclosure citation:** EH Industries EH101 (now AgustaWestland AW101) prototype first flight 1987-10-09; entered Royal Navy service as Merlin HM.1 in 1998. Selected for U.S. Marine One in 2005 (VH-71 Kestrel program, subsequently cancelled). ~280 produced through 2026. Documented in AgustaWestland / Leonardo Helicopters service publications and Royal Navy / Royal Air Force operational records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> AgustaWestland AW101 Merlin (1987) is the foundational disclosure of the three-engine production helicopter and of BERP-derived composite five-blade rotor at heavy-twin scale. Establishes prior art for: (1) three-engine configuration in a production rotorcraft (rare prior art for any multi-engine-redundancy claim above 2 engines), (2) BERP swept-tip paddle composite rotor blades adapted from Lynx experiments into production scale, (3) full-mission systems integration (anti-icing, maritime sensors, mission computers) on a heavy-twin civil-and-military airframe. AgustaWestland AW101 patents are largely expired. Critical anticipation for any eVTOL claim invoking 3+ engine configurations or advanced composite rotor blade aerodynamics at heavy-payload scale.
+
+**Sources:**
+
+1. AgustaWestland / Leonardo Helicopters AW101 service publications.
+2. EH Industries EH101 program documentation, 1985-1995.
+3. Polmar, Norman. The Naval Institute Guide to the Ships and Aircraft of the U.S. Fleet. Naval Institute Press, 2013.
+
+---
+
 ### 1989-03-19 — V-22 Osprey
 
 - **id:** `v-22-osprey`
@@ -168,6 +189,27 @@ cite, copy, or redistribute these contentions.
 1. Norton, Bill. Bell-Boeing V-22 Osprey. Specialty Press, 2004.
 2. NAVAIR V-22 Operational Test Reports, declassified portions.
 3. Bell Helicopter V-22 patent filings, USPTO.
+
+---
+
+### 1991-04-27 — Eurocopter Tiger / Airbus Tiger
+
+- **id:** `eurocopter-tiger`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Eurocopter / Airbus Helicopters (France/Germany joint program)
+- **disclosure citation:** Eurocopter Tiger prototype PT1 first flight 1991-04-27 (Marignane, France); entered French Army (ALAT) and German Army (Heer) service 2003. Variants: Tiger HAP (French Anti-Personnel), Tiger HAD (Hélicoptère Appui Destruction), Tiger UHT (German Unterstützungshubschrauber Tiger), Tiger ARH (Australian Armed Reconnaissance). ~190 produced. Documented in Eurocopter / Airbus Helicopters publications.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-hingeless`, `anti-torque-fenestron`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-military`
+
+**Prior art notes:**
+
+> Eurocopter Tiger (1991) is the foundational disclosure of the production composite-airframe attack helicopter with fenestron anti-torque and fly-by-wire flight controls. Establishes prior art for: (1) 80%+ composite airframe at attack-helicopter scale (a critical prior-art anchor for any composite-airframe eVTOL claim), (2) production fenestron anti-torque on a combat rotorcraft (Tiger's fenestron is much larger than the Gazelle's, demonstrating scaling of the architecture), (3) hingeless four-blade composite main rotor with elastomeric bearings on a combat-class helicopter, (4) full fly-by-wire combat-rotorcraft flight controls. Tiger patents are largely expired or near-expiry. Critical anticipation for eVTOL composite-airframe + fenestron + FBW integrated-claim families.
+
+**Sources:**
+
+1. Eurocopter / Airbus Helicopters Tiger / EC-665 publications.
+2. French Army / DGA / German Army Tiger service documentation.
+3. Jane's All The World's Aircraft, multiple editions — Eurocopter Tiger entries.
 
 ---
 
@@ -253,6 +295,27 @@ cite, copy, or redistribute these contentions.
 1. ArduPilot project, github.com/ArduPilot/ardupilot, ArduPlane git history.
 2. Tridgell, Andrew. 'ArduPilot QuadPlane' presentation, ArduPilot DevConf, multiple years.
 3. ArduPilot wiki: ardupilot.org/plane/docs/quadplane-overview.html.
+
+---
+
+### 2015-07-01 — Bell 525 Relentless
+
+- **id:** `bell-525-relentless`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Bell Textron
+- **disclosure citation:** Bell 525 Relentless prototype first flight 2015-07-01; second-prototype fatal accident 2016-07-06 paused the program; certification flight tests resumed 2018-09-13. FAA Part 29 type certification still ongoing in 2026. The first civil helicopter ever designed for full fly-by-wire flight controls. Documented in Bell Textron press releases and NTSB accident report ERA16FA262.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `control-fly-by-wire-triplex`, `airframe-composite-monocoque`, `cert-part-29`
+
+**Prior art notes:**
+
+> Bell 525 Relentless (2015) is the foundational disclosure of the first civil-helicopter fly-by-wire flight-control system in a clean-sheet design. Establishes prior art for: (1) civil-helicopter triplex fly-by-wire flight controls (the first civil rotorcraft so designed; previous FBW in V-22 / CH-53K / Tiger was all military) — directly relevant to any civil eVTOL invoking 'fly-by-wire flight controls' or 'side-stick rotorcraft flight control', (2) ARINC-664 deterministic-network flight-control bus on a production civil rotorcraft, (3) full envelope-protection automation in a rotorcraft. Bell 525 patents are active.
+
+**Sources:**
+
+1. Bell Textron 525 Relentless technical publications and press releases.
+2. NTSB Aircraft Accident Report ERA16FA262 (Bell 525 prototype loss, 2016).
+3. AHS / Vertical Flight Society technical papers on Bell 525 fly-by-wire system.
 
 ---
 
@@ -452,4 +515,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `f97e2d2`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*

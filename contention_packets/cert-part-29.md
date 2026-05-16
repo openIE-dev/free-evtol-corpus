@@ -7,11 +7,11 @@ layout: default
 
 # Invalidity Contention Packet — `cert-part-29`
 
-**Generated:** 2026-05-15  
+**Generated:** 2026-05-16  
 **Cross-cut tag:** `cert-part-29`  
-**Entries:** 12 (12 commons-grade, 0 draft)  
+**Entries:** 16 (16 commons-grade, 0 draft)  
 **Earliest disclosure:** 1959-03-11  
-**Most recent disclosure:** 2015-07-01
+**Most recent disclosure:** 2018-09-06
 
 ---
 
@@ -63,6 +63,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1965-04-15 — Aérospatiale SA 330 Puma
+
+- **id:** `aerospatiale-sa-330-puma`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Sud Aviation / Aérospatiale (with Westland Helicopters) (now Airbus Helicopters)
+- **disclosure citation:** Sud-Aviation SA 330 Puma prototype first flight 1965-04-15; entered French Army (ALAT) service 1969. ~700+ produced as SA 330 with extensive license production: IAR-330 (Romania, ~140 units 1977-2001), Atlas/Denel Oryx (South Africa, ~50 units 1991-1996), Indonesian Aerospace (NAS-330 license). Documented in Aérospatiale / Airbus Helicopters publications and Anglo-French helicopter program records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> Aérospatiale SA 330 Puma (1965) is the foundational disclosure of the French medium-twin transport helicopter lineage and the parent of the Super Puma / H225 family. Establishes prior art for: (1) twin-turbine medium-transport helicopter configuration at 7-ton MTOW class with four-blade articulated main rotor, (2) the Anglo-French 'helicopter package' Puma-Gazelle-Lynx tri-program co-production model, (3) the parent platform for the multi-jurisdictional license-production chain (Puma → IAR-330 → Atlas Oryx). Aérospatiale Puma patents are long expired. Direct ancestor of Super Puma (AS 332), Cougar (AS 532), and H225 — the modern offshore-oil heavy-twin king.
+
+**Sources:**
+
+1. Aérospatiale / Airbus Helicopters SA 330 Puma technical publications.
+2. Westland Helicopters Puma HC.1 service publications.
+3. Anglo-French Helicopter Agreement (1967) program records.
+
+---
+
 ### 1965-08-13 — Kamov Ka-26 Hoodlum
 
 - **id:** `kamov-ka-26`
@@ -104,6 +125,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 1978-09-13 — Aérospatiale AS 332 Super Puma / Airbus H225
+
+- **id:** `aerospatiale-as-332-super-puma`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure citation:** Aérospatiale AS 332 Super Puma prototype first flight 1978-09-13; FAA / EASA type-certificated 1981. EC225 update with five-blade composite rotor first flight 2000-11-27; renamed H225 in 2014. ~1,300+ produced through 2026. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificates.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `airframe-composite-monocoque`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> Aérospatiale AS 332 Super Puma / Airbus H225 (1978) is the foundational disclosure of the modern offshore-oil heavy-twin helicopter and the long-evolution of the Puma lineage into composite-rotor / composite-airframe form. Establishes prior art for: (1) production five-blade composite fully-articulated main rotor at 11-ton MTOW class (H225, 2000), (2) the modern offshore-oil heavy-twin operational baseline that civil eVTOL is directly competing against, (3) Cat A engine-failure-survivable transport-category certification at heavy-twin scale. Aérospatiale Super Puma patents are long expired.
+
+**Sources:**
+
+1. Aérospatiale / Eurocopter / Airbus Helicopters Super Puma / H225 publications.
+2. EASA type certificate R.002.
+3. Bristow Group / CHC Helicopter offshore-oil operational records.
+
+---
+
 ### 1979-08-01 — Bell 412
 
 - **id:** `bell-412`
@@ -122,6 +164,27 @@ cite, copy, or redistribute these contentions.
 1. Bell Helicopter / Bell Textron Model 412 technical publications.
 2. FAA type certificate data sheet H4SW.
 3. Pelletier, Alain J. Bell Aircraft Since 1935. Naval Institute Press, 1992.
+
+---
+
+### 1979-11-16 — PZL W-3 Sokół
+
+- **id:** `pzl-w-3-sokol`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** PZL-Świdnik (now Leonardo Helicopters Poland)
+- **disclosure citation:** PZL-Świdnik W-3 Sokół prototype first flight 1979-11-16; entered Polish Armed Forces service 1989. Type-certificated by FAA in 1993. ~140 produced. Documented in PZL-Świdnik / Leonardo Helicopters Poland publications and Polish Ministry of National Defence records.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> PZL W-3 Sokół (1979) is the foundational disclosure of Poland's indigenous medium-twin helicopter program — a clean-sheet design that established Polish rotorcraft industrial capability beyond license production. Establishes prior art for: (1) Polish-jurisdiction indigenous medium-twin rotorcraft design and certification, (2) sustained Eastern European clean-sheet rotorcraft programs during the Warsaw Pact-to-NATO transition, (3) the first PZL-Świdnik clean-sheet rotorcraft after decades of Mi-2 license production. PZL Sokół patents are generally expired.
+
+**Sources:**
+
+1. PZL-Świdnik / Leonardo Helicopters Poland W-3 Sokół publications.
+2. Polish Ministry of National Defence procurement records.
+3. Jane's All The World's Aircraft — PZL W-3 Sokół entries.
 
 ---
 
@@ -293,6 +356,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2018-09-06 — TAI T625 Gökbey
+
+- **id:** `tai-t625-gokbey`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Turkish Aerospace Industries (TAI / TUSAŞ) / Republic of Türkiye
+- **disclosure citation:** TAI T625 Gökbey prototype P1 first flight 2018-09-06 at Ankara; entered Turkish Armed Forces service 2024. ~10+ produced through 2026 (initial production). The TS1400 indigenous engine first ran 2022. Documented in TAI / TUSAŞ technical publications, Turkish Ministry of National Defence records, and TEI engine program documentation.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> TAI T625 Gökbey (2018) is the foundational disclosure of Türkiye's indigenous medium-twin helicopter program — establishing Turkish-jurisdiction rotorcraft design, certification, and engine-development capability. Establishes prior art for: (1) Turkish-jurisdiction medium-twin rotorcraft design and certification at 6-ton MTOW class (critical for Turkish-jurisdiction patent invalidity defense against, e.g., AeroHT XPENG, EHang, or other Asian eVTOL programs), (2) the TS1400 Turkish indigenous turboshaft engine — establishing Turkish-jurisdiction prior art for rotorcraft propulsion at 1400-hp class, (3) the TAI clean-sheet helicopter program methodology that produced both Gökbey and T929 ATAK 2. Gökbey patents are active.
+
+**Sources:**
+
+1. Turkish Aerospace Industries (TAI / TUSAŞ) T625 Gökbey publications.
+2. Republic of Türkiye Ministry of National Defence procurement records.
+3. TUSAŞ Engine Industries (TEI) TS1400 program documentation.
+
+---
+
 ## License
 
 CC0 1.0 Universal (public domain dedication). No copyright restrictions on
@@ -300,4 +384,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `e67f5e6`.*

@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-military`
 
-**81 corpus entries disclose this subsystem.**
+**95 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1941-10-30
 
@@ -132,6 +132,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The XFY-1 Pogo is the first heavier-than-air aircraft to demonstrate full VTOL transition: vertical takeoff, transition to horizontal flight, sustained cruise, transition back to vertical, and vertical landing — all in one flight, by Coleman on 1954-11-02. Establishes prior art for the entire concept of a hover-cruise VTOL transition envelope, the conversion-corridor concept, and the tail-sitter architecture. Specific subsystems disclosed: contra-rotating coaxial lift propulsion (anticipates Wisk Cora-class coax claims), tail-sitter pitch-up transition, manual aerodynamic transition control. Modern eVTOL programs that abandoned tail-sitting in favor of tilt-rotor or tilt-wing did so because of pilot ergonomics, not because tail-sitting didn't work — XFY-1 demonstrated it does.
 
+## Sud-Aviation SE 313/318 Alouette II (1955-03-12)
+
+- **id**: `sud-aviation-alouette-ii`
+- **corpus**: academic
+- **creator**: Sud-Est Aviation / Sud Aviation (later Aérospatiale, now Airbus Helicopters)
+- **disclosure**: Sud-Est Aviation SE 3130 Alouette II first flight 1955-03-12 at Bordeaux-Mérignac; entered French Army (ALAT) service 1956 — the world's first production turbine-powered helicopter. ~1,300 produced 1955-1975, exported to ~46 countries. The Alouette II also set numerous helicopter altitude records (1958 absolute helicopter altitude record at 36,037 ft). Documented in Sud-Aviation / Aérospatiale and Turbomeca archives.
+- **ip status**: patented
+- **prior art notes**: Sud-Aviation Alouette II (1955) is the foundational disclosure of the production turbine-powered helicopter — the architecture that displaced piston engines from the helicopter market by the late 1960s. Establishes prior art for: (1) production turboshaft-powered rotorcraft (the foundation of all subsequent turbine helicopters), (2) the Sud-Aviation rotorcraft design methodology that produced Alouette III, Puma, Super Puma, Dauphin, Tiger, EC135, EC145, H160 — an unbroken French rotorcraft lineage spanning seven decades, (3) light-utility turbine-helicopter configuration with tubular open-frame tail boom. Sud-Aviation 1950s patents are long expired. Critical foundational anticipation of every modern turbine-powered eVTOL claim involving turbine-or-electric-equivalent power architectures.
+
 ## Ryan X-13 Vertijet (1955-12-10)
 
 - **id**: `ryan-x-13-vertijet`
@@ -222,6 +231,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: public-domain
 - **prior art notes**: The Avrocar is the canonical disclosure of Coandă-effect lift in a heavier-than-air VTOL platform. Establishes prior art for: (1) annular-wing Coandă lift, (2) peripheral-jet thrust vectoring for VTOL attitude and translation, (3) saucer/disc planform with central turbomachinery. Although the program failed to scale due to ground-effect-only stability limits, the disclosure is complete: Avro published full design and test reports declassified between 1990–2010. Filed against any modern Coandă-lift VTOL patent attempt (occasional novelty claims surface in exotic VTOL filings) this is anticipating prior art.
 
+## Sud-Aviation SE 316/319 Alouette III (1959-02-28)
+
+- **id**: `sud-aviation-alouette-iii`
+- **corpus**: academic
+- **creator**: Sud Aviation / Aérospatiale (now Airbus Helicopters) / HAL (license production)
+- **disclosure**: Sud-Aviation SE 3160 Alouette III prototype first flight 1959-02-28; entered French Army (ALAT) service 1961. ~2,000+ produced 1959-1985 plus extensive license production at HAL (India, ~600 Chetak units through 2026), IAR (Romania), and FFA (Switzerland). Documented in Sud-Aviation / Aérospatiale, HAL, IAR, and FFA technical publications.
+- **ip status**: patented
+- **prior art notes**: Sud-Aviation Alouette III (1959) is the foundational disclosure of the production turbine-powered light-twin-class single-engine helicopter with extensive worldwide license production. Establishes prior art for: (1) the enclosed-fuselage light-utility turbine-helicopter configuration that dominated 1960s-1970s rotorcraft, (2) the Aérospatiale rotorcraft license-production model that proliferated French rotorcraft technology to India, Romania, Switzerland, and beyond (critical jurisdictional prior-art coverage), (3) the Alouette III to Dauphin to Tiger evolutionary lineage. Sud-Aviation Alouette III patents are long expired.
+
 ## Sikorsky S-61 / SH-3 Sea King (1959-03-11)
 
 - **id**: `sikorsky-s-61-sea-king`
@@ -266,6 +284,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Boeing-Vertol YHC-1B (Model 114) prototype first flight 1961-09-21; entered U.S. Army service as CH-47A Chinook in 1962; still in production and active service in 2026 across CH-47F/MH-47G/CH-47F Block II variants. Documented in Boeing-Vertol / Boeing and U.S. Army technical orders, RAND historical analyses, and Smithsonian collections.
 - **ip status**: patented
 - **prior art notes**: Boeing CH-47 Chinook (1961) is the foundational production disclosure of the tandem-rotor heavy-lift helicopter at airliner-class payload capacity. Establishes prior art for: (1) production tandem-rotor lift architecture at >20-ton MTOW, (2) two-engine cross-drive synchronized rotor system (single-engine-failure survivability via shared drivetrain), (3) overlapping fore-and-aft rotor disks as torque-canceling lift architecture, (4) ramp-loaded cargo VTOL configuration. Boeing-Vertol tandem-rotor patents are long expired. Direct descendant of Piasecki H-21 (1945). Anticipates: any eVTOL using fore-and-aft lift-rotor pairs or cross-shafted twin-rotor architectures, including multiple modern cargo-eVTOL configurations.
+
+## PZL-Świdnik Mi-2 (Mil Mi-2) (1961-09-22)
+
+- **id**: `pzl-mi-2`
+- **corpus**: academic
+- **creator**: PZL-Świdnik (Polish license production) / Mil Moscow Helicopter Plant (design)
+- **disclosure**: Mil V-2 prototype first flight 1961-09-22 (Soviet); PZL-Świdnik license production began 1965 under exclusive worldwide rights. Approximately 5,500 produced at PZL-Świdnik 1965-1985 — the dominant twin-turbine helicopter of the Warsaw Pact era. Documented in Mil / PZL-Świdnik publications and Polish / Soviet aviation industry records.
+- **ip status**: patented
+- **prior art notes**: PZL-Świdnik Mi-2 (1961) is the foundational disclosure of the production twin-turbine helicopter in the Eastern Bloc and establishes Polish-jurisdiction rotorcraft prior art at production scale. Establishes prior art for: (1) Polish-jurisdiction twin-turbine helicopter design and license production starting 1965, (2) the first twin-turbine production rotorcraft in the Eastern Bloc, (3) the largest-scale Warsaw Pact rotorcraft program — ~5,500 units demonstrating sustained production prior art. Mil Mi-2 license-production patents are long expired.
 
 ## Lockheed XV-4 Hummingbird (1962-07-07)
 
@@ -320,6 +347,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: LTV XC-142A first conventional flight 1964-09-29 at Dallas; first full transition flight 1965-01-11. Documented in NASA TM and U.S. Air Force Flight Test Center reports.
 - **ip status**: public-domain
 - **prior art notes**: The XC-142A is the most thoroughly documented tilt-wing aircraft to fly. Establishes prior art for: (1) full-wing tilt with all four propulsors mounted on wing leading edge, (2) cross-shafted multi-engine drive of all lift rotors so any single engine loss does not cause hover lift loss (the eVTOL safety analogue is multiple battery buses powering all rotors), (3) coordinated pilot transition control across the entire conversion corridor. Anticipates: Canadair CL-84, modern eVTOL tilt-wing concepts (e.g., AVX/L3Harris, AeroMobil tilt-wing patents), and any tilt-wing claim asserting novelty over coordinated cross-shafted four-rotor tilt-wing geometry.
+
+## Aérospatiale SA 330 Puma (1965-04-15)
+
+- **id**: `aerospatiale-sa-330-puma`
+- **corpus**: academic
+- **creator**: Sud Aviation / Aérospatiale (with Westland Helicopters) (now Airbus Helicopters)
+- **disclosure**: Sud-Aviation SA 330 Puma prototype first flight 1965-04-15; entered French Army (ALAT) service 1969. ~700+ produced as SA 330 with extensive license production: IAR-330 (Romania, ~140 units 1977-2001), Atlas/Denel Oryx (South Africa, ~50 units 1991-1996), Indonesian Aerospace (NAS-330 license). Documented in Aérospatiale / Airbus Helicopters publications and Anglo-French helicopter program records.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale SA 330 Puma (1965) is the foundational disclosure of the French medium-twin transport helicopter lineage and the parent of the Super Puma / H225 family. Establishes prior art for: (1) twin-turbine medium-transport helicopter configuration at 7-ton MTOW class with four-blade articulated main rotor, (2) the Anglo-French 'helicopter package' Puma-Gazelle-Lynx tri-program co-production model, (3) the parent platform for the multi-jurisdictional license-production chain (Puma → IAR-330 → Atlas Oryx). Aérospatiale Puma patents are long expired. Direct ancestor of Super Puma (AS 332), Cougar (AS 532), and H225 — the modern offshore-oil heavy-twin king.
 
 ## Canadair CL-84 Dynavert (1965-05-07)
 
@@ -411,6 +447,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Westland Lynx (1971) is the foundational disclosure of the production four-blade semi-rigid titanium-hub main rotor and (via the 1986 BERP-bladed world-speed-record aircraft) the foundational disclosure of advanced swept-tip rotor-blade aerodynamics in service. Establishes prior art for: (1) four-blade semi-rigid main rotor at 5-ton MTOW class, (2) BERP-style paddle-tip / swept-leading-edge rotor-blade planforms (later adapted into EH101 / AW101 and many subsequent rotors), (3) elastomeric main-rotor and tail-rotor bearings at production scale. Westland rotor patents are long expired. Critical prior-art anchor for any eVTOL claim invoking 'advanced rotor blade planform', 'paddle-tipped rotor', or 'swept-tip lift-rotor blade'.
 
+## IAR-316B Alouette III (1971-04)
+
+- **id**: `iar-316-alouette-iii`
+- **corpus**: academic
+- **creator**: Întreprinderea Aeronautică Română (IAR) Brașov / Romanian government / Aérospatiale (license)
+- **disclosure**: IAR-316B Alouette III license production began 1971 at IAR Brașov under 1971 Romanian-French license agreement. Approximately 200 units produced 1971-1987. Documented in IAR Brașov technical publications and Romanian Ministry of Defence / Ministry of Industry records.
+- **ip status**: patented
+- **prior art notes**: IAR-316B Alouette III (1971) extends the Aérospatiale Alouette III prior art into Romanian jurisdiction and establishes Romanian-jurisdiction rotorcraft license-production prior art. Establishes prior art for: (1) Romanian-jurisdiction rotorcraft design and manufacturing capability dating to 1971, (2) Eastern European license production of Western turbine-helicopter architecture under Cold War technology-transfer agreements (a noteworthy international prior-art precedent), (3) sustained Romanian rotorcraft industrial program leading directly to the indigenous IAR-330 Puma SOCAT and the IAR-99 Standard. Aérospatiale-licensed patents are long expired.
+
 ## VFW-Fokker VAK 191B (1971-09-10)
 
 - **id**: `vfw-fokker-vak-191b`
@@ -429,6 +474,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sikorsky UH-60 Black Hawk (1974) is the foundational production disclosure of the modern medium-utility helicopter with canted tail rotor and four-blade fully-articulated titanium-composite main rotor. Establishes prior art for: (1) canted-tail-rotor configuration (anti-torque + lift contribution in a single rotor), (2) four-blade fully-articulated main rotor with elastomeric bearings at medium-utility scale, (3) crashworthy modular construction for utility helicopters (the UH-60 introduced numerous crashworthiness innovations that are now baseline). Sikorsky 1970s patents are long expired. With 4,000+ produced over four decades, the UH-60 family establishes that articulated four-blade rotors and canted tail rotors are public-domain prior art globally.
 
+## Aérospatiale SA 365 Dauphin / Airbus H155 (1975-01-24)
+
+- **id**: `aerospatiale-sa-365-dauphin`
+- **corpus**: academic
+- **creator**: Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure**: Aérospatiale SA 360 Dauphin (single-engine prototype) first flight 1972-06-02; twin-engine SA 365 Dauphin 2 first flight 1975-01-24; entered French and U.S. Coast Guard service 1980 (as HH-65 Dolphin). EC155 update first flight 1997-06-17; renamed H155 in 2014. ~1,000+ produced. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale SA 365 Dauphin / H155 (1975) is the foundational disclosure of the production fenestron-equipped medium-twin civil/military helicopter — scaling the fenestron architecture (Gazelle 1967) up to medium-twin class. Establishes prior art for: (1) production fenestron anti-torque at medium-twin (4-ton class) scale, (2) the Aérospatiale 'Starflex' composite rotor head with elastomeric bearings (a critical prior-art anchor for elastomeric-bearing rotor systems), (3) the Dauphin-to-Tiger evolutionary lineage that produced the modern fenestron-equipped attack helicopter. Aérospatiale Dauphin patents are long expired.
+
 ## Boeing AH-64 Apache (1975-09-30)
 
 - **id**: `boeing-ah-64-apache`
@@ -438,6 +492,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Boeing AH-64 Apache (1975) is the foundational production disclosure of the modern integrated attack-helicopter — combining advanced articulated main rotor, asymmetric-scissors tail rotor, integrated target acquisition / fire-control system, helmet-mounted slew-to-cue weapons, and (in AH-64D) mast-mounted millimeter-wave radar. Establishes prior art for: (1) asymmetric scissors tail-rotor configuration as an acoustic-signature reduction technique (later widely cited in eVTOL low-noise claims), (2) mast-mounted sensor pod above the rotor hub on a production rotorcraft (the Longbow), (3) helmet-mounted-display slew-to-cue weapon-system integration in rotorcraft, (4) integrated targeting/sensor turret slaved to a helmet-tracked head-aim. Hughes/Boeing 1975-1985 patents are long expired. Critical prior-art anchor for eVTOL acoustic-signature claims, mast-mounted sensor claims, and crew-station integration claims.
 
+## IAR-330 Puma / IAR-330 SOCAT (1977-10-15)
+
+- **id**: `iar-330-puma`
+- **corpus**: academic
+- **creator**: Întreprinderea Aeronautică Română (IAR) Brașov / Elbit Systems (SOCAT upgrade) / Aérospatiale (license)
+- **disclosure**: IAR-330 Puma license production began 1977 at IAR Brașov under 1974 Romanian-French license agreement; first flight 1977-10-15. Approximately 140 produced 1977-2001. IAR-330 SOCAT armed-utility upgrade first flight 1998 with Elbit Systems Israel; ~24 units upgraded for Romanian Air Force. Documented in IAR Brașov / Elbit Systems / Romanian Ministry of National Defence records.
+- **ip status**: patented
+- **prior art notes**: IAR-330 Puma / SOCAT (1977/1998) extends the Aérospatiale SA 330 Puma prior art into Romanian jurisdiction and establishes the gunship-converted-from-transport architecture in Eastern European production. Establishes prior art for: (1) Romanian-jurisdiction medium-twin transport helicopter design and license production, (2) the transport-to-gunship modification methodology (also seen in Mi-24 lineage), (3) Israeli-Romanian rotorcraft modernization joint program. SA 330 Puma patents under license are long expired; SOCAT-specific Elbit patents are largely expired.
+
 ## Mil Mi-26 Halo (1977-12-14)
 
 - **id**: `mil-mi-26-halo`
@@ -446,6 +509,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Mil V-29 / Mi-26 prototype first flight 1977-12-14; entered Soviet Air Force service 1983; production continues at Rostvertol as Mi-26T2V. The largest and heaviest production helicopter ever flown — record-payload demonstrations of 56,768 kg total weight in 1982. Documented in Mil OKB / Russian Helicopters service publications and extensive Western military analysis.
 - **ip status**: patented
 - **prior art notes**: Mil Mi-26 Halo (1977) is the foundational disclosure of the eight-blade fully-articulated main rotor at production scale and of the heaviest-payload production rotorcraft architecture ever built. Establishes prior art for: (1) eight-blade fully-articulated main-rotor architecture in service — relevant to any modern eVTOL claim invoking 'high-blade-count main rotor' or 'distributed-loading multi-blade lift rotor', (2) ~20-ton-payload single-rotor heavy-lift configuration, (3) sliding rear ramp-door cargo configuration at airliner scale. Mil 1970s patents are long expired. Critical anticipation of any heavy-lift cargo eVTOL claim invoking large-payload multirotor configurations.
+
+## Aérospatiale AS 332 Super Puma / Airbus H225 (1978-09-13)
+
+- **id**: `aerospatiale-as-332-super-puma`
+- **corpus**: academic
+- **creator**: Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure**: Aérospatiale AS 332 Super Puma prototype first flight 1978-09-13; FAA / EASA type-certificated 1981. EC225 update with five-blade composite rotor first flight 2000-11-27; renamed H225 in 2014. ~1,300+ produced through 2026. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificates.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale AS 332 Super Puma / Airbus H225 (1978) is the foundational disclosure of the modern offshore-oil heavy-twin helicopter and the long-evolution of the Puma lineage into composite-rotor / composite-airframe form. Establishes prior art for: (1) production five-blade composite fully-articulated main rotor at 11-ton MTOW class (H225, 2000), (2) the modern offshore-oil heavy-twin operational baseline that civil eVTOL is directly competing against, (3) Cat A engine-failure-survivable transport-category certification at heavy-twin scale. Aérospatiale Super Puma patents are long expired.
 
 ## McDonnell Douglas / BAe AV-8B Harrier II (1978-11-09)
 
@@ -464,6 +536,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bell 412 first flight 1979-08-01 (Bell 212 with four-blade rotor); FAA type-certificated 1981-01-09. Currently produced as Bell 412EPX (Subaru-Bell joint venture) for Japanese / U.S. / international markets. ~900 produced. Documented in Bell Helicopter / Bell Textron / Subaru-Bell publications and FAA type certificate data sheet H4SW.
 - **ip status**: patented
 - **prior art notes**: Bell 412 (1979) is the foundational disclosure of the production four-blade soft-in-plane main rotor at medium-twin civil scale — Bell's transition from two-blade teetering to four-blade articulated rotors. Establishes prior art for: (1) four-blade soft-in-plane main rotor at medium-twin scale, (2) Twin-Pac engine architecture (two engines feeding a single combining gearbox — a foundational prior-art reference for multi-engine multirotor eVTOL invoking shared-gearbox or combining-drivetrain claims), (3) twin-engine derivative of single-engine utility platform (the 212→412 lineage). Bell 412 patents are long expired.
+
+## PZL W-3 Sokół (1979-11-16)
+
+- **id**: `pzl-w-3-sokol`
+- **corpus**: academic
+- **creator**: PZL-Świdnik (now Leonardo Helicopters Poland)
+- **disclosure**: PZL-Świdnik W-3 Sokół prototype first flight 1979-11-16; entered Polish Armed Forces service 1989. Type-certificated by FAA in 1993. ~140 produced. Documented in PZL-Świdnik / Leonardo Helicopters Poland publications and Polish Ministry of National Defence records.
+- **ip status**: patented
+- **prior art notes**: PZL W-3 Sokół (1979) is the foundational disclosure of Poland's indigenous medium-twin helicopter program — a clean-sheet design that established Polish rotorcraft industrial capability beyond license production. Establishes prior art for: (1) Polish-jurisdiction indigenous medium-twin rotorcraft design and certification, (2) sustained Eastern European clean-sheet rotorcraft programs during the Warsaw Pact-to-NATO transition, (3) the first PZL-Świdnik clean-sheet rotorcraft after decades of Mi-2 license production. PZL Sokół patents are generally expired.
 
 ## Williams X-Jet (1982)
 
@@ -527,6 +608,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Yamaha Motor Co. developed the R-50 unmanned helicopter (1987, the world's first commercial unmanned helicopter) and the production RMAX from 1990 — an autonomous helicopter primarily used for agricultural spraying. Used in Japan for crop dusting from 1990, now operating ~30% of all Japanese rice-paddy spraying. Foundational real-world deployment of autonomous rotorcraft. Documented in Yamaha Motor materials and Japanese MAFF (Ministry of Agriculture, Forestry and Fisheries) records.
 - **ip status**: patented
 - **prior art notes**: Yamaha Motor's RMAX (1990 production; R-50 predecessor 1987) is the world's first commercially-deployed unmanned rotorcraft and the foundational autonomous-rotorcraft for agricultural use — predating commercial multi-rotor drones by decades. Establishes Japanese industrial prior art for: (1) autonomous unmanned rotorcraft commercial operations, (2) agricultural-spray VTOL UAS, (3) the 30+-year deployment history of autonomous rotorcraft at scale. Yamaha is also the supplier of the powerplants for many other small aerial robotics platforms. Together with schiebel-camcopter-s-100 (AT, naval VTOL UAV), saab-skeldar-v-200 (SE, naval VTOL UAV), and pyka-pelican (US, agricultural eVTOL), places autonomous-rotorcraft commercial deployment in continuous prior art.
+
+## Denel Rooivalk (1990-02-11)
+
+- **id**: `denel-rooivalk`
+- **corpus**: academic
+- **creator**: Atlas Aircraft Corporation / Denel Aviation / South African Air Force
+- **disclosure**: Atlas XH-1 Alpha (Rooivalk precursor) first flight 1985-02-03; production Rooivalk first flight 1990-02-11; entered South African Air Force service 2011 (extensively delayed by funding and program reviews). ~12 produced. Documented in Denel Aviation publications and South African Air Force records.
+- **ip status**: patented
+- **prior art notes**: Denel Rooivalk (1990) is the foundational disclosure of South African indigenous attack-helicopter design — a clean-sheet gunship developed under the apartheid-era arms embargo with re-used Puma drivetrain components. Establishes prior art for: (1) South African-jurisdiction attack-helicopter design and certification, (2) the indigenous-fuselage / licensed-drivetrain-component attack helicopter design pattern (re-applicable to many indigenous-program eVTOL claims), (3) sustained South African rotorcraft industrial capability through Denel Aviation. Atlas/Denel Rooivalk patents are largely expired.
+
+## Atlas/Denel Oryx (1991)
+
+- **id**: `atlas-oryx`
+- **corpus**: academic
+- **creator**: Atlas Aircraft Corporation / Denel Aviation / South African Air Force
+- **disclosure**: Atlas XTP-1 Beta prototype (Oryx precursor) first flight 1986; production Oryx first flight 1991; entered South African Air Force service 1992. ~50 produced 1991-1996. Documented in Atlas Aircraft / Denel Aviation publications and South African Air Force records.
+- **ip status**: patented
+- **prior art notes**: Atlas/Denel Oryx (1991) is the foundational disclosure of South African indigenous medium-twin helicopter design — specifically, the apartheid-era retrofit/modernization of Western rotorcraft under technology-embargo conditions. Establishes prior art for: (1) South African-jurisdiction medium-twin rotorcraft design, (2) the Super-Puma-drivetrain-into-Puma-airframe retrofit methodology (a documented engineering pattern of major drivetrain swap in an existing rotorcraft airframe), (3) sustained South African rotorcraft industrial capability through Denel Aviation. Atlas/Denel Oryx patents are largely expired.
 
 ## Eurocopter Tiger / Airbus Tiger (1991-04-27)
 
@@ -645,6 +744,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: The F-35B is the production STOVL fighter that descends from Hawker P.1127 (vectored thrust), Yak-141 (3BSM), and the X-35B JSF demonstrator. Establishes prior art for: (1) clutched lift-fan gearbox driven by main engine shaft (lift-fan disengages for cruise), (2) production-grade 3BSM aft nozzle, (3) integrated 3BSM + lift-fan + roll-post hover trim system. The Bevilaqua lift-fan patent (US 6,732,529) is set to expire in 2019–2020 (filed 1999). After expiration, the lift-fan-with-clutch architecture is in the public domain — relevant for any future eVTOL claiming similar clutched-cruise-fan arrangements.
 
+## TAI/AgustaWestland T129 ATAK (2009-08-17)
+
+- **id**: `tai-t129-atak`
+- **corpus**: academic
+- **creator**: Turkish Aerospace Industries (TAI / TUSAŞ) / AgustaWestland (license, A129 Mangusta base) / Republic of Türkiye
+- **disclosure**: AgustaWestland A129 Mangusta first flight 1983-09-15; Turkish T129 ATAK first flight 2009-08-17; entered Turkish Armed Forces service 2014. ~70 produced through 2026. Documented in TAI / TUSAŞ / AgustaWestland publications, Turkish Ministry of National Defence records, and Roketsan / Aselsan supplier documentation.
+- **ip status**: patented
+- **prior art notes**: TAI T129 ATAK (2009) extends the AgustaWestland A129 Mangusta into Turkish jurisdiction with extensive indigenous integration. Establishes prior art for: (1) Turkish-jurisdiction attack-helicopter design, certification, and weapons integration, (2) the indigenous-mission-system integration into Western-licensed rotorcraft platform methodology, (3) sustained Turkish-Italian rotorcraft technology partnership establishing prior-art chain across two NATO jurisdictions. A129 Mangusta patents are long expired; T129-specific Turkish patents are active.
+
 ## KAI Surion / KUH-1 (2010-03-10)
 
 - **id**: `kai-surion`
@@ -735,6 +843,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Bell V-280 Valor establishes the third-generation tilt-rotor architecture: distinct from XV-15 and V-22 by tilting the prop-rotors via tilt-shaft while the engine nacelles remain fixed. Cuts complexity and reduces engine wear from rotation. Valor's selection for FLRAA (2022) makes it the production-track future of U.S. Army tilt-rotor operations. Establishes prior art for: (1) fixed-nacelle tilt-shaft prop-rotor architecture, (2) the next-generation tilt-rotor flight envelope (280+ kt cruise, 2,200 km range).
 
+## TAI T625 Gökbey (2018-09-06)
+
+- **id**: `tai-t625-gokbey`
+- **corpus**: private
+- **creator**: Turkish Aerospace Industries (TAI / TUSAŞ) / Republic of Türkiye
+- **disclosure**: TAI T625 Gökbey prototype P1 first flight 2018-09-06 at Ankara; entered Turkish Armed Forces service 2024. ~10+ produced through 2026 (initial production). The TS1400 indigenous engine first ran 2022. Documented in TAI / TUSAŞ technical publications, Turkish Ministry of National Defence records, and TEI engine program documentation.
+- **ip status**: patented
+- **prior art notes**: TAI T625 Gökbey (2018) is the foundational disclosure of Türkiye's indigenous medium-twin helicopter program — establishing Turkish-jurisdiction rotorcraft design, certification, and engine-development capability. Establishes prior art for: (1) Turkish-jurisdiction medium-twin rotorcraft design and certification at 6-ton MTOW class (critical for Turkish-jurisdiction patent invalidity defense against, e.g., AeroHT XPENG, EHang, or other Asian eVTOL programs), (2) the TS1400 Turkish indigenous turboshaft engine — establishing Turkish-jurisdiction prior art for rotorcraft propulsion at 1400-hp class, (3) the TAI clean-sheet helicopter program methodology that produced both Gökbey and T929 ATAK 2. Gökbey patents are active.
+
 ## Sikorsky-Boeing SB>1 Defiant (2019-03-21)
 
 - **id**: `sikorsky-boeing-defiant`
@@ -743,3 +860,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sikorsky-Boeing SB>1 Defiant first flight 2019-03-21 at West Palm Beach FL (U.S. Army Future Vertical Lift / Joint Multi-Role Technology Demonstrator program). Predecessor Sikorsky X2 first flight 2008-08-27. Sikorsky holds extensive coaxial-rigid-rotor patent estate.
 - **ip status**: patented
 - **prior art notes**: Sikorsky-Boeing Defiant establishes prior art for: (1) modern rigid coaxial counter-rotating rotor design overcoming retreating-blade-stall speed limits, (2) compound rotorcraft architecture (lift rotor + auxiliary cruise propulsion). Although not eVTOL, the architectural patterns directly anticipate any modern compound-rotorcraft eVTOL (Jaunt Journey, Karem AR40) claiming coaxial-plus-pusher novelty.
+
+## TAI T929 ATAK 2 (2023-10-28)
+
+- **id**: `tai-t929-atak-2`
+- **corpus**: private
+- **creator**: Turkish Aerospace Industries (TAI / TUSAŞ) / Republic of Türkiye
+- **disclosure**: TAI T929 ATAK 2 prototype first flight 2023-10-28 at Ankara; planned entry to Turkish Armed Forces service 2027-2028. Documented in TAI / TUSAŞ technical publications, Turkish Ministry of National Defence records, and IDEF / SAHA EXPO defense-industry trade-show disclosures.
+- **ip status**: patented
+- **prior art notes**: TAI T929 ATAK 2 (2023) is the foundational disclosure of Türkiye's indigenous heavy-class attack-helicopter program. Establishes prior art for: (1) Turkish-jurisdiction heavy-class attack-helicopter design at 11-ton MTOW (extending the Gökbey + T129 pattern into the heavy-attack weight class), (2) Turkish indigenous five-blade composite-rotor architecture at 11-ton class, (3) the latest evolution of Turkish indigenous rotorcraft program methodology — directly relevant to any forward-looking eVTOL claim that an examiner might compare against Turkish-program prior art. Patents are active.

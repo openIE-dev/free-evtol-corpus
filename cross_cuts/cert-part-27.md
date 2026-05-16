@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-part-27`
 
-**9 corpus entries disclose this subsystem.**
+**13 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1945-12-08
 
@@ -23,6 +23,24 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bell Model 47 first flight 1945-12-08; received CAA Type Certificate H-1 on 1946-03-08 — the first helicopter in the world to receive a civil type certificate. Over 5,600 built 1946-1973; iconic 'goldfish-bowl' canopy. Used as the H-13 Sioux in U.S. military service 1947-1969; immortalized in the M*A*S*H TV series. Documented in CAA / FAA type certificate records and Bell company archives.
 - **ip status**: patented
 - **prior art notes**: Bell Model 47 (1946) is the first helicopter in the world to receive a civil type certificate (CAA TC H-1, 1946-03-08) — the foundational certified civil rotorcraft prior art and the production validation of Arthur Young's two-blade teetering rotor + stabilizer bar architecture (from bell-model-30 1942). Establishes prior art for: (1) certified civil helicopter operation, (2) Part 27-class rotorcraft type certification basis, (3) production scale deployment of the two-blade teetering rotor architecture. Arthur Young's 1940s-50s patents are long expired. Bell 47 / H-13 Sioux served extensively in Korea and Vietnam as a medevac helicopter, establishing the operational paradigm of small-helicopter rescue operations that the modern eVTOL air-ambulance market is targeting.
+
+## Sud-Aviation SE 313/318 Alouette II (1955-03-12)
+
+- **id**: `sud-aviation-alouette-ii`
+- **corpus**: academic
+- **creator**: Sud-Est Aviation / Sud Aviation (later Aérospatiale, now Airbus Helicopters)
+- **disclosure**: Sud-Est Aviation SE 3130 Alouette II first flight 1955-03-12 at Bordeaux-Mérignac; entered French Army (ALAT) service 1956 — the world's first production turbine-powered helicopter. ~1,300 produced 1955-1975, exported to ~46 countries. The Alouette II also set numerous helicopter altitude records (1958 absolute helicopter altitude record at 36,037 ft). Documented in Sud-Aviation / Aérospatiale and Turbomeca archives.
+- **ip status**: patented
+- **prior art notes**: Sud-Aviation Alouette II (1955) is the foundational disclosure of the production turbine-powered helicopter — the architecture that displaced piston engines from the helicopter market by the late 1960s. Establishes prior art for: (1) production turboshaft-powered rotorcraft (the foundation of all subsequent turbine helicopters), (2) the Sud-Aviation rotorcraft design methodology that produced Alouette III, Puma, Super Puma, Dauphin, Tiger, EC135, EC145, H160 — an unbroken French rotorcraft lineage spanning seven decades, (3) light-utility turbine-helicopter configuration with tubular open-frame tail boom. Sud-Aviation 1950s patents are long expired. Critical foundational anticipation of every modern turbine-powered eVTOL claim involving turbine-or-electric-equivalent power architectures.
+
+## Sud-Aviation SE 316/319 Alouette III (1959-02-28)
+
+- **id**: `sud-aviation-alouette-iii`
+- **corpus**: academic
+- **creator**: Sud Aviation / Aérospatiale (now Airbus Helicopters) / HAL (license production)
+- **disclosure**: Sud-Aviation SE 3160 Alouette III prototype first flight 1959-02-28; entered French Army (ALAT) service 1961. ~2,000+ produced 1959-1985 plus extensive license production at HAL (India, ~600 Chetak units through 2026), IAR (Romania), and FFA (Switzerland). Documented in Sud-Aviation / Aérospatiale, HAL, IAR, and FFA technical publications.
+- **ip status**: patented
+- **prior art notes**: Sud-Aviation Alouette III (1959) is the foundational disclosure of the production turbine-powered light-twin-class single-engine helicopter with extensive worldwide license production. Establishes prior art for: (1) the enclosed-fuselage light-utility turbine-helicopter configuration that dominated 1960s-1970s rotorcraft, (2) the Aérospatiale rotorcraft license-production model that proliferated French rotorcraft technology to India, Romania, Switzerland, and beyond (critical jurisdictional prior-art coverage), (3) the Alouette III to Dauphin to Tiger evolutionary lineage. Sud-Aviation Alouette III patents are long expired.
 
 ## Bell 206 JetRanger / LongRanger (1962-12-08)
 
@@ -60,6 +78,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Aérospatiale SA 341 Gazelle (1967) is the foundational disclosure of the fenestron (ducted-fan anti-torque) system in a production helicopter. Establishes prior art for: (1) ducted-fan-in-fin anti-torque architecture in place of an exposed tail rotor — a critical prior-art anchor for any modern eVTOL claim invoking 'ducted-fan tail rotor', 'shrouded anti-torque', or 'integrated fan-in-fin yaw control', (2) noise reduction and ground-strike-hazard reduction as design drivers for shrouded anti-torque, (3) shroud-aerodynamic lift contribution to anti-torque thrust (the duct itself carries ~30-50% of the total side-force). Sud Aviation/Aérospatiale fenestron patents are long expired. The fenestron is the canonical prior-art reference for all ducted anti-torque rotorcraft and anticipates the same architecture used in many modern eVTOL configurations.
 
+## Aérospatiale SA 365 Dauphin / Airbus H155 (1975-01-24)
+
+- **id**: `aerospatiale-sa-365-dauphin`
+- **corpus**: academic
+- **creator**: Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure**: Aérospatiale SA 360 Dauphin (single-engine prototype) first flight 1972-06-02; twin-engine SA 365 Dauphin 2 first flight 1975-01-24; entered French and U.S. Coast Guard service 1980 (as HH-65 Dolphin). EC155 update first flight 1997-06-17; renamed H155 in 2014. ~1,000+ produced. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale SA 365 Dauphin / H155 (1975) is the foundational disclosure of the production fenestron-equipped medium-twin civil/military helicopter — scaling the fenestron architecture (Gazelle 1967) up to medium-twin class. Establishes prior art for: (1) production fenestron anti-torque at medium-twin (4-ton class) scale, (2) the Aérospatiale 'Starflex' composite rotor head with elastomeric bearings (a critical prior-art anchor for elastomeric-bearing rotor systems), (3) the Dauphin-to-Tiger evolutionary lineage that produced the modern fenestron-equipped attack helicopter. Aérospatiale Dauphin patents are long expired.
+
 ## Kaman K-MAX (1991-12-23)
 
 - **id**: `kaman-k-max`
@@ -77,6 +104,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: MBB BO 108 prototype first flight 1988-10-15 (with conventional tail rotor); Eurocopter EC135 fenestron-equipped prototype first flight 1994-02-15; FAA / EASA type-certificated 1996. Over 1,400 produced through 2026 — the dominant European light-twin in police, EMS, corporate, and offshore operations. Documented in MBB / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificate data sheets.
 - **ip status**: patented
 - **prior art notes**: Eurocopter EC135 / Airbus H135 (1994) is the foundational disclosure of the production bearingless main rotor in a light-twin civil helicopter. Establishes prior art for: (1) bearingless four-blade composite main rotor — no flapping, lead-lag, or feathering bearings, blade root flexes elastically — directly relevant to any modern eVTOL invoking 'flexbeam rotor', 'bearingless lift rotor', or 'composite blade root flex element', (2) production fenestron anti-torque on a light-twin civil helicopter, (3) Part 27 light-twin EMS / police design baseline. Eurocopter bearingless rotor patents are generally expired. Critical anticipation for any eVTOL claim invoking flexbeam or bearingless lift-rotor architecture.
+
+## PZL-Świdnik SW-4 Puszczyk (1996-10-29)
+
+- **id**: `pzl-swidnik-sw-4`
+- **corpus**: academic
+- **creator**: PZL-Świdnik (now Leonardo Helicopters Poland)
+- **disclosure**: PZL-Świdnik SW-4 prototype first flight 1996-10-29; type-certificated 2002. Approximately 50 produced. SW-4 Solo optionally-piloted variant first flight 2014-09-30. Documented in PZL-Świdnik / Leonardo Helicopters Poland publications.
+- **ip status**: patented
+- **prior art notes**: PZL-Świdnik SW-4 (1996) and SW-4 Solo (2014) establish Polish-jurisdiction light-single helicopter and optionally-piloted-rotorcraft prior art. Establishes prior art for: (1) Polish-jurisdiction light-single rotorcraft design and certification, (2) optionally-piloted / unmanned rotorcraft based on a certified manned light-single airframe (SW-4 Solo, 2014 — relevant to autonomy-rotorcraft eVTOL claims), (3) Leonardo-Poland integration extending the PZL-Świdnik program into the Leonardo Helicopters portfolio. PZL SW-4 patents are generally expired.
 
 ## Eurocopter EC145 / Airbus H145 (1999-06-12)
 

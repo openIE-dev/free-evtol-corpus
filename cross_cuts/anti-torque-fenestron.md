@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `anti-torque-fenestron`
 
-**5 corpus entries disclose this subsystem.**
+**6 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1967-04-07
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sud Aviation SA 340 prototype first flight 1967-04-07 (with a conventional tail rotor); SA 341 Gazelle production prototype with fenestron first flight 1968-04-12; entered French Army (ALAT) service 1971, British Army Air Corps service 1973. ~1,775 produced. The fenestron was first patented by Sud Aviation engineer Paul Fabre in the mid-1960s. Documented in Aérospatiale / Eurocopter technical publications and U.S. Army Foreign Aircraft technical reports.
 - **ip status**: patented
 - **prior art notes**: Aérospatiale SA 341 Gazelle (1967) is the foundational disclosure of the fenestron (ducted-fan anti-torque) system in a production helicopter. Establishes prior art for: (1) ducted-fan-in-fin anti-torque architecture in place of an exposed tail rotor — a critical prior-art anchor for any modern eVTOL claim invoking 'ducted-fan tail rotor', 'shrouded anti-torque', or 'integrated fan-in-fin yaw control', (2) noise reduction and ground-strike-hazard reduction as design drivers for shrouded anti-torque, (3) shroud-aerodynamic lift contribution to anti-torque thrust (the duct itself carries ~30-50% of the total side-force). Sud Aviation/Aérospatiale fenestron patents are long expired. The fenestron is the canonical prior-art reference for all ducted anti-torque rotorcraft and anticipates the same architecture used in many modern eVTOL configurations.
+
+## Aérospatiale SA 365 Dauphin / Airbus H155 (1975-01-24)
+
+- **id**: `aerospatiale-sa-365-dauphin`
+- **corpus**: academic
+- **creator**: Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure**: Aérospatiale SA 360 Dauphin (single-engine prototype) first flight 1972-06-02; twin-engine SA 365 Dauphin 2 first flight 1975-01-24; entered French and U.S. Coast Guard service 1980 (as HH-65 Dolphin). EC155 update first flight 1997-06-17; renamed H155 in 2014. ~1,000+ produced. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale SA 365 Dauphin / H155 (1975) is the foundational disclosure of the production fenestron-equipped medium-twin civil/military helicopter — scaling the fenestron architecture (Gazelle 1967) up to medium-twin class. Establishes prior art for: (1) production fenestron anti-torque at medium-twin (4-ton class) scale, (2) the Aérospatiale 'Starflex' composite rotor head with elastomeric bearings (a critical prior-art anchor for elastomeric-bearing rotor systems), (3) the Dauphin-to-Tiger evolutionary lineage that produced the modern fenestron-equipped attack helicopter. Aérospatiale Dauphin patents are long expired.
 
 ## Eurocopter Tiger / Airbus Tiger (1991-04-27)
 

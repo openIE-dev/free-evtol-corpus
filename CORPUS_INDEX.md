@@ -1,6 +1,6 @@
 # Corpus Index
 
-292 entries total. Generated from corpus.jsonl.
+307 entries total. Generated from corpus.jsonl.
 
 | Name | id | Year | Corpus | IP | Draft |
 |---|---|---|---|---|---|
@@ -26,11 +26,15 @@
 | Archer Aviation Midnight | `archer-midnight` | 2021 | private | patented |  |
 | ArduPilot QuadPlane VTOL | `ardupilot-quadplane` | 2015 | open | open-copyleft |  |
 | ASKA A5 | `aska-a5` | 2018 | private | patented |  |
+| Atlas/Denel Oryx | `atlas-oryx` | 1991 | academic | patented |  |
 | Aurora Flight Sciences LightningStrike XV-24A | `aurora-lightningstrike-xv-24a` | 2016 | academic | patented |  |
 | AutoFlight Prosperity I | `autoflight-prosperity-i` | 2021 | private | patented |  |
 | Avrocar VZ-9 | `avrocar-vz-9` | 1958 | academic | public-domain |  |
 | Axiom hover-chairs (WALL-E) | `walle-axiom-hoverchair` | 2008 | fictional | fictional |  |
+| Aérospatiale AS 332 Super Puma / Airbus H225 | `aerospatiale-as-332-super-puma` | 1978 | academic | patented |  |
+| Aérospatiale SA 330 Puma | `aerospatiale-sa-330-puma` | 1965 | academic | patented |  |
 | Aérospatiale SA 341/342 Gazelle | `aerospatiale-sa-341-gazelle` | 1967 | academic | patented |  |
+| Aérospatiale SA 365 Dauphin / Airbus H155 | `aerospatiale-sa-365-dauphin` | 1975 | academic | patented |  |
 | Bell 206 JetRanger / LongRanger | `bell-206-jetranger` | 1962 | academic | patented |  |
 | Bell 412 | `bell-412` | 1979 | academic | patented |  |
 | Bell 525 Relentless | `bell-525-relentless` | 2015 | private | patented |  |
@@ -86,6 +90,7 @@
 | D-Dalus (IAT-21) | `d-dalus` | 2011 | academic | patented |  |
 | de Bothezat helicopter | `de-bothezat-quadrotor` | 1922 | academic | public-domain |  |
 | de Lackner HZ-1 Aerocycle | `de-lackner-hz-1-aerocycle` | 1955 | academic | patented |  |
+| Denel Rooivalk | `denel-rooivalk` | 1990 | academic | patented |  |
 | DJI FlyCart 30 | `dji-flycart-30` | 2023 | private | patented |  |
 | DLR ARTIS / SuperARTIS | `dlr-superartis` | 2005 | academic | open-permissive |  |
 | Doak VZ-4 | `doak-vz-4` | 1958 | academic | public-domain |  |
@@ -145,6 +150,8 @@
 | Hughes/MD 500 (and MD 520N NOTAR) | `md-500-defender` | 1963 | academic | patented |  |
 | Hybrid Air Vehicles Airlander 10 | `hybrid-air-vehicles-airlander-10` | 2012 | private | patented |  |
 | Hyundai Supernal S-A2 | `hyundai-supernal-sa2` | 2024 | private | patented |  |
+| IAR-316B Alouette III | `iar-316-alouette-iii` | 1971 | academic | patented |  |
+| IAR-330 Puma / IAR-330 SOCAT | `iar-330-puma` | 1977 | academic | patented |  |
 | Imperial and Foundation flying craft (Foundation, Apple TV+) | `foundation-flying-craft` | 2021 | fictional | fictional |  |
 | Intel Shooting Star drone-light-show system | `intel-shooting-star` | 2016 | private | patented |  |
 | Iron Man Mark suits | `iron-man-suit` | 1963 | fictional | fictional |  |
@@ -220,6 +227,9 @@
 | Pushpaka Vimana (Ramayana) | `pushpaka-vimana` | -050 | fictional | public-domain |  |
 | PX4 VTOL flight stack | `px4-vtol` | 2014 | open | open-permissive |  |
 | Pyka Pelican Cargo | `pyka-pelican` | 2018 | private | patented |  |
+| PZL W-3 Sokół | `pzl-w-3-sokol` | 1979 | academic | patented |  |
+| PZL-Świdnik Mi-2 (Mil Mi-2) | `pzl-mi-2` | 1961 | academic | patented |  |
+| PZL-Świdnik SW-4 Puszczyk | `pzl-swidnik-sw-4` | 1996 | academic | patented |  |
 | Raptor (Battlestar Galactica) | `battlestar-galactica-raptor` | 2003 | fictional | fictional |  |
 | Recognizer (Tron / Tron: Legacy) | `tron-legacy-recognizer` | 1982 | fictional | fictional |  |
 | REGENT Viceroy seaglider | `regent-viceroy-seaglider` | 2021 | private | patented |  |
@@ -253,6 +263,11 @@
 | SoloTrek XFV / Trek Aerospace Springtail | `solotrek-xfv` | 2001 | private | patented |  |
 | Spindizzy (Cities in Flight, James Blish) | `blish-cities-in-flight` | 1955 | fictional | public-domain |  |
 | Spinner (Blade Runner) | `bladerunner-spinner` | 1982 | fictional | fictional |  |
+| Sud-Aviation SE 313/318 Alouette II | `sud-aviation-alouette-ii` | 1955 | academic | patented |  |
+| Sud-Aviation SE 316/319 Alouette III | `sud-aviation-alouette-iii` | 1959 | academic | patented |  |
+| TAI T625 Gökbey | `tai-t625-gokbey` | 2018 | private | patented |  |
+| TAI T929 ATAK 2 | `tai-t929-atak-2` | 2023 | private | patented |  |
+| TAI/AgustaWestland T129 ATAK | `tai-t129-atak` | 2009 | academic | patented |  |
 | Take-copter (Doraemon) | `doraemon-takecopter` | 1969 | fictional | fictional |  |
 | Taylor Aerocar | `taylor-aerocar` | 1949 | private | patented |  |
 | TCab Tech E20 | `tcab-tech-e20` | 2022 | private | patented |  |

@@ -7,10 +7,10 @@ layout: default
 
 # Invalidity Contention Packet — `airframe-composite-monocoque`
 
-**Generated:** 2026-05-15  
+**Generated:** 2026-05-16  
 **Cross-cut tag:** `airframe-composite-monocoque`  
-**Entries:** 73 (73 commons-grade, 0 draft)  
-**Earliest disclosure:** 1978-11-09  
+**Entries:** 75 (75 commons-grade, 0 draft)  
+**Earliest disclosure:** 1978-09-13  
 **Most recent disclosure:** 2024-04-04
 
 ---
@@ -41,6 +41,27 @@ cite, copy, or redistribute these contentions.
 ---
 
 ## Entries (chronological)
+
+### 1978-09-13 — Aérospatiale AS 332 Super Puma / Airbus H225
+
+- **id:** `aerospatiale-as-332-super-puma`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure citation:** Aérospatiale AS 332 Super Puma prototype first flight 1978-09-13; FAA / EASA type-certificated 1981. EC225 update with five-blade composite rotor first flight 2000-11-27; renamed H225 in 2014. ~1,300+ produced through 2026. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificates.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `airframe-composite-monocoque`, `cert-part-29`, `cert-military`
+
+**Prior art notes:**
+
+> Aérospatiale AS 332 Super Puma / Airbus H225 (1978) is the foundational disclosure of the modern offshore-oil heavy-twin helicopter and the long-evolution of the Puma lineage into composite-rotor / composite-airframe form. Establishes prior art for: (1) production five-blade composite fully-articulated main rotor at 11-ton MTOW class (H225, 2000), (2) the modern offshore-oil heavy-twin operational baseline that civil eVTOL is directly competing against, (3) Cat A engine-failure-survivable transport-category certification at heavy-twin scale. Aérospatiale Super Puma patents are long expired.
+
+**Sources:**
+
+1. Aérospatiale / Eurocopter / Airbus Helicopters Super Puma / H225 publications.
+2. EASA type certificate R.002.
+3. Bristow Group / CHC Helicopter offshore-oil operational records.
+
+---
 
 ### 1978-11-09 — McDonnell Douglas / BAe AV-8B Harrier II
 
@@ -1485,6 +1506,27 @@ cite, copy, or redistribute these contentions.
 
 ---
 
+### 2023-10-28 — TAI T929 ATAK 2
+
+- **id:** `tai-t929-atak-2`
+- **corpus:** private
+- **ip status:** patented
+- **creator:** Turkish Aerospace Industries (TAI / TUSAŞ) / Republic of Türkiye
+- **disclosure citation:** TAI T929 ATAK 2 prototype first flight 2023-10-28 at Ankara; planned entry to Turkish Armed Forces service 2027-2028. Documented in TAI / TUSAŞ technical publications, Turkish Ministry of National Defence records, and IDEF / SAHA EXPO defense-industry trade-show disclosures.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `airframe-composite-monocoque`, `cert-military`
+
+**Prior art notes:**
+
+> TAI T929 ATAK 2 (2023) is the foundational disclosure of Türkiye's indigenous heavy-class attack-helicopter program. Establishes prior art for: (1) Turkish-jurisdiction heavy-class attack-helicopter design at 11-ton MTOW (extending the Gökbey + T129 pattern into the heavy-attack weight class), (2) Turkish indigenous five-blade composite-rotor architecture at 11-ton class, (3) the latest evolution of Turkish indigenous rotorcraft program methodology — directly relevant to any forward-looking eVTOL claim that an examiner might compare against Turkish-program prior art. Patents are active.
+
+**Sources:**
+
+1. Turkish Aerospace Industries (TAI / TUSAŞ) T929 ATAK 2 publications.
+2. Republic of Türkiye Ministry of National Defence procurement records.
+3. IDEF 2023 / SAHA EXPO 2023 trade-show technical disclosures.
+
+---
+
 ### 2023-11 — Sarla Aviation Shunya
 
 - **id:** `sarla-aviation-shunya`
@@ -1574,4 +1616,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `e67f5e6`.*

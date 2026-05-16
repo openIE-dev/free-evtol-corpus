@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `anti-torque-fenestron`
 
-**Generated:** 2026-05-15  
+**Generated:** 2026-05-16  
 **Cross-cut tag:** `anti-torque-fenestron`  
-**Entries:** 5 (5 commons-grade, 0 draft)  
+**Entries:** 6 (6 commons-grade, 0 draft)  
 **Earliest disclosure:** 1967-04-07  
 **Most recent disclosure:** 2015-06-13
 
@@ -60,6 +60,27 @@ cite, copy, or redistribute these contentions.
 1. Aérospatiale SA 341/342 Gazelle technical description, Aérospatiale Hélicoptères, 1972.
 2. Vuillet, A. and F. Morelli. New Aerodynamic Design of the Fenestron for Improved Performance. 12th European Rotorcraft Forum, 1986.
 3. Mowforth, E. (ed.) Westland Gazelle: Britain's Workhorse Light Helicopter. Crécy, 2002.
+
+---
+
+### 1975-01-24 — Aérospatiale SA 365 Dauphin / Airbus H155
+
+- **id:** `aerospatiale-sa-365-dauphin`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure citation:** Aérospatiale SA 360 Dauphin (single-engine prototype) first flight 1972-06-02; twin-engine SA 365 Dauphin 2 first flight 1975-01-24; entered French and U.S. Coast Guard service 1980 (as HH-65 Dolphin). EC155 update first flight 1997-06-17; renamed H155 in 2014. ~1,000+ produced. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-fenestron`, `cert-part-27`, `cert-military`
+
+**Prior art notes:**
+
+> Aérospatiale SA 365 Dauphin / H155 (1975) is the foundational disclosure of the production fenestron-equipped medium-twin civil/military helicopter — scaling the fenestron architecture (Gazelle 1967) up to medium-twin class. Establishes prior art for: (1) production fenestron anti-torque at medium-twin (4-ton class) scale, (2) the Aérospatiale 'Starflex' composite rotor head with elastomeric bearings (a critical prior-art anchor for elastomeric-bearing rotor systems), (3) the Dauphin-to-Tiger evolutionary lineage that produced the modern fenestron-equipped attack helicopter. Aérospatiale Dauphin patents are long expired.
+
+**Sources:**
+
+1. Aérospatiale / Eurocopter / Airbus Helicopters Dauphin technical publications.
+2. U.S. Coast Guard HH-65 Dolphin service documentation.
+3. Vuillet, A. New Aerodynamic Design of the Fenestron for Improved Performance. 12th European Rotorcraft Forum, 1986.
 
 ---
 
@@ -154,4 +175,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `e67f5e6`.*

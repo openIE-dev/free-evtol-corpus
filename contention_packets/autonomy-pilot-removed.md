@@ -7,9 +7,9 @@ layout: default
 
 # Invalidity Contention Packet — `autonomy-pilot-removed`
 
-**Generated:** 2026-05-15  
+**Generated:** 2026-05-16  
 **Cross-cut tag:** `autonomy-pilot-removed`  
-**Entries:** 32 (32 commons-grade, 0 draft)  
+**Entries:** 33 (33 commons-grade, 0 draft)  
 **Earliest disclosure:** 1990  
 **Most recent disclosure:** 2023-08-16
 
@@ -101,6 +101,26 @@ cite, copy, or redistribute these contentions.
 
 1. Sikorsky Aircraft Cypher / Cypher II technical materials and AHS Forum papers 1995-2005.
 2. U.S. Army / USMC / USAF Cypher evaluation records.
+
+---
+
+### 1996-10-29 — PZL-Świdnik SW-4 Puszczyk
+
+- **id:** `pzl-swidnik-sw-4`
+- **corpus:** academic
+- **ip status:** patented
+- **creator:** PZL-Świdnik (now Leonardo Helicopters Poland)
+- **disclosure citation:** PZL-Świdnik SW-4 prototype first flight 1996-10-29; type-certificated 2002. Approximately 50 produced. SW-4 Solo optionally-piloted variant first flight 2014-09-30. Documented in PZL-Świdnik / Leonardo Helicopters Poland publications.
+- **disclosed subsystems:** `lift-coaxial-rotor`, `rotor-articulated`, `anti-torque-tail-rotor`, `autonomy-pilot-removed`, `cert-part-27`
+
+**Prior art notes:**
+
+> PZL-Świdnik SW-4 (1996) and SW-4 Solo (2014) establish Polish-jurisdiction light-single helicopter and optionally-piloted-rotorcraft prior art. Establishes prior art for: (1) Polish-jurisdiction light-single rotorcraft design and certification, (2) optionally-piloted / unmanned rotorcraft based on a certified manned light-single airframe (SW-4 Solo, 2014 — relevant to autonomy-rotorcraft eVTOL claims), (3) Leonardo-Poland integration extending the PZL-Świdnik program into the Leonardo Helicopters portfolio. PZL SW-4 patents are generally expired.
+
+**Sources:**
+
+1. PZL-Świdnik / Leonardo Helicopters Poland SW-4 / SW-4 Solo publications.
+2. Polish Ministry of National Defence and AgustaWestland / Leonardo Helicopters joint program records.
 
 ---
 
@@ -718,4 +738,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `e67f5e6`.*

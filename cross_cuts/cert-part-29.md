@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `cert-part-29`
 
-**12 corpus entries disclose this subsystem.**
+**16 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1959-03-11
 
@@ -23,6 +23,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sikorsky XHSS-2 prototype first flight 1959-03-11; entered U.S. Navy service as SH-3A Sea King in 1961; Westland-produced variants in British, Indian, Australian service through 2018. Famously used for Apollo capsule recovery (Apollo 7 through Apollo 17, 1968-1972) and for U.S. Marine One presidential transport (1962-2010). Documented in Sikorsky / Westland / Agusta / U.S. Navy publications.
 - **ip status**: patented
 - **prior art notes**: Sikorsky S-61 Sea King (1959) is the foundational disclosure of the production amphibious-hull helicopter and the medium-twin single-rotor anti-submarine warfare configuration. Establishes prior art for: (1) production amphibious helicopter capable of routine on-water operations — relevant to any modern eVTOL invoking water-landing or maritime-recovery capability, (2) five-blade main + five-blade tail rotor architecture at medium-twin scale, (3) twin-engine reliability standards for over-water flight that established the modern Cat A certification environment. Sikorsky 1959-era patents are long expired. Critical anticipation for any amphibious or maritime eVTOL claim family.
+
+## Aérospatiale SA 330 Puma (1965-04-15)
+
+- **id**: `aerospatiale-sa-330-puma`
+- **corpus**: academic
+- **creator**: Sud Aviation / Aérospatiale (with Westland Helicopters) (now Airbus Helicopters)
+- **disclosure**: Sud-Aviation SA 330 Puma prototype first flight 1965-04-15; entered French Army (ALAT) service 1969. ~700+ produced as SA 330 with extensive license production: IAR-330 (Romania, ~140 units 1977-2001), Atlas/Denel Oryx (South Africa, ~50 units 1991-1996), Indonesian Aerospace (NAS-330 license). Documented in Aérospatiale / Airbus Helicopters publications and Anglo-French helicopter program records.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale SA 330 Puma (1965) is the foundational disclosure of the French medium-twin transport helicopter lineage and the parent of the Super Puma / H225 family. Establishes prior art for: (1) twin-turbine medium-transport helicopter configuration at 7-ton MTOW class with four-blade articulated main rotor, (2) the Anglo-French 'helicopter package' Puma-Gazelle-Lynx tri-program co-production model, (3) the parent platform for the multi-jurisdictional license-production chain (Puma → IAR-330 → Atlas Oryx). Aérospatiale Puma patents are long expired. Direct ancestor of Super Puma (AS 332), Cougar (AS 532), and H225 — the modern offshore-oil heavy-twin king.
 
 ## Kamov Ka-26 Hoodlum (1965-08-13)
 
@@ -42,6 +51,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **ip status**: patented
 - **prior art notes**: Sikorsky S-76 (1977) is the foundational disclosure of the production clean-sheet civil medium-twin helicopter designed specifically for the corporate / EMS / oil-and-gas markets. Establishes prior art for: (1) FAR Part 29 medium-twin civil-helicopter design baseline — directly relevant to any eVTOL claim invoking Part 29 transport-category certification, (2) Category A twin-engine performance at medium-weight class (engine-failure continued takeoff envelope), (3) the canonical executive / corporate / EMS medium-twin layout that the eVTOL industry is explicitly targeting. Sikorsky S-76 patents are long expired.
 
+## Aérospatiale AS 332 Super Puma / Airbus H225 (1978-09-13)
+
+- **id**: `aerospatiale-as-332-super-puma`
+- **corpus**: academic
+- **creator**: Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure**: Aérospatiale AS 332 Super Puma prototype first flight 1978-09-13; FAA / EASA type-certificated 1981. EC225 update with five-blade composite rotor first flight 2000-11-27; renamed H225 in 2014. ~1,300+ produced through 2026. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificates.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale AS 332 Super Puma / Airbus H225 (1978) is the foundational disclosure of the modern offshore-oil heavy-twin helicopter and the long-evolution of the Puma lineage into composite-rotor / composite-airframe form. Establishes prior art for: (1) production five-blade composite fully-articulated main rotor at 11-ton MTOW class (H225, 2000), (2) the modern offshore-oil heavy-twin operational baseline that civil eVTOL is directly competing against, (3) Cat A engine-failure-survivable transport-category certification at heavy-twin scale. Aérospatiale Super Puma patents are long expired.
+
 ## Bell 412 (1979-08-01)
 
 - **id**: `bell-412`
@@ -50,6 +68,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bell 412 first flight 1979-08-01 (Bell 212 with four-blade rotor); FAA type-certificated 1981-01-09. Currently produced as Bell 412EPX (Subaru-Bell joint venture) for Japanese / U.S. / international markets. ~900 produced. Documented in Bell Helicopter / Bell Textron / Subaru-Bell publications and FAA type certificate data sheet H4SW.
 - **ip status**: patented
 - **prior art notes**: Bell 412 (1979) is the foundational disclosure of the production four-blade soft-in-plane main rotor at medium-twin civil scale — Bell's transition from two-blade teetering to four-blade articulated rotors. Establishes prior art for: (1) four-blade soft-in-plane main rotor at medium-twin scale, (2) Twin-Pac engine architecture (two engines feeding a single combining gearbox — a foundational prior-art reference for multi-engine multirotor eVTOL invoking shared-gearbox or combining-drivetrain claims), (3) twin-engine derivative of single-engine utility platform (the 212→412 lineage). Bell 412 patents are long expired.
+
+## PZL W-3 Sokół (1979-11-16)
+
+- **id**: `pzl-w-3-sokol`
+- **corpus**: academic
+- **creator**: PZL-Świdnik (now Leonardo Helicopters Poland)
+- **disclosure**: PZL-Świdnik W-3 Sokół prototype first flight 1979-11-16; entered Polish Armed Forces service 1989. Type-certificated by FAA in 1993. ~140 produced. Documented in PZL-Świdnik / Leonardo Helicopters Poland publications and Polish Ministry of National Defence records.
+- **ip status**: patented
+- **prior art notes**: PZL W-3 Sokół (1979) is the foundational disclosure of Poland's indigenous medium-twin helicopter program — a clean-sheet design that established Polish rotorcraft industrial capability beyond license production. Establishes prior art for: (1) Polish-jurisdiction indigenous medium-twin rotorcraft design and certification, (2) sustained Eastern European clean-sheet rotorcraft programs during the Warsaw Pact-to-NATO transition, (3) the first PZL-Świdnik clean-sheet rotorcraft after decades of Mi-2 license production. PZL Sokół patents are generally expired.
 
 ## AgustaWestland AW101 Merlin (1987-10-09)
 
@@ -122,3 +149,12 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Bell 525 Relentless prototype first flight 2015-07-01; second-prototype fatal accident 2016-07-06 paused the program; certification flight tests resumed 2018-09-13. FAA Part 29 type certification still ongoing in 2026. The first civil helicopter ever designed for full fly-by-wire flight controls. Documented in Bell Textron press releases and NTSB accident report ERA16FA262.
 - **ip status**: patented
 - **prior art notes**: Bell 525 Relentless (2015) is the foundational disclosure of the first civil-helicopter fly-by-wire flight-control system in a clean-sheet design. Establishes prior art for: (1) civil-helicopter triplex fly-by-wire flight controls (the first civil rotorcraft so designed; previous FBW in V-22 / CH-53K / Tiger was all military) — directly relevant to any civil eVTOL invoking 'fly-by-wire flight controls' or 'side-stick rotorcraft flight control', (2) ARINC-664 deterministic-network flight-control bus on a production civil rotorcraft, (3) full envelope-protection automation in a rotorcraft. Bell 525 patents are active.
+
+## TAI T625 Gökbey (2018-09-06)
+
+- **id**: `tai-t625-gokbey`
+- **corpus**: private
+- **creator**: Turkish Aerospace Industries (TAI / TUSAŞ) / Republic of Türkiye
+- **disclosure**: TAI T625 Gökbey prototype P1 first flight 2018-09-06 at Ankara; entered Turkish Armed Forces service 2024. ~10+ produced through 2026 (initial production). The TS1400 indigenous engine first ran 2022. Documented in TAI / TUSAŞ technical publications, Turkish Ministry of National Defence records, and TEI engine program documentation.
+- **ip status**: patented
+- **prior art notes**: TAI T625 Gökbey (2018) is the foundational disclosure of Türkiye's indigenous medium-twin helicopter program — establishing Turkish-jurisdiction rotorcraft design, certification, and engine-development capability. Establishes prior art for: (1) Turkish-jurisdiction medium-twin rotorcraft design and certification at 6-ton MTOW class (critical for Turkish-jurisdiction patent invalidity defense against, e.g., AeroHT XPENG, EHang, or other Asian eVTOL programs), (2) the TS1400 Turkish indigenous turboshaft engine — establishing Turkish-jurisdiction prior art for rotorcraft propulsion at 1400-hp class, (3) the TAI clean-sheet helicopter program methodology that produced both Gökbey and T929 ATAK 2. Gökbey patents are active.

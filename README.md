@@ -9,7 +9,7 @@ personal VTOL, tilt-rotor and tilt-wing demonstrators, military VTOL,
 ducted-fan and vectored-thrust craft, drive+fly transformers, and the science
 fiction and academic literature that anticipated all of them.
 
-Coverage is global and deep: 292 entries spanning ~2,500 years from the
+Coverage is global and deep: 307 entries spanning ~2,500 years from the
 Pushpaka Vimana (Sanskrit Ramayana, ~5th c BCE) and the 1001 Nights flying
 carpet (~9th c CE) through Verne's *Albatross* (1886, 74 distributed lift
 airscrews — the foundational engineering anticipation of distributed-electric-
@@ -23,9 +23,9 @@ AutoFlight, AeroHT, Hyundai Supernal, Eve, AMSL, ePlane, Zuri, Crisalion,
 Manta, AeroMobil, Klein Vision, PAL-V, Pivotal, Jetson, AIR, ASKA, etc.)
 through 2024.
 
-**31 countries on six populated continents** — US, FR, GB, JP, DE, RU, CH, CN,
-IT, CA, AT, IN, AU, KR, SE, AR, BR, ES, IL, NL, SG, SK, ZA, CZ, DK, EG, GE, HU,
-IE, NZ, SI.
+**35 countries on six populated continents** — US, FR, GB, JP, DE, RU, CH, CN,
+IT, CA, AT, IN, AU, KR, SE, AR, BR, ES, IL, NL, PL, RO, SG, SK, TR, ZA, CZ, DK,
+EG, GE, HU, IE, NZ, SI.
 All 20 lift-architecture categories are populated, including `fictional_repulsor`
 (Star Wars repulsorlift 1977, Back to the Future Part II hoverboard 1989, The
 Fifth Element 1997), `cyclorotor` (Kirsten-Boeing cyclogiro 1922 → D-Dalus 2011

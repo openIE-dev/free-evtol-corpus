@@ -8,10 +8,10 @@ layout: default
 
 # Invalidity Contention Packets
 
-**Generated:** 2026-05-15  
+**Generated:** 2026-05-16  
 **Auto packets:** 58  
 **Hand-written packets:** 4  
-**Corpus revision:** `9810c15`
+**Corpus revision:** `e67f5e6`
 
 Each packet below is an attorney-ready invalidity-contention reference. Auto
 packets are generated from `corpus.jsonl` (one per `disclosed_subsystems` tag
@@ -38,21 +38,21 @@ are covered by their cross-cut and do not yet form a contention chain).
 | Packet | Entries | Commons | Draft | Earliest | Most recent |
 |---|---|---|---|---|---|
 | [`airframe-collision-resilient-cage`](airframe-collision-resilient-cage.md) | 2 | 2 | 0 | 2014-09 | 2018-05-21 |
-| [`airframe-composite-monocoque`](airframe-composite-monocoque.md) | 73 | 73 | 0 | 1978-11-09 | 2024-04-04 |
+| [`airframe-composite-monocoque`](airframe-composite-monocoque.md) | 75 | 75 | 0 | 1978-09-13 | 2024-04-04 |
 | [`airframe-in-flight-morphing`](airframe-in-flight-morphing.md) | 3 | 3 | 0 | 2017-08 | 2018-12 |
-| [`anti-torque-fenestron`](anti-torque-fenestron.md) | 5 | 5 | 0 | 1967-04-07 | 2015-06-13 |
-| [`anti-torque-tail-rotor`](anti-torque-tail-rotor.md) | 22 | 22 | 0 | 1956-10-22 | 2015-10-27 |
+| [`anti-torque-fenestron`](anti-torque-fenestron.md) | 6 | 6 | 0 | 1967-04-07 | 2015-06-13 |
+| [`anti-torque-tail-rotor`](anti-torque-tail-rotor.md) | 36 | 36 | 0 | 1955-03-12 | 2023-10-28 |
 | [`autonomy-bvlos-detect-and-avoid`](autonomy-bvlos-detect-and-avoid.md) | 12 | 12 | 0 | 2005 | 2023-08-16 |
-| [`autonomy-pilot-removed`](autonomy-pilot-removed.md) | 32 | 32 | 0 | 1990 | 2023-08-16 |
+| [`autonomy-pilot-removed`](autonomy-pilot-removed.md) | 33 | 33 | 0 | 1990 | 2023-08-16 |
 | [`autonomy-utm-integration`](autonomy-utm-integration.md) | 28 | 28 | 0 | 2017-03 | 2024-01-09 |
 | [`cert-easa-special-condition-vtol`](cert-easa-special-condition-vtol.md) | 25 | 25 | 0 | 2014-07 | 2024-04-04 |
 | [`cert-experimental`](cert-experimental.md) | 85 | 85 | 0 | 1843-04-08 | 2024-04-25 |
 | [`cert-faa-bvlos-waiver`](cert-faa-bvlos-waiver.md) | 3 | 3 | 0 | 2017 | 2018-08 |
-| [`cert-military`](cert-military.md) | 81 | 81 | 0 | 1941-10-30 | 2019-03-21 |
+| [`cert-military`](cert-military.md) | 95 | 95 | 0 | 1941-10-30 | 2023-10-28 |
 | [`cert-part-103-ultralight`](cert-part-103-ultralight.md) | 8 | 8 | 0 | 2008-10 | 2021-04 |
 | [`cert-part-23`](cert-part-23.md) | 32 | 32 | 0 | 1946-11-07 | 2024-01-09 |
-| [`cert-part-27`](cert-part-27.md) | 9 | 9 | 0 | 1945-12-08 | 2012-04-01 |
-| [`cert-part-29`](cert-part-29.md) | 12 | 12 | 0 | 1959-03-11 | 2015-07-01 |
+| [`cert-part-27`](cert-part-27.md) | 13 | 13 | 0 | 1945-12-08 | 2012-04-01 |
+| [`cert-part-29`](cert-part-29.md) | 16 | 16 | 0 | 1959-03-11 | 2018-09-06 |
 | [`control-differential-thrust-attitude`](control-differential-thrust-attitude.md) | 43 | 43 | 0 | 1922 | 2024-04-04 |
 | [`control-fly-by-wire-triplex`](control-fly-by-wire-triplex.md) | 22 | 22 | 0 | 1957-04-02 | 2021-09-29 |
 | [`control-fully-actuated-omnidirectional`](control-fully-actuated-omnidirectional.md) | 4 | 4 | 0 | 2016-05 | 2021-07 |
@@ -61,7 +61,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`control-swarm-coordinated-fleet`](control-swarm-coordinated-fleet.md) | 4 | 4 | 0 | 2011-12-02 | 2016-11-04 |
 | [`lift-buoyant-hybrid`](lift-buoyant-hybrid.md) | 4 | 4 | 0 | 2012 | 2023-11-08 |
 | [`lift-coanda-effect`](lift-coanda-effect.md) | 2 | 2 | 0 | 1945-02 | 1958-12-05 |
-| [`lift-coaxial-rotor`](lift-coaxial-rotor.md) | 69 | 69 | 0 | 1861 | 2023-08-16 |
+| [`lift-coaxial-rotor`](lift-coaxial-rotor.md) | 84 | 84 | 0 | 1861 | 2023-10-28 |
 | [`lift-compound-rotorcraft`](lift-compound-rotorcraft.md) | 18 | 18 | 0 | 1923-01-09 | 2024-04-25 |
 | [`lift-cyclorotor`](lift-cyclorotor.md) | 3 | 3 | 0 | 1922 | 2021-07 |
 | [`lift-distributed-electric-propulsion`](lift-distributed-electric-propulsion.md) | 117 | 117 | 0 | 1886 | 2024-04-04 |
@@ -81,7 +81,7 @@ are covered by their cross-cut and do not yet form a contention chain).
 | [`propulsion-hybrid-series`](propulsion-hybrid-series.md) | 18 | 18 | 0 | 2012 | 2022-08 |
 | [`propulsion-hydrogen-fuel-cell`](propulsion-hydrogen-fuel-cell.md) | 3 | 3 | 0 | 2014-07 | 2021-09 |
 | [`propulsion-tip-jet`](propulsion-tip-jet.md) | 9 | 9 | 0 | 1943-05 | 2017-04-20 |
-| [`rotor-articulated`](rotor-articulated.md) | 19 | 19 | 0 | 1958-04-22 | 2015-10-27 |
+| [`rotor-articulated`](rotor-articulated.md) | 34 | 34 | 0 | 1955-03-12 | 2023-10-28 |
 | [`rotor-bearingless`](rotor-bearingless.md) | 3 | 3 | 0 | 1994-02-15 | 2015-06-13 |
 | [`rotor-hingeless`](rotor-hingeless.md) | 8 | 8 | 0 | 1965-09-07 | 2015-06-13 |
 | [`rotor-semi-rigid-teetering`](rotor-semi-rigid-teetering.md) | 3 | 3 | 0 | 1956-10-22 | 1965-09-07 |

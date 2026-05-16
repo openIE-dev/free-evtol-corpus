@@ -6,7 +6,7 @@ layout: default
 
 # Cross-cut: `autonomy-pilot-removed`
 
-**32 corpus entries disclose this subsystem.**
+**33 corpus entries disclose this subsystem.**
 
 Earliest disclosure: 1990
 
@@ -41,6 +41,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: Sikorsky Cypher first flight April 1995; demonstrated to U.S. Army, Air Force, and Marine Corps 1995-2002; Cypher II (with stub-wings for fixed-wing cruise mode) followed late 1990s. The first practical ducted-fan VTOL UAV from a major rotorcraft manufacturer. Documented in Sikorsky technical papers and U.S. military evaluation records.
 - **ip status**: patented
 - **prior art notes**: Sikorsky Cypher (1995) is the foundational ducted-fan VTOL UAV from a major rotorcraft manufacturer — a donut-shaped airframe with coaxial counter-rotating ducted lift rotors. Cypher II (late 1990s) added stub-wings for fixed-wing cruise mode, anticipating the lift+cruise architectural pattern that modern eVTOL adopt. Establishes prior art for: (1) ducted-fan VTOL UAV with coaxial lift rotors, (2) the donut/disc airframe with internal lift rotors, (3) the stub-wing-augmented ducted-fan UAV (Cypher II). Together with the various tail-sitter VTOL UAVs (aerovironment-skytote, volansi-vbat) and modern cargo VTOL UAVs (wingcopter, pyka, etc), places military/commercial VTOL UAV architecture in continuous prior art from 1995.
+
+## PZL-Świdnik SW-4 Puszczyk (1996-10-29)
+
+- **id**: `pzl-swidnik-sw-4`
+- **corpus**: academic
+- **creator**: PZL-Świdnik (now Leonardo Helicopters Poland)
+- **disclosure**: PZL-Świdnik SW-4 prototype first flight 1996-10-29; type-certificated 2002. Approximately 50 produced. SW-4 Solo optionally-piloted variant first flight 2014-09-30. Documented in PZL-Świdnik / Leonardo Helicopters Poland publications.
+- **ip status**: patented
+- **prior art notes**: PZL-Świdnik SW-4 (1996) and SW-4 Solo (2014) establish Polish-jurisdiction light-single helicopter and optionally-piloted-rotorcraft prior art. Establishes prior art for: (1) Polish-jurisdiction light-single rotorcraft design and certification, (2) optionally-piloted / unmanned rotorcraft based on a certified manned light-single airframe (SW-4 Solo, 2014 — relevant to autonomy-rotorcraft eVTOL claims), (3) Leonardo-Poland integration extending the PZL-Świdnik program into the Leonardo Helicopters portfolio. PZL SW-4 patents are generally expired.
 
 ## Bell Eagle Eye TR918 (2003-03-06)
 

@@ -6,14 +6,23 @@ layout: default
 
 # Cross-cut: `airframe-composite-monocoque`
 
-**73 corpus entries disclose this subsystem.**
+**75 corpus entries disclose this subsystem.**
 
-Earliest disclosure: 1978-11-09
+Earliest disclosure: 1978-09-13
 
 Listed in chronological order. Each entry's `prior_art_notes` and
 `disclosure_citation` constitute the citeable prior art material.
 
 ---
+
+## Aérospatiale AS 332 Super Puma / Airbus H225 (1978-09-13)
+
+- **id**: `aerospatiale-as-332-super-puma`
+- **corpus**: academic
+- **creator**: Aérospatiale / Eurocopter / Airbus Helicopters
+- **disclosure**: Aérospatiale AS 332 Super Puma prototype first flight 1978-09-13; FAA / EASA type-certificated 1981. EC225 update with five-blade composite rotor first flight 2000-11-27; renamed H225 in 2014. ~1,300+ produced through 2026. Documented in Aérospatiale / Eurocopter / Airbus Helicopters publications and EASA / FAA type certificates.
+- **ip status**: patented
+- **prior art notes**: Aérospatiale AS 332 Super Puma / Airbus H225 (1978) is the foundational disclosure of the modern offshore-oil heavy-twin helicopter and the long-evolution of the Puma lineage into composite-rotor / composite-airframe form. Establishes prior art for: (1) production five-blade composite fully-articulated main rotor at 11-ton MTOW class (H225, 2000), (2) the modern offshore-oil heavy-twin operational baseline that civil eVTOL is directly competing against, (3) Cat A engine-failure-survivable transport-category certification at heavy-twin scale. Aérospatiale Super Puma patents are long expired.
 
 ## McDonnell Douglas / BAe AV-8B Harrier II (1978-11-09)
 
@@ -635,6 +644,15 @@ Listed in chronological order. Each entry's `prior_art_notes` and
 - **disclosure**: DJI FlyCart 30 publicly unveiled 2023-08-16 in Shenzhen; CAAC type certification application 2023; commercial deliveries to Chinese and international markets 2024. DJI is the world's largest drone manufacturer and holds an extensive multirotor patent estate.
 - **ip status**: patented
 - **prior art notes**: DJI FlyCart 30 is the entry of the world's largest drone manufacturer into the heavy-cargo eVTOL category. DJI's massive patent estate and operational scale (millions of multirotor flights/day globally) constitute foundational prior-art coverage for: (1) coaxial-pair multirotor manufacturing at scale, (2) autonomous multirotor cargo delivery, (3) consumer-priced multirotor architecture migration to commercial cargo class. Establishes Chinese prior-art lineage for heavy-payload multirotor cargo eVTOL with explicit Beyond Visual Line of Sight (BVLOS) operational basis.
+
+## TAI T929 ATAK 2 (2023-10-28)
+
+- **id**: `tai-t929-atak-2`
+- **corpus**: private
+- **creator**: Turkish Aerospace Industries (TAI / TUSAŞ) / Republic of Türkiye
+- **disclosure**: TAI T929 ATAK 2 prototype first flight 2023-10-28 at Ankara; planned entry to Turkish Armed Forces service 2027-2028. Documented in TAI / TUSAŞ technical publications, Turkish Ministry of National Defence records, and IDEF / SAHA EXPO defense-industry trade-show disclosures.
+- **ip status**: patented
+- **prior art notes**: TAI T929 ATAK 2 (2023) is the foundational disclosure of Türkiye's indigenous heavy-class attack-helicopter program. Establishes prior art for: (1) Turkish-jurisdiction heavy-class attack-helicopter design at 11-ton MTOW (extending the Gökbey + T129 pattern into the heavy-attack weight class), (2) Turkish indigenous five-blade composite-rotor architecture at 11-ton class, (3) the latest evolution of Turkish indigenous rotorcraft program methodology — directly relevant to any forward-looking eVTOL claim that an examiner might compare against Turkish-program prior art. Patents are active.
 
 ## Sarla Aviation Shunya (2023-11)
 

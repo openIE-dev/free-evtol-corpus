@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `lift-compound-rotorcraft`
 
-**Generated:** 2026-05-15  
+**Generated:** 2026-05-16  
 **Cross-cut tag:** `lift-compound-rotorcraft`  
 **Entries:** 18 (18 commons-grade, 0 draft)  
 **Earliest disclosure:** 1923-01-09  
@@ -423,4 +423,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `e67f5e6`.*

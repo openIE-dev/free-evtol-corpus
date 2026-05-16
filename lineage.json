@@ -702,6 +702,16 @@
       ]
     },
     {
+      "id": "sud-aviation-alouette-ii",
+      "name": "Sud-Aviation SE 313/318 Alouette II",
+      "year": "1955",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "sud-aviation-alouette-iii"
+      ]
+    },
+    {
       "id": "bell-xv-3",
       "name": "Bell XV-3",
       "year": "1955",
@@ -960,6 +970,19 @@
       ]
     },
     {
+      "id": "sud-aviation-alouette-iii",
+      "name": "Sud-Aviation SE 316/319 Alouette III",
+      "year": "1959",
+      "corpus": "academic",
+      "ancestors": [
+        "sud-aviation-alouette-ii"
+      ],
+      "descendants": [
+        "aerospatiale-sa-330-puma",
+        "iar-316-alouette-iii"
+      ]
+    },
+    {
       "id": "sikorsky-s-61-sea-king",
       "name": "Sikorsky S-61 / SH-3 Sea King",
       "year": "1959",
@@ -1074,6 +1097,17 @@
         "piasecki-h-21"
       ],
       "descendants": []
+    },
+    {
+      "id": "pzl-mi-2",
+      "name": "PZL-Świdnik Mi-2 (Mil Mi-2)",
+      "year": "1961",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "pzl-swidnik-sw-4",
+        "pzl-w-3-sokol"
+      ]
     },
     {
       "id": "lockheed-xv-4-hummingbird",
@@ -1205,6 +1239,21 @@
         "canadair-cl-84",
         "nasa-gl-10",
         "skyfly-axe"
+      ]
+    },
+    {
+      "id": "aerospatiale-sa-330-puma",
+      "name": "Aérospatiale SA 330 Puma",
+      "year": "1965",
+      "corpus": "academic",
+      "ancestors": [
+        "sud-aviation-alouette-iii"
+      ],
+      "descendants": [
+        "aerospatiale-as-332-super-puma",
+        "atlas-oryx",
+        "denel-rooivalk",
+        "iar-330-puma"
       ]
     },
     {
@@ -1356,6 +1405,7 @@
       "corpus": "academic",
       "ancestors": [],
       "descendants": [
+        "aerospatiale-sa-365-dauphin",
         "airbus-h160",
         "eurocopter-ec135",
         "eurocopter-tiger"
@@ -1423,6 +1473,16 @@
       ]
     },
     {
+      "id": "iar-316-alouette-iii",
+      "name": "IAR-316B Alouette III",
+      "year": "1971",
+      "corpus": "academic",
+      "ancestors": [
+        "sud-aviation-alouette-iii"
+      ],
+      "descendants": []
+    },
+    {
       "id": "vfw-fokker-vak-191b",
       "name": "VFW-Fokker VAK 191B",
       "year": "1971",
@@ -1457,6 +1517,18 @@
         "sikorsky-ch-53k-king-stallion",
         "sikorsky-s-76",
         "sikorsky-s-92"
+      ]
+    },
+    {
+      "id": "aerospatiale-sa-365-dauphin",
+      "name": "Aérospatiale SA 365 Dauphin / Airbus H155",
+      "year": "1975",
+      "corpus": "academic",
+      "ancestors": [
+        "aerospatiale-sa-341-gazelle"
+      ],
+      "descendants": [
+        "eurocopter-ec135"
       ]
     },
     {
@@ -1546,6 +1618,16 @@
       ]
     },
     {
+      "id": "iar-330-puma",
+      "name": "IAR-330 Puma / IAR-330 SOCAT",
+      "year": "1977",
+      "corpus": "academic",
+      "ancestors": [
+        "aerospatiale-sa-330-puma"
+      ],
+      "descendants": []
+    },
+    {
       "id": "mil-mi-26-halo",
       "name": "Mil Mi-26 Halo",
       "year": "1977",
@@ -1554,6 +1636,18 @@
         "mil-mi-8-hip"
       ],
       "descendants": []
+    },
+    {
+      "id": "aerospatiale-as-332-super-puma",
+      "name": "Aérospatiale AS 332 Super Puma / Airbus H225",
+      "year": "1978",
+      "corpus": "academic",
+      "ancestors": [
+        "aerospatiale-sa-330-puma"
+      ],
+      "descendants": [
+        "atlas-oryx"
+      ]
     },
     {
       "id": "av-8b-harrier-ii",
@@ -1588,6 +1682,18 @@
       ],
       "descendants": [
         "bell-525-relentless"
+      ]
+    },
+    {
+      "id": "pzl-w-3-sokol",
+      "name": "PZL W-3 Sokół",
+      "year": "1979",
+      "corpus": "academic",
+      "ancestors": [
+        "pzl-mi-2"
+      ],
+      "descendants": [
+        "pzl-swidnik-sw-4"
       ]
     },
     {
@@ -1863,6 +1969,16 @@
       "descendants": []
     },
     {
+      "id": "denel-rooivalk",
+      "name": "Denel Rooivalk",
+      "year": "1990",
+      "corpus": "academic",
+      "ancestors": [
+        "aerospatiale-sa-330-puma"
+      ],
+      "descendants": []
+    },
+    {
       "id": "total-recall-hover-cab",
       "name": "Johnny Cab / hover-cab (Total Recall)",
       "year": "1990",
@@ -1870,6 +1986,17 @@
       "ancestors": [
         "bladerunner-spinner",
         "jetsons-aerocar"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "atlas-oryx",
+      "name": "Atlas/Denel Oryx",
+      "year": "1991",
+      "corpus": "academic",
+      "ancestors": [
+        "aerospatiale-as-332-super-puma",
+        "aerospatiale-sa-330-puma"
       ],
       "descendants": []
     },
@@ -1911,6 +2038,7 @@
       "corpus": "academic",
       "ancestors": [
         "aerospatiale-sa-341-gazelle",
+        "aerospatiale-sa-365-dauphin",
         "mbb-bo-105"
       ],
       "descendants": [
@@ -1936,6 +2064,17 @@
       "ancestors": [
         "sikorsky-s-76",
         "sikorsky-uh-60-black-hawk"
+      ],
+      "descendants": []
+    },
+    {
+      "id": "pzl-swidnik-sw-4",
+      "name": "PZL-Świdnik SW-4 Puszczyk",
+      "year": "1996",
+      "corpus": "academic",
+      "ancestors": [
+        "pzl-mi-2",
+        "pzl-w-3-sokol"
       ],
       "descendants": []
     },
@@ -2251,6 +2390,16 @@
         "aliens-cheyenne-dropship"
       ],
       "descendants": []
+    },
+    {
+      "id": "tai-t129-atak",
+      "name": "TAI/AgustaWestland T129 ATAK",
+      "year": "2009",
+      "corpus": "academic",
+      "ancestors": [],
+      "descendants": [
+        "tai-t929-atak-2"
+      ]
     },
     {
       "id": "avatar-samson-scorpion",
@@ -3115,6 +3264,16 @@
       "descendants": []
     },
     {
+      "id": "tai-t625-gokbey",
+      "name": "TAI T625 Gökbey",
+      "year": "2018",
+      "corpus": "private",
+      "ancestors": [],
+      "descendants": [
+        "tai-t929-atak-2"
+      ]
+    },
+    {
       "id": "lift-aircraft-hexa",
       "name": "LIFT Aircraft Hexa",
       "year": "2018",
@@ -3731,6 +3890,17 @@
       "descendants": [
         "manna-air-delivery"
       ]
+    },
+    {
+      "id": "tai-t929-atak-2",
+      "name": "TAI T929 ATAK 2",
+      "year": "2023",
+      "corpus": "private",
+      "ancestors": [
+        "tai-t129-atak",
+        "tai-t625-gokbey"
+      ],
+      "descendants": []
     },
     {
       "id": "sarla-aviation-shunya",

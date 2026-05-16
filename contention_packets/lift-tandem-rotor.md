@@ -7,7 +7,7 @@ layout: default
 
 # Invalidity Contention Packet — `lift-tandem-rotor`
 
-**Generated:** 2026-05-15  
+**Generated:** 2026-05-16  
 **Cross-cut tag:** `lift-tandem-rotor`  
 **Entries:** 2 (2 commons-grade, 0 draft)  
 **Earliest disclosure:** 1958-04-22  
@@ -91,4 +91,4 @@ use, citation, copying, or redistribution.
 
 ---
 
-*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `9810c15`.*
+*Generated from <https://github.com/openIE-dev/free-evtol-corpus> at corpus revision `e67f5e6`.*
